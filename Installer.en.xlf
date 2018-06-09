@@ -1,0 +1,58 @@
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="installation_step">
+                <source>installation.step</source>
+                <target>Installation - Step %{step}</target>
+            </trans-unit>
+            <trans-unit id="installer.file.permission.success">
+                <source>installer.file.permission.success</source>
+                <target>The directory "config/packages" containing the Platypus files is writable, so the installation may proceed.</target>
+            </trans-unit>
+            <trans-unit id="installer.file.permission.danger">
+                <source>installer.file.permission.danger</source>
+                <target>The directory "config/packages" containing the Platypus files is not currently writable, so the installer cannot proceed.</target>
+            </trans-unit>
+            <trans-unit id="installer.file.write.error">
+                <source>installer.file.write.error</source>
+                <target>The directory "config/packages" containing the Platypus files is not currently writable, so the installer cannot proceed.  The file "%{name}" failed to write.</target>
+            </trans-unit>
+            <trans-unit id="system.requirements">
+                <source>system.requirements</source>
+                <target>System Requirements</target>
+            </trans-unit>
+            <trans-unit id="version.name">
+                <source>version.name</source>
+                <target>Version %{name}</target>
+            </trans-unit>
+            <trans-unit id="version.description">
+                <source>version.description</source>
+                <target>Busybee requires %{name} version %{version} or higher</target>
+            </trans-unit>
+            <trans-unit id="mysql.pdo.support">
+                <source>mysql.pdo.support</source>
+                <target>MySQL PDO Support</target>
+            </trans-unit>
+            <trans-unit id="extension.name">
+                <source>extension.name</source>
+                <target>Extension %{name}</target>
+            </trans-unit>
+            <trans-unit id="language.setting">
+                <source>language.setting</source>
+                <target>Language Setting</target>
+            </trans-unit>
+            <trans-unit id="system.language.label">
+                <source>system.language.label</source>
+                <target>System Language</target>
+            </trans-unit>
+            <trans-unit id="system.language.help">
+                <source>system.language.help</source>
+                <target>This is the default language that the system will use for translation.  Individual users can change their locale to use another language.</target>
+            </trans-unit>
+            <trans-unit id="empty.string">
+                <source></source>
+                <target></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
