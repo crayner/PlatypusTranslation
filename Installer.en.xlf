@@ -53,6 +53,110 @@
                 <source></source>
                 <target></target>
             </trans-unit>
+            <trans-unit id="welcome">
+                <source>welcome</source>
+                <target>Welcome to Platypus</target>
+            </trans-unit>
+            <trans-unit id="welcome.sentence.1">
+                <source>welcome.sentence.1</source>
+                <target>Created by teachers, Gibbon is the school platform which solves real problems faced by educators every day.</target>
+            </trans-unit>
+            <trans-unit id="welcome.sentence.2">
+                <source>welcome.sentence.2</source>
+                <target>Free, open source and flexible, Gibbon can morph to meet the needs of a huge range of schools.</target>
+            </trans-unit>
+            <trans-unit id="welcome.sentence.3">
+                <source>welcome.sentence.3</source>
+                <target><![CDATA[For support, please visit <a target='_blank' href='https://gibbonedu.org/support'>gibbonedu.org</a>.]]></target>
+            </trans-unit>
+            <trans-unit id="database.settings">
+                <source>database.settings</source>
+                <target>Database Settings</target>
+            </trans-unit>
+            <trans-unit id="database.driver.label">
+                <source>database.driver.label</source>
+                <target>Database Type (Driver)</target>
+            </trans-unit>
+            <trans-unit id="database.driver.help">
+                <source>database.driver.help</source>
+                <target>Currently only MySQL databases are supported, using PDO Connection.</target>
+            </trans-unit>
+            <trans-unit id="database.driver.mysql">
+                <source>database.driver.mysql</source>
+                <target>MySQL</target>
+            </trans-unit>
+            <trans-unit id="database.port.help">
+                <source>database.port.help</source>
+                <target>Please obtain the information from your Information Technology person.</target>
+            </trans-unit>
+            <trans-unit id="database.port.label">
+                <source>database.port.label</source>
+                <target>The Communication Port used by the Database Server</target>
+            </trans-unit>
+            <trans-unit id="database.host.help">
+                <source>database.host.help</source>
+                <target>What is the name of the server or th IP address of the server on which the database is located.</target>
+            </trans-unit>
+            <trans-unit id="database.host.label">
+                <source>database.host.label</source>
+                <target>The Host Name or IP Address</target>
+            </trans-unit>
+            <trans-unit id="database.name.help">
+                <source>database.name.help</source>
+                <target>The database has this name, and if it does not exist the system will attempt to create the database of this name.</target>
+            </trans-unit>
+            <trans-unit id="database.name.label">
+                <source>database.name.label</source>
+                <target>The Name of the Database</target>
+            </trans-unit>
+            <trans-unit id="database.user.help">
+                <source>database.user.help</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="database.user.label">
+                <source>database.user.label</source>
+                <target>The User Name to access the Database.</target>
+            </trans-unit>
+            <trans-unit id="database.pass.help">
+                <source>database.pass.help</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="database.pass.label">
+                <source>database.pass.label</source>
+                <target>The password for the user to connect to the Database.</target>
+            </trans-unit>
+            <trans-unit id="database.prefix.help">
+                <source>database.prefix.help</source>
+                <target>Allows multiple systems to use the same database, by adding this prefix to each table on this database.</target>
+            </trans-unit>
+            <trans-unit id="database.prefix.label">
+                <source>database.prefix.label</source>
+                <target>The prefix added to ALL tables.</target>
+            </trans-unit>
+            <trans-unit id="database.charset.help">
+                <source>database.charset.help</source>
+                <target>Enables you to store data using a variety of character sets. The recommended setting is "UTF-8 Unicode MultiByte".</target>
+            </trans-unit>
+            <trans-unit id="database.charset.label">
+                <source>database.charset.label</source>
+                <target>The database character set.</target>
+            </trans-unit>
+            <trans-unit id="database.charset.utf8">
+                <source>database.charset.utf8</source>
+                <target>(UTF-8 Unicode)</target>
+            </trans-unit>
+            <trans-unit id="database.charset.utf8mb4">
+                <source>database.charset.utf8mb4</source>
+                <target>(UTF-8 Unicode MultiByte)</target>
+            </trans-unit>
+            <trans-unit id="database.demo_data.label">
+                <source>database.demo_data.label</source>
+                <target>Install Demo Data</target>
+            </trans-unit>
+            <trans-unit id="database.demo_data.help">
+                <source>database.demo_data.help</source>
+                <target></target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
