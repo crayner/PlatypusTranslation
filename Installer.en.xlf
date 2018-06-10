@@ -1,162 +1,341 @@
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
-        <body>
-            <trans-unit id="installation_step">
-                <source>installation.step</source>
-                <target>Installation - Step %{step}</target>
-            </trans-unit>
-            <trans-unit id="installer.file.permission.success">
-                <source>installer.file.permission.success</source>
-                <target>The directory "config/packages" containing the Platypus files is writable, so the installation may proceed.</target>
-            </trans-unit>
-            <trans-unit id="installer.file.permission.danger">
-                <source>installer.file.permission.danger</source>
-                <target>The directory "config/packages" containing the Platypus files is not currently writable, so the installer cannot proceed.</target>
-            </trans-unit>
-            <trans-unit id="installer.file.write.error">
-                <source>installer.file.write.error</source>
-                <target>The directory "config/packages" containing the Platypus files is not currently writable, so the installer cannot proceed.  The file "%{name}" failed to write.</target>
-            </trans-unit>
-            <trans-unit id="system.requirements">
-                <source>system.requirements</source>
-                <target>System Requirements</target>
-            </trans-unit>
-            <trans-unit id="version.name">
-                <source>version.name</source>
-                <target>Version %{name}</target>
-            </trans-unit>
-            <trans-unit id="version.description">
-                <source>version.description</source>
-                <target>Busybee requires %{name} version %{version} or higher</target>
-            </trans-unit>
-            <trans-unit id="mysql.pdo.support">
-                <source>mysql.pdo.support</source>
-                <target>MySQL PDO Support</target>
-            </trans-unit>
-            <trans-unit id="extension.name">
-                <source>extension.name</source>
-                <target>Extension %{name}</target>
-            </trans-unit>
-            <trans-unit id="language.setting">
-                <source>language.setting</source>
-                <target>Language Setting</target>
-            </trans-unit>
-            <trans-unit id="system.language.label">
-                <source>system.language.label</source>
-                <target>System Language</target>
-            </trans-unit>
-            <trans-unit id="system.language.help">
-                <source>system.language.help</source>
-                <target>This is the default language that the system will use for translation.  Individual users can change their locale to use another language.</target>
-            </trans-unit>
-            <trans-unit id="empty.string">
-                <source></source>
-                <target></target>
-            </trans-unit>
-            <trans-unit id="welcome">
-                <source>welcome</source>
-                <target>Welcome to Platypus</target>
-            </trans-unit>
-            <trans-unit id="welcome.sentence.1">
-                <source>welcome.sentence.1</source>
-                <target>Created by teachers, Gibbon is the school platform which solves real problems faced by educators every day.</target>
-            </trans-unit>
-            <trans-unit id="welcome.sentence.2">
-                <source>welcome.sentence.2</source>
-                <target>Free, open source and flexible, Gibbon can morph to meet the needs of a huge range of schools.</target>
-            </trans-unit>
-            <trans-unit id="welcome.sentence.3">
-                <source>welcome.sentence.3</source>
-                <target><![CDATA[For support, please visit <a target='_blank' href='https://gibbonedu.org/support'>gibbonedu.org</a>.]]></target>
-            </trans-unit>
-            <trans-unit id="database.settings">
-                <source>database.settings</source>
-                <target>Database Settings</target>
-            </trans-unit>
-            <trans-unit id="database.driver.label">
-                <source>database.driver.label</source>
-                <target>Database Type (Driver)</target>
-            </trans-unit>
-            <trans-unit id="database.driver.help">
-                <source>database.driver.help</source>
-                <target>Currently only MySQL databases are supported, using PDO Connection.</target>
-            </trans-unit>
-            <trans-unit id="database.driver.mysql">
-                <source>database.driver.mysql</source>
-                <target>MySQL</target>
-            </trans-unit>
-            <trans-unit id="database.port.help">
-                <source>database.port.help</source>
-                <target>Please obtain the information from your Information Technology person.</target>
-            </trans-unit>
-            <trans-unit id="database.port.label">
-                <source>database.port.label</source>
-                <target>The Communication Port used by the Database Server</target>
-            </trans-unit>
-            <trans-unit id="database.host.help">
-                <source>database.host.help</source>
-                <target>What is the name of the server or th IP address of the server on which the database is located.</target>
-            </trans-unit>
-            <trans-unit id="database.host.label">
-                <source>database.host.label</source>
-                <target>The Host Name or IP Address</target>
-            </trans-unit>
-            <trans-unit id="database.name.help">
-                <source>database.name.help</source>
-                <target>The database has this name, and if it does not exist the system will attempt to create the database of this name.</target>
-            </trans-unit>
-            <trans-unit id="database.name.label">
-                <source>database.name.label</source>
-                <target>The Name of the Database</target>
-            </trans-unit>
-            <trans-unit id="database.user.help">
-                <source>database.user.help</source>
-                <target></target>
-            </trans-unit>
-            <trans-unit id="database.user.label">
-                <source>database.user.label</source>
-                <target>The User Name to access the Database.</target>
-            </trans-unit>
-            <trans-unit id="database.pass.help">
-                <source>database.pass.help</source>
-                <target></target>
-            </trans-unit>
-            <trans-unit id="database.pass.label">
-                <source>database.pass.label</source>
-                <target>The password for the user to connect to the Database.</target>
-            </trans-unit>
-            <trans-unit id="database.prefix.help">
-                <source>database.prefix.help</source>
-                <target>Allows multiple systems to use the same database, by adding this prefix to each table on this database.</target>
-            </trans-unit>
-            <trans-unit id="database.prefix.label">
-                <source>database.prefix.label</source>
-                <target>The prefix added to ALL tables.</target>
-            </trans-unit>
-            <trans-unit id="database.charset.help">
-                <source>database.charset.help</source>
-                <target>Enables you to store data using a variety of character sets. The recommended setting is "UTF-8 Unicode MultiByte".</target>
-            </trans-unit>
-            <trans-unit id="database.charset.label">
-                <source>database.charset.label</source>
-                <target>The database character set.</target>
-            </trans-unit>
-            <trans-unit id="database.charset.utf8">
-                <source>database.charset.utf8</source>
-                <target>(UTF-8 Unicode)</target>
-            </trans-unit>
-            <trans-unit id="database.charset.utf8mb4">
-                <source>database.charset.utf8mb4</source>
-                <target>(UTF-8 Unicode MultiByte)</target>
-            </trans-unit>
-            <trans-unit id="database.demo_data.label">
-                <source>database.demo_data.label</source>
-                <target>Install Demo Data</target>
-            </trans-unit>
-            <trans-unit id="database.demo_data.help">
-                <source>database.demo_data.help</source>
-                <target></target>
-            </trans-unit>
-        </body>
-    </file>
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Installer.en">
+    <unit id="dNzcACc" name="installation.step">
+      <segment>
+        <source>installation.step</source>
+        <target>Installation - Step %{step}</target>
+      </segment>
+    </unit>
+    <unit id="s4.5xQH" name="installer.file.permission.success">
+      <segment>
+        <source>installer.file.permission.success</source>
+        <target>The directory "config/packages" containing the Platypus files is writable, so the installation may proceed.</target>
+      </segment>
+    </unit>
+    <unit id="D9BY0wF" name="installer.file.permission.danger">
+      <segment>
+        <source>installer.file.permission.danger</source>
+        <target>The directory "config/packages" containing the Platypus files is not currently writable, so the installer cannot proceed.</target>
+      </segment>
+    </unit>
+    <unit id="Gbq5bo8" name="installer.file.write.error">
+      <segment>
+        <source>installer.file.write.error</source>
+        <target>The directory "config/packages" containing the Platypus files is not currently writable, so the installer cannot proceed.  The file "%{name}" failed to write.</target>
+      </segment>
+    </unit>
+    <unit id="ae.Uz3Y" name="system.requirements">
+      <segment>
+        <source>system.requirements</source>
+        <target>System Requirements</target>
+      </segment>
+    </unit>
+    <unit id="Ky5mchc" name="version.name">
+      <segment>
+        <source>version.name</source>
+        <target>Version %{name}</target>
+      </segment>
+    </unit>
+    <unit id="3OgznAr" name="version.description">
+      <segment>
+        <source>version.description</source>
+        <target>Busybee requires %{name} version %{version} or higher</target>
+      </segment>
+    </unit>
+    <unit id="I1IVhb8" name="mysql.pdo.support">
+      <segment>
+        <source>mysql.pdo.support</source>
+        <target>MySQL PDO Support</target>
+      </segment>
+    </unit>
+    <unit id="ShKWgdT" name="extension.name">
+      <segment>
+        <source>extension.name</source>
+        <target>Extension %{name}</target>
+      </segment>
+    </unit>
+    <unit id="OFkBnSJ" name="language.setting">
+      <segment>
+        <source>language.setting</source>
+        <target>Language Setting</target>
+      </segment>
+    </unit>
+    <unit id="Pcrj6TB" name="system.language.label">
+      <segment>
+        <source>system.language.label</source>
+        <target>System Language</target>
+      </segment>
+    </unit>
+    <unit id="pN2JZ6F" name="system.language.help">
+      <segment>
+        <source>system.language.help</source>
+        <target>This is the default language that the system will use for translation.  Individual users can change their locale to use another language.</target>
+      </segment>
+    </unit>
+    <unit id="47DEQpj" name="">
+      <segment>
+        <source></source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="KA1Eqx6" name="welcome">
+      <segment>
+        <source>welcome</source>
+        <target>Welcome to Platypus</target>
+      </segment>
+    </unit>
+    <unit id="nLHnSFy" name="welcome.sentence.1">
+      <segment>
+        <source>welcome.sentence.1</source>
+        <target>Created by teachers, Gibbon is the school platform which solves real problems faced by educators every day.</target>
+      </segment>
+    </unit>
+    <unit id="5.1tIvg" name="welcome.sentence.2">
+      <segment>
+        <source>welcome.sentence.2</source>
+        <target>Free, open source and flexible, Gibbon can morph to meet the needs of a huge range of schools.</target>
+      </segment>
+    </unit>
+    <unit id="bnEMPi2" name="welcome.sentence.3">
+      <segment>
+        <source>welcome.sentence.3</source>
+        <target><![CDATA[For support, please visit <a target='_blank' href='https://gibbonedu.org/support'>gibbonedu.org</a>.]]></target>
+      </segment>
+    </unit>
+    <unit id="iER2gsJ" name="database.settings">
+      <segment>
+        <source>database.settings</source>
+        <target>Database Settings</target>
+      </segment>
+    </unit>
+    <unit id="LdmXffC" name="database.driver.label">
+      <segment>
+        <source>database.driver.label</source>
+        <target>Database Type (Driver)</target>
+      </segment>
+    </unit>
+    <unit id="nj90GKd" name="database.driver.help">
+      <segment>
+        <source>database.driver.help</source>
+        <target>Currently only MySQL databases are supported, using PDO Connection.</target>
+      </segment>
+    </unit>
+    <unit id="Fy8oZ3Y" name="database.driver.mysql">
+      <segment>
+        <source>database.driver.mysql</source>
+        <target>MySQL</target>
+      </segment>
+    </unit>
+    <unit id="PGhp5vX" name="database.port.help">
+      <segment>
+        <source>database.port.help</source>
+        <target>Please obtain the information from your Information Technology person.</target>
+      </segment>
+    </unit>
+    <unit id="8jGejhi" name="database.port.label">
+      <segment>
+        <source>database.port.label</source>
+        <target>The Communication Port used by the Database Server</target>
+      </segment>
+    </unit>
+    <unit id="z6EmEbZ" name="database.host.help">
+      <segment>
+        <source>database.host.help</source>
+        <target>What is the name of the server or th IP address of the server on which the database is located.</target>
+      </segment>
+    </unit>
+    <unit id="m.ZaAV0" name="database.host.label">
+      <segment>
+        <source>database.host.label</source>
+        <target>The Host Name or IP Address</target>
+      </segment>
+    </unit>
+    <unit id="7l6BmI9" name="database.name.help">
+      <segment>
+        <source>database.name.help</source>
+        <target>The database has this name, and if it does not exist the system will attempt to create the database of this name.</target>
+      </segment>
+    </unit>
+    <unit id="aJx09bT" name="database.name.label">
+      <segment>
+        <source>database.name.label</source>
+        <target>The Name of the Database</target>
+      </segment>
+    </unit>
+    <unit id="3cV9a9k" name="database.user.help">
+      <segment>
+        <source>database.user.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="PNBAF_L" name="database.user.label">
+      <segment>
+        <source>database.user.label</source>
+        <target>The User Name to access the Database.</target>
+      </segment>
+    </unit>
+    <unit id="R7AjL3I" name="database.pass.help">
+      <segment>
+        <source>database.pass.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="MFUlW3a" name="database.pass.label">
+      <segment>
+        <source>database.pass.label</source>
+        <target>The password for the user to connect to the Database.</target>
+      </segment>
+    </unit>
+    <unit id="w97uUiE" name="database.prefix.help">
+      <segment>
+        <source>database.prefix.help</source>
+        <target>Allows multiple systems to use the same database, by adding this prefix to each table on this database.</target>
+      </segment>
+    </unit>
+    <unit id="Z.B136R" name="database.prefix.label">
+      <segment>
+        <source>database.prefix.label</source>
+        <target>The prefix added to ALL tables.</target>
+      </segment>
+    </unit>
+    <unit id="HUP2SJS" name="database.charset.help">
+      <segment>
+        <source>database.charset.help</source>
+        <target>Enables you to store data using a variety of character sets. The recommended setting is "UTF-8 Unicode MultiByte".</target>
+      </segment>
+    </unit>
+    <unit id="tngTKN5" name="database.charset.label">
+      <segment>
+        <source>database.charset.label</source>
+        <target>The database character set.</target>
+      </segment>
+    </unit>
+    <unit id="wHRC69d" name="database.charset.utf8">
+      <segment>
+        <source>database.charset.utf8</source>
+        <target>(UTF-8 Unicode)</target>
+      </segment>
+    </unit>
+    <unit id="kTyFIE4" name="database.charset.utf8mb4">
+      <segment>
+        <source>database.charset.utf8mb4</source>
+        <target>(UTF-8 Unicode MultiByte)</target>
+      </segment>
+    </unit>
+    <unit id="75mhnkO" name="database.demo_data.label">
+      <segment>
+        <source>database.demo_data.label</source>
+        <target>Install Demo Data</target>
+      </segment>
+    </unit>
+    <unit id="xAF8Jkg" name="database.demo_data.help">
+      <segment>
+        <source>database.demo_data.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="0dsmBVv" name="Dutch - Nederland">
+      <segment>
+        <source>Dutch - Nederland</source>
+        <target>Dutch - Nederland</target>
+      </segment>
+    </unit>
+    <unit id="_eubLrD" name="English - United Kingdom">
+      <segment>
+        <source>English - United Kingdom</source>
+        <target>English - United Kingdom</target>
+      </segment>
+    </unit>
+    <unit id="tsxeWpf" name="English - United States">
+      <segment>
+        <source>English - United States</source>
+        <target>English - United States</target>
+      </segment>
+    </unit>
+    <unit id="lLOCthu" name="Español">
+      <segment>
+        <source>Español</source>
+        <target>Español</target>
+      </segment>
+    </unit>
+    <unit id="AETENAH" name="Français - France">
+      <segment>
+        <source>Français - France</source>
+        <target>Français - France</target>
+      </segment>
+    </unit>
+    <unit id="DHL0qvL" name="Italiano - Italia">
+      <segment>
+        <source>Italiano - Italia</source>
+        <target>Italiano - Italia</target>
+      </segment>
+    </unit>
+    <unit id="_dXKZmc" name="Português - Brasil">
+      <segment>
+        <source>Português - Brasil</source>
+        <target>Português - Brasil</target>
+      </segment>
+    </unit>
+    <unit id="jh8Easz" name="Română">
+      <segment>
+        <source>Română</source>
+        <target>Română</target>
+      </segment>
+    </unit>
+    <unit id="2VSz4fw" name="Shqip - Shqipëri">
+      <segment>
+        <source>Shqip - Shqipëri</source>
+        <target>Shqip - Shqipëri</target>
+      </segment>
+    </unit>
+    <unit id="rXoAv2P" name="Tiếng Việt - Việt Nam">
+      <segment>
+        <source>Tiếng Việt - Việt Nam</source>
+        <target>Tiếng Việt - Việt Nam</target>
+      </segment>
+    </unit>
+    <unit id="VhswhZd" name="العربية - المملكة العربية السعودية">
+      <segment>
+        <source>العربية - المملكة العربية السعودية</source>
+        <target>العربية - المملكة العربية السعودية</target>
+      </segment>
+    </unit>
+    <unit id="aPAWbLs" name="ภาษาไทย - ราชอาณาจักรไทย">
+      <segment>
+        <source>ภาษาไทย - ราชอาณาจักรไทย</source>
+        <target>ภาษาไทย - ราชอาณาจักรไทย</target>
+      </segment>
+    </unit>
+    <unit id="FG6DZZH" name="體字 - 香港">
+      <segment>
+        <source>體字 - 香港</source>
+        <target>體字 - 香港</target>
+      </segment>
+    </unit>
+    <unit id="IiZ.YMB" name="user.account">
+      <segment>
+        <source>user.account</source>
+        <target>User Account</target>
+      </segment>
+    </unit>
+    <unit id="gesGgpl" name="installer.connection.success">
+      <segment>
+        <source>installer.connection.success</source>
+        <target>A Connection to the SQL Server was established correctly.</target>
+      </segment>
+    </unit>
+    <unit id="X872BCV" name="system.build.database.done">
+      <segment>
+        <source>system.build.database.done</source>
+        <target>The database altered %count% transactions in the database.</target>
+      </segment>
+    </unit>
+    <unit id="hEVJjuf" name="system.build.database.success">
+      <segment>
+        <source>system.build.database.success</source>
+        <target>The database has been built. %count% queries executed.</target>
+      </segment>
+    </unit>
+  </file>
 </xliff>
