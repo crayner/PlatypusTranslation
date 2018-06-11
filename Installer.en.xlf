@@ -337,5 +337,23 @@
         <target>The database has been built. %count% queries executed.</target>
       </segment>
     </unit>
+    <unit id="533.MkN" name="user.password.conditions">
+      <segment>
+        <source>user.password.conditions</source>
+        <target>Required Aspects: Minimum Length: %minLength% characters, Numbers Required: %numbers%, Mixed Case: %mixedCase%, Special Characters: %specials%.</target>
+      </segment>
+    </unit>
+    <unit id="7UZReCj" name="installer.complete">
+      <segment>
+        <source>installer.complete</source>
+        <target><![CDATA[Congratulations, your installation is complete. Feel free to <a href="%home%">go to your Gibbon homepage</a> and login with the username and password you created.<br><br>It is also advisable to follow the <a target="_blank" href="https://gibbonedu.org/support/administrators/installing-gibbon/">Post-Install and Server Config instructions</a>.]]></target>
+      </segment>
+    </unit>
+    <unit id=".kt.irp" name="installer.completed">
+      <segment>
+        <source>installer.completed</source>
+        <target>Installation Completed</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

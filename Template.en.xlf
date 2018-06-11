@@ -1,11 +1,11 @@
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
-        <body>
-            <trans-unit id="footer.details">
-                <source>footer.details</source>
-                <target><![CDATA[Busybee Software. Version %version% &copy; %name%]]></target>
-            </trans-unit>
-        </body>
-    </file>
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en-GB" trgLang="en">
+  <file id="Template.en">
+    <unit id="_VspNNr" name="footer.details">
+      <segment>
+        <source>footer.details</source>
+        <target><![CDATA[Busybee Software. Version %version% &copy; %name%]]></target>
+      </segment>
+    </unit>
+  </file>
 </xliff>
-

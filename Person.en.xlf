@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en-GB" trgLang="en">
+  <file id="Person.en">
+    <unit id="pW5JaBv" name="person.surname.label">
+      <segment>
+        <source>person.surname.label</source>
+        <target>Family Name</target>
+      </segment>
+    </unit>
+    <unit id="Kt1FgF5" name="person.firstName.label">
+      <segment>
+        <source>person.firstName.label</source>
+        <target>Given Name(s)</target>
+      </segment>
+    </unit>
+    <unit id="5ruPpNR" name="person.honorific.label">
+      <segment>
+        <source>person.honorific.label</source>
+        <target>Personal Title</target>
+      </segment>
+    </unit>
+    <unit id="u0ikF.v" name="person.title.list.rev">
+      <segment>
+        <source>person.title.list.rev</source>
+        <target>Rev.</target>
+      </segment>
+    </unit>
+    <unit id="tYX99jw" name="person.title.list.ms">
+      <segment>
+        <source>person.title.list.ms</source>
+        <target>Ms</target>
+      </segment>
+    </unit>
+    <unit id="X7gVdt_" name="person.title.list.mrs">
+      <segment>
+        <source>person.title.list.mrs</source>
+        <target>Mrs</target>
+      </segment>
+    </unit>
+    <unit id="HltLkTs" name="person.title.list.mr">
+      <segment>
+        <source>person.title.list.mr</source>
+        <target>Mr</target>
+      </segment>
+    </unit>
+    <unit id="LaGsNLO" name="person.title.list.miss">
+      <segment>
+        <source>person.title.list.miss</source>
+        <target>Miss</target>
+      </segment>
+    </unit>
+    <unit id="223.c6O" name="person.title.list.master">
+      <segment>
+        <source>person.title.list.master</source>
+        <target>Master</target>
+      </segment>
+    </unit>
+    <unit id="XoW1pIn" name="person.title.list.dr">
+      <segment>
+        <source>person.title.list.dr</source>
+        <target>Dr</target>
+      </segment>
+    </unit>
+    <unit id="elgCW53" name="person.honorific.placeholder">
+      <segment>
+        <source>person.honorific.placeholder</source>
+        <target>Select Title</target>
+      </segment>
+    </unit>
+    <unit id="2rOGyrJ" name="person.email.label">
+      <segment>
+        <source>person.email.label</source>
+        <target>Email Address</target>
+      </segment>
+    </unit>
+    <unit id="fDqy45g" name="person.email.help">
+      <segment>
+        <source>person.email.help</source>
+        <target>To be a user on the system each person must have a unique email address.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

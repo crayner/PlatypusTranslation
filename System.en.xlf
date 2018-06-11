@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en-GB" trgLang="en">
+  <file id="System.en">
+    <unit id="evSC8P0" name="misc.email.label">
+      <segment>
+        <source>misc.email.label</source>
+        <target>misc.email.label</target>
+      </segment>
+    </unit>
+    <unit id="de_QVhj" name="misc.email.help">
+      <segment>
+        <source>misc.email.help</source>
+        <target>misc.email.help</target>
+      </segment>
+    </unit>
+    <unit id="FkP7Vt9" name="misc.username.label">
+      <segment>
+        <source>misc.username.label</source>
+        <target>misc.username.label</target>
+      </segment>
+    </unit>
+    <unit id="JcXJrOy" name="misc.username.help">
+      <segment>
+        <source>misc.username.help</source>
+        <target>misc.username.help</target>
+      </segment>
+    </unit>
+    <unit id="fyyouUh" name="misc.password.label">
+      <segment>
+        <source>misc.password.label</source>
+        <target>misc.password.label</target>
+      </segment>
+    </unit>
+    <unit id="30KkevH" name="misc.password.help">
+      <segment>
+        <source>misc.password.help</source>
+        <target>misc.password.help</target>
+      </segment>
+    </unit>
+    <unit id="yBfItek" name="setting.choice.name">
+      <segment>
+        <source>setting.choice.name</source>
+        <target>%name%</target>
+      </segment>
+    </unit>
+    <unit id="oX4P2rM" name="user.username.label">
+      <segment>
+        <source>user.username.label</source>
+        <target>Username</target>
+      </segment>
+    </unit>
+    <unit id="QPNDwTq" name="user.username.help">
+      <segment>
+        <source>user.username.help</source>
+        <target>Must be unique! System login name. If left blank, defaults to the email address.</target>
+      </segment>
+    </unit>
+    <unit id="6SYx6u8" name="user.password.label">
+      <segment>
+        <source>user.password.label</source>
+        <target>User Password</target>
+      </segment>
+    </unit>
+    <unit id="Mnacxwn" name="user.password.help">
+      <segment>
+        <source>user.password.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="3EjIKbZ" name="user.password1.generate">
+      <segment>
+        <source>user.password1.generate</source>
+        <target>Generate Password</target>
+      </segment>
+    </unit>
+    <unit id="4dmkNMw" name="system.settings.title">
+      <segment>
+        <source>system.settings.title</source>
+        <target>System Settings</target>
+      </segment>
+    </unit>
+    <unit id="iKy1L2i" name="user.password.generate">
+      <segment>
+        <source>user.password.generate</source>
+        <target>Generate Password</target>
+      </segment>
+    </unit>
+    <unit id="533.MkN" name="user.password.conditions">
+      <segment>
+        <source>user.password.conditions</source>
+        <target>Required Aspects: Minimum Length: %minLength% characters, Numbers Required: %numbers%, Mixed Case: %mixedCase%, Special Characters: %specials%.</target>
+      </segment>
+    </unit>
+    <unit id="tWdmID9" name="system.organisation.settings.title">
+      <segment>
+        <source>system.organisation.settings.title</source>
+        <target>Organisation Settings</target>
+      </segment>
+    </unit>
+    <unit id="GOIHF3X" name="system.org_name.label">
+      <segment>
+        <source>system.org_name.label</source>
+        <target>Organisation Name</target>
+      </segment>
+    </unit>
+    <unit id="u8zjcZ9" name="system.org_code.label">
+      <segment>
+        <source>system.org_code.label</source>
+        <target>Organisation Initials</target>
+      </segment>
+    </unit>
+    <unit id="PhaiSww" name="system.country.label">
+      <segment>
+        <source>system.country.label</source>
+        <target>Country</target>
+      </segment>
+    </unit>
+    <unit id="RFmUkIB" name="system.country.help">
+      <segment>
+        <source>system.country.help</source>
+        <target>The country in which the school is located.</target>
+      </segment>
+    </unit>
+    <unit id="WmVOdMU" name="system.placeholder">
+      <segment>
+        <source>system.placeholder</source>
+        <target>Please select ...</target>
+      </segment>
+    </unit>
+    <unit id="HXRjkoD" name="system.currency.label">
+      <segment>
+        <source>system.currency.label</source>
+        <target>Currency</target>
+      </segment>
+    </unit>
+    <unit id="LBd8cUC" name="system.currency.help">
+      <segment>
+        <source>system.currency.help</source>
+        <target>System-wde currency for financial transactions. Support for online payment in this currency depends on your credit card gateway: please consult their support documentation</target>
+      </segment>
+    </unit>
+    <unit id="32wVPoN" name="system.timezone.label">
+      <segment>
+        <source>system.timezone.label</source>
+        <target>Timezone</target>
+      </segment>
+    </unit>
+    <unit id="LDmsq7i" name="system.timezone.help">
+      <segment>
+        <source>system.timezone.help</source>
+        <target><![CDATA[The <a href="http://php.net/manual/en/timezones.php">timezone</a> where the school is located]]></target>
+      </segment>
+    </unit>
+    <unit id="SFxbxwm" name="system.miscellaneous.settings.title">
+      <segment>
+        <source>system.miscellaneous.settings.title</source>
+        <target>Miscellaneous Settings</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
