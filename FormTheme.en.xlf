@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="FormTheme.en">
+    <unit id="6_Cta_a" name="form.add">
+      <segment>
+        <source>form.add</source>
+        <target>Add</target>
+      </segment>
+    </unit>
+    <unit id="ZUtjqDu" name="form.delete">
+      <segment>
+        <source>form.delete</source>
+        <target>Delete</target>
+      </segment>
+    </unit>
+    <unit id="oXrCtEF" name="form.reset">
+      <segment>
+        <source>form.reset</source>
+        <target>Reset</target>
+      </segment>
+    </unit>
+    <unit id="d5CA398" name="form.return">
+      <segment>
+        <source>form.return</source>
+        <target>Return</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

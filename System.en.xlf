@@ -253,5 +253,17 @@
         <target>School Admin</target>
       </segment>
     </unit>
+    <unit id="TuddPf0" name="school_year.status.label">
+      <segment>
+        <source>school_year.status.label</source>
+        <target>Status</target>
+      </segment>
+    </unit>
+    <unit id="q9kNnmz" name="setting.choice.name.not_found">
+      <segment>
+        <source>setting.choice.name.not_found</source>
+        <target>The setting "%{name}" was not found.'</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
