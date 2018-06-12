@@ -220,7 +220,7 @@
     <unit id="DBZTWY3" name="menu.admin.node">
       <segment>
         <source>menu.admin.node</source>
-        <target>menu.admin.node</target>
+        <target>Admin</target>
       </segment>
     </unit>
     <unit id="CqIniSt" name="setting.create.success">
@@ -233,6 +233,24 @@
       <segment>
         <source>system.setting.file</source>
         <target>{0}The class %{class} was processed correctly.|{1}The class %{class} was processed correctly. One setting was processed.|]1,Inf[The class %{class} was processed correctly. %count% settings were processed.</target>
+      </segment>
+    </unit>
+    <unit id="5jC135l" name="menu.user.self.manage">
+      <segment>
+        <source>menu.user.self.manage</source>
+        <target>Manage Current User</target>
+      </segment>
+    </unit>
+    <unit id="CxhLxdU" name="Sign Out">
+      <segment>
+        <source>Sign Out</source>
+        <target>Sign Out</target>
+      </segment>
+    </unit>
+    <unit id="7KQtyoM" name="menu.admin.school">
+      <segment>
+        <source>menu.admin.school</source>
+        <target>School Admin</target>
       </segment>
     </unit>
   </file>
