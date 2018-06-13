@@ -25,5 +25,29 @@
         <target>Return</target>
       </segment>
     </unit>
+    <unit id="B6NIzl3" name="form.remove">
+      <segment>
+        <source>form.remove</source>
+        <target>Remove</target>
+      </segment>
+    </unit>
+    <unit id="UyHQYUG" name="form.up">
+      <segment>
+        <source>form.up</source>
+        <target>Up</target>
+      </segment>
+    </unit>
+    <unit id="BtNJ9TV" name="form.down">
+      <segment>
+        <source>form.down</source>
+        <target>Down</target>
+      </segment>
+    </unit>
+    <unit id="GvmAG87" name="form.duplicate">
+      <segment>
+        <source>form.duplicate</source>
+        <target>Duplicate</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

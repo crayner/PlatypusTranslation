@@ -244,13 +244,13 @@
     <unit id="zlZC537" name="term.name.label">
       <segment>
         <source>term.name.label</source>
-        <target>term.name.label</target>
+        <target>Term Name</target>
       </segment>
     </unit>
     <unit id="uza4Jdq" name="term.name.help">
       <segment>
         <source>term.name.help</source>
-        <target>term.name.help</target>
+        <target></target>
       </segment>
     </unit>
     <unit id="Q.87DSU" name="term.code.label">
@@ -322,37 +322,37 @@
     <unit id="AQE5.xH" name="special_day.type.label">
       <segment>
         <source>special_day.type.label</source>
-        <target>special_day.type.label</target>
+        <target>Special Day Option</target>
       </segment>
     </unit>
     <unit id="jYFS_sH" name="special_day.type.help">
       <segment>
         <source>special_day.type.help</source>
-        <target>special_day.type.help</target>
+        <target>Closed: No attendance required. Change Timing: Alter opening hours.</target>
       </segment>
     </unit>
     <unit id="LWUP.AF" name="special_day.name.label">
       <segment>
         <source>special_day.name.label</source>
-        <target>special_day.name.label</target>
+        <target>Name</target>
       </segment>
     </unit>
     <unit id="hC.UC3v" name="special_day.name.help">
       <segment>
         <source>special_day.name.help</source>
-        <target>special_day.name.help</target>
+        <target>Usually the name of the public holiday.</target>
       </segment>
     </unit>
     <unit id="zwNGr.o" name="special_day.description.label">
       <segment>
         <source>special_day.description.label</source>
-        <target>special_day.description.label</target>
+        <target>Description</target>
       </segment>
     </unit>
     <unit id="xsGrCEH" name="special_day.description.help">
       <segment>
         <source>special_day.description.help</source>
-        <target>special_day.description.help</target>
+        <target></target>
       </segment>
     </unit>
     <unit id="8AY7gIc" name="Hour">
@@ -364,7 +364,7 @@
     <unit id="n9O9zf8" name="special_day.hour">
       <segment>
         <source>special_day.hour</source>
-        <target>special_day.hour</target>
+        <target>Hour</target>
       </segment>
     </unit>
     <unit id="S3hmW_x" name="Minute">
@@ -376,61 +376,157 @@
     <unit id="kImz3B0" name="special_day.minute">
       <segment>
         <source>special_day.minute</source>
-        <target>special_day.minute</target>
+        <target>Minute</target>
       </segment>
     </unit>
     <unit id="MkojMkT" name="special_day.open.label">
       <segment>
         <source>special_day.open.label</source>
-        <target>special_day.open.label</target>
+        <target>Open Doors</target>
       </segment>
     </unit>
     <unit id="Z5TLkXy" name="special_day.open.help">
       <segment>
         <source>special_day.open.help</source>
-        <target>special_day.open.help</target>
+        <target>Campus open time</target>
       </segment>
     </unit>
     <unit id="zI.tVzv" name="special_day.start.label">
       <segment>
         <source>special_day.start.label</source>
-        <target>special_day.start.label</target>
+        <target>Start Teaching</target>
       </segment>
     </unit>
     <unit id="AXKfPos" name="special_day.start.help">
       <segment>
         <source>special_day.start.help</source>
-        <target>special_day.start.help</target>
+        <target>Formal teaching starts.</target>
       </segment>
     </unit>
     <unit id="tsm2Gdj" name="special_day.end.label">
       <segment>
         <source>special_day.end.label</source>
-        <target>special_day.end.label</target>
+        <target>Finish Teaching</target>
       </segment>
     </unit>
     <unit id="9P6QfXf" name="special_day.end.help">
       <segment>
         <source>special_day.end.help</source>
-        <target>special_day.end.help</target>
+        <target>Formal teaching finishes.</target>
       </segment>
     </unit>
     <unit id="FdsYNBy" name="special_day.close.label">
       <segment>
         <source>special_day.close.label</source>
-        <target>special_day.close.label</target>
+        <target>Close Doors</target>
       </segment>
     </unit>
     <unit id="6lyMV5C" name="special_day.close.help">
       <segment>
         <source>special_day.close.help</source>
-        <target>special_day.close.help</target>
+        <target>Campus close time</target>
       </segment>
     </unit>
-    <unit id="6lyMV7F" name="school_year.special_day.add">
+    <unit id="boeKqnQ" name="school_year.special_day.add">
       <segment>
         <source>school_year.special_day.add</source>
         <target>Add a Special Day</target>
+      </segment>
+    </unit>
+    <unit id="Odop1an" name="term.add.label">
+      <segment>
+        <source>term.add.label</source>
+        <target>Add Term</target>
+      </segment>
+    </unit>
+    <unit id="KdY8SNy" name="term.name_short.label">
+      <segment>
+        <source>term.name_short.label</source>
+        <target>Term Short Name</target>
+      </segment>
+    </unit>
+    <unit id="_iFtgYK" name="term.name_short.help">
+      <segment>
+        <source>term.name_short.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="V.isZJb" name="calendar.first_day.label">
+      <segment>
+        <source>calendar.first_day.label</source>
+        <target>calendar.first_day.label</target>
+      </segment>
+    </unit>
+    <unit id="AQtRw5o" name="calendar.first_day.help">
+      <segment>
+        <source>calendar.first_day.help</source>
+        <target>calendar.first_day.help</target>
+      </segment>
+    </unit>
+    <unit id=".ch.._j" name="calendar.last_day.label">
+      <segment>
+        <source>calendar.last_day.label</source>
+        <target>calendar.last_day.label</target>
+      </segment>
+    </unit>
+    <unit id="RMR3J3h" name="calendar.last_day.help">
+      <segment>
+        <source>calendar.last_day.help</source>
+        <target>calendar.last_day.help</target>
+      </segment>
+    </unit>
+    <unit id="8Uk72b_" name="term.first_day.label">
+      <segment>
+        <source>term.first_day.label</source>
+        <target>First Day</target>
+      </segment>
+    </unit>
+    <unit id="WolMPg7" name="term.first_day.help">
+      <segment>
+        <source>term.first_day.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="fFDqoAp" name="term.last_day.label">
+      <segment>
+        <source>term.last_day.label</source>
+        <target>Last Day</target>
+      </segment>
+    </unit>
+    <unit id="8D6l.wn" name="term.last_day.help">
+      <segment>
+        <source>term.last_day.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="_vifqH5" name="special_day.date.label">
+      <segment>
+        <source>special_day.date.label</source>
+        <target>Date of Special Day</target>
+      </segment>
+    </unit>
+    <unit id="cqaE32a" name="special_day.date.help">
+      <segment>
+        <source>special_day.date.help</source>
+        <target>(Must be Unique)</target>
+      </segment>
+    </unit>
+    <unit id="Srd3seE" name="special_day.type.placeholder">
+      <segment>
+        <source>special_day.type.placeholder</source>
+        <target>Select...</target>
+      </segment>
+    </unit>
+    <unit id="mICPPzs" name="schoolyearspecialday.type.school_closure">
+      <segment>
+        <source>schoolyearspecialday.type.school_closure</source>
+        <target>School Closure</target>
+      </segment>
+    </unit>
+    <unit id="4agD2AM" name="schoolyearspecialday.type.timing_change">
+      <segment>
+        <source>schoolyearspecialday.type.timing_change</source>
+        <target>Timing Change</target>
       </segment>
     </unit>
   </file>
