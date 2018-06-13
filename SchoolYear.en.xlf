@@ -553,5 +553,35 @@
         <target>The special day "%{specialDay}" is locked to the School Year and must not be removed.</target>
       </segment>
     </unit>
+    <unit id="Y3hjYBG" name="term.removed.info">
+      <segment>
+        <source>term.removed.info</source>
+        <target>The term "%{term}" has been locked by the system and must not be removed.</target>
+      </segment>
+    </unit>
+    <unit id="N1UXJO3" name="term.removed.success">
+      <segment>
+        <source>term.removed.success</source>
+        <target>The term "%{term}" has been removed.</target>
+      </segment>
+    </unit>
+    <unit id="pJwcOu2" name="special_day.removed.success">
+      <segment>
+        <source>special_day.removed.success</source>
+        <target>The special day "%{specialDay}" has been removed.</target>
+      </segment>
+    </unit>
+    <unit id="AAolilv" name="school_year.validation.not_one_year">
+      <segment>
+        <source>school_year.validation.not_one_year</source>
+        <target>The school year must not cover more than one calendar year.</target>
+      </segment>
+    </unit>
+    <unit id="cVxpMZT" name="School year">
+      <segment>
+        <source>School year</source>
+        <target>School Year</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
