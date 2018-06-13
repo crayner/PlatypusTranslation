@@ -529,5 +529,29 @@
         <target>Timing Change</target>
       </segment>
     </unit>
+    <unit id="UWAhgsg" name="school_year.success">
+      <segment>
+        <source>school_year.success</source>
+        <target>Saved School Year</target>
+      </segment>
+    </unit>
+    <unit id="QcAKxGG" name="Saved School Year">
+      <segment>
+        <source>Saved School Year</source>
+        <target>Saved School Year</target>
+      </segment>
+    </unit>
+    <unit id="jfqkEQa" name="schoolday.special_day.removed.info">
+      <segment>
+        <source>schoolday.special_day.removed.info</source>
+        <target>The special day %{specialDay} is locked by the system and must not be removed.</target>
+      </segment>
+    </unit>
+    <unit id="PHMddhV" name="special_day.removed.info">
+      <segment>
+        <source>special_day.removed.info</source>
+        <target>The special day "%{specialDay}" is locked to the School Year and must not be removed.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
