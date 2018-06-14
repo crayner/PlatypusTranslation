@@ -271,5 +271,107 @@
         <target><![CDATA[Years, Days & Times]]></target>
       </segment>
     </unit>
+    <unit id="dB4egiZ" name="system.route.missing">
+      <segment>
+        <source>system.route.missing</source>
+        <target>Route not found: %{route}</target>
+      </segment>
+    </unit>
+    <unit id="agDfwdy" name="Monday">
+      <segment>
+        <source>Monday</source>
+        <target>Monday</target>
+      </segment>
+    </unit>
+    <unit id="9A1.Ufa" name="Mon">
+      <segment>
+        <source>Mon</source>
+        <target>Mon</target>
+      </segment>
+    </unit>
+    <unit id="fYrx3hJ" name="Tuesday">
+      <segment>
+        <source>Tuesday</source>
+        <target>Tuesday</target>
+      </segment>
+    </unit>
+    <unit id="0es5sJv" name="Tue">
+      <segment>
+        <source>Tue</source>
+        <target>Tue</target>
+      </segment>
+    </unit>
+    <unit id="wKbMgpz" name="Wednesday">
+      <segment>
+        <source>Wednesday</source>
+        <target>Wednesday</target>
+      </segment>
+    </unit>
+    <unit id="WDOfRd_" name="Wed">
+      <segment>
+        <source>Wed</source>
+        <target>Wed</target>
+      </segment>
+    </unit>
+    <unit id=".CZiBi." name="Thursday">
+      <segment>
+        <source>Thursday</source>
+        <target>Thursday</target>
+      </segment>
+    </unit>
+    <unit id="faESEu0" name="Thu">
+      <segment>
+        <source>Thu</source>
+        <target>Thu</target>
+      </segment>
+    </unit>
+    <unit id="4h8.Nyp" name="Friday">
+      <segment>
+        <source>Friday</source>
+        <target>Friday</target>
+      </segment>
+    </unit>
+    <unit id="Ztq0DOo" name="Fri">
+      <segment>
+        <source>Fri</source>
+        <target>Fri</target>
+      </segment>
+    </unit>
+    <unit id="2_Ncc2P" name="Saturday">
+      <segment>
+        <source>Saturday</source>
+        <target>Saturday</target>
+      </segment>
+    </unit>
+    <unit id=".etxtWn" name="Sat">
+      <segment>
+        <source>Sat</source>
+        <target>Sat</target>
+      </segment>
+    </unit>
+    <unit id="hz.vdg5" name="Sunday">
+      <segment>
+        <source>Sunday</source>
+        <target>Sunday</target>
+      </segment>
+    </unit>
+    <unit id="2xjxf_U" name="Sun">
+      <segment>
+        <source>Sun</source>
+        <target>Sun</target>
+      </segment>
+    </unit>
+    <unit id="Hh1iEsg" name="form.submit.success">
+      <segment>
+        <source>form.submit.success</source>
+        <target>Saved</target>
+      </segment>
+    </unit>
+    <unit id="KujIY5C" name="Close Message">
+      <segment>
+        <source>Close Message</source>
+        <target>Close Message</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
