@@ -355,5 +355,41 @@
         <target>Installation Completed</target>
       </segment>
     </unit>
+    <unit id="1WeuXZt" name="installer.database.create.fail">
+      <segment>
+        <source>installer.database.create.fail</source>
+        <target>The database "%{name}" was not created: %{message}</target>
+      </segment>
+    </unit>
+    <unit id="DUzwLa7" name="database.environment.prod">
+      <segment>
+        <source>database.environment.prod</source>
+        <target>Production</target>
+      </segment>
+    </unit>
+    <unit id="e30yHWH" name="database.environment.dev">
+      <segment>
+        <source>database.environment.dev</source>
+        <target>Development</target>
+      </segment>
+    </unit>
+    <unit id="khKKOwH" name="database.environment.test">
+      <segment>
+        <source>database.environment.test</source>
+        <target>Testing</target>
+      </segment>
+    </unit>
+    <unit id="FHdPmcK" name="database.environment.label">
+      <segment>
+        <source>database.environment.label</source>
+        <target>Installation Type</target>
+      </segment>
+    </unit>
+    <unit id="r.wnQwx" name="database.environment.help">
+      <segment>
+        <source>database.environment.help</source>
+        <target>How should the installation be configured for use.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
