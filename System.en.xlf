@@ -265,5 +265,11 @@
         <target>The setting "%{name}" was not found.'</target>
       </segment>
     </unit>
+    <unit id="kmW8YnB" name="section.header.years_days_times">
+      <segment>
+        <source>section.header.years_days_times</source>
+        <target><![CDATA[Years, Days & Times]]></target>
+      </segment>
+    </unit>
   </file>
 </xliff>

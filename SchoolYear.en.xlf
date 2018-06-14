@@ -583,5 +583,41 @@
         <target>School Year</target>
       </segment>
     </unit>
+    <unit id="WpmBhGY" name="menu.school_year.manage">
+      <segment>
+        <source>menu.school_year.manage</source>
+        <target>Manage School Years</target>
+      </segment>
+    </unit>
+    <unit id="Irp6RGa" name="menu.school_year.special_days">
+      <segment>
+        <source>menu.school_year.special_days</source>
+        <target>Manage Special Days</target>
+      </segment>
+    </unit>
+    <unit id="DV4cFUW" name="menu.school_year.terms">
+      <segment>
+        <source>menu.school_year.terms</source>
+        <target>Manage Terms</target>
+      </segment>
+    </unit>
+    <unit id="7LCdQWP" name="user.school_year.current">
+      <segment>
+        <source>user.school_year.current</source>
+        <target>You are working in the current system calendar. Click here to change this setting.</target>
+      </segment>
+    </unit>
+    <unit id="e76rD.Z" name="user.calendar.name">
+      <segment>
+        <source>user.calendar.name</source>
+        <target>user.calendar.name</target>
+      </segment>
+    </unit>
+    <unit id="rB.spkK" name="user.school_year.name">
+      <segment>
+        <source>user.school_year.name</source>
+        <target>%{name}</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
