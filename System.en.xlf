@@ -379,5 +379,11 @@
         <target>Groupings</target>
       </segment>
     </unit>
+    <unit id="vZOMaI9" name="action">
+      <segment>
+        <source>action</source>
+        <target>Action</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

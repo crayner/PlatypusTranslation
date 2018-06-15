@@ -391,5 +391,53 @@
         <target>Short Name</target>
       </segment>
     </unit>
+    <unit id="1kjH1fJ" name="menu.year_groups.manage">
+      <segment>
+        <source>menu.year_groups.manage</source>
+        <target>Manage Year Groups</target>
+      </segment>
+    </unit>
+    <unit id="Yev4B47" name="school.year_groups.title">
+      <segment>
+        <source>school.year_groups.title</source>
+        <target>Manage Year Groups</target>
+      </segment>
+    </unit>
+    <unit id="HNZKS9x" name="school.year_groups.description">
+      <segment>
+        <source>school.year_groups.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="le023yQ" name="__name__label__">
+      <segment>
+        <source>__name__label__</source>
+        <target>__name__label__</target>
+      </segment>
+    </unit>
+    <unit id="KWbu9YF" name="Add Year Group">
+      <segment>
+        <source>Add Year Group</source>
+        <target>Add Year Group</target>
+      </segment>
+    </unit>
+    <unit id="ridr2EY" name="school.year_group.name.title">
+      <segment>
+        <source>school.year_group.name.title</source>
+        <target>%name%</target>
+      </segment>
+    </unit>
+    <unit id="a5_xvT1" name="school.year_group.name.label">
+      <segment>
+        <source>school.year_group.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="HFDPBni" name="school.year_group.name_short.label">
+      <segment>
+        <source>school.year_group.name_short.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
