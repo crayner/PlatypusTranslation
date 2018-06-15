@@ -373,5 +373,11 @@
         <target>Close Message</target>
       </segment>
     </unit>
+    <unit id="wXsYPZr" name="section.header.groupings">
+      <segment>
+        <source>section.header.groupings</source>
+        <target>Groupings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

@@ -337,5 +337,59 @@
         <target>The order of days can be set by dragging the day to to appropriate positions, or use the arrows provided for that purpose.</target>
       </segment>
     </unit>
+    <unit id="EmW8.92" name="menu.houses.manage">
+      <segment>
+        <source>menu.houses.manage</source>
+        <target>Manage Houses</target>
+      </segment>
+    </unit>
+    <unit id="_WlUd9d" name="school.houses.title">
+      <segment>
+        <source>school.houses.title</source>
+        <target>Manage Houses</target>
+      </segment>
+    </unit>
+    <unit id="ALFLyK." name="school.houses.description">
+      <segment>
+        <source>school.houses.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="hOdO82D" name="school.house.name.title">
+      <segment>
+        <source>school.house.name.title</source>
+        <target>%name%</target>
+      </segment>
+    </unit>
+    <unit id="PP.VFjb" name="school.house.name.label">
+      <segment>
+        <source>school.house.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="n.iTM4o" name="school.house.shortname.label">
+      <segment>
+        <source>school.house.shortname.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="UKF6UcI" name="school.house.logo.label">
+      <segment>
+        <source>school.house.logo.label</source>
+        <target>Logo</target>
+      </segment>
+    </unit>
+    <unit id="KpgF3VL" name="Add House">
+      <segment>
+        <source>Add House</source>
+        <target>Add House</target>
+      </segment>
+    </unit>
+    <unit id="K6y7lsh" name="school.house.name_short.label">
+      <segment>
+        <source>school.house.name_short.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
