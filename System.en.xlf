@@ -385,5 +385,35 @@
         <target>Action</target>
       </segment>
     </unit>
+    <unit id="kyGk9H1" name="section.header.teaching_learning">
+      <segment>
+        <source>section.header.teaching_learning</source>
+        <target><![CDATA[Teaching & Learning]]></target>
+      </segment>
+    </unit>
+    <unit id="iQDk2uN" name="manage_resource_settings">
+      <segment>
+        <source>manage_resource_settings</source>
+        <target>Manage Resource Settings</target>
+      </segment>
+    </unit>
+    <unit id="Xoqyc9g" name="School Admin">
+      <segment>
+        <source>School Admin</source>
+        <target>School Admin</target>
+      </segment>
+    </unit>
+    <unit id="1BGceGL" name="Resource Settings">
+      <segment>
+        <source>Resource Settings</source>
+        <target>Resource Settings</target>
+      </segment>
+    </unit>
+    <unit id="47DEQpj" name="">
+      <segment>
+        <source></source>
+        <target></target>
+      </segment>
+    </unit>
   </file>
 </xliff>
