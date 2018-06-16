@@ -415,5 +415,29 @@
         <target></target>
       </segment>
     </unit>
+    <unit id="RrlK.tJ" name="Manage Settings">
+      <segment>
+        <source>Manage Settings</source>
+        <target>Manage Settings</target>
+      </segment>
+    </unit>
+    <unit id="n47wNpH" name="Manage Resource Settings">
+      <segment>
+        <source>Manage Resource Settings</source>
+        <target>Manage Resource Settings</target>
+      </segment>
+    </unit>
+    <unit id="b1Fx8gn" name="manage_planner_settings">
+      <segment>
+        <source>manage_planner_settings</source>
+        <target>Manage Planner Settings</target>
+      </segment>
+    </unit>
+    <unit id="AO9qtew" name="Planner Templates">
+      <segment>
+        <source>Planner Templates</source>
+        <target>Planner Templates</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
