@@ -445,5 +445,11 @@
         <target>Miscellaneous</target>
       </segment>
     </unit>
+    <unit id="TqFAWIF" name="home">
+      <segment>
+        <source>home</source>
+        <target>Home</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

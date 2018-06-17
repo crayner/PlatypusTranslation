@@ -346,7 +346,8 @@
     <unit id="7UZReCj" name="installer.complete">
       <segment>
         <source>installer.complete</source>
-        <target><![CDATA[Congratulations, your installation is complete. Feel free to <a href="%home%">go to your Gibbon homepage</a> and login with the username and password you created.<br><br>It is also advisable to follow the <a target="_blank" href="https://gibbonedu.org/support/administrators/installing-gibbon/">Post-Install and Server Config instructions</a>.]]></target>
+        <target><![CDATA[Congratulations, your installation is complete. Feel free to <a href="%home%">go to your Busybee homepage <span class="fas fa-home"></span></a> and login with the username and password you created.<br><br>It is also advisable to follow the <a target="_blank" href="https://gibbonedu.org/support/administrators/installing-gibbon/">Post-Install and Server Config instructions</a>.
+You also have to opportunity to <a href="%demo%">install demonstration data <span class="fas fa-database"></span></a> at this time.]]></target>
       </segment>
     </unit>
     <unit id=".kt.irp" name="installer.completed">
@@ -389,6 +390,12 @@
       <segment>
         <source>database.environment.help</source>
         <target>How should the installation be configured for use.</target>
+      </segment>
+    </unit>
+    <unit id="vwfc5u2" name="instell.demo.data">
+      <segment>
+        <source>instell.demo.data</source>
+        <target>instell.demo.data</target>
       </segment>
     </unit>
   </file>
