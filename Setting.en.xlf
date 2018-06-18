@@ -583,5 +583,101 @@
         <target>Should we hide the cost of activities provided by an outside agency from the Activities View?</target>
       </segment>
     </unit>
+    <unit id="DBDriNF" name="Low Academic Alert Threshold">
+      <segment>
+        <source>Low Academic Alert Threshold</source>
+        <target>Low Academic Alert Threshold</target>
+      </segment>
+    </unit>
+    <unit id="gTKoSyn" name="b5b2562">
+      <segment>
+        <source>The number of Markbook concerns needed in the past 60 days to raise a low level academic alert on a student.</source>
+        <target>The number of Markbook concerns needed in the past 60 days to raise a low level academic alert on a student.</target>
+      </segment>
+    </unit>
+    <unit id="kvID3I1" name="Medium Academic Alert Threshold">
+      <segment>
+        <source>Medium Academic Alert Threshold</source>
+        <target>Medium Academic Alert Threshold</target>
+      </segment>
+    </unit>
+    <unit id="_86Tak9" name="3059460">
+      <segment>
+        <source>The number of Markbook concerns needed in the past 60 days to raise a medium level academic alert on a student.</source>
+        <target>The number of Markbook concerns needed in the past 60 days to raise a medium level academic alert on a student.</target>
+      </segment>
+    </unit>
+    <unit id="tDhJCTD" name="High Academic Alert Threshold">
+      <segment>
+        <source>High Academic Alert Threshold</source>
+        <target>High Academic Alert Threshold</target>
+      </segment>
+    </unit>
+    <unit id="HJ32acQ" name="5b7431d">
+      <segment>
+        <source>The number of Markbook concerns needed in the past 60 days to raise a high level academic alert on a student.</source>
+        <target>The number of Markbook concerns needed in the past 60 days to raise a high level academic alert on a student.</target>
+      </segment>
+    </unit>
+    <unit id="kGlgTON" name="Low Behaviour Alert Threshold">
+      <segment>
+        <source>Low Behaviour Alert Threshold</source>
+        <target>Low Behaviour Alert Threshold</target>
+      </segment>
+    </unit>
+    <unit id="_iUS7tg" name="3237048">
+      <segment>
+        <source>The number of Behaviour concerns needed in the past 60 days to raise a low level Behaviour alert on a student.</source>
+        <target>The number of Behaviour concerns needed in the past 60 days to raise a low level Behaviour alert on a student.</target>
+      </segment>
+    </unit>
+    <unit id="P6brBeN" name="Medium Behaviour Alert Threshold">
+      <segment>
+        <source>Medium Behaviour Alert Threshold</source>
+        <target>Medium Behaviour Alert Threshold</target>
+      </segment>
+    </unit>
+    <unit id="RYYicPD" name="209967b">
+      <segment>
+        <source>The number of Behaviour concerns needed in the past 60 days to raise a medium level Behaviour alert on a student.</source>
+        <target>The number of Behaviour concerns needed in the past 60 days to raise a medium level Behaviour alert on a student.</target>
+      </segment>
+    </unit>
+    <unit id="_5vjwz3" name="High Behaviour Alert Threshold">
+      <segment>
+        <source>High Behaviour Alert Threshold</source>
+        <target>High Behaviour Alert Threshold</target>
+      </segment>
+    </unit>
+    <unit id="7XzMW2Z" name="e674eae">
+      <segment>
+        <source>The number of Behaviour concerns needed in the past 60 days to raise a high level Behaviour alert on a student.</source>
+        <target>The number of Behaviour concerns needed in the past 60 days to raise a high level Behaviour alert on a student.</target>
+      </segment>
+    </unit>
+    <unit id="B3wwRRN" name="Extended Brief Profile">
+      <segment>
+        <source>Extended Brief Profile</source>
+        <target>Extended Brief Profile</target>
+      </segment>
+    </unit>
+    <unit id="_wPeBHA" name="2f1fa24">
+      <segment>
+        <source>The extended version of the brief student profile includes contact information of parents.</source>
+        <target>The extended version of the brief student profile includes contact information of parents.</target>
+      </segment>
+    </unit>
+    <unit id="ax1LSRY" name="Student Agreement Options">
+      <segment>
+        <source>Student Agreement Options</source>
+        <target>Student Agreement Options</target>
+      </segment>
+    </unit>
+    <unit id="uY5W.UA" name="5e11cf4">
+      <segment>
+        <source>List of agreements that students might be asked to sign in school (e.g. ICT Policy).</source>
+        <target>List of agreements that students might be asked to sign in school (e.g. ICT Policy).</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

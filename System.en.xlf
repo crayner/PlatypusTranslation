@@ -481,5 +481,23 @@
         <target>Activity Settings</target>
       </segment>
     </unit>
+    <unit id="PB02VC6" name="section.header.people">
+      <segment>
+        <source>section.header.people</source>
+        <target>People</target>
+      </segment>
+    </unit>
+    <unit id="OQF9pkt" name="manage_student_settings">
+      <segment>
+        <source>manage_student_settings</source>
+        <target>Manage Student Settings</target>
+      </segment>
+    </unit>
+    <unit id="Kw3N1AA" name="actions">
+      <segment>
+        <source>actions</source>
+        <target>Actions</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
