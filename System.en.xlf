@@ -463,5 +463,23 @@
         <target>Descriptors</target>
       </segment>
     </unit>
+    <unit id="E_A28cQ" name="Access Settings">
+      <segment>
+        <source>Access Settings</source>
+        <target>Access Settings</target>
+      </segment>
+    </unit>
+    <unit id="B2so4LP" name="manage_activities_settings">
+      <segment>
+        <source>manage_activities_settings</source>
+        <target>Manage Activity Settings</target>
+      </segment>
+    </unit>
+    <unit id="7P3UHyC" name="Activity Settings">
+      <segment>
+        <source>Activity Settings</source>
+        <target>Activity Settings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

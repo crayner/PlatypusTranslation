@@ -313,5 +313,275 @@
         <target>URL to background image used behind library browsing screen.</target>
       </segment>
     </unit>
+    <unit id="ulfMDCk" name="Date Type">
+      <segment>
+        <source>Date Type</source>
+        <target>Date Type</target>
+      </segment>
+    </unit>
+    <unit id="9SS43J_" name="Should activities be organised around dates (flexible) or terms (easy)?">
+      <segment>
+        <source>Should activities be organised around dates (flexible) or terms (easy)?</source>
+        <target>Should activities be organised around dates (flexible) or terms (easy)?</target>
+      </segment>
+    </unit>
+    <unit id="Qi1C8vt" name="activities.date_type.date">
+      <segment>
+        <source>activities.date_type.date</source>
+        <target>Date</target>
+      </segment>
+    </unit>
+    <unit id="kUQHhTh" name="activities.date_type.term">
+      <segment>
+        <source>activities.date_type.term</source>
+        <target>Term</target>
+      </segment>
+    </unit>
+    <unit id="5_3myVV" name="Maximum Activities per Term">
+      <segment>
+        <source>Maximum Activities per Term</source>
+        <target>Maximum Activities per Term</target>
+      </segment>
+    </unit>
+    <unit id="izYtWCg" name="The most a student can sign up for in one term. Set to 0 for unlimited.">
+      <segment>
+        <source>The most a student can sign up for in one term. Set to 0 for unlimited.</source>
+        <target>The most a student can sign up for in one term. Set to 0 for unlimited.</target>
+      </segment>
+    </unit>
+    <unit id="7Fugq7c" name="Access">
+      <segment>
+        <source>Access</source>
+        <target>Access</target>
+      </segment>
+    </unit>
+    <unit id="y83jlv2" name="System-wide access control">
+      <segment>
+        <source>System-wide access control</source>
+        <target>System-wide access control</target>
+      </segment>
+    </unit>
+    <unit id="YpqUUF3" name="activities.access.none">
+      <segment>
+        <source>activities.access.none</source>
+        <target>None</target>
+      </segment>
+    </unit>
+    <unit id="pYx7_K5" name="activities.access.view">
+      <segment>
+        <source>activities.access.view</source>
+        <target>View</target>
+      </segment>
+    </unit>
+    <unit id="kiYlSCy" name="activities.access.register">
+      <segment>
+        <source>activities.access.register</source>
+        <target>Register</target>
+      </segment>
+    </unit>
+    <unit id="cEjzizP" name="Payment">
+      <segment>
+        <source>Payment</source>
+        <target>Payment</target>
+      </segment>
+    </unit>
+    <unit id="ivoNYMR" name="Payment system">
+      <segment>
+        <source>Payment system</source>
+        <target>Payment system</target>
+      </segment>
+    </unit>
+    <unit id="FLunwkM" name="activities.payment.none">
+      <segment>
+        <source>activities.payment.none</source>
+        <target>None</target>
+      </segment>
+    </unit>
+    <unit id="tA423Ei" name="activities.payment.single">
+      <segment>
+        <source>activities.payment.single</source>
+        <target>Single</target>
+      </segment>
+    </unit>
+    <unit id="nKFB2w2" name="activities.payment.per_activity">
+      <segment>
+        <source>activities.payment.per_activity</source>
+        <target>Per Activity</target>
+      </segment>
+    </unit>
+    <unit id="UYWp9wT" name="activities.payment.single_per_activity">
+      <segment>
+        <source>activities.payment.single_per_activity</source>
+        <target><![CDATA[Single & Per Activity]]></target>
+      </segment>
+    </unit>
+    <unit id="2E3CWKE" name="Enrolment Type">
+      <segment>
+        <source>Enrolment Type</source>
+        <target>Enrolment Type</target>
+      </segment>
+    </unit>
+    <unit id="IJaRAvz" name="Enrolment process type">
+      <segment>
+        <source>Enrolment process type</source>
+        <target>Enrolment process type</target>
+      </segment>
+    </unit>
+    <unit id="dd_XBtH" name="activities.enrolment_type.competitive">
+      <segment>
+        <source>activities.enrolment_type.competitive</source>
+        <target>Competitive</target>
+      </segment>
+    </unit>
+    <unit id="FHJ04hX" name="activities.enrolment_type.selection">
+      <segment>
+        <source>activities.enrolment_type.selection</source>
+        <target>Selection</target>
+      </segment>
+    </unit>
+    <unit id="yN72coz" name="Backup Choice">
+      <segment>
+        <source>Backup Choice</source>
+        <target>Backup Choice</target>
+      </segment>
+    </unit>
+    <unit id="dOV6YIQ" name="Allow students to choose a backup, in case enroled activity is full.">
+      <segment>
+        <source>Allow students to choose a backup, in case enroled activity is full.</source>
+        <target>Allow students to choose a backup, in case enroled activity is full.</target>
+      </segment>
+    </unit>
+    <unit id="RcUC_ji" name="Teacher's Notes Template">
+      <segment>
+        <source>Teacher's Notes Template</source>
+        <target>Teacher's Notes Template</target>
+      </segment>
+    </unit>
+    <unit id="YgWAMVJ" name="Template to be inserted into Teacher's Notes field">
+      <segment>
+        <source>Template to be inserted into Teacher's Notes field</source>
+        <target>Template to be inserted into Teacher's Notes field</target>
+      </segment>
+    </unit>
+    <unit id="XPxLeCI" name="Unit Outline Template">
+      <segment>
+        <source>Unit Outline Template</source>
+        <target>Unit Outline Template</target>
+      </segment>
+    </unit>
+    <unit id="R.RhiF2" name="Template to be inserted into Unit Outline section of planner">
+      <segment>
+        <source>Template to be inserted into Unit Outline section of planner</source>
+        <target>Template to be inserted into Unit Outline section of planner</target>
+      </segment>
+    </unit>
+    <unit id="uS2_kWc" name="Smart Block Template">
+      <segment>
+        <source>Smart Block Template</source>
+        <target>Smart Block Template</target>
+      </segment>
+    </unit>
+    <unit id="mSQsRhf" name="Template to be inserted into new block in Smart Unit">
+      <segment>
+        <source>Template to be inserted into new block in Smart Unit</source>
+        <target>Template to be inserted into new block in Smart Unit</target>
+      </segment>
+    </unit>
+    <unit id="sq2Ra7m" name="Make Units Public">
+      <segment>
+        <source>Make Units Public</source>
+        <target>Make Units Public</target>
+      </segment>
+    </unit>
+    <unit id="GoGu3X7" name="Enables a public listing of units, with teachers able to opt in to share units.">
+      <segment>
+        <source>Enables a public listing of units, with teachers able to opt in to share units.</source>
+        <target>Enables a public listing of units, with teachers able to opt in to share units.</target>
+      </segment>
+    </unit>
+    <unit id="GW4k9pA" name="Share Unit Outline">
+      <segment>
+        <source>Share Unit Outline</source>
+        <target>Share Unit Outline</target>
+      </segment>
+    </unit>
+    <unit id="I0y88Ke" name="957b415">
+      <segment>
+        <source>Allow users who do not have access to the unit planner to see Unit Outlines via the lesson planner?</source>
+        <target>Allow users who do not have access to the unit planner to see Unit Outlines via the lesson planner?</target>
+      </segment>
+    </unit>
+    <unit id="qHbhs7h" name="Allow Outcome Editing">
+      <segment>
+        <source>Allow Outcome Editing</source>
+        <target>Allow Outcome Editing</target>
+      </segment>
+    </unit>
+    <unit id="7Dw2NU1" name="Should the text within outcomes be editable when planning lessons and units?">
+      <segment>
+        <source>Should the text within outcomes be editable when planning lessons and units?</source>
+        <target>Should the text within outcomes be editable when planning lessons and units?</target>
+      </segment>
+    </unit>
+    <unit id="3io7qLR" name="Sharing Default: Parents">
+      <segment>
+        <source>Sharing Default: Parents</source>
+        <target>Sharing Default: Parents</target>
+      </segment>
+    </unit>
+    <unit id="sv.a2nN" name="When adding lessons and deploying units, should sharing default for parents?">
+      <segment>
+        <source>When adding lessons and deploying units, should sharing default for parents?</source>
+        <target>When adding lessons and deploying units, should sharing default for parents?</target>
+      </segment>
+    </unit>
+    <unit id="MqXewOx" name="Sharing Default: Students">
+      <segment>
+        <source>Sharing Default: Students</source>
+        <target>Sharing Default: Students</target>
+      </segment>
+    </unit>
+    <unit id="U9Kjtbl" name="When adding lessons and deploying units, should sharing default for students?">
+      <segment>
+        <source>When adding lessons and deploying units, should sharing default for students?</source>
+        <target>When adding lessons and deploying units, should sharing default for students?</target>
+      </segment>
+    </unit>
+    <unit id="uDF9WHm" name="Activity Types">
+      <segment>
+        <source>Activity Types</source>
+        <target>Activity Types</target>
+      </segment>
+    </unit>
+    <unit id="sQ9vasi" name="cfebe77">
+      <segment>
+        <source>List of the different activity types available in school. Leave blank to disable this feature.</source>
+        <target>List of the different activity types available in school. Leave blank to disable this feature.</target>
+      </segment>
+    </unit>
+    <unit id="z2E6PGL" name="Disable External Provider Signup">
+      <segment>
+        <source>Disable External Provider Signup</source>
+        <target>Disable External Provider Signup</target>
+      </segment>
+    </unit>
+    <unit id="YRx7SDr" name="7b71da1">
+      <segment>
+        <source>Should we turn off the option to sign up for activities provided by an outside agency?</source>
+        <target>Should we turn off the option to sign up for activities provided by an outside agency?</target>
+      </segment>
+    </unit>
+    <unit id="ZsIi0E9" name="Hide External Provider Cost">
+      <segment>
+        <source>Hide External Provider Cost</source>
+        <target>Hide External Provider Cost</target>
+      </segment>
+    </unit>
+    <unit id="rkSC8X." name="2398b0b">
+      <segment>
+        <source>Should we hide the cost of activities provided by an outside agency from the Activities View?</source>
+        <target>Should we hide the cost of activities provided by an outside agency from the Activities View?</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
