@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Setting.en">
+    <unit id="jjeVPSP" name="Value">
+      <segment>
+        <source>Value</source>
+        <target>Value</target>
+      </segment>
+    </unit>
+    <unit id="uLHYlMa" name="Categories">
+      <segment>
+        <source>Categories</source>
+        <target>Categories</target>
+      </segment>
+    </unit>
+    <unit id="GhlZS12" name="Allowable choices for category.">
+      <segment>
+        <source>Allowable choices for category.</source>
+        <target>Allowable choices for category.</target>
+      </segment>
+    </unit>
+    <unit id="yVGy_MC" name="Purposes (General)">
+      <segment>
+        <source>Purposes (General)</source>
+        <target>Purposes (General)</target>
+      </segment>
+    </unit>
+    <unit id="NIu..NL" name="Allowable choices for purpose when creating a resource.">
+      <segment>
+        <source>Allowable choices for purpose when creating a resource.</source>
+        <target>Allowable choices for purpose when creating a resource.</target>
+      </segment>
+    </unit>
+    <unit id="_y2w04." name="Purposes (Restricted) ">
+      <segment>
+        <source>Purposes (Restricted) </source>
+        <target>Purposes (Restricted) </target>
+      </segment>
+    </unit>
+    <unit id="yi_oFWD" name="1730353">
+      <segment>
+        <source>Additional allowable choices for purpose when creating a resource, for those with "Manage All Resources" rights.</source>
+        <target>Additional allowable choices for purpose when creating a resource, for those with "Manage All Resources" rights.</target>
+      </segment>
+    </unit>
+    <unit id="owLb8kL" name="yaml.validation.error">
+      <segment>
+        <source>yaml.validation.error</source>
+        <target>Parse Error: %systemMessage%</target>
+      </segment>
+    </unit>
+    <unit id="xAG74Wv" name="Lesson Details Template">
+      <segment>
+        <source>Lesson Details Template</source>
+        <target>Lesson Details Template</target>
+      </segment>
+    </unit>
+    <unit id="z8vl6ct" name="Template to be inserted into Lesson Details field">
+      <segment>
+        <source>Template to be inserted into Lesson Details field</source>
+        <target>Template to be inserted into Lesson Details field</target>
+      </segment>
+    </unit>
+    <unit id="c4NHIuO" name="Parent Weekly Email Summary Include Behaviour">
+      <segment>
+        <source>Parent Weekly Email Summary Include Behaviour</source>
+        <target>Parent Weekly Email Summary Include Behaviour</target>
+      </segment>
+    </unit>
+    <unit id="s1QvKKX" name="a1a7372">
+      <segment>
+        <source>Should behaviour information be included in the weekly planner email summary that goes out to parents?</source>
+        <target>Should behaviour information be included in the weekly planner email summary that goes out to parents?</target>
+      </segment>
+    </unit>
+    <unit id="jbkaSKW" name="Parent Weekly Email Summary Include Markbook">
+      <segment>
+        <source>Parent Weekly Email Summary Include Markbook</source>
+        <target>Parent Weekly Email Summary Include Markbook</target>
+      </segment>
+    </unit>
+    <unit id="jU86BII" name="155c668">
+      <segment>
+        <source>Should Markbook information be included in the weekly planner email summary that goes out to parents?</source>
+        <target>Should Markbook information be included in the weekly planner email summary that goes out to parents?</target>
+      </segment>
+    </unit>
+    <unit id="qqsaCrw" name="Default Loan Length">
+      <segment>
+        <source>Default Loan Length</source>
+        <target>Default Loan Length</target>
+      </segment>
+    </unit>
+    <unit id="aQqEsmC" name="The standard loan length for a library item, in days">
+      <segment>
+        <source>The standard loan length for a library item, in days</source>
+        <target>The standard loan length for a library item, in days</target>
+      </segment>
+    </unit>
+    <unit id="X_zrZv." name="0">
+      <segment>
+        <source>0</source>
+        <target>0</target>
+      </segment>
+    </unit>
+    <unit id="a4ayc.8" name="1">
+      <segment>
+        <source>1</source>
+        <target>1</target>
+      </segment>
+    </unit>
+    <unit id="1HNeOiZ" name="2">
+      <segment>
+        <source>2</source>
+        <target>2</target>
+      </segment>
+    </unit>
+    <unit id="TgdAhWK" name="3">
+      <segment>
+        <source>3</source>
+        <target>3</target>
+      </segment>
+    </unit>
+    <unit id="SyJ3d9T" name="4">
+      <segment>
+        <source>4</source>
+        <target>4</target>
+      </segment>
+    </unit>
+    <unit id="7y0SfeN" name="5">
+      <segment>
+        <source>5</source>
+        <target>5</target>
+      </segment>
+    </unit>
+    <unit id="5.bAEXd" name="6">
+      <segment>
+        <source>6</source>
+        <target>6</target>
+      </segment>
+    </unit>
+    <unit id="eQJpm_Q" name="7">
+      <segment>
+        <source>7</source>
+        <target>7</target>
+      </segment>
+    </unit>
+    <unit id="LGJCMs3" name="8">
+      <segment>
+        <source>8</source>
+        <target>8</target>
+      </segment>
+    </unit>
+    <unit id="GVgeJ95" name="9">
+      <segment>
+        <source>9</source>
+        <target>9</target>
+      </segment>
+    </unit>
+    <unit id="SkTcFTZ" name="10">
+      <segment>
+        <source>10</source>
+        <target>10</target>
+      </segment>
+    </unit>
+    <unit id="T8grJq7" name="11">
+      <segment>
+        <source>11</source>
+        <target>11</target>
+      </segment>
+    </unit>
+    <unit id="a1HUMd9" name="12">
+      <segment>
+        <source>12</source>
+        <target>12</target>
+      </segment>
+    </unit>
+    <unit id="P9ujXwT" name="13">
+      <segment>
+        <source>13</source>
+        <target>13</target>
+      </segment>
+    </unit>
+    <unit id="hSeokeI" name="14">
+      <segment>
+        <source>14</source>
+        <target>14</target>
+      </segment>
+    </unit>
+    <unit id="5in6ZZj" name="15">
+      <segment>
+        <source>15</source>
+        <target>15</target>
+      </segment>
+    </unit>
+    <unit id="sX720Zx" name="16">
+      <segment>
+        <source>16</source>
+        <target>16</target>
+      </segment>
+    </unit>
+    <unit id="RSNUDxU" name="17">
+      <segment>
+        <source>17</source>
+        <target>17</target>
+      </segment>
+    </unit>
+    <unit id="TslZn8I" name="18">
+      <segment>
+        <source>18</source>
+        <target>18</target>
+      </segment>
+    </unit>
+    <unit id="lADxshy" name="19">
+      <segment>
+        <source>19</source>
+        <target>19</target>
+      </segment>
+    </unit>
+    <unit id="9co490i" name="20">
+      <segment>
+        <source>20</source>
+        <target>20</target>
+      </segment>
+    </unit>
+    <unit id="b0tmEhJ" name="21">
+      <segment>
+        <source>21</source>
+        <target>21</target>
+      </segment>
+    </unit>
+    <unit id="eF8_x_s" name="22">
+      <segment>
+        <source>22</source>
+        <target>22</target>
+      </segment>
+    </unit>
+    <unit id="U1_jDX4" name="23">
+      <segment>
+        <source>23</source>
+        <target>23</target>
+      </segment>
+    </unit>
+    <unit id="wjVgaen" name="24">
+      <segment>
+        <source>24</source>
+        <target>24</target>
+      </segment>
+    </unit>
+    <unit id="t6Voc81" name="25">
+      <segment>
+        <source>25</source>
+        <target>25</target>
+      </segment>
+    </unit>
+    <unit id="X5xKsIy" name="26">
+      <segment>
+        <source>26</source>
+        <target>26</target>
+      </segment>
+    </unit>
+    <unit id="ZwZxzZd" name="27">
+      <segment>
+        <source>27</source>
+        <target>27</target>
+      </segment>
+    </unit>
+    <unit id="WeGXBtU" name="28">
+      <segment>
+        <source>28</source>
+        <target>28</target>
+      </segment>
+    </unit>
+    <unit id="NRNaqmz" name="29">
+      <segment>
+        <source>29</source>
+        <target>29</target>
+      </segment>
+    </unit>
+    <unit id="YktgxYy" name="30">
+      <segment>
+        <source>30</source>
+        <target>30</target>
+      </segment>
+    </unit>
+    <unit id="6x4z6Kg" name="31">
+      <segment>
+        <source>31</source>
+        <target>31</target>
+      </segment>
+    </unit>
+    <unit id="duZtC.B" name="Browse Library BG Colour ">
+      <segment>
+        <source>Browse Library BG Colour </source>
+        <target>Browse Library BG Colour </target>
+      </segment>
+    </unit>
+    <unit id="s6jZc2g" name="Background colour used behind library browsing screen.">
+      <segment>
+        <source>Background colour used behind library browsing screen.</source>
+        <target>Background colour used behind library browsing screen.</target>
+      </segment>
+    </unit>
+    <unit id="omyw1BQ" name="Browse Library BG Image">
+      <segment>
+        <source>Browse Library BG Image</source>
+        <target>Browse Library BG Image</target>
+      </segment>
+    </unit>
+    <unit id="88Nu5b2" name="URL to background image used behind library browsing screen.">
+      <segment>
+        <source>URL to background image used behind library browsing screen.</source>
+        <target>URL to background image used behind library browsing screen.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

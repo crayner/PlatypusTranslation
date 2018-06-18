@@ -451,5 +451,17 @@
         <target>Home</target>
       </segment>
     </unit>
+    <unit id="KI4_Tam" name="manage_library_settings">
+      <segment>
+        <source>manage_library_settings</source>
+        <target>Manage Library Settings</target>
+      </segment>
+    </unit>
+    <unit id="Pnfnvzf" name="Descriptors">
+      <segment>
+        <source>Descriptors</source>
+        <target>Descriptors</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
