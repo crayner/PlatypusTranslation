@@ -679,5 +679,41 @@
         <target>List of agreements that students might be asked to sign in school (e.g. ICT Policy).</target>
       </segment>
     </unit>
+    <unit id="rppjoko" name="Enable Student Notes">
+      <segment>
+        <source>Enable Student Notes</source>
+        <target>Enable Student Notes</target>
+      </segment>
+    </unit>
+    <unit id="ly7UjLJ" name="Should student notes be turned on?">
+      <segment>
+        <source>Should student notes be turned on?</source>
+        <target>Should student notes be turned on?</target>
+      </segment>
+    </unit>
+    <unit id="HSbus48" name="Note Creation Notification">
+      <segment>
+        <source>Note Creation Notification</source>
+        <target>Note Creation Notification</target>
+      </segment>
+    </unit>
+    <unit id="e5Dgd5l" name="Determines who to notify when a new student note is created.">
+      <segment>
+        <source>Determines who to notify when a new student note is created.</source>
+        <target>Determines who to notify when a new student note is created.</target>
+      </segment>
+    </unit>
+    <unit id="_jFbSJq" name="students.note_creation_notification.tutors">
+      <segment>
+        <source>students.note_creation_notification.tutors</source>
+        <target>Tutors</target>
+      </segment>
+    </unit>
+    <unit id="Icx3laR" name="students.note_creation_notification.tutors_teachers">
+      <segment>
+        <source>students.note_creation_notification.tutors_teachers</source>
+        <target><![CDATA[Tutors & Teachers]]></target>
+      </segment>
+    </unit>
   </file>
 </xliff>

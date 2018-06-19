@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Student.en">
+    <unit id="zDzrnu9" name="student.note.category.header">
+      <segment>
+        <source>student.note.category.header</source>
+        <target>Student Note Categories</target>
+      </segment>
+    </unit>
+    <unit id="SAknZ_0" name="student.note.category.description">
+      <segment>
+        <source>student.note.category.description</source>
+        <target>This section allows you to manage the categories which can be associated with student notes. Categories can be given templates, which will pre-populate the student note on selection.</target>
+      </segment>
+    </unit>
+    <unit id="IArdtw8" name="student_note_category.name.label">
+      <segment>
+        <source>student_note_category.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="O6G51Q2" name="student_note_category.template.label">
+      <segment>
+        <source>student_note_category.template.label</source>
+        <target>Template</target>
+      </segment>
+    </unit>
+    <unit id="EWrZ0JH" name="student_note_category.active.label">
+      <segment>
+        <source>student_note_category.active.label</source>
+        <target>Active</target>
+      </segment>
+    </unit>
+    <unit id="le023yQ" name="__name__label__">
+      <segment>
+        <source>__name__label__</source>
+        <target>__name__label__</target>
+      </segment>
+    </unit>
+    <unit id="75xTPuA" name="student_note_category.template.help">
+      <segment>
+        <source>student_note_category.template.help</source>
+        <target>HTML code to be inserted into blank note.</target>
+      </segment>
+    </unit>
+    <unit id="4T7Lp61" name="student_note_category.template.open">
+      <segment>
+        <source>student_note_category.template.open</source>
+        <target>Open Template</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
