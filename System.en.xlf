@@ -613,5 +613,59 @@
         <target>Toggle Hidden Fields</target>
       </segment>
     </unit>
+    <unit id="l2JTV22" name="manage_alert_levels">
+      <segment>
+        <source>manage_alert_levels</source>
+        <target>Manage Alert Levels</target>
+      </segment>
+    </unit>
+    <unit id="FugLubS" name="alert_level_header">
+      <segment>
+        <source>alert_level_header</source>
+        <target>Manage Alert Levels</target>
+      </segment>
+    </unit>
+    <unit id="7.sc6xd" name="New Alert Level">
+      <segment>
+        <source>New Alert Level</source>
+        <target>New Alert Level</target>
+      </segment>
+    </unit>
+    <unit id="0NDrCl7" name="alert_level.name.label">
+      <segment>
+        <source>alert_level.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="3NHVIj9" name="Name">
+      <segment>
+        <source>Name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="ZNLMoeS" name="alert_level.name_short.label">
+      <segment>
+        <source>alert_level.name_short.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="tJndgiv" name="alert_level.colour.label">
+      <segment>
+        <source>alert_level.colour.label</source>
+        <target>Font/Border Colour</target>
+      </segment>
+    </unit>
+    <unit id="1DKcPCJ" name="alert_level.colour_bg.label">
+      <segment>
+        <source>alert_level.colour_bg.label</source>
+        <target>Background Colour</target>
+      </segment>
+    </unit>
+    <unit id="3Bcnhu1" name="alert_level.description.label">
+      <segment>
+        <source>alert_level.description.label</source>
+        <target>Description</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
