@@ -667,5 +667,41 @@
         <target>Description</target>
       </segment>
     </unit>
+    <unit id="kMRcRoi" name="The colour type must be one of 'any', 'hex', 'rgb', 'rgba', 'hsl'.">
+      <segment>
+        <source>The colour type must be one of 'any', 'hex', 'rgb', 'rgba', 'hsl'.</source>
+        <target>The colour type must be one of 'any', 'hex', 'rgb', 'rgba', 'hsl'.</target>
+      </segment>
+    </unit>
+    <unit id="hHtEUvi" name="manage_messenger_settings">
+      <segment>
+        <source>manage_messenger_settings</source>
+        <target>Manage Messenger Settings</target>
+      </segment>
+    </unit>
+    <unit id="mRXL2Vb" name="SMS Settings">
+      <segment>
+        <source>SMS Settings</source>
+        <target>SMS Settings</target>
+      </segment>
+    </unit>
+    <unit id=".x1OmDM" name="df7d120">
+      <segment>
+        <source>Gibbon is designed to use the &lt;a href="http://onewaysms.com" target="_blank"&gt;One Way SMS&lt;/a&gt; gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.</source>
+        <target><![CDATA[Gibbon is designed to use the <a href="http://onewaysms.com" target="_blank">One Way SMS</a> gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.]]></target>
+      </segment>
+    </unit>
+    <unit id="dhGeZrD" name="Message Wall Settings">
+      <segment>
+        <source>Message Wall Settings</source>
+        <target>Message Wall Settings</target>
+      </segment>
+    </unit>
+    <unit id="X3NScY7" name="section.header.other">
+      <segment>
+        <source>section.header.other</source>
+        <target>Other</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

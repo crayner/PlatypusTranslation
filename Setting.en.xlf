@@ -949,5 +949,113 @@
         <target>Should Attendance by Person be pre-filled with data available from other contexts?</target>
       </segment>
     </unit>
+    <unit id="zDAIdvI" name="SMS Username ">
+      <segment>
+        <source>SMS Username </source>
+        <target>SMS Username </target>
+      </segment>
+    </unit>
+    <unit id="uuInXQB" name="SMS gateway username.">
+      <segment>
+        <source>SMS gateway username.</source>
+        <target>SMS gateway username.</target>
+      </segment>
+    </unit>
+    <unit id="nq2Jh.U" name="SMS Password ">
+      <segment>
+        <source>SMS Password </source>
+        <target>SMS Password </target>
+      </segment>
+    </unit>
+    <unit id="_OH4xYR" name="SMS gateway password.">
+      <segment>
+        <source>SMS gateway password.</source>
+        <target>SMS gateway password.</target>
+      </segment>
+    </unit>
+    <unit id="AOT6gn_" name="SMS URL">
+      <segment>
+        <source>SMS URL</source>
+        <target>SMS URL</target>
+      </segment>
+    </unit>
+    <unit id="lvvaf8X" name="SMS gateway URL for send requests.">
+      <segment>
+        <source>SMS gateway URL for send requests.</source>
+        <target>SMS gateway URL for send requests.</target>
+      </segment>
+    </unit>
+    <unit id="oAbkagu" name="SMS URL Credit">
+      <segment>
+        <source>SMS URL Credit</source>
+        <target>SMS URL Credit</target>
+      </segment>
+    </unit>
+    <unit id="cyV9TN_" name="SMS gateway URL for checking credit.">
+      <segment>
+        <source>SMS gateway URL for checking credit.</source>
+        <target>SMS gateway URL for checking credit.</target>
+      </segment>
+    </unit>
+    <unit id="f6j7zsD" name="Message Bubble Width Type">
+      <segment>
+        <source>Message Bubble Width Type</source>
+        <target>Message Bubble Width Type</target>
+      </segment>
+    </unit>
+    <unit id="uz4c2.U" name="Should the message bubble be regular or wide?">
+      <segment>
+        <source>Should the message bubble be regular or wide?</source>
+        <target>Should the message bubble be regular or wide?</target>
+      </segment>
+    </unit>
+    <unit id="uMMGEMz" name="messenger.message_bubble_width_type.regular">
+      <segment>
+        <source>messenger.message_bubble_width_type.regular</source>
+        <target>Regular</target>
+      </segment>
+    </unit>
+    <unit id="xWUJq7Z" name="messenger.message_bubble_width_type.wide">
+      <segment>
+        <source>messenger.message_bubble_width_type.wide</source>
+        <target>Wide</target>
+      </segment>
+    </unit>
+    <unit id="BNzAJ9i" name="Message Bubble Background Colour">
+      <segment>
+        <source>Message Bubble Background Colour</source>
+        <target>Message Bubble Background Colour</target>
+      </segment>
+    </unit>
+    <unit id="oFi4idn" name="cd0e860">
+      <segment>
+        <source>Message bubble background colour in RGBA (e.g. 100,100,100,0.50). If blank, theme default will be used.</source>
+        <target>Message bubble background colour in RGBA (e.g. 100,100,100,0.50). If blank, theme default will be used.</target>
+      </segment>
+    </unit>
+    <unit id="Okn.XRA" name="Message Bubble Auto Hide">
+      <segment>
+        <source>Message Bubble Auto Hide</source>
+        <target>Message Bubble Auto Hide</target>
+      </segment>
+    </unit>
+    <unit id="0fgRk0h" name="Should message bubble fade out automatically?">
+      <segment>
+        <source>Should message bubble fade out automatically?</source>
+        <target>Should message bubble fade out automatically?</target>
+      </segment>
+    </unit>
+    <unit id="LqAQ46U" name="Enable Home Screen Widget">
+      <segment>
+        <source>Enable Home Screen Widget</source>
+        <target>Enable Home Screen Widget</target>
+      </segment>
+    </unit>
+    <unit id="2MgIEFW" name="Adds a Message Wall widget to the home page, highlighting current messages.">
+      <segment>
+        <source>Adds a Message Wall widget to the home page, highlighting current messages.</source>
+        <target>Adds a Message Wall widget to the home page, highlighting current messages.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
