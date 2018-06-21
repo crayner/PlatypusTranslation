@@ -439,5 +439,131 @@
         <target>Short Name</target>
       </segment>
     </unit>
+    <unit id="6Meh5uk" name="Default Roll Group Attendance Type">
+      <segment>
+        <source>Default Roll Group Attendance Type</source>
+        <target>Default Roll Group Attendance Type</target>
+      </segment>
+    </unit>
+    <unit id="pwYyJzK" name="The default selection for attendance type when taking Roll Group attendance.">
+      <segment>
+        <source>The default selection for attendance type when taking Roll Group attendance.</source>
+        <target>The default selection for attendance type when taking Roll Group attendance.</target>
+      </segment>
+    </unit>
+    <unit id="dQ3tmAe" name="Default Class Attendance Type">
+      <segment>
+        <source>Default Class Attendance Type</source>
+        <target>Default Class Attendance Type</target>
+      </segment>
+    </unit>
+    <unit id="82A_5u9" name="The default selection for attendance type when taking Class attendance.">
+      <segment>
+        <source>The default selection for attendance type when taking Class attendance.</source>
+        <target>The default selection for attendance type when taking Class attendance.</target>
+      </segment>
+    </unit>
+    <unit id="dseZJHc" name="Student Self Registration IP Addresses">
+      <segment>
+        <source>Student Self Registration IP Addresses</source>
+        <target>Student Self Registration IP Addresses</target>
+      </segment>
+    </unit>
+    <unit id="_nV2au_" name="List of IP addresses within which students can self register.">
+      <segment>
+        <source>List of IP addresses within which students can self register.</source>
+        <target>List of IP addresses within which students can self register.</target>
+      </segment>
+    </unit>
+    <unit id="_v7nWY1" name="Self Registration Redirect">
+      <segment>
+        <source>Self Registration Redirect</source>
+        <target>Self Registration Redirect</target>
+      </segment>
+    </unit>
+    <unit id="eERdIt3" name="Should self registration redirect to Message Wall?">
+      <segment>
+        <source>Should self registration redirect to Message Wall?</source>
+        <target>Should self registration redirect to Message Wall?</target>
+      </segment>
+    </unit>
+    <unit id="uWEjDaV" name="Enable Notifications by Roll Group">
+      <segment>
+        <source>Enable Notifications by Roll Group</source>
+        <target>Enable Notifications by Roll Group</target>
+      </segment>
+    </unit>
+    <unit id="inpWSGW" name="Enable Notifications by Class">
+      <segment>
+        <source>Enable Notifications by Class</source>
+        <target>Enable Notifications by Class</target>
+      </segment>
+    </unit>
+    <unit id="azpiiNI" name="Additional Users to Notify">
+      <segment>
+        <source>Additional Users to Notify</source>
+        <target>Additional Users to Notify</target>
+      </segment>
+    </unit>
+    <unit id="o3LNMXf" name="6d0263c">
+      <segment>
+        <source>Send the school-wide daily attendance report to additional users. Restricted to roles with permission to access Roll Groups Not Registered or Classes Not Registered.&lt;br/&gt;Use Control, Command and/or Shift to select multiple</source>
+        <target><![CDATA[Send the school-wide daily attendance report to additional users. Restricted to roles with permission to access Roll Groups Not Registered or Classes Not Registered.<br/>Use Control, Command and/or Shift to select multiple]]></target>
+      </segment>
+    </unit>
+    <unit id="X.2g8sN" name="attendance.attendance_cli_notify_by_class.do this list..">
+      <segment>
+        <source>attendance.attendance_cli_notify_by_class.do this list..</source>
+        <target>attendance.attendance_cli_notify_by_class.do this list..</target>
+      </segment>
+    </unit>
+    <unit id="1qMZ5V0" name="attendance.attendance_cli_notify_by_class.Needs Staff table defined.">
+      <segment>
+        <source>attendance.attendance_cli_notify_by_class.Needs Staff table defined.</source>
+        <target>attendance.attendance_cli_notify_by_class.Needs Staff table defined.</target>
+      </segment>
+    </unit>
+    <unit id="Q.m4nAu" name="Present">
+      <segment>
+        <source>Present</source>
+        <target>Present</target>
+      </segment>
+    </unit>
+    <unit id="v.Thsso" name="Present - Late">
+      <segment>
+        <source>Present - Late</source>
+        <target>Present - Late</target>
+      </segment>
+    </unit>
+    <unit id="dKr_bqP" name="Present - Offsite">
+      <segment>
+        <source>Present - Offsite</source>
+        <target>Present - Offsite</target>
+      </segment>
+    </unit>
+    <unit id="hP0298v" name="Absent">
+      <segment>
+        <source>Absent</source>
+        <target>Absent</target>
+      </segment>
+    </unit>
+    <unit id="WOuQMuO" name="Left">
+      <segment>
+        <source>Left</source>
+        <target>Left</target>
+      </segment>
+    </unit>
+    <unit id="w07ZhM7" name="attendance.attendance_cli_additional_users.do this list..">
+      <segment>
+        <source>attendance.attendance_cli_additional_users.do this list..</source>
+        <target>do this list..</target>
+      </segment>
+    </unit>
+    <unit id="9gAWZIn" name="attendance.attendance_cli_additional_users.Needs Staff table defined.">
+      <segment>
+        <source>attendance.attendance_cli_additional_users.Needs Staff table defined.</source>
+        <target>Needs Staff table defined.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

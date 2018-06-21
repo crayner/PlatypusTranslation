@@ -49,5 +49,137 @@
         <target>Open Template</target>
       </segment>
     </unit>
+    <unit id="9.vnAIx" name="attendance_code.name_short.label">
+      <segment>
+        <source>attendance_code.name_short.label</source>
+        <target>Code</target>
+      </segment>
+    </unit>
+    <unit id="V6TLoHk" name="attendance_code.name.label">
+      <segment>
+        <source>attendance_code.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="7mnEHGB" name="attendance_code.direction.label">
+      <segment>
+        <source>attendance_code.direction.label</source>
+        <target>Direction</target>
+      </segment>
+    </unit>
+    <unit id="pDF9Vy0" name="attendance_code.scope.label">
+      <segment>
+        <source>attendance_code.scope.label</source>
+        <target>Scope</target>
+      </segment>
+    </unit>
+    <unit id="lus0g3d" name="attendance_code.active.label">
+      <segment>
+        <source>attendance_code.active.label</source>
+        <target>Active</target>
+      </segment>
+    </unit>
+    <unit id="nBkMkVT" name="attendance_code.type.placeholder">
+      <segment>
+        <source>attendance_code.type.placeholder</source>
+        <target>Select...</target>
+      </segment>
+    </unit>
+    <unit id="02J_Wdv" name="attendancecode.type.core">
+      <segment>
+        <source>attendancecode.type.core</source>
+        <target>Core</target>
+      </segment>
+    </unit>
+    <unit id="shMeqn4" name="attendancecode.type.additional">
+      <segment>
+        <source>attendancecode.type.additional</source>
+        <target>Additional</target>
+      </segment>
+    </unit>
+    <unit id="epXXm00" name="attendance_code.type.label">
+      <segment>
+        <source>attendance_code.type.label</source>
+        <target>Type</target>
+      </segment>
+    </unit>
+    <unit id="aa4MDGJ" name="attendancecode.direction.in">
+      <segment>
+        <source>attendancecode.direction.in</source>
+        <target>In</target>
+      </segment>
+    </unit>
+    <unit id="OHQ5ncG" name="attendancecode.direction.out">
+      <segment>
+        <source>attendancecode.direction.out</source>
+        <target>Out of Class</target>
+      </segment>
+    </unit>
+    <unit id="JUh_ZJS" name="attendancecode.scope.onsite">
+      <segment>
+        <source>attendancecode.scope.onsite</source>
+        <target>Onsite</target>
+      </segment>
+    </unit>
+    <unit id="VD.tYnF" name="attendancecode.scope.onsite_late">
+      <segment>
+        <source>attendancecode.scope.onsite_late</source>
+        <target>Onsite - Late</target>
+      </segment>
+    </unit>
+    <unit id="SDLP2DN" name="attendancecode.scope.offsite">
+      <segment>
+        <source>attendancecode.scope.offsite</source>
+        <target>Offsite</target>
+      </segment>
+    </unit>
+    <unit id="bEz.7ii" name="attendancecode.scope.offsite_left">
+      <segment>
+        <source>attendancecode.scope.offsite_left</source>
+        <target>Offsite - Left</target>
+      </segment>
+    </unit>
+    <unit id="qP_7JjX" name="attendance_code.reportable.label">
+      <segment>
+        <source>attendance_code.reportable.label</source>
+        <target>Reportable</target>
+      </segment>
+    </unit>
+    <unit id="BgunJva" name="attendance_code.future.label">
+      <segment>
+        <source>attendance_code.future.label</source>
+        <target>Allow Future Use</target>
+      </segment>
+    </unit>
+    <unit id="Gd8d61T" name="attendance_code.header">
+      <segment>
+        <source>attendance_code.header</source>
+        <target>Attendance Code</target>
+      </segment>
+    </unit>
+    <unit id="_9roz8_" name="attendance_codes.header">
+      <segment>
+        <source>attendance_codes.header</source>
+        <target>Attendance Codes</target>
+      </segment>
+    </unit>
+    <unit id="b8Wg_TQ" name="attendance_code.role.label">
+      <segment>
+        <source>attendance_code.role.label</source>
+        <target>Available to Roles</target>
+      </segment>
+    </unit>
+    <unit id="IRIWD2U" name="attendance_code.future.help">
+      <segment>
+        <source>attendance_code.future.help</source>
+        <target>Can this code be used in Set Future Absence?</target>
+      </segment>
+    </unit>
+    <unit id="H_2C5y4" name="attendance_code.role.help">
+      <segment>
+        <source>attendance_code.role.help</source>
+        <target>Controls who can use this code.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

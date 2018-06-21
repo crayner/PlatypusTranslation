@@ -715,5 +715,239 @@
         <target><![CDATA[Tutors & Teachers]]></target>
       </segment>
     </unit>
+    <unit id="UbG67Vn" name="Targets Template">
+      <segment>
+        <source>Targets Template</source>
+        <target>Targets Template</target>
+      </segment>
+    </unit>
+    <unit id="Ju_xQAW" name="An HTML template to be used in the targets field.">
+      <segment>
+        <source>An HTML template to be used in the targets field.</source>
+        <target>An HTML template to be used in the targets field.</target>
+      </segment>
+    </unit>
+    <unit id="bdEz9zV" name="Teaching Strategies Template">
+      <segment>
+        <source>Teaching Strategies Template</source>
+        <target>Teaching Strategies Template</target>
+      </segment>
+    </unit>
+    <unit id="gKCs4CP" name="An HTML template to be used in the teaching strategies field.">
+      <segment>
+        <source>An HTML template to be used in the teaching strategies field.</source>
+        <target>An HTML template to be used in the teaching strategies field.</target>
+      </segment>
+    </unit>
+    <unit id="WZ9VNTJ" name="Notes &amp; Review Template">
+      <segment>
+        <source>Notes &amp; Review Template</source>
+        <target><![CDATA[Notes & Review Template]]></target>
+      </segment>
+    </unit>
+    <unit id="OeyqUer" name="An HTML template to be used in the notes and review field.">
+      <segment>
+        <source>An HTML template to be used in the notes and review field.</source>
+        <target>An HTML template to be used in the notes and review field.</target>
+      </segment>
+    </unit>
+    <unit id="1nwJM64" name="Enable Descriptors">
+      <segment>
+        <source>Enable Descriptors</source>
+        <target>Enable Descriptors</target>
+      </segment>
+    </unit>
+    <unit id="4Yjj0dJ" name="Setting to No reduces complexity of behaviour tracking.">
+      <segment>
+        <source>Setting to No reduces complexity of behaviour tracking.</source>
+        <target>Setting to No reduces complexity of behaviour tracking.</target>
+      </segment>
+    </unit>
+    <unit id="6L5kSBr" name="Positive Descriptors">
+      <segment>
+        <source>Positive Descriptors</source>
+        <target>Positive Descriptors</target>
+      </segment>
+    </unit>
+    <unit id="jZPQLCA" name="Allowable choices for positive behaviour">
+      <segment>
+        <source>Allowable choices for positive behaviour</source>
+        <target>Allowable choices for positive behaviour</target>
+      </segment>
+    </unit>
+    <unit id="tVUjfBj" name="Negative Descriptors">
+      <segment>
+        <source>Negative Descriptors</source>
+        <target>Negative Descriptors</target>
+      </segment>
+    </unit>
+    <unit id="hJMLJyS" name="Allowable choices for negative behaviour.">
+      <segment>
+        <source>Allowable choices for negative behaviour.</source>
+        <target>Allowable choices for negative behaviour.</target>
+      </segment>
+    </unit>
+    <unit id="tQaiL_0" name="Enable Levels">
+      <segment>
+        <source>Enable Levels</source>
+        <target>Enable Levels</target>
+      </segment>
+    </unit>
+    <unit id="sUghMZ7" name="Levels">
+      <segment>
+        <source>Levels</source>
+        <target>Levels</target>
+      </segment>
+    </unit>
+    <unit id="QdKEifM" name="Allowable choices for severity level (from lowest to highest)">
+      <segment>
+        <source>Allowable choices for severity level (from lowest to highest)</source>
+        <target>Allowable choices for severity level (from lowest to highest)</target>
+      </segment>
+    </unit>
+    <unit id="Tr64qER" name="Enable Behaviour Letters">
+      <segment>
+        <source>Enable Behaviour Letters</source>
+        <target>Enable Behaviour Letters</target>
+      </segment>
+    </unit>
+    <unit id="alJYPi5" name="Should automated behaviour letter functionality be enabled?">
+      <segment>
+        <source>Should automated behaviour letter functionality be enabled?</source>
+        <target>Should automated behaviour letter functionality be enabled?</target>
+      </segment>
+    </unit>
+    <unit id="ybbQxuY" name="Letter 1 Count">
+      <segment>
+        <source>Letter 1 Count</source>
+        <target>Letter 1 Count</target>
+      </segment>
+    </unit>
+    <unit id="YwgIbA1" name="After how many negative records should letter 1 be sent?">
+      <segment>
+        <source>After how many negative records should letter 1 be sent?</source>
+        <target>After how many negative records should letter 1 be sent?</target>
+      </segment>
+    </unit>
+    <unit id="dGZhYny" name="Letter 1 Text">
+      <segment>
+        <source>Letter 1 Text</source>
+        <target>Letter 1 Text</target>
+      </segment>
+    </unit>
+    <unit id="bcxMMIf" name="The contents of letter 1, as HTML.">
+      <segment>
+        <source>The contents of letter 1, as HTML.</source>
+        <target>The contents of letter 1, as HTML.</target>
+      </segment>
+    </unit>
+    <unit id="Jyilnak" name="Letter 2 Count">
+      <segment>
+        <source>Letter 2 Count</source>
+        <target>Letter 2 Count</target>
+      </segment>
+    </unit>
+    <unit id="RT56URj" name="After how many negative records should letter 2 be sent?">
+      <segment>
+        <source>After how many negative records should letter 2 be sent?</source>
+        <target>After how many negative records should letter 2 be sent?</target>
+      </segment>
+    </unit>
+    <unit id="knWTOr2" name="Letter 2 Text">
+      <segment>
+        <source>Letter 2 Text</source>
+        <target>Letter 2 Text</target>
+      </segment>
+    </unit>
+    <unit id="PQE_6.i" name="The contents of letter 2, as HTML.">
+      <segment>
+        <source>The contents of letter 2, as HTML.</source>
+        <target>The contents of letter 2, as HTML.</target>
+      </segment>
+    </unit>
+    <unit id="eD0gAvO" name="Letter 3 Count">
+      <segment>
+        <source>Letter 3 Count</source>
+        <target>Letter 3 Count</target>
+      </segment>
+    </unit>
+    <unit id="MTqQX6j" name="After how many negative records should letter 3 be sent?">
+      <segment>
+        <source>After how many negative records should letter 3 be sent?</source>
+        <target>After how many negative records should letter 3 be sent?</target>
+      </segment>
+    </unit>
+    <unit id="obQSxQU" name="Letter 3 Text">
+      <segment>
+        <source>Letter 3 Text</source>
+        <target>Letter 3 Text</target>
+      </segment>
+    </unit>
+    <unit id="30bJ5Ty" name="The contents of letter 3, as HTML.">
+      <segment>
+        <source>The contents of letter 3, as HTML.</source>
+        <target>The contents of letter 3, as HTML.</target>
+      </segment>
+    </unit>
+    <unit id="PsSiX6D" name="Policy Link">
+      <segment>
+        <source>Policy Link</source>
+        <target>Policy Link</target>
+      </segment>
+    </unit>
+    <unit id="3lYWLHU" name="A link to the school behaviour policy.">
+      <segment>
+        <source>A link to the school behaviour policy.</source>
+        <target>A link to the school behaviour policy.</target>
+      </segment>
+    </unit>
+    <unit id="BJg0PAz" name="Attendance Reasons">
+      <segment>
+        <source>Attendance Reasons</source>
+        <target>Attendance Reasons</target>
+      </segment>
+    </unit>
+    <unit id="ijptM0y" name="List of reasons which are available when taking attendance.">
+      <segment>
+        <source>List of reasons which are available when taking attendance.</source>
+        <target>List of reasons which are available when taking attendance.</target>
+      </segment>
+    </unit>
+    <unit id="EfS_yhv" name="Pre-Fill Roll Group Attendance">
+      <segment>
+        <source>Pre-Fill Roll Group Attendance</source>
+        <target>Pre-Fill Roll Group Attendance</target>
+      </segment>
+    </unit>
+    <unit id="xTU5wMl" name="06d019f">
+      <segment>
+        <source>Should Attendance by Roll Group be pre-filled with data available from other contexts?</source>
+        <target>Should Attendance by Roll Group be pre-filled with data available from other contexts?</target>
+      </segment>
+    </unit>
+    <unit id="HE2gUbL" name="Pre-Fill Class Attendance">
+      <segment>
+        <source>Pre-Fill Class Attendance</source>
+        <target>Pre-Fill Class Attendance</target>
+      </segment>
+    </unit>
+    <unit id="hAEBqPx" name="dd28869">
+      <segment>
+        <source>Should Attendance by Class be pre-filled with data available from other contexts?</source>
+        <target>Should Attendance by Class be pre-filled with data available from other contexts?</target>
+      </segment>
+    </unit>
+    <unit id="9X3rcGg" name="Pre-Fill Person Attendance">
+      <segment>
+        <source>Pre-Fill Person Attendance</source>
+        <target>Pre-Fill Person Attendance</target>
+      </segment>
+    </unit>
+    <unit id="9okETJe" name="e308255">
+      <segment>
+        <source>Should Attendance by Person be pre-filled with data available from other contexts?</source>
+        <target>Should Attendance by Person be pre-filled with data available from other contexts?</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

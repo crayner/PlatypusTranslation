@@ -505,5 +505,113 @@
         <target>Student Notes</target>
       </segment>
     </unit>
+    <unit id="yqMY8RM" name="individual_need_descriptior_header">
+      <segment>
+        <source>individual_need_descriptior_header</source>
+        <target>Individual Needs Descriptors</target>
+      </segment>
+    </unit>
+    <unit id="TlnQS.0" name="individual_need_descriptor.description.name.label">
+      <segment>
+        <source>individual_need_descriptor.description.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="1W520TX" name="individual_need_descriptor.description.name_short.label">
+      <segment>
+        <source>individual_need_descriptor.description.name_short.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="murh0Ws" name="individual_need_descriptor.description.label">
+      <segment>
+        <source>individual_need_descriptor.description.label</source>
+        <target>Description</target>
+      </segment>
+    </unit>
+    <unit id="VrVkt1x" name="Templates">
+      <segment>
+        <source>Templates</source>
+        <target>Templates</target>
+      </segment>
+    </unit>
+    <unit id="PA2veFz" name="manage_attendance_settings">
+      <segment>
+        <source>manage_attendance_settings</source>
+        <target>Manage Attendance Settings</target>
+      </segment>
+    </unit>
+    <unit id="SgZgH3x" name="manage_behaviour_settings">
+      <segment>
+        <source>manage_behaviour_settings</source>
+        <target>Manage Behaviour Settings</target>
+      </segment>
+    </unit>
+    <unit id="BUb9qER" name="manage_individual_need_settings">
+      <segment>
+        <source>manage_individual_need_settings</source>
+        <target>Manage IN Settings</target>
+      </segment>
+    </unit>
+    <unit id="sUghMZ7" name="Levels">
+      <segment>
+        <source>Levels</source>
+        <target>Levels</target>
+      </segment>
+    </unit>
+    <unit id="jcAY0PL" name="Behaviour Letters">
+      <segment>
+        <source>Behaviour Letters</source>
+        <target>Behaviour Letters</target>
+      </segment>
+    </unit>
+    <unit id="0Ur1cvY" name="4c08daa">
+      <segment>
+        <source>By using an &lt;a href="https://docs.gibbonedu.org/administrators/misc/command-line-tools/" target="_blank"&gt;included CLI script&lt;/a&gt;, Platypus can be configured to automatically generate and email behaviour letters to parents and tutors, once certain negative behaviour threshold levels have been reached. In your letter text you may use the following fields: [studentName], [rollGroup], [behaviourCount], [behaviourRecord]</source>
+        <target><![CDATA[By using an <a href="https://docs.gibbonedu.org/administrators/misc/command-line-tools/" target="_blank">included CLI script</a>, Platypus can be configured to automatically generate and email behaviour letters to parents and tutors, once certain negative behaviour threshold levels have been reached. In your letter text you may use the following fields: [studentName], [rollGroup], [behaviourCount], [behaviourRecord]]]></target>
+      </segment>
+    </unit>
+    <unit id="cu0kXSz" name="Reasons">
+      <segment>
+        <source>Reasons</source>
+        <target>Reasons</target>
+      </segment>
+    </unit>
+    <unit id="rT2K_lk" name="Pre-Fills and Defaults">
+      <segment>
+        <source>Pre-Fills and Defaults</source>
+        <target><![CDATA[Pre-Fills & Defaults]]></target>
+      </segment>
+    </unit>
+    <unit id="KJ2V2Kq" name="170cb32">
+      <segment>
+        <source>The pre-fill settings below determine which Attendance contexts are preset by data available from other contexts. This allows, for example, for attendance taken in a class to be preset by attendance already taken in a Roll Group. The contexts for attendance include Roll Group, Class, Person, Future and Self Registration.</source>
+        <target>The pre-fill settings below determine which Attendance contexts are preset by data available from other contexts. This allows, for example, for attendance taken in a class to be preset by attendance already taken in a Roll Group. The contexts for attendance include Roll Group, Class, Person, Future and Self Registration.</target>
+      </segment>
+    </unit>
+    <unit id="QDp.mep" name="Student Self Registration">
+      <segment>
+        <source>Student Self Registration</source>
+        <target>Student Self Registration</target>
+      </segment>
+    </unit>
+    <unit id="sPj073J" name="Your current IP address is (%{ip_address}).">
+      <segment>
+        <source>Your current IP address is (%{ip_address}).</source>
+        <target>Your current IP address is (172.16.0.111).</target>
+      </segment>
+    </unit>
+    <unit id="EFz1EvA" name="Attendance CLI">
+      <segment>
+        <source>Attendance CLI</source>
+        <target>Attendance CLI</target>
+      </segment>
+    </unit>
+    <unit id="eIvh72Y" name="reveal.hidden">
+      <segment>
+        <source>reveal.hidden</source>
+        <target>Toggle Hidden Fields</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
