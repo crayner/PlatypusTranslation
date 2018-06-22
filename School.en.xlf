@@ -829,5 +829,17 @@
         <target>The attendance code "%{name}" is locked by the system and must not be removed.</target>
       </segment>
     </unit>
+    <unit id="KZ6XgNA" name="school.year_group.head_of_year.label">
+      <segment>
+        <source>school.year_group.head_of_year.label</source>
+        <target>Head of Year</target>
+      </segment>
+    </unit>
+    <unit id="rDNHpS2" name="school.year_group.head_of_year.placeholder">
+      <segment>
+        <source>school.year_group.head_of_year.placeholder</source>
+        <target></target>
+      </segment>
+    </unit>
   </file>
 </xliff>
