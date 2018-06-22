@@ -745,5 +745,95 @@
         <target>Some settings may be hidden with the choices made for your school.</target>
       </segment>
     </unit>
+    <unit id="9i6SZ9G" name="Alerts">
+      <segment>
+        <source>Alerts</source>
+        <target>Alerts</target>
+      </segment>
+    </unit>
+    <unit id="po1tlIP" name="manage_file_extension">
+      <segment>
+        <source>manage_file_extension</source>
+        <target>Manage File Extensions</target>
+      </segment>
+    </unit>
+    <unit id="DHlSlMV" name="file_extension_header">
+      <segment>
+        <source>file_extension_header</source>
+        <target>Manage File Extensions</target>
+      </segment>
+    </unit>
+    <unit id="KP3jQYz" name="file_extension.extension.label">
+      <segment>
+        <source>file_extension.extension.label</source>
+        <target>Extension</target>
+      </segment>
+    </unit>
+    <unit id="nHm6rAu" name="file_extension.name.label">
+      <segment>
+        <source>file_extension.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="GH.UJwi" name="fileextension.type.document">
+      <segment>
+        <source>fileextension.type.document</source>
+        <target>Document</target>
+      </segment>
+    </unit>
+    <unit id="_79Mczn" name="fileextension.type.spreadsheet">
+      <segment>
+        <source>fileextension.type.spreadsheet</source>
+        <target>Spreadsheet</target>
+      </segment>
+    </unit>
+    <unit id="jkZNs.V" name="fileextension.type.presentation">
+      <segment>
+        <source>fileextension.type.presentation</source>
+        <target>Presentation</target>
+      </segment>
+    </unit>
+    <unit id="y2WXZ6a" name="fileextension.type.graphics_design">
+      <segment>
+        <source>fileextension.type.graphics_design</source>
+        <target>Graphics Design</target>
+      </segment>
+    </unit>
+    <unit id="rbbPg3g" name="fileextension.type.video">
+      <segment>
+        <source>fileextension.type.video</source>
+        <target>Video</target>
+      </segment>
+    </unit>
+    <unit id="aCjXYCP" name="fileextension.type.audio">
+      <segment>
+        <source>fileextension.type.audio</source>
+        <target>Audio</target>
+      </segment>
+    </unit>
+    <unit id="GnYsn2e" name="fileextension.type.other">
+      <segment>
+        <source>fileextension.type.other</source>
+        <target>Other</target>
+      </segment>
+    </unit>
+    <unit id="50TLXBo" name="file_extension.type.label">
+      <segment>
+        <source>file_extension.type.label</source>
+        <target>Type</target>
+      </segment>
+    </unit>
+    <unit id="AGrKoiD" name="file_extension.not_found">
+      <segment>
+        <source>file_extension.not_found</source>
+        <target>file_extension.not_found</target>
+      </segment>
+    </unit>
+    <unit id="FEgUegS" name="fileextension.type.compression">
+      <segment>
+        <source>fileextension.type.compression</source>
+        <target>Compression</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
