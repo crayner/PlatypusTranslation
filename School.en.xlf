@@ -619,5 +619,113 @@
         <target>Needs Staff table defined.</target>
       </segment>
     </unit>
+    <unit id="sLEag0J" name="facility.spaces.title">
+      <segment>
+        <source>facility.spaces.title</source>
+        <target>facility.spaces.title</target>
+      </segment>
+    </unit>
+    <unit id="qwz4hdf" name="facility.spaces.description">
+      <segment>
+        <source>facility.spaces.description</source>
+        <target>facility.spaces.description</target>
+      </segment>
+    </unit>
+    <unit id="W2ySHwB" name="facility.name.label">
+      <segment>
+        <source>facility.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="Vboj0UR" name="facility.type.label">
+      <segment>
+        <source>facility.type.label</source>
+        <target>Type</target>
+      </segment>
+    </unit>
+    <unit id="n.Fzfup" name="facility.capacity.label">
+      <segment>
+        <source>facility.capacity.label</source>
+        <target>Capacity</target>
+      </segment>
+    </unit>
+    <unit id="zg6_ngv" name="facility.facilities.label">
+      <segment>
+        <source>facility.facilities.label</source>
+        <target>Facilities</target>
+      </segment>
+    </unit>
+    <unit id="VtHjOXE" name="facilities.title">
+      <segment>
+        <source>facilities.title</source>
+        <target>Manage Facilities</target>
+      </segment>
+    </unit>
+    <unit id="q8ZD.PU" name="facilities.description">
+      <segment>
+        <source>facilities.description</source>
+        <target>Add, modify and remove Spaces (Rooms and Spaces.)</target>
+      </segment>
+    </unit>
+    <unit id="sohloKc" name="facility.edit.title">
+      <segment>
+        <source>facility.edit.title</source>
+        <target>Edit Facility</target>
+      </segment>
+    </unit>
+    <unit id="xm4kru_" name="facility.sort.name">
+      <segment>
+        <source>facility.sort.name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="L3068Tj" name="facility.sort.type">
+      <segment>
+        <source>facility.sort.type</source>
+        <target>Type</target>
+      </segment>
+    </unit>
+    <unit id="ST2725m" name="facility.sort.capacity">
+      <segment>
+        <source>facility.sort.capacity</source>
+        <target>Capacity</target>
+      </segment>
+    </unit>
+    <unit id="SkTcFTZ" name="10">
+      <segment>
+        <source>10</source>
+        <target>10</target>
+      </segment>
+    </unit>
+    <unit id="t6Voc81" name="25">
+      <segment>
+        <source>25</source>
+        <target>25</target>
+      </segment>
+    </unit>
+    <unit id="GmViWQ7" name="50">
+      <segment>
+        <source>50</source>
+        <target>50</target>
+      </segment>
+    </unit>
+    <unit id="rVc2aGU" name="100">
+      <segment>
+        <source>100</source>
+        <target>100</target>
+      </segment>
+    </unit>
+    <unit id="kYISQg." name="facility.student_computers.count">
+      <segment>
+        <source>facility.student_computers.count</source>
+        <target>{1}One student computer|{1, Inf}%count% student computers</target>
+      </segment>
+    </unit>
+    <unit id="TXQzx1D" name="facility.hifi.label">
+      <segment>
+        <source>facility.hifi.label</source>
+        <target>Hi-Fi</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

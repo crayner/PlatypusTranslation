@@ -835,5 +835,23 @@
         <target>Compression</target>
       </segment>
     </unit>
+    <unit id="pDToFJA" name="manage_facility_settings">
+      <segment>
+        <source>manage_facility_settings</source>
+        <target>Manage Facility Settings</target>
+      </segment>
+    </unit>
+    <unit id="6EZp5q5" name="Facility Settings">
+      <segment>
+        <source>Facility Settings</source>
+        <target>Facility Settings</target>
+      </segment>
+    </unit>
+    <unit id="QFJP3tU" name="manage_facilities">
+      <segment>
+        <source>manage_facilities</source>
+        <target>Manage Facilities</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
