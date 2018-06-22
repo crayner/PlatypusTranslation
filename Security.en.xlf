@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Security.en">
+    <unit id="0lX8JOY" name="security_role.role_user">
+      <segment>
+        <source>security_role.role_user</source>
+        <target>User</target>
+      </segment>
+    </unit>
+    <unit id="lTK79xF" name="security_role.role_allowed_to_switch">
+      <segment>
+        <source>security_role.role_allowed_to_switch</source>
+        <target>Allowed to Switch</target>
+      </segment>
+    </unit>
+    <unit id="Jzlw0yT" name="security_role.role_parent">
+      <segment>
+        <source>security_role.role_parent</source>
+        <target>Parent/Care Giver</target>
+      </segment>
+    </unit>
+    <unit id="eliH6zf" name="security_role.role_student">
+      <segment>
+        <source>security_role.role_student</source>
+        <target>Student</target>
+      </segment>
+    </unit>
+    <unit id="rLGrKZC" name="security_role.role_staff">
+      <segment>
+        <source>security_role.role_staff</source>
+        <target>Staff Member</target>
+      </segment>
+    </unit>
+    <unit id="5C__QKL" name="security_role.role_teacher">
+      <segment>
+        <source>security_role.role_teacher</source>
+        <target>Teacher</target>
+      </segment>
+    </unit>
+    <unit id="7rP.BgA" name="security_role.role_head_teacher">
+      <segment>
+        <source>security_role.role_head_teacher</source>
+        <target>Head Teacher</target>
+      </segment>
+    </unit>
+    <unit id=".qoK0e." name="security_role.role_principal">
+      <segment>
+        <source>security_role.role_principal</source>
+        <target>Principal</target>
+      </segment>
+    </unit>
+    <unit id="ZgIKzXw" name="security_role.role_admin">
+      <segment>
+        <source>security_role.role_admin</source>
+        <target>School Administrator</target>
+      </segment>
+    </unit>
+    <unit id="TGsN7Oc" name="security_role.role_registrar">
+      <segment>
+        <source>security_role.role_registrar</source>
+        <target>Registrar</target>
+      </segment>
+    </unit>
+    <unit id="pod0dfI" name="security_role.role_system_admin">
+      <segment>
+        <source>security_role.role_system_admin</source>
+        <target>System Administrator</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
