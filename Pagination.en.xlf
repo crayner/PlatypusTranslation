@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Pagination.en">
+    <unit id="wAdDRBc" name="pagination.search.label">
+      <segment>
+        <source>pagination.search.label</source>
+        <target>Search</target>
+      </segment>
+    </unit>
+    <unit id="tTIBiqi" name="pagination.search.placeholder">
+      <segment>
+        <source>pagination.search.placeholder</source>
+        <target>Search for ...</target>
+      </segment>
+    </unit>
+    <unit id="V0ptmhx" name="pagination.sort.label">
+      <segment>
+        <source>pagination.sort.label</source>
+        <target>Sort by</target>
+      </segment>
+    </unit>
+    <unit id="3vjHwjB" name="pagination.limit.label">
+      <segment>
+        <source>pagination.limit.label</source>
+        <target>Limit Results</target>
+      </segment>
+    </unit>
+    <unit id="VokxSLK" name="pagination.figures">
+      <segment>
+        <source>pagination.figures</source>
+        <target><![CDATA["{0,1}Records %first% to %last% of %total%.|]1,Inf]Records %first% to %last% of %total%.<br/>%pages% Pages"]]></target>
+      </segment>
+    </unit>
+    <unit id="BWxy9I4" name="pagination.records.only">
+      <segment>
+        <source>pagination.records.only</source>
+        <target>Matching Records: %total%</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

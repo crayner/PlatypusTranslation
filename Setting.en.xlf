@@ -1327,5 +1327,77 @@
         <target>Allows privileged users to add expenses without going through request process.</target>
       </segment>
     </unit>
+    <unit id="A0PRVYV" name="school_admin.facility_types.classroom">
+      <segment>
+        <source>school_admin.facility_types.classroom</source>
+        <target>Classroom</target>
+      </segment>
+    </unit>
+    <unit id="5csEERd" name="school_admin.facility_types.hall">
+      <segment>
+        <source>school_admin.facility_types.hall</source>
+        <target>Hall</target>
+      </segment>
+    </unit>
+    <unit id="oVg.mjG" name="school_admin.facility_types.laboratory">
+      <segment>
+        <source>school_admin.facility_types.laboratory</source>
+        <target>Laboratory</target>
+      </segment>
+    </unit>
+    <unit id="4zKXPxC" name="school_admin.facility_types.library">
+      <segment>
+        <source>school_admin.facility_types.library</source>
+        <target>Library</target>
+      </segment>
+    </unit>
+    <unit id="OJG.OBF" name="school_admin.facility_types.office">
+      <segment>
+        <source>school_admin.facility_types.office</source>
+        <target>Office</target>
+      </segment>
+    </unit>
+    <unit id="zzsFkRY" name="school_admin.facility_types.outdoor">
+      <segment>
+        <source>school_admin.facility_types.outdoor</source>
+        <target>Outdoor</target>
+      </segment>
+    </unit>
+    <unit id="KFGK1TV" name="school_admin.facility_types.performance">
+      <segment>
+        <source>school_admin.facility_types.performance</source>
+        <target>Performance</target>
+      </segment>
+    </unit>
+    <unit id="qZruiGT" name="school_admin.facility_types.staffroom">
+      <segment>
+        <source>school_admin.facility_types.staffroom</source>
+        <target>Staffroom</target>
+      </segment>
+    </unit>
+    <unit id="7v0Ff2G" name="school_admin.facility_types.storage">
+      <segment>
+        <source>school_admin.facility_types.storage</source>
+        <target>Storage</target>
+      </segment>
+    </unit>
+    <unit id="E0aysi1" name="school_admin.facility_types.study">
+      <segment>
+        <source>school_admin.facility_types.study</source>
+        <target>Study</target>
+      </segment>
+    </unit>
+    <unit id="EBZ8wGK" name="school_admin.facility_types.undercover">
+      <segment>
+        <source>school_admin.facility_types.undercover</source>
+        <target>Undercover</target>
+      </segment>
+    </unit>
+    <unit id="25l.TDE" name="school_admin.facility_types.other">
+      <segment>
+        <source>school_admin.facility_types.other</source>
+        <target>Other</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

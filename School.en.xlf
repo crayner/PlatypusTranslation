@@ -718,13 +718,109 @@
     <unit id="kYISQg." name="facility.student_computers.count">
       <segment>
         <source>facility.student_computers.count</source>
-        <target>{1}One student computer|{1, Inf}%count% student computers</target>
+        <target>{1}One student computer|]1, Inf[%count% student computers</target>
       </segment>
     </unit>
     <unit id="TXQzx1D" name="facility.hifi.label">
       <segment>
         <source>facility.hifi.label</source>
         <target>Hi-Fi</target>
+      </segment>
+    </unit>
+    <unit id="XKBy5zt" name="facility.edit.duplicate">
+      <segment>
+        <source>facility.edit.duplicate</source>
+        <target>Duplicate Facility</target>
+      </segment>
+    </unit>
+    <unit id="OSFf1q0" name="facility.type.placeholder">
+      <segment>
+        <source>facility.type.placeholder</source>
+        <target>Select Facility Type ...</target>
+      </segment>
+    </unit>
+    <unit id="pg.24E2" name="facility.capacity.help">
+      <segment>
+        <source>facility.capacity.help</source>
+        <target>Capacity</target>
+      </segment>
+    </unit>
+    <unit id="QGG8G88" name="facility.phoneext.label">
+      <segment>
+        <source>facility.phoneext.label</source>
+        <target>Phone Number</target>
+      </segment>
+    </unit>
+    <unit id="1NaWh_q" name="facility.phoneint.label">
+      <segment>
+        <source>facility.phoneint.label</source>
+        <target>Extension</target>
+      </segment>
+    </unit>
+    <unit id="KfX2xc_" name="facility.comment.label">
+      <segment>
+        <source>facility.comment.label</source>
+        <target>Comment</target>
+      </segment>
+    </unit>
+    <unit id="EQZSpG1" name="facility.computer.label">
+      <segment>
+        <source>facility.computer.label</source>
+        <target>Staff Computer</target>
+      </segment>
+    </unit>
+    <unit id="h1EZFPh" name="facility.projector.label">
+      <segment>
+        <source>facility.projector.label</source>
+        <target>Projector</target>
+      </segment>
+    </unit>
+    <unit id="dpOyK5b" name="facility.tv.label">
+      <segment>
+        <source>facility.tv.label</source>
+        <target>TV</target>
+      </segment>
+    </unit>
+    <unit id="MpjKLpf" name="facility.dvd.label">
+      <segment>
+        <source>facility.dvd.label</source>
+        <target>DVD</target>
+      </segment>
+    </unit>
+    <unit id="H0yak_u" name="facility.speakers.label">
+      <segment>
+        <source>facility.speakers.label</source>
+        <target>Speakers</target>
+      </segment>
+    </unit>
+    <unit id="Dof8ue9" name="facility.iwb.label">
+      <segment>
+        <source>facility.iwb.label</source>
+        <target>Interactive White Board</target>
+      </segment>
+    </unit>
+    <unit id="WBOdpPl" name="facility.studentComputers.label">
+      <segment>
+        <source>facility.studentComputers.label</source>
+        <target>Student Computers</target>
+      </segment>
+    </unit>
+    <unit id="CI93FXV" name="facility.edit.description">
+      <segment>
+        <source>facility.edit.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="b5Ea2X5" name="facility.phoneext.help">
+      <segment>
+        <source>facility.phoneext.help</source>
+        <target>Room's external phone number</target>
+      </segment>
+    </unit>
+    <unit id="pwGBwBz" name="facility.phoneint.help">
+      <segment>
+        <source>facility.phoneint.help</source>
+        <target>Room's internal phone number.</target>
       </segment>
     </unit>
   </file>
