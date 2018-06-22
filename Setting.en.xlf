@@ -1495,5 +1495,215 @@
         <target>Activities</target>
       </segment>
     </unit>
+    <unit id="zyX.sGe" name="Markbook Type">
+      <segment>
+        <source>Markbook Type</source>
+        <target>Markbook Type</target>
+      </segment>
+    </unit>
+    <unit id="_aD.UoS" name="List of types to make available in the Markbook.">
+      <segment>
+        <source>List of types to make available in the Markbook.</source>
+        <target>List of types to make available in the Markbook.</target>
+      </segment>
+    </unit>
+    <unit id="2qBfhsY" name="Group Columns by Term">
+      <segment>
+        <source>Group Columns by Term</source>
+        <target>Group Columns by Term</target>
+      </segment>
+    </unit>
+    <unit id="pJUbQ3Z" name="Should columns and total scores be grouped by term?">
+      <segment>
+        <source>Should columns and total scores be grouped by term?</source>
+        <target>Should columns and total scores be grouped by term?</target>
+      </segment>
+    </unit>
+    <unit id="MphH9pJ" name="Attainment Alternative Name">
+      <segment>
+        <source>Attainment Alternative Name</source>
+        <target>Attainment Alternative Name</target>
+      </segment>
+    </unit>
+    <unit id="Nr.5bR." name="A name to use instead of &quot;Attainment&quot; in the first grade column of the markbook.">
+      <segment>
+        <source>A name to use instead of "Attainment" in the first grade column of the markbook.</source>
+        <target>A name to use instead of "Attainment" in the first grade column of the markbook.</target>
+      </segment>
+    </unit>
+    <unit id="RkmNggE" name="Attainment Alternative Name Abbreviation">
+      <segment>
+        <source>Attainment Alternative Name Abbreviation</source>
+        <target>Attainment Alternative Name Abbreviation</target>
+      </segment>
+    </unit>
+    <unit id="nVmSB0r" name="cfd31f0">
+      <segment>
+        <source>A short name to use instead of "Attainment" in the first grade column of the markbook.</source>
+        <target>A short name to use instead of "Attainment" in the first grade column of the markbook.</target>
+      </segment>
+    </unit>
+    <unit id="0sDA0Zs" name="Effort Alternative Name">
+      <segment>
+        <source>Effort Alternative Name</source>
+        <target>Effort Alternative Name</target>
+      </segment>
+    </unit>
+    <unit id="uVTB41." name="A name to use instead of &quot;Effort&quot; in the second grade column of the markbook.">
+      <segment>
+        <source>A name to use instead of "Effort" in the second grade column of the markbook.</source>
+        <target>A name to use instead of "Effort" in the second grade column of the markbook.</target>
+      </segment>
+    </unit>
+    <unit id="K1RHTVy" name="Effort Alternative Name Abbreviation">
+      <segment>
+        <source>Effort Alternative Name Abbreviation</source>
+        <target>Effort Alternative Name Abbreviation</target>
+      </segment>
+    </unit>
+    <unit id="hd1MCOj" name="4e3fb3b">
+      <segment>
+        <source>A short name to use instead of "Effort" in the second grade column of the markbook.</source>
+        <target>A short name to use instead of "Effort" in the second grade column of the markbook.</target>
+      </segment>
+    </unit>
+    <unit id="MUiSLFh" name="Enable Effort">
+      <segment>
+        <source>Enable Effort</source>
+        <target>Enable Effort</target>
+      </segment>
+    </unit>
+    <unit id="nLlpbqP" name="Should columns have the Effort section enabled?">
+      <segment>
+        <source>Should columns have the Effort section enabled?</source>
+        <target>Should columns have the Effort section enabled?</target>
+      </segment>
+    </unit>
+    <unit id="umK0OIA" name="Enable Rubrics">
+      <segment>
+        <source>Enable Rubrics</source>
+        <target>Enable Rubrics</target>
+      </segment>
+    </unit>
+    <unit id="gnxQSc3" name="Should columns have Rubrics section enabled?">
+      <segment>
+        <source>Should columns have Rubrics section enabled?</source>
+        <target>Should columns have Rubrics section enabled?</target>
+      </segment>
+    </unit>
+    <unit id="5OY7beM" name="Enable Column Weighting">
+      <segment>
+        <source>Enable Column Weighting</source>
+        <target>Enable Column Weighting</target>
+      </segment>
+    </unit>
+    <unit id="BBmlh8K" name="Should column weighting and total scores be enabled in the Markbook?">
+      <segment>
+        <source>Should column weighting and total scores be enabled in the Markbook?</source>
+        <target>Should column weighting and total scores be enabled in the Markbook?</target>
+      </segment>
+    </unit>
+    <unit id="89eYhsE" name="Enable Display Cumulative Marks">
+      <segment>
+        <source>Enable Display Cumulative Marks</source>
+        <target>Enable Display Cumulative Marks</target>
+      </segment>
+    </unit>
+    <unit id="8Kg5ylq" name="b16a430">
+      <segment>
+        <source>Should cumulative marks be displayed on the View Markbook page for Students and Parents and in Student Profiles?</source>
+        <target>Should cumulative marks be displayed on the View Markbook page for Students and Parents and in Student Profiles?</target>
+      </segment>
+    </unit>
+    <unit id="J__8W_i" name="Enable Raw Attainment Marks">
+      <segment>
+        <source>Enable Raw Attainment Marks</source>
+        <target>Enable Raw Attainment Marks</target>
+      </segment>
+    </unit>
+    <unit id="u4XXN_R" name="Should recording of raw marks be enabled in the Markbook?">
+      <segment>
+        <source>Should recording of raw marks be enabled in the Markbook?</source>
+        <target>Should recording of raw marks be enabled in the Markbook?</target>
+      </segment>
+    </unit>
+    <unit id="mpwFvaj" name="Show Student Attainment Warning">
+      <segment>
+        <source>Show Student Attainment Warning</source>
+        <target>Show Student Attainment Warning</target>
+      </segment>
+    </unit>
+    <unit id="6fqI1jd" name="Show low attainment grade visual warning to students?">
+      <segment>
+        <source>Show low attainment grade visual warning to students?</source>
+        <target>Show low attainment grade visual warning to students?</target>
+      </segment>
+    </unit>
+    <unit id="ZAWNak0" name="Show Student Effort Warning">
+      <segment>
+        <source>Show Student Effort Warning</source>
+        <target>Show Student Effort Warning</target>
+      </segment>
+    </unit>
+    <unit id="5IV031S" name="Show low effort grade visual warning to students?">
+      <segment>
+        <source>Show low effort grade visual warning to students?</source>
+        <target>Show low effort grade visual warning to students?</target>
+      </segment>
+    </unit>
+    <unit id="OXN7YhG" name="Show Parent Attainment Warning">
+      <segment>
+        <source>Show Parent Attainment Warning</source>
+        <target>Show Parent Attainment Warning</target>
+      </segment>
+    </unit>
+    <unit id="mJJRClR" name="Show low attainment grade visual warning to parents?">
+      <segment>
+        <source>Show low attainment grade visual warning to parents?</source>
+        <target>Show low attainment grade visual warning to parents?</target>
+      </segment>
+    </unit>
+    <unit id="WccFq80" name="Show parent Effort Warning">
+      <segment>
+        <source>Show parent Effort Warning</source>
+        <target>Show parent Effort Warning</target>
+      </segment>
+    </unit>
+    <unit id="4Sbj.ZJ" name="Show low effort grade visual warning to parents?">
+      <segment>
+        <source>Show low effort grade visual warning to parents?</source>
+        <target>Show low effort grade visual warning to parents?</target>
+      </segment>
+    </unit>
+    <unit id="aoJXTxI" name="Personalised Warnings">
+      <segment>
+        <source>Personalised Warnings</source>
+        <target>Personalised Warnings</target>
+      </segment>
+    </unit>
+    <unit id="sizlsPQ" name="Should markbook warnings be based on personal targets, if they are available?">
+      <segment>
+        <source>Should markbook warnings be based on personal targets, if they are available?</source>
+        <target>Should markbook warnings be based on personal targets, if they are available?</target>
+      </segment>
+    </unit>
+    <unit id="bxFU152" name="Wordpress Comment Push">
+      <segment>
+        <source>Wordpress Comment Push</source>
+        <target>Wordpress Comment Push</target>
+      </segment>
+    </unit>
+    <unit id="fFgdNiH" name="35494c7">
+      <segment>
+        <source>Where student work is submitted via a WordPress website, the teacher can choose to push their Markbook comment to the site.</source>
+        <target>Where student work is submitted via a WordPress website, the teacher can choose to push their Markbook comment to the site.</target>
+      </segment>
+    </unit>
+    <unit id="AMVu4FC" name="Show Parent Effort Warning">
+      <segment>
+        <source>Show Parent Effort Warning</source>
+        <target>Show Parent Effort Warning</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

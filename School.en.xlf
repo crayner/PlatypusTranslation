@@ -823,5 +823,11 @@
         <target>Room's internal phone number.</target>
       </segment>
     </unit>
+    <unit id="hsL3FWz" name="attendance_code.remove.locked">
+      <segment>
+        <source>attendance_code.remove.locked</source>
+        <target>The attendance code "%{name}" is locked by the system and must not be removed.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

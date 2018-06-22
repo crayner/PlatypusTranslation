@@ -865,5 +865,35 @@
         <target>Dashboard Settings</target>
       </segment>
     </unit>
+    <unit id="wms_1M5" name="Interface">
+      <segment>
+        <source>Interface</source>
+        <target>Interface</target>
+      </segment>
+    </unit>
+    <unit id="XXWN5FX" name="manage_markbook_settings">
+      <segment>
+        <source>manage_markbook_settings</source>
+        <target>Markbook Settings</target>
+      </segment>
+    </unit>
+    <unit id="fJwALcE" name="section.header.assessment">
+      <segment>
+        <source>section.header.assessment</source>
+        <target>Assessment</target>
+      </segment>
+    </unit>
+    <unit id="VpfQPa7" name="Features">
+      <segment>
+        <source>Features</source>
+        <target>Features</target>
+      </segment>
+    </unit>
+    <unit id="DgTNEPm" name="Warnings">
+      <segment>
+        <source>Warnings</source>
+        <target>Warnings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
