@@ -853,5 +853,17 @@
         <target>Manage Facilities</target>
       </segment>
     </unit>
+    <unit id="mKBND33" name="manage_dashboard_settings">
+      <segment>
+        <source>manage_dashboard_settings</source>
+        <target>Manage Dashboard Settings</target>
+      </segment>
+    </unit>
+    <unit id="wbsNObM" name="Dashboard Settings">
+      <segment>
+        <source>Dashboard Settings</source>
+        <target>Dashboard Settings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

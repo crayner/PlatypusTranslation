@@ -1399,5 +1399,101 @@
         <target>Other</target>
       </segment>
     </unit>
+    <unit id="vqtPaar" name="Facility Types">
+      <segment>
+        <source>Facility Types</source>
+        <target>Facility Types</target>
+      </segment>
+    </unit>
+    <unit id="qYhxrul" name="List of types for facilities.">
+      <segment>
+        <source>List of types for facilities.</source>
+        <target>List of types for facilities.</target>
+      </segment>
+    </unit>
+    <unit id="onFmyJl" name="Staff Dashboard Default Tab">
+      <segment>
+        <source>Staff Dashboard Default Tab</source>
+        <target>Staff Dashboard Default Tab</target>
+      </segment>
+    </unit>
+    <unit id="XuA8USX" name="The default landing tab for the staff dashboard.">
+      <segment>
+        <source>The default landing tab for the staff dashboard.</source>
+        <target>The default landing tab for the staff dashboard.</target>
+      </segment>
+    </unit>
+    <unit id="lnRS1Ct" name="school_admin.staff_dashboard_default_tab.">
+      <segment>
+        <source>school_admin.staff_dashboard_default_tab.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="HaE_ilk" name="school_admin.staff_dashboard_default_tab.planner">
+      <segment>
+        <source>school_admin.staff_dashboard_default_tab.planner</source>
+        <target>Planner</target>
+      </segment>
+    </unit>
+    <unit id="UZCK_uk" name="Student Dashboard Default Tab">
+      <segment>
+        <source>Student Dashboard Default Tab</source>
+        <target>Student Dashboard Default Tab</target>
+      </segment>
+    </unit>
+    <unit id="8Nz_QL5" name="The default landing tab for the student dashboard.">
+      <segment>
+        <source>The default landing tab for the student dashboard.</source>
+        <target>The default landing tab for the student dashboard.</target>
+      </segment>
+    </unit>
+    <unit id="OPJurdO" name="school_admin.student_dashboard_default_tab.">
+      <segment>
+        <source>school_admin.student_dashboard_default_tab.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="tccKnUN" name="school_admin.student_dashboard_default_tab.planner">
+      <segment>
+        <source>school_admin.student_dashboard_default_tab.planner</source>
+        <target>Planner</target>
+      </segment>
+    </unit>
+    <unit id="O_HdsWh" name="Parent Dashboard Default Tab">
+      <segment>
+        <source>Parent Dashboard Default Tab</source>
+        <target>Parent Dashboard Default Tab</target>
+      </segment>
+    </unit>
+    <unit id="GXgaSmq" name="The default landing tab for the parent dashboard.">
+      <segment>
+        <source>The default landing tab for the parent dashboard.</source>
+        <target>The default landing tab for the parent dashboard.</target>
+      </segment>
+    </unit>
+    <unit id="r0Y1rSG" name="school_admin.parent_dashboard_default_tab.">
+      <segment>
+        <source>school_admin.parent_dashboard_default_tab.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="wjWYRc." name="school_admin.parent_dashboard_default_tab.learning_overview">
+      <segment>
+        <source>school_admin.parent_dashboard_default_tab.learning_overview</source>
+        <target>Learning Overview</target>
+      </segment>
+    </unit>
+    <unit id="YpeXB8J" name="school_admin.parent_dashboard_default_tab.timetable">
+      <segment>
+        <source>school_admin.parent_dashboard_default_tab.timetable</source>
+        <target>Timetable</target>
+      </segment>
+    </unit>
+    <unit id="NSUe1bB" name="school_admin.parent_dashboard_default_tab.activities">
+      <segment>
+        <source>school_admin.parent_dashboard_default_tab.activities</source>
+        <target>Activities</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
