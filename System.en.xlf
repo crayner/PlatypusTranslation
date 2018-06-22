@@ -703,5 +703,47 @@
         <target>Other</target>
       </segment>
     </unit>
+    <unit id="2LgBULd" name="manage_finance_settings">
+      <segment>
+        <source>manage_finance_settings</source>
+        <target>Manage Finance Settings</target>
+      </segment>
+    </unit>
+    <unit id="uANVdQl" name="Invoices">
+      <segment>
+        <source>Invoices</source>
+        <target>Invoices</target>
+      </segment>
+    </unit>
+    <unit id="3jIvh7X" name="General Settings">
+      <segment>
+        <source>General Settings</source>
+        <target>General Settings</target>
+      </segment>
+    </unit>
+    <unit id="YKYn30B" name="Receipts">
+      <segment>
+        <source>Receipts</source>
+        <target>Receipts</target>
+      </segment>
+    </unit>
+    <unit id="eXHddSZ" name="Reminders">
+      <segment>
+        <source>Reminders</source>
+        <target>Reminders</target>
+      </segment>
+    </unit>
+    <unit id="0xFBb6O" name="Expenses">
+      <segment>
+        <source>Expenses</source>
+        <target>Expenses</target>
+      </segment>
+    </unit>
+    <unit id="MSqYnUC" name="Some settings may be hidden with the choices made for your school.">
+      <segment>
+        <source>Some settings may be hidden with the choices made for your school.</source>
+        <target>Some settings may be hidden with the choices made for your school.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

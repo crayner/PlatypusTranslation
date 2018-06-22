@@ -1057,5 +1057,275 @@
         <target>Adds a Message Wall widget to the home page, highlighting current messages.</target>
       </segment>
     </unit>
+    <unit id="VQk3Ej." name="Online Payment Threshold">
+      <segment>
+        <source>Online Payment Threshold</source>
+        <target>Online Payment Threshold</target>
+      </segment>
+    </unit>
+    <unit id="lRvp64s" name="79b2fe0">
+      <segment>
+        <source>If invoices are payable online, what is the maximum payment allowed? Useful for controlling payment fees. No value means unlimited. In setting.currency</source>
+        <target>If invoices are payable online, what is the maximum payment allowed? Useful for controlling payment fees. No value means unlimited. In setting.currency</target>
+      </segment>
+    </unit>
+    <unit id="lpzL089" name="Email">
+      <segment>
+        <source>Email</source>
+        <target>Email</target>
+      </segment>
+    </unit>
+    <unit id="O_RA.mG" name="Send messages from this email address.">
+      <segment>
+        <source>Send messages from this email address.</source>
+        <target>Send messages from this email address.</target>
+      </segment>
+    </unit>
+    <unit id="VfMtE8L" name="Enable Online Payment">
+      <segment>
+        <source>Enable Online Payment</source>
+        <target>Enable Online Payment</target>
+      </segment>
+    </unit>
+    <unit id="LY_cfV7" name="cfed860">
+      <segment>
+        <source>Should invoices be payable online, via an encrypted link in the invoice? Requires correctly configured payment gateway in System Settings.</source>
+        <target>Should invoices be payable online, via an encrypted link in the invoice? Requires correctly configured payment gateway in System Settings.</target>
+      </segment>
+    </unit>
+    <unit id="04Nr5tP" name="f6d8b5d">
+      <segment>
+        <source>If invoices are payable online, what is the maximum payment allowed? Useful for controlling payment fees. No value means unlimited. In {{setting.currency}}</source>
+        <target>If invoices are payable online, what is the maximum payment allowed? Useful for controlling payment fees. No value means unlimited. In {{setting.currency}}</target>
+      </segment>
+    </unit>
+    <unit id="hzjIKYx" name="Invoice Text">
+      <segment>
+        <source>Invoice Text</source>
+        <target>Invoice Text</target>
+      </segment>
+    </unit>
+    <unit id="JCZ_T2b" name="Text to appear in invoice, above invoice details and fees.">
+      <segment>
+        <source>Text to appear in invoice, above invoice details and fees.</source>
+        <target>Text to appear in invoice, above invoice details and fees.</target>
+      </segment>
+    </unit>
+    <unit id="F91I4ah" name="Invoice Notes">
+      <segment>
+        <source>Invoice Notes</source>
+        <target>Invoice Notes</target>
+      </segment>
+    </unit>
+    <unit id="wh0ISgs" name="Text to appear in invoice, below invoice details and fees.">
+      <segment>
+        <source>Text to appear in invoice, below invoice details and fees.</source>
+        <target>Text to appear in invoice, below invoice details and fees.</target>
+      </segment>
+    </unit>
+    <unit id="oXVz9we" name="Invoicee Name Style">
+      <segment>
+        <source>Invoicee Name Style</source>
+        <target>Invoicee Name Style</target>
+      </segment>
+    </unit>
+    <unit id="bM3zWS9" name="Determines how invoicee name appears on invoices and receipts.">
+      <segment>
+        <source>Determines how invoicee name appears on invoices and receipts.</source>
+        <target>Determines how invoicee name appears on invoices and receipts.</target>
+      </segment>
+    </unit>
+    <unit id="ojMLWnM" name="finance.invoicee_name_style.surname_preferred_name">
+      <segment>
+        <source>finance.invoicee_name_style.surname_preferred_name</source>
+        <target>Surname, Preferred name</target>
+      </segment>
+    </unit>
+    <unit id="HLGEZ6." name="finance.invoicee_name_style.official_name">
+      <segment>
+        <source>finance.invoicee_name_style.official_name</source>
+        <target>Official Name</target>
+      </segment>
+    </unit>
+    <unit id="i_hiC0V" name="Invoice Number Style">
+      <segment>
+        <source>Invoice Number Style</source>
+        <target>Invoice Number Style</target>
+      </segment>
+    </unit>
+    <unit id="AaFiSet" name="How should invoice numbers be constructed?">
+      <segment>
+        <source>How should invoice numbers be constructed?</source>
+        <target>How should invoice numbers be constructed?</target>
+      </segment>
+    </unit>
+    <unit id="N0x5aA8" name="finance.invoice_number.invoice_id">
+      <segment>
+        <source>finance.invoice_number.invoice_id</source>
+        <target>Invoice ID</target>
+      </segment>
+    </unit>
+    <unit id="U4oIQNx" name="finance.invoice_number.person_id_invoice_id">
+      <segment>
+        <source>finance.invoice_number.person_id_invoice_id</source>
+        <target>Person ID + Invoice ID</target>
+      </segment>
+    </unit>
+    <unit id="ob2o2TU" name="finance.invoice_number.student_id_invoice_id">
+      <segment>
+        <source>finance.invoice_number.student_id_invoice_id</source>
+        <target>Student ID + Invoice ID</target>
+      </segment>
+    </unit>
+    <unit id="Lha8WW_" name="Text to appear in receipt, above receipt details and fees.">
+      <segment>
+        <source>Text to appear in receipt, above receipt details and fees.</source>
+        <target>Text to appear in receipt, above receipt details and fees.</target>
+      </segment>
+    </unit>
+    <unit id="PVyHDIA" name="Receipt Notes">
+      <segment>
+        <source>Receipt Notes</source>
+        <target>Receipt Notes</target>
+      </segment>
+    </unit>
+    <unit id="8N.nPxx" name="Text to appear in receipt, below receipt details and fees.">
+      <segment>
+        <source>Text to appear in receipt, below receipt details and fees.</source>
+        <target>Text to appear in receipt, below receipt details and fees.</target>
+      </segment>
+    </unit>
+    <unit id="q.lPmhC" name="Hide Itemisation">
+      <segment>
+        <source>Hide Itemisation</source>
+        <target>Hide Itemisation</target>
+      </segment>
+    </unit>
+    <unit id="I7whHy6" name="Hide fee and payment details in receipts?">
+      <segment>
+        <source>Hide fee and payment details in receipts?</source>
+        <target>Hide fee and payment details in receipts?</target>
+      </segment>
+    </unit>
+    <unit id="OjbqW_p" name="Receipt Text">
+      <segment>
+        <source>Receipt Text</source>
+        <target>Receipt Text</target>
+      </segment>
+    </unit>
+    <unit id="i_0SLyZ" name="Reminder 1 Text">
+      <segment>
+        <source>Reminder 1 Text</source>
+        <target>Reminder 1 Text</target>
+      </segment>
+    </unit>
+    <unit id="HRe3XZ7" name="Text to appear in first level reminder level, above invoice details and fees.">
+      <segment>
+        <source>Text to appear in first level reminder level, above invoice details and fees.</source>
+        <target>Text to appear in first level reminder level, above invoice details and fees.</target>
+      </segment>
+    </unit>
+    <unit id="fvtOlDK" name="Reminder 2 Text">
+      <segment>
+        <source>Reminder 2 Text</source>
+        <target>Reminder 2 Text</target>
+      </segment>
+    </unit>
+    <unit id="0oVAHwz" name="Text to appear in second level reminder level, above invoice details and fees.">
+      <segment>
+        <source>Text to appear in second level reminder level, above invoice details and fees.</source>
+        <target>Text to appear in second level reminder level, above invoice details and fees.</target>
+      </segment>
+    </unit>
+    <unit id="MKbNx17" name="Reminder 3 Text">
+      <segment>
+        <source>Reminder 3 Text</source>
+        <target>Reminder 3 Text</target>
+      </segment>
+    </unit>
+    <unit id="wwrA2jz" name="Text to appear in third level reminder level, above invoice details and fees.">
+      <segment>
+        <source>Text to appear in third level reminder level, above invoice details and fees.</source>
+        <target>Text to appear in third level reminder level, above invoice details and fees.</target>
+      </segment>
+    </unit>
+    <unit id="d_Du57a" name="Budget Categories">
+      <segment>
+        <source>Budget Categories</source>
+        <target>Budget Categories</target>
+      </segment>
+    </unit>
+    <unit id="HaylWH8" name="List of budget categories.">
+      <segment>
+        <source>List of budget categories.</source>
+        <target>List of budget categories.</target>
+      </segment>
+    </unit>
+    <unit id="KX84dCv" name="Expense Approval Type">
+      <segment>
+        <source>Expense Approval Type</source>
+        <target>Expense Approval Type</target>
+      </segment>
+    </unit>
+    <unit id="6fm58eH" name="How should expense approval be dealt with?">
+      <segment>
+        <source>How should expense approval be dealt with?</source>
+        <target>How should expense approval be dealt with?</target>
+      </segment>
+    </unit>
+    <unit id="OBEhzh." name="finance.expense_approval_type.one_of">
+      <segment>
+        <source>finance.expense_approval_type.one_of</source>
+        <target>One Of</target>
+      </segment>
+    </unit>
+    <unit id="DEaxQvt" name="finance.expense_approval_type.two_of">
+      <segment>
+        <source>finance.expense_approval_type.two_of</source>
+        <target>Two Of</target>
+      </segment>
+    </unit>
+    <unit id=".vEfPBW" name="finance.expense_approval_type.chain_of_all">
+      <segment>
+        <source>finance.expense_approval_type.chain_of_all</source>
+        <target>Chain Of All</target>
+      </segment>
+    </unit>
+    <unit id="VYB6FhU" name="Budget Level Expense Approval">
+      <segment>
+        <source>Budget Level Expense Approval</source>
+        <target>Budget Level Expense Approval</target>
+      </segment>
+    </unit>
+    <unit id="H6kWq20" name="Should approval from a budget member with Full access be required?">
+      <segment>
+        <source>Should approval from a budget member with Full access be required?</source>
+        <target>Should approval from a budget member with Full access be required?</target>
+      </segment>
+    </unit>
+    <unit id="cNlvWd8" name="Expense Request Template">
+      <segment>
+        <source>Expense Request Template</source>
+        <target>Expense Request Template</target>
+      </segment>
+    </unit>
+    <unit id="QbmQmiv" name="An HTML template to be used in the description field of expense requests.">
+      <segment>
+        <source>An HTML template to be used in the description field of expense requests.</source>
+        <target>An HTML template to be used in the description field of expense requests.</target>
+      </segment>
+    </unit>
+    <unit id="bA74zDa" name="Allow Expense Add">
+      <segment>
+        <source>Allow Expense Add</source>
+        <target>Allow Expense Add</target>
+      </segment>
+    </unit>
+    <unit id="LEkupOJ" name="Allows privileged users to add expenses without going through request process.">
+      <segment>
+        <source>Allows privileged users to add expenses without going through request process.</source>
+        <target>Allows privileged users to add expenses without going through request process.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

@@ -565,5 +565,59 @@
         <target>Needs Staff table defined.</target>
       </segment>
     </unit>
+    <unit id="ea7vEjt" name="Left - Early">
+      <segment>
+        <source>Left - Early</source>
+        <target>Left - Early</target>
+      </segment>
+    </unit>
+    <unit id="2T2LEWa" name="Purchasing Officer">
+      <segment>
+        <source>Purchasing Officer</source>
+        <target>Purchasing Officer</target>
+      </segment>
+    </unit>
+    <unit id="_5dAskh" name="Staff member responsible for purchasing for the school.">
+      <segment>
+        <source>Staff member responsible for purchasing for the school.</source>
+        <target>Staff member responsible for purchasing for the school.</target>
+      </segment>
+    </unit>
+    <unit id="RZcCtoA" name="finance.purchasing_officer.do this list..">
+      <segment>
+        <source>finance.purchasing_officer.do this list..</source>
+        <target>do this list..</target>
+      </segment>
+    </unit>
+    <unit id="o1hb0Hh" name="finance.purchasing_officer.Needs Staff table defined.">
+      <segment>
+        <source>finance.purchasing_officer.Needs Staff table defined.</source>
+        <target>Needs Staff table defined.</target>
+      </segment>
+    </unit>
+    <unit id="9RSDKrv" name="Reimbursement Officer">
+      <segment>
+        <source>Reimbursement Officer</source>
+        <target>Reimbursement Officer</target>
+      </segment>
+    </unit>
+    <unit id="E00vtMq" name="Staff member responsible for reimbursing expenses.">
+      <segment>
+        <source>Staff member responsible for reimbursing expenses.</source>
+        <target>Staff member responsible for reimbursing expenses.</target>
+      </segment>
+    </unit>
+    <unit id="rhVjalD" name="finance.reimbursement_officer.do this list..">
+      <segment>
+        <source>finance.reimbursement_officer.do this list..</source>
+        <target>do this list..</target>
+      </segment>
+    </unit>
+    <unit id="NUM9IA9" name="finance.reimbursement_officer.Needs Staff table defined.">
+      <segment>
+        <source>finance.reimbursement_officer.Needs Staff table defined.</source>
+        <target>Needs Staff table defined.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
