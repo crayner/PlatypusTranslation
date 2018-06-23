@@ -28,7 +28,7 @@
     <unit id="VokxSLK" name="pagination.figures">
       <segment>
         <source>pagination.figures</source>
-        <target><![CDATA["{0,1}Records %first% to %last% of %total%.|]1,Inf]Records %first% to %last% of %total%.<br/>%pages% Pages"]]></target>
+        <target><![CDATA[{0}No Records Found|{1}Records %first% to %last% of %total%.|]1,Inf]Records %first% to %last% of %total%.<br/>%count% Pages]]></target>
       </segment>
     </unit>
     <unit id="BWxy9I4" name="pagination.records.only">

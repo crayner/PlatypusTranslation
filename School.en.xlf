@@ -841,5 +841,221 @@
         <target></target>
       </segment>
     </unit>
+    <unit id="g_1oXZ_" name="manage_roll_groups">
+      <segment>
+        <source>manage_roll_groups</source>
+        <target>Manage Roll Groups</target>
+      </segment>
+    </unit>
+    <unit id="5V7GyD9" name="school.roll_group.list.title">
+      <segment>
+        <source>school.roll_group.list.title</source>
+        <target>Manage Roll Groups</target>
+      </segment>
+    </unit>
+    <unit id="BJzMN91" name="school.roll_group.list.description">
+      <segment>
+        <source>school.roll_group.list.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="mHSI04z" name="school.roll_group.list.help">
+      <segment>
+        <source>school.roll_group.list.help</source>
+        <target>The list of Roll Groups is limited to the current School Year.</target>
+      </segment>
+    </unit>
+    <unit id="a7TUsYr" name="roll_group.name.label">
+      <segment>
+        <source>roll_group.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="hP7YKu0" name="roll_group.code.label">
+      <segment>
+        <source>roll_group.code.label</source>
+        <target>roll_group.code.label</target>
+      </segment>
+    </unit>
+    <unit id="dmrYBWs" name="roll_group.space.label">
+      <segment>
+        <source>roll_group.space.label</source>
+        <target>roll_group.space.label</target>
+      </segment>
+    </unit>
+    <unit id="sKmJI7U" name="roll_group.details.label">
+      <segment>
+        <source>roll_group.details.label</source>
+        <target>roll_group.details.label</target>
+      </segment>
+    </unit>
+    <unit id="rXA0Qee" name="roll_group.website.label">
+      <segment>
+        <source>roll_group.website.label</source>
+        <target>Website</target>
+      </segment>
+    </unit>
+    <unit id="sqJcp0F" name="roll_group.location.label">
+      <segment>
+        <source>roll_group.location.label</source>
+        <target>Location</target>
+      </segment>
+    </unit>
+    <unit id="BIT6g9D" name="roll_group.facility.label">
+      <segment>
+        <source>roll_group.facility.label</source>
+        <target>Location</target>
+      </segment>
+    </unit>
+    <unit id="eKcjQKU" name="roll_group.name_short.label">
+      <segment>
+        <source>roll_group.name_short.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="XA1AE2Y" name="roll_group.tutors.label">
+      <segment>
+        <source>roll_group.tutors.label</source>
+        <target>Roll Tutors</target>
+      </segment>
+    </unit>
+    <unit id="mR1US54" name="school.roll_group.edit.title">
+      <segment>
+        <source>school.roll_group.edit.title</source>
+        <target>Edit Roll Group</target>
+      </segment>
+    </unit>
+    <unit id="QjCdWa6" name="school.roll_group.edit.description">
+      <segment>
+        <source>school.roll_group.edit.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="0BWNih_" name="school.roll_group.manage.title">
+      <segment>
+        <source>school.roll_group.manage.title</source>
+        <target>Manage Roll Group</target>
+      </segment>
+    </unit>
+    <unit id="xkXLVMd" name="roll_group.name.help">
+      <segment>
+        <source>roll_group.name.help</source>
+        <target>Needs to be unique in school year.</target>
+      </segment>
+    </unit>
+    <unit id="A3bePIo" name="roll_group.name_short.help">
+      <segment>
+        <source>roll_group.name_short.help</source>
+        <target>Needs to be unique in school year.</target>
+      </segment>
+    </unit>
+    <unit id="GmoI_hd" name="roll_group.next_roll_group.label">
+      <segment>
+        <source>roll_group.next_roll_group.label</source>
+        <target>Next Roll Group</target>
+      </segment>
+    </unit>
+    <unit id="_LwwVvR" name="roll_group.next_roll_group.help">
+      <segment>
+        <source>roll_group.next_roll_group.help</source>
+        <target>Sets student progression on rollover.</target>
+      </segment>
+    </unit>
+    <unit id="JsBcyHT" name="roll_group.attendance.label">
+      <segment>
+        <source>roll_group.attendance.label</source>
+        <target>Track Attendance?</target>
+      </segment>
+    </unit>
+    <unit id="KRqu76j" name="roll_group.attendance.help">
+      <segment>
+        <source>roll_group.attendance.help</source>
+        <target>Should this class allow attendance to be taken?</target>
+      </segment>
+    </unit>
+    <unit id="Z7BFyIN" name="roll_group.website.help">
+      <segment>
+        <source>roll_group.website.help</source>
+        <target>Include http{s}://</target>
+      </segment>
+    </unit>
+    <unit id="7XCFjO5" name="roll_group.facility.placeholder">
+      <segment>
+        <source>roll_group.facility.placeholder</source>
+        <target>Location</target>
+      </segment>
+    </unit>
+    <unit id="75yaIki" name="school.roll_group.tutors.label">
+      <segment>
+        <source>school.roll_group.tutors.label</source>
+        <target>Roll Tutors</target>
+      </segment>
+    </unit>
+    <unit id="xO6HOKC" name="school.roll_group.assistants.label">
+      <segment>
+        <source>school.roll_group.assistants.label</source>
+        <target>Roll Assistants</target>
+      </segment>
+    </unit>
+    <unit id="JtmyG8z" name="school.roll_group.tutors.help">
+      <segment>
+        <source>school.roll_group.tutors.help</source>
+        <target>The first tutor in the list is assumed to be the "Main Tutor". Up to 3 per roll group.</target>
+      </segment>
+    </unit>
+    <unit id="Lhz6grA" name="empty">
+      <segment>
+        <source>empty</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="G9Pe03t" name="school.roll_group.assistants.help">
+      <segment>
+        <source>school.roll_group.assistants.help</source>
+        <target>Up to 3 per roll group.</target>
+      </segment>
+    </unit>
+    <unit id="4Ghgp1V" name="school.roll_group.not_found">
+      <segment>
+        <source>school.roll_group.not_found</source>
+        <target>The roll group was not found.</target>
+      </segment>
+    </unit>
+    <unit id="SZ47Cla" name="school.roll_group.delete.title">
+      <segment>
+        <source>school.roll_group.delete.title</source>
+        <target>Delete Roll Group</target>
+      </segment>
+    </unit>
+    <unit id="zlQqnKk" name="school.roll_group.remove.locked">
+      <segment>
+        <source>school.roll_group.remove.locked</source>
+        <target>The roll group "%{name}" is locked and must not be deleted.</target>
+      </segment>
+    </unit>
+    <unit id="Nce0M2r" name="school.roll_group.removed.success">
+      <segment>
+        <source>school.roll_group.removed.success</source>
+        <target>The roll group "%{name}" was removed successfully.</target>
+      </segment>
+    </unit>
+    <unit id="Fzhz51o" name="school.roll_groups.copy">
+      <segment>
+        <source>school.roll_groups.copy</source>
+        <target>Copy Roll Groups to next School Year</target>
+      </segment>
+    </unit>
+    <unit id="7wfk8eO" name="school.roll_groups.copy.locked">
+      <segment>
+        <source>school.roll_groups.copy.locked</source>
+        <target>Roll Groups for "%{year}" have already been created.  The copy function only works when the year has no roll groups created.</target>
+      </segment>
+    </unit>
+    <unit id="G.jsQjm" name="school.roll_groups.copy_next_year.success">
+      <segment>
+        <source>school.roll_groups.copy_next_year.success</source>
+        <target>{0}No roll groups were found to copy.|{1}One roll group was copied to "%{year}." You must change your year view to manage these newly created year groups.|]1,Inf[%count% roll groups were copied to "%{year}."  You must change your year view to manage these newly created year groups.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
