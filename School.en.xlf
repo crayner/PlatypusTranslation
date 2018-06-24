@@ -1057,5 +1057,293 @@
         <target>{0}No roll groups were found to copy.|{1}One roll group was copied to "%{year}." You must change your year view to manage these newly created year groups.|]1,Inf[%count% roll groups were copied to "%{year}."  You must change your year view to manage these newly created year groups.</target>
       </segment>
     </unit>
+    <unit id="P1oMIg6" name="manage_departments">
+      <segment>
+        <source>manage_departments</source>
+        <target>Manage Departments</target>
+      </segment>
+    </unit>
+    <unit id="mdqpc5R" name="Department Access">
+      <segment>
+        <source>Department Access</source>
+        <target>Department Access</target>
+      </segment>
+    </unit>
+    <unit id="47DEQpj" name="">
+      <segment>
+        <source></source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="yAQA92O" name="school.department.list.title">
+      <segment>
+        <source>school.department.list.title</source>
+        <target>Departments</target>
+      </segment>
+    </unit>
+    <unit id="9g96wRU" name="school.department.list.help">
+      <segment>
+        <source>school.department.list.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="icN11_8" name="department.name.label">
+      <segment>
+        <source>department.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="WorBOPm" name="department.name_short.label">
+      <segment>
+        <source>department.name_short.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="C4JLPWX" name="department.tutors.label">
+      <segment>
+        <source>department.tutors.label</source>
+        <target>department.tutors.label</target>
+      </segment>
+    </unit>
+    <unit id="bGXyxib" name="department.facility.label">
+      <segment>
+        <source>department.facility.label</source>
+        <target>department.facility.label</target>
+      </segment>
+    </unit>
+    <unit id="P5s.M_E" name="department.website.label">
+      <segment>
+        <source>department.website.label</source>
+        <target>department.website.label</target>
+      </segment>
+    </unit>
+    <unit id="cth0tHM" name="department.type.label">
+      <segment>
+        <source>department.type.label</source>
+        <target>Type</target>
+      </segment>
+    </unit>
+    <unit id="jIncjPk" name="department.staff.label">
+      <segment>
+        <source>department.staff.label</source>
+        <target>Staff</target>
+      </segment>
+    </unit>
+    <unit id="pR7Jg7y" name="department.edit.title">
+      <segment>
+        <source>department.edit.title</source>
+        <target>Manage Department</target>
+      </segment>
+    </unit>
+    <unit id="bDdJ33Y" name="department.edit.description">
+      <segment>
+        <source>department.edit.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="7_Z1SOb" name="department.details.tab">
+      <segment>
+        <source>department.details.tab</source>
+        <target>Details</target>
+      </segment>
+    </unit>
+    <unit id="oUoIyMO" name="department.type.placeholder">
+      <segment>
+        <source>department.type.placeholder</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="Detcq5I" name="department.type.learning_area">
+      <segment>
+        <source>department.type.learning_area</source>
+        <target>Learning Area</target>
+      </segment>
+    </unit>
+    <unit id="xL9FP_M" name="department.type.administration">
+      <segment>
+        <source>department.type.administration</source>
+        <target>Administration</target>
+      </segment>
+    </unit>
+    <unit id="GhAyeyw" name="department.type.">
+      <segment>
+        <source>department.type.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="xK9giLV" name="department.logo.label">
+      <segment>
+        <source>department.logo.label</source>
+        <target>Logo</target>
+      </segment>
+    </unit>
+    <unit id="xk8jM55" name="department.blurb.label">
+      <segment>
+        <source>department.blurb.label</source>
+        <target>Blurb</target>
+      </segment>
+    </unit>
+    <unit id="CyHK1tz" name="department.subject_listing.label">
+      <segment>
+        <source>department.subject_listing.label</source>
+        <target>Subject Listing</target>
+      </segment>
+    </unit>
+    <unit id="SWMh3Jo" name="school.department.edit.title">
+      <segment>
+        <source>school.department.edit.title</source>
+        <target>Edit Department</target>
+      </segment>
+    </unit>
+    <unit id="cGJpZrF" name="school.department.delete.title">
+      <segment>
+        <source>school.department.delete.title</source>
+        <target>Delete Department</target>
+      </segment>
+    </unit>
+    <unit id="XOSTQq." name="department.members.member.placeholder">
+      <segment>
+        <source>department.members.member.placeholder</source>
+        <target>department.members.member.placeholder</target>
+      </segment>
+    </unit>
+    <unit id="J0AHfrz" name="department.members.role.placeholder">
+      <segment>
+        <source>department.members.role.placeholder</source>
+        <target>department.members.role.placeholder</target>
+      </segment>
+    </unit>
+    <unit id="uL8fGlK" name="departmentstaff.role.coordinator">
+      <segment>
+        <source>departmentstaff.role.coordinator</source>
+        <target>Coordinator</target>
+      </segment>
+    </unit>
+    <unit id="f3Em6Wp" name="departmentstaff.role.assistant_coordinator">
+      <segment>
+        <source>departmentstaff.role.assistant_coordinator</source>
+        <target>Assistant Coordinator</target>
+      </segment>
+    </unit>
+    <unit id="z3rf6ZX" name="departmentstaff.role.teacher-curriculum">
+      <segment>
+        <source>departmentstaff.role.teacher-curriculum</source>
+        <target>Teacher (Curriculum)</target>
+      </segment>
+    </unit>
+    <unit id="Zy.InuJ" name="departmentstaff.role.teacher">
+      <segment>
+        <source>departmentstaff.role.teacher</source>
+        <target>Teacher</target>
+      </segment>
+    </unit>
+    <unit id="qIF.MNC" name="departmentstaff.role.director">
+      <segment>
+        <source>departmentstaff.role.director</source>
+        <target>Director</target>
+      </segment>
+    </unit>
+    <unit id="VFrnEg0" name="departmentstaff.role.manager">
+      <segment>
+        <source>departmentstaff.role.manager</source>
+        <target>Manager</target>
+      </segment>
+    </unit>
+    <unit id="2ZDy2z7" name="departmentstaff.role.administrator">
+      <segment>
+        <source>departmentstaff.role.administrator</source>
+        <target>Administrator</target>
+      </segment>
+    </unit>
+    <unit id="dV63oMU" name="departmentstaff.role.other">
+      <segment>
+        <source>departmentstaff.role.other</source>
+        <target>Other</target>
+      </segment>
+    </unit>
+    <unit id="EESkwFb" name="Members">
+      <segment>
+        <source>Members</source>
+        <target>Members</target>
+      </segment>
+    </unit>
+    <unit id="JYCjHp1" name="department.members.help">
+      <segment>
+        <source>department.members.help</source>
+        <target>department.members.help</target>
+      </segment>
+    </unit>
+    <unit id="mhFpUuM" name="department.staff.tab">
+      <segment>
+        <source>department.staff.tab</source>
+        <target>Staff</target>
+      </segment>
+    </unit>
+    <unit id="gz6qWNV" name="department.members.member.label">
+      <segment>
+        <source>department.members.member.label</source>
+        <target>department.members.member.label</target>
+      </segment>
+    </unit>
+    <unit id="ImmhoHf" name="department.members.type.label">
+      <segment>
+        <source>department.members.type.label</source>
+        <target>department.members.type.label</target>
+      </segment>
+    </unit>
+    <unit id="ZX7yc9I" name="department.member.member.placeholder">
+      <segment>
+        <source>department.member.member.placeholder</source>
+        <target>Select Staff Member ...</target>
+      </segment>
+    </unit>
+    <unit id="RAXh4ch" name="department.member.role.placeholder">
+      <segment>
+        <source>department.member.role.placeholder</source>
+        <target>Select Role ...</target>
+      </segment>
+    </unit>
+    <unit id="qoDwjxJ" name="department.member.name.label">
+      <segment>
+        <source>department.member.name.label</source>
+        <target>Staff Name</target>
+      </segment>
+    </unit>
+    <unit id="IAtfpvW" name="department.member.role.label">
+      <segment>
+        <source>department.member.role.label</source>
+        <target>Role</target>
+      </segment>
+    </unit>
+    <unit id="1KV4L.t" name="This value should not be blank.">
+      <segment>
+        <source>This value should not be blank.</source>
+        <target>This value should not be blank.</target>
+      </segment>
+    </unit>
+    <unit id="P8rgTN0" name="department.member.removed.success">
+      <segment>
+        <source>department.member.removed.success</source>
+        <target>Removed "%{member}" from the department.</target>
+      </segment>
+    </unit>
+    <unit id="mB_wUgB" name="department.member.missing.warning">
+      <segment>
+        <source>department.member.missing.warning</source>
+        <target>Did not find "%{member}" to remove from the department.</target>
+      </segment>
+    </unit>
+    <unit id="8zYWZtq" name="department.member.removed.info">
+      <segment>
+        <source>department.member.removed.info</source>
+        <target>Found "%{member}", but not in this department.</target>
+      </segment>
+    </unit>
+    <unit id="KkwwLOS" name="departmentstaff.role.teacher_curriculum">
+      <segment>
+        <source>departmentstaff.role.teacher_curriculum</source>
+        <target>Teacher Curriculum</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

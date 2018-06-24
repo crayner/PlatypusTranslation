@@ -895,5 +895,41 @@
         <target>Warnings</target>
       </segment>
     </unit>
+    <unit id="M.tqmdJ" name="entity.not_found">
+      <segment>
+        <source>entity.not_found</source>
+        <target>The entity "%{entity}" was not found to delete.</target>
+      </segment>
+    </unit>
+    <unit id="VTvmvux" name="The entity &quot;App\Entity\Department&quot; was not found to delete.">
+      <segment>
+        <source>The entity "App\Entity\Department" was not found to delete.</source>
+        <target>The entity "App\Entity\Department" was not found to delete.</target>
+      </segment>
+    </unit>
+    <unit id="tcEgsxb" name="Saved">
+      <segment>
+        <source>Saved</source>
+        <target>Saved</target>
+      </segment>
+    </unit>
+    <unit id="4QgAPli" name="entity.removed.success">
+      <segment>
+        <source>entity.removed.success</source>
+        <target>The entity "%{entity}" identified as "%{name}" was removed.</target>
+      </segment>
+    </unit>
+    <unit id="YYObEAF" name="entity.remove.locked">
+      <segment>
+        <source>entity.remove.locked</source>
+        <target>The entity "App\Entity\Department" identified as "Finance" was marked as locked, not to be removed.</target>
+      </segment>
+    </unit>
+    <unit id="g2hA5zM" name="The entity &quot;App\Entity\Department&quot; identified as &quot;Finance&quot; was removed.">
+      <segment>
+        <source>The entity "App\Entity\Department" identified as "Finance" was removed.</source>
+        <target>The entity "App\Entity\Department" identified as "Finance" was removed.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
