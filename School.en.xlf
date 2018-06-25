@@ -1345,5 +1345,95 @@
         <target>Teacher Curriculum</target>
       </segment>
     </unit>
+    <unit id="XrRY1DI" name="CAT - scores">
+      <segment>
+        <source>CAT - scores</source>
+        <target>CAT - scores</target>
+      </segment>
+    </unit>
+    <unit id="DQRbOWO" name="CAT - Scores">
+      <segment>
+        <source>CAT - Scores</source>
+        <target>CAT - Scores</target>
+      </segment>
+    </unit>
+    <unit id="cc0RVgV" name="CAT - KS3 Target Grades">
+      <segment>
+        <source>CAT - KS3 Target Grades</source>
+        <target>CAT - KS3 Target Grades</target>
+      </segment>
+    </unit>
+    <unit id="tJVceLz" name="CAT - GCSE Target Grades">
+      <segment>
+        <source>CAT - GCSE Target Grades</source>
+        <target>CAT - GCSE Target Grades</target>
+      </segment>
+    </unit>
+    <unit id="R9q4C76" name="GCSE - Target Grade">
+      <segment>
+        <source>GCSE - Target Grade</source>
+        <target>GCSE - Target Grade</target>
+      </segment>
+    </unit>
+    <unit id="5LIVcza" name="GCSE - Final Grade">
+      <segment>
+        <source>GCSE - Final Grade</source>
+        <target>GCSE - Final Grade</target>
+      </segment>
+    </unit>
+    <unit id="Aew0pjQ" name="IB Diploma - Target Grade">
+      <segment>
+        <source>IB Diploma - Target Grade</source>
+        <target>IB Diploma - Target Grade</target>
+      </segment>
+    </unit>
+    <unit id="T_b40i3" name="IB Diploma - Final Grade">
+      <segment>
+        <source>IB Diploma - Final Grade</source>
+        <target>IB Diploma - Final Grade</target>
+      </segment>
+    </unit>
+    <unit id="qSwHleX" name="year_group.label.Year 13">
+      <segment>
+        <source>year_group.label.Year 13</source>
+        <target>Year 13</target>
+      </segment>
+    </unit>
+    <unit id="RnGMKJR" name="year_group.label.Year 12">
+      <segment>
+        <source>year_group.label.Year 12</source>
+        <target>Year 12</target>
+      </segment>
+    </unit>
+    <unit id="COvXoRt" name="year_group.label.Year 11">
+      <segment>
+        <source>year_group.label.Year 11</source>
+        <target>Year 11</target>
+      </segment>
+    </unit>
+    <unit id=".4AEMyl" name="year_group.label.Year 10">
+      <segment>
+        <source>year_group.label.Year 10</source>
+        <target>Year 10</target>
+      </segment>
+    </unit>
+    <unit id="2gj7e47" name="year_group.label.Year 9">
+      <segment>
+        <source>year_group.label.Year 9</source>
+        <target>Year 9</target>
+      </segment>
+    </unit>
+    <unit id="LBt1.1E" name="year_group.label.Year 8">
+      <segment>
+        <source>year_group.label.Year 8</source>
+        <target>Year 8</target>
+      </segment>
+    </unit>
+    <unit id="kTFJ2jQ" name="year_group.label.Year 7">
+      <segment>
+        <source>year_group.label.Year 7</source>
+        <target>Year 7</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
