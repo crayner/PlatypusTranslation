@@ -931,5 +931,17 @@
         <target>The entity "App\Entity\Department" identified as "Finance" was removed.</target>
       </segment>
     </unit>
+    <unit id="5awsKyS" name="Interfaces">
+      <segment>
+        <source>Interfaces</source>
+        <target>Interfaces</target>
+      </segment>
+    </unit>
+    <unit id="q6Fv495" name="manage_tracking_settings">
+      <segment>
+        <source>manage_tracking_settings</source>
+        <target>Manage Tracking Settings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
