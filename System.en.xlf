@@ -943,5 +943,11 @@
         <target>Manage Tracking Settings</target>
       </segment>
     </unit>
+    <unit id="hxXZS2m" name="manage_formal_assessments">
+      <segment>
+        <source>manage_formal_assessments</source>
+        <target>Formal Assessment Settings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
