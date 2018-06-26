@@ -1453,5 +1453,47 @@
         <target>Extension: </target>
       </segment>
     </unit>
+    <unit id="z4kBrzE" name="expected_grade">
+      <segment>
+        <source>expected_grade</source>
+        <target>expected_grade</target>
+      </segment>
+    </unit>
+    <unit id="QKWwFGX" name="predicted_grade">
+      <segment>
+        <source>predicted_grade</source>
+        <target>predicted_grade</target>
+      </segment>
+    </unit>
+    <unit id="LqB.acO" name="target_grade">
+      <segment>
+        <source>target_grade</source>
+        <target>target_grade</target>
+      </segment>
+    </unit>
+    <unit id="Rzw28Wb" name="Tracking External Assessment">
+      <segment>
+        <source>Tracking External Assessment</source>
+        <target>Tracking External Assessment</target>
+      </segment>
+    </unit>
+    <unit id="TUAHNjO" name="school_admin.external_assessments_by_year_group.expected_grade">
+      <segment>
+        <source>school_admin.external_assessments_by_year_group.expected_grade</source>
+        <target>Expected Grade</target>
+      </segment>
+    </unit>
+    <unit id="EJHfpMZ" name="school_admin.external_assessments_by_year_group.predicted_grade">
+      <segment>
+        <source>school_admin.external_assessments_by_year_group.predicted_grade</source>
+        <target>Predicted Grade</target>
+      </segment>
+    </unit>
+    <unit id="beB.qBP" name="school_admin.external_assessments_by_year_group.target_grade">
+      <segment>
+        <source>school_admin.external_assessments_by_year_group.target_grade</source>
+        <target>Target Grade</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

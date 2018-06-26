@@ -949,5 +949,29 @@
         <target>Formal Assessment Settings</target>
       </segment>
     </unit>
+    <unit id="Xsbxl56" name="Data Points - Internal Assessment">
+      <segment>
+        <source>Data Points - Internal Assessment</source>
+        <target>Data Points - Internal Assessment</target>
+      </segment>
+    </unit>
+    <unit id="Fs0DXE7" name="813197e">
+      <segment>
+        <source>Use the options below to select the internal assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</source>
+        <target>Use the options below to select the internal assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</target>
+      </segment>
+    </unit>
+    <unit id="TOHrXXJ" name="Data Points - External Assessment">
+      <segment>
+        <source>Data Points - External Assessment</source>
+        <target>Data Points - External Assessment</target>
+      </segment>
+    </unit>
+    <unit id="WRoc4BG" name="dc36b2a">
+      <segment>
+        <source>Use the options below to select the external assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</source>
+        <target>Use the options below to select the external assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
