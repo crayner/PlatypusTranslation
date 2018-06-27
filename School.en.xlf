@@ -1653,5 +1653,17 @@
         <target>Is Default ?</target>
       </segment>
     </unit>
+    <unit id="lAmWVFP" name="scale.name">
+      <segment>
+        <source>scale.name</source>
+        <target>%{name}</target>
+      </segment>
+    </unit>
+    <unit id="lAmiYFP" name="scale_grade.default.unique.error">
+      <segment>
+        <source>scale_grade.default.unique.error</source>
+        <target>The default grade value for the scale must be unique. Repeated at "%{name}""</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

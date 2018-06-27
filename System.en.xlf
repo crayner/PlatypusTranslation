@@ -922,7 +922,7 @@
     <unit id="YYObEAF" name="entity.remove.locked">
       <segment>
         <source>entity.remove.locked</source>
-        <target>The entity "App\Entity\Department" identified as "Finance" was marked as locked, not to be removed.</target>
+        <target>The entity "%{entity}" identified as "%{name}" was marked as locked, not to be removed.</target>
       </segment>
     </unit>
     <unit id="g2hA5zM" name="The entity &quot;App\Entity\Department&quot; identified as &quot;Finance&quot; was removed.">
@@ -971,6 +971,18 @@
       <segment>
         <source>Use the options below to select the external assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</source>
         <target>Use the options below to select the external assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</target>
+      </segment>
+    </unit>
+    <unit id="YGHedKK" name="eef2041">
+      <segment>
+        <source>The entity "App\Entity\Scale" identified as "Simple Letter Grade (SLG)" was removed.</source>
+        <target>The entity "App\Entity\Scale" identified as "Simple Letter Grade (SLG)" was removed.</target>
+      </segment>
+    </unit>
+    <unit id="SeN.tz1" name="f659f0e">
+      <segment>
+        <source>The entity "App\Entity\Department" identified as "Finance" was marked as locked, not to be removed.</source>
+        <target>The entity "App\Entity\Department" identified as "Finance" was marked as locked, not to be removed.</target>
       </segment>
     </unit>
   </file>
