@@ -1495,5 +1495,163 @@
         <target>Target Grade</target>
       </segment>
     </unit>
+    <unit id="Va7iXFp" name="manage_scales">
+      <segment>
+        <source>manage_scales</source>
+        <target>Manage Grade Scales</target>
+      </segment>
+    </unit>
+    <unit id="Nu.cn2a" name="school.scale.list.title">
+      <segment>
+        <source>school.scale.list.title</source>
+        <target>Manage Grade Scales</target>
+      </segment>
+    </unit>
+    <unit id="m.8Ll9P" name="school.scale.list.description">
+      <segment>
+        <source>school.scale.list.description</source>
+        <target>Grade scales are used through the Assess modules to control what grades can be entered into the system. Editing some of the inbuilt scales can impact other areas of the system: it is advised to take a backup of the entire system before doing this.
+
+</target>
+      </segment>
+    </unit>
+    <unit id=".aXGH8A" name="scale.name.sort">
+      <segment>
+        <source>scale.name.sort</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="T33Rcd4" name="scale.name_short.sort">
+      <segment>
+        <source>scale.name_short.sort</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="tXG4bGu" name="scale.name.label">
+      <segment>
+        <source>scale.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id=".XEdR1O" name="scale.name_short.label">
+      <segment>
+        <source>scale.name_short.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="3I._phW" name="scale.usage.label">
+      <segment>
+        <source>scale.usage.label</source>
+        <target>Usage</target>
+      </segment>
+    </unit>
+    <unit id="NVb38aA" name="scale.active.label">
+      <segment>
+        <source>scale.active.label</source>
+        <target>Active</target>
+      </segment>
+    </unit>
+    <unit id="PAJ.VPg" name="scale.numeric.label">
+      <segment>
+        <source>scale.numeric.label</source>
+        <target>Numeric</target>
+      </segment>
+    </unit>
+    <unit id="CNHc56e" name="school.scale.delete.title">
+      <segment>
+        <source>school.scale.delete.title</source>
+        <target>Delete Scale</target>
+      </segment>
+    </unit>
+    <unit id="Y0kZXZl" name="school.scale.edit.title">
+      <segment>
+        <source>school.scale.edit.title</source>
+        <target>Manage Grade Scale</target>
+      </segment>
+    </unit>
+    <unit id="dd5U.zL" name="school.scale.edit.description">
+      <segment>
+        <source>school.scale.edit.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="99cUkiB" name="scale.details.tab">
+      <segment>
+        <source>scale.details.tab</source>
+        <target>Details</target>
+      </segment>
+    </unit>
+    <unit id="CFJ2.6j" name="scale.grades.tab">
+      <segment>
+        <source>scale.grades.tab</source>
+        <target>Grades</target>
+      </segment>
+    </unit>
+    <unit id="MqBShnU" name="school.scale.manage.title">
+      <segment>
+        <source>school.scale.manage.title</source>
+        <target>Manage Grade Scales</target>
+      </segment>
+    </unit>
+    <unit id="HIgU9FE" name="scale.name.help">
+      <segment>
+        <source>scale.name.help</source>
+        <target>Must be unique.</target>
+      </segment>
+    </unit>
+    <unit id="zgYkn5h" name="scale.name_short.help">
+      <segment>
+        <source>scale.name_short.help</source>
+        <target>Must be unique.</target>
+      </segment>
+    </unit>
+    <unit id="chTTrlB" name="scale.lowest_acceptable.label">
+      <segment>
+        <source>scale.lowest_acceptable.label</source>
+        <target>Lowest Acceptable</target>
+      </segment>
+    </unit>
+    <unit id="Xz8QZsw" name="scale.lowest_acceptable.help">
+      <segment>
+        <source>scale.lowest_acceptable.help</source>
+        <target>This is the lowest grade a student can get without being unsatisfactory.</target>
+      </segment>
+    </unit>
+    <unit id="tWUDJm0" name="scale.usage.help">
+      <segment>
+        <source>scale.usage.help</source>
+        <target>Brief description of how scale is used.</target>
+      </segment>
+    </unit>
+    <unit id="u0SR3hP" name="scale.numeric.help">
+      <segment>
+        <source>scale.numeric.help</source>
+        <target>Does this scale use only numeric grades? Note, grade "Incomplete" is exempt.</target>
+      </segment>
+    </unit>
+    <unit id="SVr93SY" name="scale_grade.value.label">
+      <segment>
+        <source>scale_grade.value.label</source>
+        <target>Value</target>
+      </segment>
+    </unit>
+    <unit id="JpC_Qbf" name="scale_grade.descriptor.label">
+      <segment>
+        <source>scale_grade.descriptor.label</source>
+        <target>Descriptor</target>
+      </segment>
+    </unit>
+    <unit id="jF_PvfZ" name="scale_grade_default.label">
+      <segment>
+        <source>scale_grade_default.label</source>
+        <target>scale_grade_default.label</target>
+      </segment>
+    </unit>
+    <unit id=".CCQOHF" name="scale_grade.default.label">
+      <segment>
+        <source>scale_grade.default.label</source>
+        <target>Is Default ?</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
