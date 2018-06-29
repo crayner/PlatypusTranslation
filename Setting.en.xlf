@@ -1717,5 +1717,101 @@
         <target>Should department information be made available to the public, via the Gibbon homepage?</target>
       </segment>
     </unit>
+    <unit id="_9roz8_" name="attendance_codes.header">
+      <segment>
+        <source>attendance_codes.header</source>
+        <target>attendance_codes.header</target>
+      </segment>
+    </unit>
+    <unit id="9.vnAIx" name="attendance_code.name_short.label">
+      <segment>
+        <source>attendance_code.name_short.label</source>
+        <target>attendance_code.name_short.label</target>
+      </segment>
+    </unit>
+    <unit id="EJirR.E" name="setting.external_assessment.label">
+      <segment>
+        <source>setting.external_assessment.label</source>
+        <target>External Assessment</target>
+      </segment>
+    </unit>
+    <unit id="tcORMIX" name="setting.field_set.label">
+      <segment>
+        <source>setting.field_set.label</source>
+        <target>Field Set</target>
+      </segment>
+    </unit>
+    <unit id="or9dwae" name="setting.external_assessment.placeholder">
+      <segment>
+        <source>setting.external_assessment.placeholder</source>
+        <target>Select first...</target>
+      </segment>
+    </unit>
+    <unit id="Hg_kv1a" name="Internal Assessment Types">
+      <segment>
+        <source>Internal Assessment Types</source>
+        <target>Internal Assessment Types</target>
+      </segment>
+    </unit>
+    <unit id=".PmEiTx" name="List of types to make available in Internal Assessments.">
+      <segment>
+        <source>List of types to make available in Internal Assessments.</source>
+        <target>List of types to make available in Internal Assessments.</target>
+      </segment>
+    </unit>
+    <unit id="qE2wc30" name="setting.field_set.placeholder">
+      <segment>
+        <source>setting.field_set.placeholder</source>
+        <target>Select an External Assessment first ...</target>
+      </segment>
+    </unit>
+    <unit id="nGn.877" name="Cognitive Abilities Test">
+      <segment>
+        <source>Cognitive Abilities Test</source>
+        <target>Cognitive Abilities Test</target>
+      </segment>
+    </unit>
+    <unit id="xfCXFdu" name="Scores">
+      <segment>
+        <source>Scores</source>
+        <target>Scores</target>
+      </segment>
+    </unit>
+    <unit id="sTE24VW" name="KS3 Target Grades">
+      <segment>
+        <source>KS3 Target Grades</source>
+        <target>KS3 Target Grades</target>
+      </segment>
+    </unit>
+    <unit id="1mvubKp" name="GCSE Target Grades">
+      <segment>
+        <source>GCSE Target Grades</source>
+        <target>GCSE Target Grades</target>
+      </segment>
+    </unit>
+    <unit id="ssQR1ek" name="GCSE/iGCSE">
+      <segment>
+        <source>GCSE/iGCSE</source>
+        <target>GCSE/iGCSE</target>
+      </segment>
+    </unit>
+    <unit id="FUWJMcX" name="Target Grade">
+      <segment>
+        <source>Target Grade</source>
+        <target>Target Grade</target>
+      </segment>
+    </unit>
+    <unit id="pHmvr8W" name="Final Grade">
+      <segment>
+        <source>Final Grade</source>
+        <target>Final Grade</target>
+      </segment>
+    </unit>
+    <unit id="csiFe2p" name="IB Diploma">
+      <segment>
+        <source>IB Diploma</source>
+        <target>IB Diploma</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
