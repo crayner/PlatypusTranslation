@@ -1719,5 +1719,335 @@
         <target>Name</target>
       </segment>
     </unit>
+    <unit id="TQQuVzd" name="school.external_assessment.edit.description">
+      <segment>
+        <source>school.external_assessment.edit.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="99C80Wc" name="external_assessment.name_short.label">
+      <segment>
+        <source>external_assessment.name_short.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="9cWlSzF" name="external_assessment.website.label">
+      <segment>
+        <source>external_assessment.website.label</source>
+        <target>Website</target>
+      </segment>
+    </unit>
+    <unit id="a4ayc.8" name="1">
+      <segment>
+        <source>1</source>
+        <target>1</target>
+      </segment>
+    </unit>
+    <unit id="1HNeOiZ" name="2">
+      <segment>
+        <source>2</source>
+        <target>2</target>
+      </segment>
+    </unit>
+    <unit id="TgdAhWK" name="3">
+      <segment>
+        <source>3</source>
+        <target>3</target>
+      </segment>
+    </unit>
+    <unit id="SyJ3d9T" name="4">
+      <segment>
+        <source>4</source>
+        <target>4</target>
+      </segment>
+    </unit>
+    <unit id="7y0SfeN" name="5">
+      <segment>
+        <source>5</source>
+        <target>5</target>
+      </segment>
+    </unit>
+    <unit id="5.bAEXd" name="6">
+      <segment>
+        <source>6</source>
+        <target>6</target>
+      </segment>
+    </unit>
+    <unit id="eQJpm_Q" name="7">
+      <segment>
+        <source>7</source>
+        <target>7</target>
+      </segment>
+    </unit>
+    <unit id="LGJCMs3" name="8">
+      <segment>
+        <source>8</source>
+        <target>8</target>
+      </segment>
+    </unit>
+    <unit id="GVgeJ95" name="9">
+      <segment>
+        <source>9</source>
+        <target>9</target>
+      </segment>
+    </unit>
+    <unit id="T8grJq7" name="11">
+      <segment>
+        <source>11</source>
+        <target>11</target>
+      </segment>
+    </unit>
+    <unit id="a1HUMd9" name="12">
+      <segment>
+        <source>12</source>
+        <target>12</target>
+      </segment>
+    </unit>
+    <unit id="P9ujXwT" name="13">
+      <segment>
+        <source>13</source>
+        <target>13</target>
+      </segment>
+    </unit>
+    <unit id="hSeokeI" name="14">
+      <segment>
+        <source>14</source>
+        <target>14</target>
+      </segment>
+    </unit>
+    <unit id="5in6ZZj" name="15">
+      <segment>
+        <source>15</source>
+        <target>15</target>
+      </segment>
+    </unit>
+    <unit id="sX720Zx" name="16">
+      <segment>
+        <source>16</source>
+        <target>16</target>
+      </segment>
+    </unit>
+    <unit id="RSNUDxU" name="17">
+      <segment>
+        <source>17</source>
+        <target>17</target>
+      </segment>
+    </unit>
+    <unit id="TslZn8I" name="18">
+      <segment>
+        <source>18</source>
+        <target>18</target>
+      </segment>
+    </unit>
+    <unit id="lADxshy" name="19">
+      <segment>
+        <source>19</source>
+        <target>19</target>
+      </segment>
+    </unit>
+    <unit id="9co490i" name="20">
+      <segment>
+        <source>20</source>
+        <target>20</target>
+      </segment>
+    </unit>
+    <unit id="b0tmEhJ" name="21">
+      <segment>
+        <source>21</source>
+        <target>21</target>
+      </segment>
+    </unit>
+    <unit id="eF8_x_s" name="22">
+      <segment>
+        <source>22</source>
+        <target>22</target>
+      </segment>
+    </unit>
+    <unit id="U1_jDX4" name="23">
+      <segment>
+        <source>23</source>
+        <target>23</target>
+      </segment>
+    </unit>
+    <unit id="wjVgaen" name="24">
+      <segment>
+        <source>24</source>
+        <target>24</target>
+      </segment>
+    </unit>
+    <unit id="X5xKsIy" name="26">
+      <segment>
+        <source>26</source>
+        <target>26</target>
+      </segment>
+    </unit>
+    <unit id="ZwZxzZd" name="27">
+      <segment>
+        <source>27</source>
+        <target>27</target>
+      </segment>
+    </unit>
+    <unit id="WeGXBtU" name="28">
+      <segment>
+        <source>28</source>
+        <target>28</target>
+      </segment>
+    </unit>
+    <unit id="NRNaqmz" name="29">
+      <segment>
+        <source>29</source>
+        <target>29</target>
+      </segment>
+    </unit>
+    <unit id="YktgxYy" name="30">
+      <segment>
+        <source>30</source>
+        <target>30</target>
+      </segment>
+    </unit>
+    <unit id="6x4z6Kg" name="31">
+      <segment>
+        <source>31</source>
+        <target>31</target>
+      </segment>
+    </unit>
+    <unit id="4pycGAx" name="32">
+      <segment>
+        <source>32</source>
+        <target>32</target>
+      </segment>
+    </unit>
+    <unit id="xvOsV5R" name="33">
+      <segment>
+        <source>33</source>
+        <target>33</target>
+      </segment>
+    </unit>
+    <unit id="huUBSWW" name="34">
+      <segment>
+        <source>34</source>
+        <target>34</target>
+      </segment>
+    </unit>
+    <unit id="nxQCWvA" name="35">
+      <segment>
+        <source>35</source>
+        <target>35</target>
+      </segment>
+    </unit>
+    <unit id="dqUIh9j" name="36">
+      <segment>
+        <source>36</source>
+        <target>36</target>
+      </segment>
+    </unit>
+    <unit id="emG1NwG" name="37">
+      <segment>
+        <source>37</source>
+        <target>37</target>
+      </segment>
+    </unit>
+    <unit id="rqkhMsT" name="38">
+      <segment>
+        <source>38</source>
+        <target>38</target>
+      </segment>
+    </unit>
+    <unit id="C5GJQ98" name="39">
+      <segment>
+        <source>39</source>
+        <target>39</target>
+      </segment>
+    </unit>
+    <unit id="1Z7O0d7" name="40">
+      <segment>
+        <source>40</source>
+        <target>40</target>
+      </segment>
+    </unit>
+    <unit id="PZFPk0j" name="41">
+      <segment>
+        <source>41</source>
+        <target>41</target>
+      </segment>
+    </unit>
+    <unit id="c0dctAp" name="42">
+      <segment>
+        <source>42</source>
+        <target>42</target>
+      </segment>
+    </unit>
+    <unit id="RMtzDEI" name="43">
+      <segment>
+        <source>43</source>
+        <target>43</target>
+      </segment>
+    </unit>
+    <unit id="InVp0qe" name="external_assessment.fields.label">
+      <segment>
+        <source>external_assessment.fields.label</source>
+        <target>Fields</target>
+      </segment>
+    </unit>
+    <unit id="AwPoCzu" name="external_assessment.details.tab">
+      <segment>
+        <source>external_assessment.details.tab</source>
+        <target>Details</target>
+      </segment>
+    </unit>
+    <unit id="6CPpxGi" name="external_assessment.fields.tab">
+      <segment>
+        <source>external_assessment.fields.tab</source>
+        <target>Edit Fields</target>
+      </segment>
+    </unit>
+    <unit id="Pe8MPgN" name="external_assessment.name">
+      <segment>
+        <source>external_assessment.name</source>
+        <target>External Assessment: %{name}</target>
+      </segment>
+    </unit>
+    <unit id="0ds0UXQ" name="external_assessment_field.name.label">
+      <segment>
+        <source>external_assessment_field.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="WIP29Vt" name="external_assessment.category.label">
+      <segment>
+        <source>external_assessment.category.label</source>
+        <target>external_assessment.category.label</target>
+      </segment>
+    </unit>
+    <unit id=".giwLwx" name="external_assessment_field.category.label">
+      <segment>
+        <source>external_assessment_field.category.label</source>
+        <target>Category</target>
+      </segment>
+    </unit>
+    <unit id="MqPWxMI" name="external_assessment_field.edit.title">
+      <segment>
+        <source>external_assessment_field.edit.title</source>
+        <target>Edit External Assessment Field</target>
+      </segment>
+    </unit>
+    <unit id="nznobMC" name="external_assessment_field.delete.title">
+      <segment>
+        <source>external_assessment_field.delete.title</source>
+        <target>Delete External Assessment Field</target>
+      </segment>
+    </unit>
+    <unit id="RVN.h7x" name="external_assessment.description.help">
+      <segment>
+        <source>external_assessment.description.help</source>
+        <target>Brief description of assessment and how it is used.</target>
+      </segment>
+    </unit>
+    <unit id="l_aMcki" name="external_assessment.allow_file_upload.help">
+      <segment>
+        <source>external_assessment.allow_file_upload.help</source>
+        <target>Should the student record include the option of a file upload?</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
