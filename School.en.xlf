@@ -1659,10 +1659,64 @@
         <target>%{name}</target>
       </segment>
     </unit>
-    <unit id="lAmiYFP" name="scale_grade.default.unique.error">
+    <unit id="hdmn6jD" name="scale_grade.default.unique.error">
       <segment>
         <source>scale_grade.default.unique.error</source>
         <target>The default grade value for the scale must be unique. Repeated at "%{name}""</target>
+      </segment>
+    </unit>
+    <unit id="Ioqdals" name="manage_external_assessments">
+      <segment>
+        <source>manage_external_assessments</source>
+        <target>Manage External Assessments</target>
+      </segment>
+    </unit>
+    <unit id="TFyjdE8" name="school.external_assessment.edit.title">
+      <segment>
+        <source>school.external_assessment.edit.title</source>
+        <target>Edit  External Assessment</target>
+      </segment>
+    </unit>
+    <unit id="ekwwfXD" name="school.external_assessment.delete.title">
+      <segment>
+        <source>school.external_assessment.delete.title</source>
+        <target>Delete External Assessment</target>
+      </segment>
+    </unit>
+    <unit id="J6HPAcc" name="school.external_assessment.list.title">
+      <segment>
+        <source>school.external_assessment.list.title</source>
+        <target>Manage External Assessments</target>
+      </segment>
+    </unit>
+    <unit id="kamDlGf" name="school.external_assessment.list.description">
+      <segment>
+        <source>school.external_assessment.list.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="BgCfrXX" name="external_assessment.allow_file_upload.label">
+      <segment>
+        <source>external_assessment.allow_file_upload.label</source>
+        <target>File Upload?</target>
+      </segment>
+    </unit>
+    <unit id="H7d7qcw" name="external_assessment.active.label">
+      <segment>
+        <source>external_assessment.active.label</source>
+        <target>Active?</target>
+      </segment>
+    </unit>
+    <unit id="Ed9hehu" name="external_assessment.description.label">
+      <segment>
+        <source>external_assessment.description.label</source>
+        <target>Description</target>
+      </segment>
+    </unit>
+    <unit id="Runj590" name="external_assessment.name.label">
+      <segment>
+        <source>external_assessment.name.label</source>
+        <target>Name</target>
       </segment>
     </unit>
   </file>
