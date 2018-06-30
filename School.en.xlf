@@ -2049,5 +2049,59 @@
         <target>Should the student record include the option of a file upload?</target>
       </segment>
     </unit>
+    <unit id="eLzVvfd" name="external_assessment_field.scale.label">
+      <segment>
+        <source>external_assessment_field.scale.label</source>
+        <target>Grade Scale</target>
+      </segment>
+    </unit>
+    <unit id="05Pno_B" name="external_assessment_field.scale.help">
+      <segment>
+        <source>external_assessment_field.scale.help</source>
+        <target>Grade scale used to control values that can be assigned.</target>
+      </segment>
+    </unit>
+    <unit id="z5m_47s" name="external_assessment_field.edit.description">
+      <segment>
+        <source>external_assessment_field.edit.description</source>
+        <target>Edit External Assessment Grade</target>
+      </segment>
+    </unit>
+    <unit id="PSgHY_e" name="external_assessment_field.edit.header">
+      <segment>
+        <source>external_assessment_field.edit.header</source>
+        <target>Edit Grade for %name%</target>
+      </segment>
+    </unit>
+    <unit id="eYWt_c1" name="external_assessment_field.year_groups.label">
+      <segment>
+        <source>external_assessment_field.year_groups.label</source>
+        <target>Year Groups</target>
+      </segment>
+    </unit>
+    <unit id="8QWNWa0" name="external_assessment_field.year_groups.help">
+      <segment>
+        <source>external_assessment_field.year_groups.help</source>
+        <target>Year groups to which this field is relevant.</target>
+      </segment>
+    </unit>
+    <unit id="B5ebaMp" name="This value is already used.">
+      <segment>
+        <source>This value is already used.</source>
+        <target>This value is already used.</target>
+      </segment>
+    </unit>
+    <unit id="sPWxP6r" name="external_assessment_field.external_assessment_category.label">
+      <segment>
+        <source>external_assessment_field.external_assessment_category.label</source>
+        <target>Category</target>
+      </segment>
+    </unit>
+    <unit id="OoCeP4." name="external_assessment_field.external_assessment_category.help">
+      <segment>
+        <source>external_assessment_field.external_assessment_category.help</source>
+        <target>Categories must be created in External Assessment for us in the field.  If you need a new category for this assessment field, add a new category using the add category button.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
