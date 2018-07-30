@@ -1998,7 +1998,7 @@
     <unit id="6CPpxGi" name="external_assessment.fields.tab">
       <segment>
         <source>external_assessment.fields.tab</source>
-        <target>Edit Fields</target>
+        <target>Fields</target>
       </segment>
     </unit>
     <unit id="Pe8MPgN" name="external_assessment.name">
@@ -2100,7 +2100,115 @@
     <unit id="OoCeP4." name="external_assessment_field.external_assessment_category.help">
       <segment>
         <source>external_assessment_field.external_assessment_category.help</source>
-        <target>Categories must be created in External Assessment for us in the field.  If you need a new category for this assessment field, add a new category using the add category button.</target>
+        <target>Categories must be created in the External Assessment for use in the field.  If you need a new category for this assessment field, add a new category using the add category button.</target>
+      </segment>
+    </unit>
+    <unit id="BpIOw4g" name="CAT - cores">
+      <segment>
+        <source>CAT - cores</source>
+        <target>CAT - cores</target>
+      </segment>
+    </unit>
+    <unit id="GUK.fIt" name="CAT - S3 Target Grades">
+      <segment>
+        <source>CAT - S3 Target Grades</source>
+        <target>CAT - S3 Target Grades</target>
+      </segment>
+    </unit>
+    <unit id="ysVwPiY" name="CAT - CSE Target Grades">
+      <segment>
+        <source>CAT - CSE Target Grades</source>
+        <target>CAT - CSE Target Grades</target>
+      </segment>
+    </unit>
+    <unit id="y2HVugG" name="GCSE - arget Grade">
+      <segment>
+        <source>GCSE - arget Grade</source>
+        <target>GCSE - arget Grade</target>
+      </segment>
+    </unit>
+    <unit id="6T9ZNXW" name="GCSE - inal Grade">
+      <segment>
+        <source>GCSE - inal Grade</source>
+        <target>GCSE - inal Grade</target>
+      </segment>
+    </unit>
+    <unit id="lUEn33g" name="IB Diploma - arget Grade">
+      <segment>
+        <source>IB Diploma - arget Grade</source>
+        <target>IB Diploma - arget Grade</target>
+      </segment>
+    </unit>
+    <unit id="C6uRRoZ" name="IB Diploma - inal Grade">
+      <segment>
+        <source>IB Diploma - inal Grade</source>
+        <target>IB Diploma - inal Grade</target>
+      </segment>
+    </unit>
+    <unit id="alNIZPZ" name="add_external_assessment_category">
+      <segment>
+        <source>add_external_assessment_category</source>
+        <target>Add External Assessment Category</target>
+      </segment>
+    </unit>
+    <unit id="BypLLtK" name="external_assessment_category.edit.title">
+      <segment>
+        <source>external_assessment_category.edit.title</source>
+        <target>Manage External Assessment Category</target>
+      </segment>
+    </unit>
+    <unit id="jr2Mue." name="external.assessment.category.label">
+      <segment>
+        <source>external.assessment.category.label</source>
+        <target>Category Name</target>
+      </segment>
+    </unit>
+    <unit id="8QKYazn" name="Scale">
+      <segment>
+        <source>Scale</source>
+        <target>Scale</target>
+      </segment>
+    </unit>
+    <unit id="GhTJ1Z2" name="external_assessment_category.edit.description">
+      <segment>
+        <source>external_assessment_category.edit.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="a_uhcL_" name="external.assessment.category.help">
+      <segment>
+        <source>external.assessment.category.help</source>
+        <target>external.assessment.category.help</target>
+      </segment>
+    </unit>
+    <unit id="0lKXK3D" name="external.assessment.scale.placeholder">
+      <segment>
+        <source>external.assessment.scale.placeholder</source>
+        <target>Select Scale ...</target>
+      </segment>
+    </unit>
+    <unit id="MTgzsXB" name="external.assessment.scale.label">
+      <segment>
+        <source>external.assessment.scale.label</source>
+        <target>Scale</target>
+      </segment>
+    </unit>
+    <unit id="uLHYlMa" name="Categories">
+      <segment>
+        <source>Categories</source>
+        <target>Categories</target>
+      </segment>
+    </unit>
+    <unit id="Kw3N1AA" name="actions">
+      <segment>
+        <source>actions</source>
+        <target>actions</target>
+      </segment>
+    </unit>
+    <unit id="kf2X.zg" name="external_assessment.categories.tab">
+      <segment>
+        <source>external_assessment.categories.tab</source>
+        <target>Categories</target>
       </segment>
     </unit>
   </file>
