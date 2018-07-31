@@ -1813,5 +1813,146 @@
         <target>IB Diploma</target>
       </segment>
     </unit>
+    <unit id="u0tfdHL" name="org.name.not.valid">
+      <segment>
+        <source>org.name.not.valid</source>
+        <target><![CDATA[The organisation name requires a long and short name.  The short name is limited to 6 characters.  e.g.<pre>
+long: 'Long Name'
+short: SHT
+</pre>]]></target>
+      </segment>
+    </unit>
+    <unit id="F2wa5u4" name="Organisation Name">
+      <segment>
+        <source>Organisation Name</source>
+        <target>Organisation Name</target>
+      </segment>
+    </unit>
+    <unit id="BpmdFsa" name="System Name">
+      <segment>
+        <source>System Name</source>
+        <target>System Name</target>
+      </segment>
+    </unit>
+    <unit id="HAMNxOm" name="Index Page Text">
+      <segment>
+        <source>Index Page Text</source>
+        <target>Index Page Text</target>
+      </segment>
+    </unit>
+    <unit id="iEaTVNO" name="02641be">
+      <segment>
+        <source>Text displayed in system's welcome page.  If left blank, then the system default is used.</source>
+        <target>Text displayed in system's welcome page.  If left blank, then the system default is used.</target>
+      </segment>
+    </unit>
+    <unit id="2W3qIuk" name="Statistics Collection">
+      <segment>
+        <source>Statistics Collection</source>
+        <target>Statistics Collection</target>
+      </segment>
+    </unit>
+    <unit id="yRmj7PH" name="8d0de4b">
+      <segment>
+        <source>To track Busybee uptake, the system tracks basic data (current URL, install type, organisation name) on each install. Do you want to help?</source>
+        <target>To track Busybee uptake, the system tracks basic data (current URL, install type, organisation name) on each install. Do you want to help?</target>
+      </segment>
+    </unit>
+    <unit id="U.OLION" name="ea44e83">
+      <segment>
+        <source>&lt;pre&gt;The organisation name requires a long and short name.  The short name is limited to 6 characters.  e.g.
+long: 'Long Name'
+short: SHT
+&lt;/pre&gt;</source>
+        <target><![CDATA[<pre>The organisation name requires a long and short name.  The short name is limited to 6 characters.  e.g.
+long: 'Long Name'
+short: SHT
+</pre>]]></target>
+      </segment>
+    </unit>
+    <unit id="FUZHhHv" name="Consists of a long and short name.">
+      <segment>
+        <source>Consists of a long and short name.</source>
+        <target>Consists of a long and short name.</target>
+      </segment>
+    </unit>
+    <unit id="H58whZE" name="0ca80cc">
+      <segment>
+        <source>The organisation name requires a long and short name.  The short name is limited to 6 characters.  &lt;pre&gt;e.g.
+long: 'Long Name'
+short: SHT
+&lt;/pre&gt;</source>
+        <target><![CDATA[The organisation name requires a long and short name.  The short name is limited to 6 characters.  <pre>e.g.
+long: 'Long Name'
+short: SHT
+</pre>]]></target>
+      </segment>
+    </unit>
+    <unit id="cFiUE6P" name="Base URL">
+      <segment>
+        <source>Base URL</source>
+        <target>Base URL</target>
+      </segment>
+    </unit>
+    <unit id="K.V2ogR" name="The address at which the whole system resides.">
+      <segment>
+        <source>The address at which the whole system resides.</source>
+        <target>The address at which the whole system resides.</target>
+      </segment>
+    </unit>
+    <unit id="4gCZhdi" name="Base Path">
+      <segment>
+        <source>Base Path</source>
+        <target>Base Path</target>
+      </segment>
+    </unit>
+    <unit id="nfUQf8e" name="The local file server path to the system.">
+      <segment>
+        <source>The local file server path to the system.</source>
+        <target>The local file server path to the system.</target>
+      </segment>
+    </unit>
+    <unit id="qf5FvNd" name="73c3a93">
+      <segment>
+        <source>The organisation name requires a long and short name.  The short name is limited to 6 characters.  e.g.&lt;pre&gt;
+long: 'Long Name'
+short: SHT
+&lt;/pre&gt;</source>
+        <target><![CDATA[The organisation name requires a long and short name.  The short name is limited to 6 characters.  e.g.<pre>
+long: 'Long Name'
+short: SHT
+</pre>]]></target>
+      </segment>
+    </unit>
+    <unit id="voZLUJq" name="Organisation Email">
+      <segment>
+        <source>Organisation Email</source>
+        <target>Organisation Email</target>
+      </segment>
+    </unit>
+    <unit id="_OqT5Ju" name="General email address for the school.">
+      <segment>
+        <source>General email address for the school.</source>
+        <target>General email address for the school.</target>
+      </segment>
+    </unit>
+    <unit id="moNJpwR" name="Organisation Logo">
+      <segment>
+        <source>Organisation Logo</source>
+        <target>Organisation Logo</target>
+      </segment>
+    </unit>
+    <unit id="stVbOpf" name="Relative path to site logo (400px x 100px).">
+      <segment>
+        <source>Relative path to site logo (400px x 100px).</source>
+        <target>Relative path to site logo (400px x 100px).</target>
+      </segment>
+    </unit>
+    <unit id="f7N6Wfj" name="Relative path to site logo. If empty, the template logo is used.">
+      <segment>
+        <source>Relative path to site logo. If empty, the template logo is used.</source>
+        <target>Relative path to site logo. If empty, the template logo is used.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

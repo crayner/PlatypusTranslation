@@ -991,5 +991,101 @@
         <target>Primary External Assessment</target>
       </segment>
     </unit>
+    <unit id="tg70r_P" name="menu.admin.system">
+      <segment>
+        <source>menu.admin.system</source>
+        <target>System Admin</target>
+      </segment>
+    </unit>
+    <unit id="hgzrrL3" name="section.header.settings">
+      <segment>
+        <source>section.header.settings</source>
+        <target>Settings</target>
+      </segment>
+    </unit>
+    <unit id="zVi4J2T" name="manage_system_settings">
+      <segment>
+        <source>manage_system_settings</source>
+        <target>System Settings</target>
+      </segment>
+    </unit>
+    <unit id="IhqhlSX" name="setting.absoluteURL">
+      <segment>
+        <source>setting.absoluteURL</source>
+        <target>Base URL</target>
+      </segment>
+    </unit>
+    <unit id="ialRiWq" name="setting.absoluteURL.label">
+      <segment>
+        <source>setting.absoluteURL.label</source>
+        <target>Base URL</target>
+      </segment>
+    </unit>
+    <unit id="S9Qg6TV" name="setting.absoluteURL.help">
+      <segment>
+        <source>setting.absoluteURL.help</source>
+        <target>The address at which the whole system resides. This setting is information only.</target>
+      </segment>
+    </unit>
+    <unit id="BQJLWNg" name="setting.absolutePath.label">
+      <segment>
+        <source>setting.absolutePath.label</source>
+        <target>Base Path</target>
+      </segment>
+    </unit>
+    <unit id="BR_NUYS" name="setting.absolutePath.help">
+      <segment>
+        <source>setting.absolutePath.help</source>
+        <target>The local file path for the system. This setting is information only.</target>
+      </segment>
+    </unit>
+    <unit id="H4f4g8x" name="System Settings">
+      <segment>
+        <source>System Settings</source>
+        <target>System Settings</target>
+      </segment>
+    </unit>
+    <unit id="NQMCEvO" name="system.value.warning">
+      <segment>
+        <source>system.value.warning</source>
+        <target>The setting is set by the system, and is not available to edit.</target>
+      </segment>
+    </unit>
+    <unit id="yWYBKlI" name="Install Type">
+      <segment>
+        <source>Install Type</source>
+        <target>Install Type</target>
+      </segment>
+    </unit>
+    <unit id="Lc71UYH" name="The purpose of this installation of Busybee">
+      <segment>
+        <source>The purpose of this installation of Busybee</source>
+        <target>The purpose of this installation of Busybee</target>
+      </segment>
+    </unit>
+    <unit id="DUc6iMq" name="system.install.type.production">
+      <segment>
+        <source>system.install.type.production</source>
+        <target>Production</target>
+      </segment>
+    </unit>
+    <unit id="zOpTNYh" name="system.install.type.testing">
+      <segment>
+        <source>system.install.type.testing</source>
+        <target>Testing</target>
+      </segment>
+    </unit>
+    <unit id="rliKH5R" name="system.install.type.development">
+      <segment>
+        <source>system.install.type.development</source>
+        <target>Development</target>
+      </segment>
+    </unit>
+    <unit id="D5uTjAk" name="Organisation Settings">
+      <segment>
+        <source>Organisation Settings</source>
+        <target>Organisation Settings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
