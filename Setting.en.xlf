@@ -1954,5 +1954,29 @@ short: SHT
         <target>Relative path to site logo. If empty, the template logo is used.</target>
       </segment>
     </unit>
+    <unit id="tI2vLuN" name="First Day Of The Week">
+      <segment>
+        <source>First Day Of The Week</source>
+        <target>First Day Of The Week</target>
+      </segment>
+    </unit>
+    <unit id="DJ9ZV0y" name="On which day should the week begin?">
+      <segment>
+        <source>On which day should the week begin?</source>
+        <target>On which day should the week begin?</target>
+      </segment>
+    </unit>
+    <unit id="da49IJh" name="system.first_day_of_the_week.mon">
+      <segment>
+        <source>system.first_day_of_the_week.mon</source>
+        <target>Monday</target>
+      </segment>
+    </unit>
+    <unit id="BErXqSJ" name="system.first_day_of_the_week.sun">
+      <segment>
+        <source>system.first_day_of_the_week.sun</source>
+        <target>Sunday</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
