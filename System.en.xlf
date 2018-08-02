@@ -1159,5 +1159,173 @@
         <target><![CDATA[Email Settings can be found with your email provider. This system does have a number of preset to set default values. Gmail has been implemented by this site. This site uses <a href="https://swiftmailer.symfony.com/docs/introduction.html" target="_blank">Swiftmailer</a> as the engine to send email messages.]]></target>
       </segment>
     </unit>
+    <unit id="Ckb3QU5" name="string_replacement">
+      <segment>
+        <source>string_replacement</source>
+        <target>String Replacement</target>
+      </segment>
+    </unit>
+    <unit id="XOvjcxA" name="string.replacement.pagination.title">
+      <segment>
+        <source>string.replacement.pagination.title</source>
+        <target>Manage String Replacement</target>
+      </segment>
+    </unit>
+    <unit id="GhO.PVz" name="string.replacement.pagination.description">
+      <segment>
+        <source>string.replacement.pagination.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="tXG4bGu" name="scale.name.label">
+      <segment>
+        <source>scale.name.label</source>
+        <target>scale.name.label</target>
+      </segment>
+    </unit>
+    <unit id=".XEdR1O" name="scale.name_short.label">
+      <segment>
+        <source>scale.name_short.label</source>
+        <target>scale.name_short.label</target>
+      </segment>
+    </unit>
+    <unit id="3I._phW" name="scale.usage.label">
+      <segment>
+        <source>scale.usage.label</source>
+        <target>scale.usage.label</target>
+      </segment>
+    </unit>
+    <unit id="NVb38aA" name="scale.active.label">
+      <segment>
+        <source>scale.active.label</source>
+        <target>scale.active.label</target>
+      </segment>
+    </unit>
+    <unit id="PAJ.VPg" name="scale.numeric.label">
+      <segment>
+        <source>scale.numeric.label</source>
+        <target>scale.numeric.label</target>
+      </segment>
+    </unit>
+    <unit id="JPwcwSv" name="string.original.sort">
+      <segment>
+        <source>string.original.sort</source>
+        <target>Original</target>
+      </segment>
+    </unit>
+    <unit id="xq0.jLd" name="string.replacement.sort">
+      <segment>
+        <source>string.replacement.sort</source>
+        <target>Replacement</target>
+      </segment>
+    </unit>
+    <unit id="bq_HiOy" name="string.priority.sort">
+      <segment>
+        <source>string.priority.sort</source>
+        <target>Priority</target>
+      </segment>
+    </unit>
+    <unit id="5WFAugv" name="string.original.label">
+      <segment>
+        <source>string.original.label</source>
+        <target>Original</target>
+      </segment>
+    </unit>
+    <unit id="D68FL4n" name="string.replacement.label">
+      <segment>
+        <source>string.replacement.label</source>
+        <target>Replacement</target>
+      </segment>
+    </unit>
+    <unit id=".tVXC1y" name="string.mode.pagination.header">
+      <segment>
+        <source>string.mode.pagination.header</source>
+        <target>Mode/Case Sensitive/Priority</target>
+      </segment>
+    </unit>
+    <unit id="Y0kZXZl" name="school.scale.edit.title">
+      <segment>
+        <source>school.scale.edit.title</source>
+        <target>school.scale.edit.title</target>
+      </segment>
+    </unit>
+    <unit id="dd5U.zL" name="school.scale.edit.description">
+      <segment>
+        <source>school.scale.edit.description</source>
+        <target>school.scale.edit.description</target>
+      </segment>
+    </unit>
+    <unit id="WDQE6QB" name="string.replacement.edit.title">
+      <segment>
+        <source>string.replacement.edit.title</source>
+        <target>String Management</target>
+      </segment>
+    </unit>
+    <unit id="t3LH1d2" name="string.replacement.edit.description">
+      <segment>
+        <source>string.replacement.edit.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="HpAYRl4" name="stringreplacement.mode.whole">
+      <segment>
+        <source>stringreplacement.mode.whole</source>
+        <target>Whole</target>
+      </segment>
+    </unit>
+    <unit id="r0cFWIJ" name="stringreplacement.mode.partial">
+      <segment>
+        <source>stringreplacement.mode.partial</source>
+        <target>Partial</target>
+      </segment>
+    </unit>
+    <unit id="qV9LXZi" name="string.mode.label">
+      <segment>
+        <source>string.mode.label</source>
+        <target>Mode</target>
+      </segment>
+    </unit>
+    <unit id="PgNZTx7" name="string.case_sensitive.label">
+      <segment>
+        <source>string.case_sensitive.label</source>
+        <target>Case Sensitive</target>
+      </segment>
+    </unit>
+    <unit id="3EPGA2Z" name="string.priority.label">
+      <segment>
+        <source>string.priority.label</source>
+        <target>Priority</target>
+      </segment>
+    </unit>
+    <unit id="0PPUJpg" name="string.priority.help">
+      <segment>
+        <source>string.priority.help</source>
+        <target>Higher priorities are substituted first.</target>
+      </segment>
+    </unit>
+    <unit id="1KV4L.t" name="This value should not be blank.">
+      <segment>
+        <source>This value should not be blank.</source>
+        <target>This value should not be blank.</target>
+      </segment>
+    </unit>
+    <unit id="B5ebaMp" name="This value is already used.">
+      <segment>
+        <source>This value is already used.</source>
+        <target>This value is already used.</target>
+      </segment>
+    </unit>
+    <unit id="T7JAKBm" name="stringreplacement.replacemode.whole">
+      <segment>
+        <source>stringreplacement.replacemode.whole</source>
+        <target>Whole</target>
+      </segment>
+    </unit>
+    <unit id="taQl8Q0" name="stringreplacement.replacemode.partial">
+      <segment>
+        <source>stringreplacement.replacemode.partial</source>
+        <target>Partial</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
