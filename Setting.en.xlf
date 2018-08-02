@@ -1978,5 +1978,4859 @@ short: SHT
         <target>Sunday</target>
       </segment>
     </unit>
+    <unit id="uMftYQh" name="EMail Server Port">
+      <segment>
+        <source>EMail Server Port</source>
+        <target>EMail Server Port</target>
+      </segment>
+    </unit>
+    <unit id="6s3LHFu" name="5ffb73a">
+      <segment>
+        <source>The port that the server has open to receive outgoing emails. Standard port for email systems include 25, 465, 587, but you sever information should give this detail.</source>
+        <target>The port that the server has open to receive outgoing emails. Standard port for email systems include 25, 465, 587, but you sever information should give this detail.</target>
+      </segment>
+    </unit>
+    <unit id="asmK3IR" name="Google Integration">
+      <segment>
+        <source>Google Integration</source>
+        <target>Google Integration</target>
+      </segment>
+    </unit>
+    <unit id="kjdvw9z" name="Enable Gibbon-wide integration with the Google APIs?">
+      <segment>
+        <source>Enable Gibbon-wide integration with the Google APIs?</source>
+        <target>Enable Gibbon-wide integration with the Google APIs?</target>
+      </segment>
+    </unit>
+    <unit id="xv3gt_3" name="PayPal API Integration">
+      <segment>
+        <source>PayPal API Integration</source>
+        <target>PayPal API Integration</target>
+      </segment>
+    </unit>
+    <unit id="mRXL2Vb" name="SMS Settings">
+      <segment>
+        <source>SMS Settings</source>
+        <target>SMS Settings</target>
+      </segment>
+    </unit>
+    <unit id="R1vOKlf" name="EMail Transport">
+      <segment>
+        <source>EMail Transport</source>
+        <target>EMail Transport</target>
+      </segment>
+    </unit>
+    <unit id="tNxm3eg" name="off">
+      <segment>
+        <source>off</source>
+        <target>off</target>
+      </segment>
+    </unit>
+    <unit id="xwEfEW0" name="SMTP">
+      <segment>
+        <source>SMTP</source>
+        <target>SMTP</target>
+      </segment>
+    </unit>
+    <unit id="B_1sz2v" name="Mail">
+      <segment>
+        <source>Mail</source>
+        <target>Mail</target>
+      </segment>
+    </unit>
+    <unit id="9Eq2fSr" name="Sendmail">
+      <segment>
+        <source>Sendmail</source>
+        <target>Sendmail</target>
+      </segment>
+    </unit>
+    <unit id="0ZoVxwQ" name="Gmail">
+      <segment>
+        <source>Gmail</source>
+        <target>Gmail</target>
+      </segment>
+    </unit>
+    <unit id="v_i05LK" name="EMail Host">
+      <segment>
+        <source>EMail Host</source>
+        <target>EMail Host</target>
+      </segment>
+    </unit>
+    <unit id="zam9XQT" name="Only the domain name is required, so 'smtp.gmail.com' or 'hotmail.com'">
+      <segment>
+        <source>Only the domain name is required, so 'smtp.gmail.com' or 'hotmail.com'</source>
+        <target>Only the domain name is required, so 'smtp.gmail.com' or 'hotmail.com'</target>
+      </segment>
+    </unit>
+    <unit id="yw52vJe" name="EMail User Name">
+      <segment>
+        <source>EMail User Name</source>
+        <target>EMail User Name</target>
+      </segment>
+    </unit>
+    <unit id="qhqasbT" name="Consult your email host for details of the username.">
+      <segment>
+        <source>Consult your email host for details of the username.</source>
+        <target>Consult your email host for details of the username.</target>
+      </segment>
+    </unit>
+    <unit id="VZUXbK7" name="EMail Password">
+      <segment>
+        <source>EMail Password</source>
+        <target>EMail Password</target>
+      </segment>
+    </unit>
+    <unit id="YacwNPJ" name="The port that the server has open to receive outgoinf emails.">
+      <segment>
+        <source>The port that the server has open to receive outgoinf emails.</source>
+        <target>The port that the server has open to receive outgoinf emails.</target>
+      </segment>
+    </unit>
+    <unit id="ZeBmqmG" name="mailer_encryption.none">
+      <segment>
+        <source>mailer_encryption.none</source>
+        <target>None</target>
+      </segment>
+    </unit>
+    <unit id="wXOUGev" name="mailer_encryption.ssl">
+      <segment>
+        <source>mailer_encryption.ssl</source>
+        <target>SSL</target>
+      </segment>
+    </unit>
+    <unit id="Nbz2y4O" name="mailer_encryption.tls">
+      <segment>
+        <source>mailer_encryption.tls</source>
+        <target>TLS</target>
+      </segment>
+    </unit>
+    <unit id="nFlMw9x" name="EMail Server Encryption">
+      <segment>
+        <source>EMail Server Encryption</source>
+        <target>EMail Server Encryption</target>
+      </segment>
+    </unit>
+    <unit id="_MQfo51" name="Encryption details can be found in your email server documentation.">
+      <segment>
+        <source>Encryption details can be found in your email server documentation.</source>
+        <target>Encryption details can be found in your email server documentation.</target>
+      </segment>
+    </unit>
+    <unit id="DRboQMm" name="EMail Server Authority Mode">
+      <segment>
+        <source>EMail Server Authority Mode</source>
+        <target>EMail Server Authority Mode</target>
+      </segment>
+    </unit>
+    <unit id="cmA5KuK" name="Authority Mode details can be found in your email server documentation.">
+      <segment>
+        <source>Authority Mode details can be found in your email server documentation.</source>
+        <target>Authority Mode details can be found in your email server documentation.</target>
+      </segment>
+    </unit>
+    <unit id="crz8yRa" name="mailer_auth_mode.plain">
+      <segment>
+        <source>mailer_auth_mode.plain</source>
+        <target>Plain</target>
+      </segment>
+    </unit>
+    <unit id="05dJBIr" name="mailer_auth_mode.lodin">
+      <segment>
+        <source>mailer_auth_mode.lodin</source>
+        <target>Login</target>
+      </segment>
+    </unit>
+    <unit id="Vp224AR" name="mailer_auth_mode.cram-md5">
+      <segment>
+        <source>mailer_auth_mode.cram-md5</source>
+        <target>CRAM-MD5</target>
+      </segment>
+    </unit>
+    <unit id="OhONWHR" name="EMail Sender Name">
+      <segment>
+        <source>EMail Sender Name</source>
+        <target>EMail Sender Name</target>
+      </segment>
+    </unit>
+    <unit id="Bh7u.pR" name="63e2564">
+      <segment>
+        <source>This is the name that will appear on all emails sent by the site. It can be a personal name, or the name of the school.</source>
+        <target>This is the name that will appear on all emails sent by the site. It can be a personal name, or the name of the school.</target>
+      </segment>
+    </unit>
+    <unit id="RrltaEI" name="EMail Sender Address">
+      <segment>
+        <source>EMail Sender Address</source>
+        <target>EMail Sender Address</target>
+      </segment>
+    </unit>
+    <unit id="IQg2dJe" name="7bc8367">
+      <segment>
+        <source>This is the email address that will appear on all emails sent by the site. It will be the address that replies come too. If you use a none reply address, then each email message should clearly state that replies are not received by the school.</source>
+        <target>This is the email address that will appear on all emails sent by the site. It will be the address that replies come too. If you use a none reply address, then each email message should clearly state that replies are not received by the school.</target>
+      </segment>
+    </unit>
+    <unit id="5PoILpC" name="mailer_auth_mode.login">
+      <segment>
+        <source>mailer_auth_mode.login</source>
+        <target>Login</target>
+      </segment>
+    </unit>
+    <unit id="spd6wAk" name="System Administrator">
+      <segment>
+        <source>System Administrator</source>
+        <target>System Administrator</target>
+      </segment>
+    </unit>
+    <unit id="tqJ8su." name="The staff member who receives notifications for system events.">
+      <segment>
+        <source>The staff member who receives notifications for system events.</source>
+        <target>The staff member who receives notifications for system events.</target>
+      </segment>
+    </unit>
+    <unit id="uWCbnC7" name="Database Administrator">
+      <segment>
+        <source>Database Administrator</source>
+        <target>Database Administrator</target>
+      </segment>
+    </unit>
+    <unit id="e7Iw6b3" name="The staff member who receives notifications for data events.">
+      <segment>
+        <source>The staff member who receives notifications for data events.</source>
+        <target>The staff member who receives notifications for data events.</target>
+      </segment>
+    </unit>
+    <unit id="GZf4QJM" name="Admissions Administrator">
+      <segment>
+        <source>Admissions Administrator</source>
+        <target>Admissions Administrator</target>
+      </segment>
+    </unit>
+    <unit id="xpriSUI" name="The staff member who receives notifications for admissions events.">
+      <segment>
+        <source>The staff member who receives notifications for admissions events.</source>
+        <target>The staff member who receives notifications for admissions events.</target>
+      </segment>
+    </unit>
+    <unit id="fuKzRgk" name="Human Resources Administrator">
+      <segment>
+        <source>Human Resources Administrator</source>
+        <target>Human Resources Administrator</target>
+      </segment>
+    </unit>
+    <unit id="lbqzrKu" name="The staff member who receives notifications for staffing events.">
+      <segment>
+        <source>The staff member who receives notifications for staffing events.</source>
+        <target>The staff member who receives notifications for staffing events.</target>
+      </segment>
+    </unit>
+    <unit id="eVWNkRw" name="Password - Minimum Length">
+      <segment>
+        <source>Password - Minimum Length</source>
+        <target>Password - Minimum Length</target>
+      </segment>
+    </unit>
+    <unit id="qBrQq1X" name="Minimum acceptable password length required by all users.">
+      <segment>
+        <source>Minimum acceptable password length required by all users.</source>
+        <target>Minimum acceptable password length required by all users.</target>
+      </segment>
+    </unit>
+    <unit id="dXEnMHw" name="Password - Alpha Requirement">
+      <segment>
+        <source>Password - Alpha Requirement</source>
+        <target>Password - Alpha Requirement</target>
+      </segment>
+    </unit>
+    <unit id="CV7GCfg" name="Require both upper and lower case alpha characters for all user passwords?">
+      <segment>
+        <source>Require both upper and lower case alpha characters for all user passwords?</source>
+        <target>Require both upper and lower case alpha characters for all user passwords?</target>
+      </segment>
+    </unit>
+    <unit id="9DhvsSj" name="Password - Numeric Requirement">
+      <segment>
+        <source>Password - Numeric Requirement</source>
+        <target>Password - Numeric Requirement</target>
+      </segment>
+    </unit>
+    <unit id="QHEubt9" name="Require at least one numeric character for all user passwords?">
+      <segment>
+        <source>Require at least one numeric character for all user passwords?</source>
+        <target>Require at least one numeric character for all user passwords?</target>
+      </segment>
+    </unit>
+    <unit id="gqVuzEW" name="Password - Non-Alphanumeric Requirement">
+      <segment>
+        <source>Password - Non-Alphanumeric Requirement</source>
+        <target>Password - Non-Alphanumeric Requirement</target>
+      </segment>
+    </unit>
+    <unit id="baoRyee" name="a9f2c42">
+      <segment>
+        <source>Require at least one non-alphanumeric character (e.g. punctuation mark or space) in all user passwords?</source>
+        <target>Require at least one non-alphanumeric character (e.g. punctuation mark or space) in all user passwords?</target>
+      </segment>
+    </unit>
+    <unit id="rUt3poe" name="Session Duration">
+      <segment>
+        <source>Session Duration</source>
+        <target>Session Duration</target>
+      </segment>
+    </unit>
+    <unit id=".SaHhvX" name="531853f">
+      <segment>
+        <source>Time, in minutes, before system logs a user out. Should be less than PHP's session.gc_maxlifetime option.</source>
+        <target>Time, in minutes, before system logs a user out. Should be less than PHP's session.gc_maxlifetime option.</target>
+      </segment>
+    </unit>
+    <unit id="cB0CHQj" name="Country">
+      <segment>
+        <source>Country</source>
+        <target>Country</target>
+      </segment>
+    </unit>
+    <unit id="tNXypFO" name="The country the school is located in.">
+      <segment>
+        <source>The country the school is located in.</source>
+        <target>The country the school is located in.</target>
+      </segment>
+    </unit>
+    <unit id="Xb3fkR_" name="Afghanistan">
+      <segment>
+        <source>Afghanistan</source>
+        <target>Afghanistan</target>
+      </segment>
+    </unit>
+    <unit id="HSjjCK3" name="Åland Islands">
+      <segment>
+        <source>Åland Islands</source>
+        <target>Åland Islands</target>
+      </segment>
+    </unit>
+    <unit id="GvALh0." name="Albania">
+      <segment>
+        <source>Albania</source>
+        <target>Albania</target>
+      </segment>
+    </unit>
+    <unit id="MOIwIpd" name="Algeria">
+      <segment>
+        <source>Algeria</source>
+        <target>Algeria</target>
+      </segment>
+    </unit>
+    <unit id="HrSMA4B" name="American Samoa">
+      <segment>
+        <source>American Samoa</source>
+        <target>American Samoa</target>
+      </segment>
+    </unit>
+    <unit id="PjQL5N4" name="Andorra">
+      <segment>
+        <source>Andorra</source>
+        <target>Andorra</target>
+      </segment>
+    </unit>
+    <unit id="IrllMoF" name="Angola">
+      <segment>
+        <source>Angola</source>
+        <target>Angola</target>
+      </segment>
+    </unit>
+    <unit id="pKDH57d" name="Anguilla">
+      <segment>
+        <source>Anguilla</source>
+        <target>Anguilla</target>
+      </segment>
+    </unit>
+    <unit id="xD8z8Fe" name="Antarctica">
+      <segment>
+        <source>Antarctica</source>
+        <target>Antarctica</target>
+      </segment>
+    </unit>
+    <unit id="NV.ht9f" name="Antigua &amp; Barbuda">
+      <segment>
+        <source>Antigua &amp; Barbuda</source>
+        <target><![CDATA[Antigua & Barbuda]]></target>
+      </segment>
+    </unit>
+    <unit id="6guTfqM" name="Argentina">
+      <segment>
+        <source>Argentina</source>
+        <target>Argentina</target>
+      </segment>
+    </unit>
+    <unit id="LdxWNP9" name="Armenia">
+      <segment>
+        <source>Armenia</source>
+        <target>Armenia</target>
+      </segment>
+    </unit>
+    <unit id="tWYlXrB" name="Aruba">
+      <segment>
+        <source>Aruba</source>
+        <target>Aruba</target>
+      </segment>
+    </unit>
+    <unit id="WxVbBWR" name="Ascension Island">
+      <segment>
+        <source>Ascension Island</source>
+        <target>Ascension Island</target>
+      </segment>
+    </unit>
+    <unit id="we9AzgS" name="Australia">
+      <segment>
+        <source>Australia</source>
+        <target>Australia</target>
+      </segment>
+    </unit>
+    <unit id="ycqwI43" name="Austria">
+      <segment>
+        <source>Austria</source>
+        <target>Austria</target>
+      </segment>
+    </unit>
+    <unit id="76kVCv3" name="Azerbaijan">
+      <segment>
+        <source>Azerbaijan</source>
+        <target>Azerbaijan</target>
+      </segment>
+    </unit>
+    <unit id="WPkaKu." name="Bahamas">
+      <segment>
+        <source>Bahamas</source>
+        <target>Bahamas</target>
+      </segment>
+    </unit>
+    <unit id="lLKFm5E" name="Bahrain">
+      <segment>
+        <source>Bahrain</source>
+        <target>Bahrain</target>
+      </segment>
+    </unit>
+    <unit id="Lx1H62e" name="Bangladesh">
+      <segment>
+        <source>Bangladesh</source>
+        <target>Bangladesh</target>
+      </segment>
+    </unit>
+    <unit id="jo366bd" name="Barbados">
+      <segment>
+        <source>Barbados</source>
+        <target>Barbados</target>
+      </segment>
+    </unit>
+    <unit id="S_8W3xd" name="Belarus">
+      <segment>
+        <source>Belarus</source>
+        <target>Belarus</target>
+      </segment>
+    </unit>
+    <unit id="NIhB71P" name="Belgium">
+      <segment>
+        <source>Belgium</source>
+        <target>Belgium</target>
+      </segment>
+    </unit>
+    <unit id="cdyB8Tw" name="Belize">
+      <segment>
+        <source>Belize</source>
+        <target>Belize</target>
+      </segment>
+    </unit>
+    <unit id="adCnuEz" name="Benin">
+      <segment>
+        <source>Benin</source>
+        <target>Benin</target>
+      </segment>
+    </unit>
+    <unit id="ecif1Ff" name="Bermuda">
+      <segment>
+        <source>Bermuda</source>
+        <target>Bermuda</target>
+      </segment>
+    </unit>
+    <unit id="2IniFyo" name="Bhutan">
+      <segment>
+        <source>Bhutan</source>
+        <target>Bhutan</target>
+      </segment>
+    </unit>
+    <unit id="liHAc2R" name="Bolivia">
+      <segment>
+        <source>Bolivia</source>
+        <target>Bolivia</target>
+      </segment>
+    </unit>
+    <unit id="BFplDr6" name="Bosnia &amp; Herzegovina">
+      <segment>
+        <source>Bosnia &amp; Herzegovina</source>
+        <target><![CDATA[Bosnia & Herzegovina]]></target>
+      </segment>
+    </unit>
+    <unit id="FnL2DDq" name="Botswana">
+      <segment>
+        <source>Botswana</source>
+        <target>Botswana</target>
+      </segment>
+    </unit>
+    <unit id="B.YrAhd" name="Brazil">
+      <segment>
+        <source>Brazil</source>
+        <target>Brazil</target>
+      </segment>
+    </unit>
+    <unit id="OX1JSwB" name="British Indian Ocean Territory">
+      <segment>
+        <source>British Indian Ocean Territory</source>
+        <target>British Indian Ocean Territory</target>
+      </segment>
+    </unit>
+    <unit id="DEfdr5k" name="British Virgin Islands">
+      <segment>
+        <source>British Virgin Islands</source>
+        <target>British Virgin Islands</target>
+      </segment>
+    </unit>
+    <unit id="mev32RI" name="Brunei">
+      <segment>
+        <source>Brunei</source>
+        <target>Brunei</target>
+      </segment>
+    </unit>
+    <unit id="Zrhr8PB" name="Bulgaria">
+      <segment>
+        <source>Bulgaria</source>
+        <target>Bulgaria</target>
+      </segment>
+    </unit>
+    <unit id="pWQ3GsD" name="Burkina Faso">
+      <segment>
+        <source>Burkina Faso</source>
+        <target>Burkina Faso</target>
+      </segment>
+    </unit>
+    <unit id="yDW9HEV" name="Burundi">
+      <segment>
+        <source>Burundi</source>
+        <target>Burundi</target>
+      </segment>
+    </unit>
+    <unit id="DCywGi2" name="Cambodia">
+      <segment>
+        <source>Cambodia</source>
+        <target>Cambodia</target>
+      </segment>
+    </unit>
+    <unit id="CFgH8i9" name="Cameroon">
+      <segment>
+        <source>Cameroon</source>
+        <target>Cameroon</target>
+      </segment>
+    </unit>
+    <unit id="vlXvP0x" name="Canada">
+      <segment>
+        <source>Canada</source>
+        <target>Canada</target>
+      </segment>
+    </unit>
+    <unit id="oD7ztj1" name="Canary Islands">
+      <segment>
+        <source>Canary Islands</source>
+        <target>Canary Islands</target>
+      </segment>
+    </unit>
+    <unit id="n6by2qV" name="Cape Verde">
+      <segment>
+        <source>Cape Verde</source>
+        <target>Cape Verde</target>
+      </segment>
+    </unit>
+    <unit id="pvpN_HV" name="Caribbean Netherlands">
+      <segment>
+        <source>Caribbean Netherlands</source>
+        <target>Caribbean Netherlands</target>
+      </segment>
+    </unit>
+    <unit id="g.KzM2R" name="Cayman Islands">
+      <segment>
+        <source>Cayman Islands</source>
+        <target>Cayman Islands</target>
+      </segment>
+    </unit>
+    <unit id="5QnNpMR" name="Central African Republic">
+      <segment>
+        <source>Central African Republic</source>
+        <target>Central African Republic</target>
+      </segment>
+    </unit>
+    <unit id="PGPaWjB" name="Ceuta &amp; Melilla">
+      <segment>
+        <source>Ceuta &amp; Melilla</source>
+        <target><![CDATA[Ceuta & Melilla]]></target>
+      </segment>
+    </unit>
+    <unit id="QlblEvz" name="Chad">
+      <segment>
+        <source>Chad</source>
+        <target>Chad</target>
+      </segment>
+    </unit>
+    <unit id="9Sc_I21" name="Chile">
+      <segment>
+        <source>Chile</source>
+        <target>Chile</target>
+      </segment>
+    </unit>
+    <unit id="EENoKQM" name="China">
+      <segment>
+        <source>China</source>
+        <target>China</target>
+      </segment>
+    </unit>
+    <unit id="ENAlwgO" name="Christmas Island">
+      <segment>
+        <source>Christmas Island</source>
+        <target>Christmas Island</target>
+      </segment>
+    </unit>
+    <unit id="uOVuQa0" name="Cocos (Keeling) Islands">
+      <segment>
+        <source>Cocos (Keeling) Islands</source>
+        <target>Cocos (Keeling) Islands</target>
+      </segment>
+    </unit>
+    <unit id="a2Fa2xM" name="Colombia">
+      <segment>
+        <source>Colombia</source>
+        <target>Colombia</target>
+      </segment>
+    </unit>
+    <unit id="6BT9tF." name="Comoros">
+      <segment>
+        <source>Comoros</source>
+        <target>Comoros</target>
+      </segment>
+    </unit>
+    <unit id="6KfSjBK" name="Congo - Brazzaville">
+      <segment>
+        <source>Congo - Brazzaville</source>
+        <target>Congo - Brazzaville</target>
+      </segment>
+    </unit>
+    <unit id="WP.2pHh" name="Congo - Kinshasa">
+      <segment>
+        <source>Congo - Kinshasa</source>
+        <target>Congo - Kinshasa</target>
+      </segment>
+    </unit>
+    <unit id="VoUPPpy" name="Cook Islands">
+      <segment>
+        <source>Cook Islands</source>
+        <target>Cook Islands</target>
+      </segment>
+    </unit>
+    <unit id="4mdC183" name="Costa Rica">
+      <segment>
+        <source>Costa Rica</source>
+        <target>Costa Rica</target>
+      </segment>
+    </unit>
+    <unit id="uch3uX." name="Côte d’Ivoire">
+      <segment>
+        <source>Côte d’Ivoire</source>
+        <target>Côte d’Ivoire</target>
+      </segment>
+    </unit>
+    <unit id="cyjT_Cm" name="Croatia">
+      <segment>
+        <source>Croatia</source>
+        <target>Croatia</target>
+      </segment>
+    </unit>
+    <unit id="DQtOQQI" name="Cuba">
+      <segment>
+        <source>Cuba</source>
+        <target>Cuba</target>
+      </segment>
+    </unit>
+    <unit id="mx2Ts8v" name="Curaçao">
+      <segment>
+        <source>Curaçao</source>
+        <target>Curaçao</target>
+      </segment>
+    </unit>
+    <unit id="XxFixX7" name="Cyprus">
+      <segment>
+        <source>Cyprus</source>
+        <target>Cyprus</target>
+      </segment>
+    </unit>
+    <unit id="7PqWfpA" name="Czechia">
+      <segment>
+        <source>Czechia</source>
+        <target>Czechia</target>
+      </segment>
+    </unit>
+    <unit id="xScJdXd" name="Denmark">
+      <segment>
+        <source>Denmark</source>
+        <target>Denmark</target>
+      </segment>
+    </unit>
+    <unit id="QJ1hDIg" name="Diego Garcia">
+      <segment>
+        <source>Diego Garcia</source>
+        <target>Diego Garcia</target>
+      </segment>
+    </unit>
+    <unit id="RnilezC" name="Djibouti">
+      <segment>
+        <source>Djibouti</source>
+        <target>Djibouti</target>
+      </segment>
+    </unit>
+    <unit id="vip.VoT" name="Dominica">
+      <segment>
+        <source>Dominica</source>
+        <target>Dominica</target>
+      </segment>
+    </unit>
+    <unit id="geiEyy6" name="Dominican Republic">
+      <segment>
+        <source>Dominican Republic</source>
+        <target>Dominican Republic</target>
+      </segment>
+    </unit>
+    <unit id="LKJsYP4" name="Ecuador">
+      <segment>
+        <source>Ecuador</source>
+        <target>Ecuador</target>
+      </segment>
+    </unit>
+    <unit id="VXwVmdm" name="Egypt">
+      <segment>
+        <source>Egypt</source>
+        <target>Egypt</target>
+      </segment>
+    </unit>
+    <unit id="xAjSbB7" name="El Salvador">
+      <segment>
+        <source>El Salvador</source>
+        <target>El Salvador</target>
+      </segment>
+    </unit>
+    <unit id="iZRoeEO" name="Equatorial Guinea">
+      <segment>
+        <source>Equatorial Guinea</source>
+        <target>Equatorial Guinea</target>
+      </segment>
+    </unit>
+    <unit id="AbxACTk" name="Eritrea">
+      <segment>
+        <source>Eritrea</source>
+        <target>Eritrea</target>
+      </segment>
+    </unit>
+    <unit id="EK66aX9" name="Estonia">
+      <segment>
+        <source>Estonia</source>
+        <target>Estonia</target>
+      </segment>
+    </unit>
+    <unit id="fZSXfgM" name="Ethiopia">
+      <segment>
+        <source>Ethiopia</source>
+        <target>Ethiopia</target>
+      </segment>
+    </unit>
+    <unit id="HGhjGEh" name="Eurozone">
+      <segment>
+        <source>Eurozone</source>
+        <target>Eurozone</target>
+      </segment>
+    </unit>
+    <unit id="w4fi1Q." name="Falkland Islands">
+      <segment>
+        <source>Falkland Islands</source>
+        <target>Falkland Islands</target>
+      </segment>
+    </unit>
+    <unit id="dzyk1hg" name="Faroe Islands">
+      <segment>
+        <source>Faroe Islands</source>
+        <target>Faroe Islands</target>
+      </segment>
+    </unit>
+    <unit id="Z5wC3NK" name="Fiji">
+      <segment>
+        <source>Fiji</source>
+        <target>Fiji</target>
+      </segment>
+    </unit>
+    <unit id="rtj1Map" name="Finland">
+      <segment>
+        <source>Finland</source>
+        <target>Finland</target>
+      </segment>
+    </unit>
+    <unit id="ehyk73U" name="France">
+      <segment>
+        <source>France</source>
+        <target>France</target>
+      </segment>
+    </unit>
+    <unit id="K0V82H7" name="French Guiana">
+      <segment>
+        <source>French Guiana</source>
+        <target>French Guiana</target>
+      </segment>
+    </unit>
+    <unit id="C24nby1" name="French Polynesia">
+      <segment>
+        <source>French Polynesia</source>
+        <target>French Polynesia</target>
+      </segment>
+    </unit>
+    <unit id="4FkRUmE" name="French Southern Territories">
+      <segment>
+        <source>French Southern Territories</source>
+        <target>French Southern Territories</target>
+      </segment>
+    </unit>
+    <unit id="fiIqeOd" name="Gabon">
+      <segment>
+        <source>Gabon</source>
+        <target>Gabon</target>
+      </segment>
+    </unit>
+    <unit id="xuaBsZa" name="Gambia">
+      <segment>
+        <source>Gambia</source>
+        <target>Gambia</target>
+      </segment>
+    </unit>
+    <unit id="RpFJIXn" name="Georgia">
+      <segment>
+        <source>Georgia</source>
+        <target>Georgia</target>
+      </segment>
+    </unit>
+    <unit id="gNtMzco" name="Germany">
+      <segment>
+        <source>Germany</source>
+        <target>Germany</target>
+      </segment>
+    </unit>
+    <unit id="WDIBwe_" name="Ghana">
+      <segment>
+        <source>Ghana</source>
+        <target>Ghana</target>
+      </segment>
+    </unit>
+    <unit id="CXztWC8" name="Gibraltar">
+      <segment>
+        <source>Gibraltar</source>
+        <target>Gibraltar</target>
+      </segment>
+    </unit>
+    <unit id="nJOtQ5N" name="Greece">
+      <segment>
+        <source>Greece</source>
+        <target>Greece</target>
+      </segment>
+    </unit>
+    <unit id="SOEClq4" name="Greenland">
+      <segment>
+        <source>Greenland</source>
+        <target>Greenland</target>
+      </segment>
+    </unit>
+    <unit id="BZOqDI7" name="Grenada">
+      <segment>
+        <source>Grenada</source>
+        <target>Grenada</target>
+      </segment>
+    </unit>
+    <unit id="NcnePGO" name="Guadeloupe">
+      <segment>
+        <source>Guadeloupe</source>
+        <target>Guadeloupe</target>
+      </segment>
+    </unit>
+    <unit id="XEsyHst" name="Guam">
+      <segment>
+        <source>Guam</source>
+        <target>Guam</target>
+      </segment>
+    </unit>
+    <unit id="RaFaJHD" name="Guatemala">
+      <segment>
+        <source>Guatemala</source>
+        <target>Guatemala</target>
+      </segment>
+    </unit>
+    <unit id="ucSMsf6" name="Guernsey">
+      <segment>
+        <source>Guernsey</source>
+        <target>Guernsey</target>
+      </segment>
+    </unit>
+    <unit id="3Vkdd_p" name="Guinea">
+      <segment>
+        <source>Guinea</source>
+        <target>Guinea</target>
+      </segment>
+    </unit>
+    <unit id="dej0Yvn" name="Guinea-Bissau">
+      <segment>
+        <source>Guinea-Bissau</source>
+        <target>Guinea-Bissau</target>
+      </segment>
+    </unit>
+    <unit id="6jv8Jvp" name="Guyana">
+      <segment>
+        <source>Guyana</source>
+        <target>Guyana</target>
+      </segment>
+    </unit>
+    <unit id="0JC4fko" name="Haiti">
+      <segment>
+        <source>Haiti</source>
+        <target>Haiti</target>
+      </segment>
+    </unit>
+    <unit id="t5tfl7x" name="Honduras">
+      <segment>
+        <source>Honduras</source>
+        <target>Honduras</target>
+      </segment>
+    </unit>
+    <unit id="lbbKFCp" name="Hong Kong SAR China">
+      <segment>
+        <source>Hong Kong SAR China</source>
+        <target>Hong Kong SAR China</target>
+      </segment>
+    </unit>
+    <unit id="UEvjCE9" name="Hungary">
+      <segment>
+        <source>Hungary</source>
+        <target>Hungary</target>
+      </segment>
+    </unit>
+    <unit id="WV1tkUl" name="Iceland">
+      <segment>
+        <source>Iceland</source>
+        <target>Iceland</target>
+      </segment>
+    </unit>
+    <unit id="q9FJIUU" name="India">
+      <segment>
+        <source>India</source>
+        <target>India</target>
+      </segment>
+    </unit>
+    <unit id="28dKNtj" name="Indonesia">
+      <segment>
+        <source>Indonesia</source>
+        <target>Indonesia</target>
+      </segment>
+    </unit>
+    <unit id="GNThcHZ" name="Iran">
+      <segment>
+        <source>Iran</source>
+        <target>Iran</target>
+      </segment>
+    </unit>
+    <unit id="3lAI0ZS" name="Iraq">
+      <segment>
+        <source>Iraq</source>
+        <target>Iraq</target>
+      </segment>
+    </unit>
+    <unit id="Ar8d_po" name="Ireland">
+      <segment>
+        <source>Ireland</source>
+        <target>Ireland</target>
+      </segment>
+    </unit>
+    <unit id="NAlvlva" name="Isle of Man">
+      <segment>
+        <source>Isle of Man</source>
+        <target>Isle of Man</target>
+      </segment>
+    </unit>
+    <unit id="NVKsDAM" name="Israel">
+      <segment>
+        <source>Israel</source>
+        <target>Israel</target>
+      </segment>
+    </unit>
+    <unit id="Wpz2csi" name="Italy">
+      <segment>
+        <source>Italy</source>
+        <target>Italy</target>
+      </segment>
+    </unit>
+    <unit id="QsKYuhf" name="Jamaica">
+      <segment>
+        <source>Jamaica</source>
+        <target>Jamaica</target>
+      </segment>
+    </unit>
+    <unit id="ZHKUODs" name="Japan">
+      <segment>
+        <source>Japan</source>
+        <target>Japan</target>
+      </segment>
+    </unit>
+    <unit id="dkqMBK1" name="Jersey">
+      <segment>
+        <source>Jersey</source>
+        <target>Jersey</target>
+      </segment>
+    </unit>
+    <unit id="6L.h7Wk" name="Jordan">
+      <segment>
+        <source>Jordan</source>
+        <target>Jordan</target>
+      </segment>
+    </unit>
+    <unit id="dcArjS_" name="Kazakhstan">
+      <segment>
+        <source>Kazakhstan</source>
+        <target>Kazakhstan</target>
+      </segment>
+    </unit>
+    <unit id="dOGJHcY" name="Kenya">
+      <segment>
+        <source>Kenya</source>
+        <target>Kenya</target>
+      </segment>
+    </unit>
+    <unit id="gZEjFGw" name="Kiribati">
+      <segment>
+        <source>Kiribati</source>
+        <target>Kiribati</target>
+      </segment>
+    </unit>
+    <unit id="SoZ0JMc" name="Kosovo">
+      <segment>
+        <source>Kosovo</source>
+        <target>Kosovo</target>
+      </segment>
+    </unit>
+    <unit id="EMPC4u3" name="Kuwait">
+      <segment>
+        <source>Kuwait</source>
+        <target>Kuwait</target>
+      </segment>
+    </unit>
+    <unit id="bxib8He" name="Kyrgyzstan">
+      <segment>
+        <source>Kyrgyzstan</source>
+        <target>Kyrgyzstan</target>
+      </segment>
+    </unit>
+    <unit id="mOGPRmh" name="Laos">
+      <segment>
+        <source>Laos</source>
+        <target>Laos</target>
+      </segment>
+    </unit>
+    <unit id="mIyBYLd" name="Latvia">
+      <segment>
+        <source>Latvia</source>
+        <target>Latvia</target>
+      </segment>
+    </unit>
+    <unit id="403WFrl" name="Lebanon">
+      <segment>
+        <source>Lebanon</source>
+        <target>Lebanon</target>
+      </segment>
+    </unit>
+    <unit id="XC5HRcY" name="Lesotho">
+      <segment>
+        <source>Lesotho</source>
+        <target>Lesotho</target>
+      </segment>
+    </unit>
+    <unit id="ydJgTdU" name="Liberia">
+      <segment>
+        <source>Liberia</source>
+        <target>Liberia</target>
+      </segment>
+    </unit>
+    <unit id="KqL871D" name="Libya">
+      <segment>
+        <source>Libya</source>
+        <target>Libya</target>
+      </segment>
+    </unit>
+    <unit id="b.CAwHi" name="Liechtenstein">
+      <segment>
+        <source>Liechtenstein</source>
+        <target>Liechtenstein</target>
+      </segment>
+    </unit>
+    <unit id="XIOmMbz" name="Lithuania">
+      <segment>
+        <source>Lithuania</source>
+        <target>Lithuania</target>
+      </segment>
+    </unit>
+    <unit id="7XbxkWI" name="Luxembourg">
+      <segment>
+        <source>Luxembourg</source>
+        <target>Luxembourg</target>
+      </segment>
+    </unit>
+    <unit id="6vfJn.c" name="Macau SAR China">
+      <segment>
+        <source>Macau SAR China</source>
+        <target>Macau SAR China</target>
+      </segment>
+    </unit>
+    <unit id="eHMogwn" name="Macedonia">
+      <segment>
+        <source>Macedonia</source>
+        <target>Macedonia</target>
+      </segment>
+    </unit>
+    <unit id="1oBEZMX" name="Madagascar">
+      <segment>
+        <source>Madagascar</source>
+        <target>Madagascar</target>
+      </segment>
+    </unit>
+    <unit id="YRAlzd4" name="Malawi">
+      <segment>
+        <source>Malawi</source>
+        <target>Malawi</target>
+      </segment>
+    </unit>
+    <unit id="CEUEFls" name="Malaysia">
+      <segment>
+        <source>Malaysia</source>
+        <target>Malaysia</target>
+      </segment>
+    </unit>
+    <unit id="j7VEcaS" name="Maldives">
+      <segment>
+        <source>Maldives</source>
+        <target>Maldives</target>
+      </segment>
+    </unit>
+    <unit id="7lchpaY" name="Mali">
+      <segment>
+        <source>Mali</source>
+        <target>Mali</target>
+      </segment>
+    </unit>
+    <unit id="cenrEHV" name="Malta">
+      <segment>
+        <source>Malta</source>
+        <target>Malta</target>
+      </segment>
+    </unit>
+    <unit id=".jPJJc4" name="Marshall Islands">
+      <segment>
+        <source>Marshall Islands</source>
+        <target>Marshall Islands</target>
+      </segment>
+    </unit>
+    <unit id="xlkG3Hz" name="Martinique">
+      <segment>
+        <source>Martinique</source>
+        <target>Martinique</target>
+      </segment>
+    </unit>
+    <unit id="v7DI029" name="Mauritania">
+      <segment>
+        <source>Mauritania</source>
+        <target>Mauritania</target>
+      </segment>
+    </unit>
+    <unit id="qoBX7LQ" name="Mauritius">
+      <segment>
+        <source>Mauritius</source>
+        <target>Mauritius</target>
+      </segment>
+    </unit>
+    <unit id="0ItKDw3" name="Mayotte">
+      <segment>
+        <source>Mayotte</source>
+        <target>Mayotte</target>
+      </segment>
+    </unit>
+    <unit id="p9NVsmv" name="Mexico">
+      <segment>
+        <source>Mexico</source>
+        <target>Mexico</target>
+      </segment>
+    </unit>
+    <unit id="1wg1tWR" name="Micronesia">
+      <segment>
+        <source>Micronesia</source>
+        <target>Micronesia</target>
+      </segment>
+    </unit>
+    <unit id="FK1jocY" name="Moldova">
+      <segment>
+        <source>Moldova</source>
+        <target>Moldova</target>
+      </segment>
+    </unit>
+    <unit id="k1AYzEF" name="Monaco">
+      <segment>
+        <source>Monaco</source>
+        <target>Monaco</target>
+      </segment>
+    </unit>
+    <unit id="mafAZac" name="Mongolia">
+      <segment>
+        <source>Mongolia</source>
+        <target>Mongolia</target>
+      </segment>
+    </unit>
+    <unit id="erWX4bX" name="Montenegro">
+      <segment>
+        <source>Montenegro</source>
+        <target>Montenegro</target>
+      </segment>
+    </unit>
+    <unit id="EnvP6XZ" name="Montserrat">
+      <segment>
+        <source>Montserrat</source>
+        <target>Montserrat</target>
+      </segment>
+    </unit>
+    <unit id="tnX131." name="Morocco">
+      <segment>
+        <source>Morocco</source>
+        <target>Morocco</target>
+      </segment>
+    </unit>
+    <unit id="yQVIJvc" name="Mozambique">
+      <segment>
+        <source>Mozambique</source>
+        <target>Mozambique</target>
+      </segment>
+    </unit>
+    <unit id="wNFL2lt" name="Myanmar (Burma)">
+      <segment>
+        <source>Myanmar (Burma)</source>
+        <target>Myanmar (Burma)</target>
+      </segment>
+    </unit>
+    <unit id="6lvTmEj" name="Namibia">
+      <segment>
+        <source>Namibia</source>
+        <target>Namibia</target>
+      </segment>
+    </unit>
+    <unit id="V_kAiF1" name="Nauru">
+      <segment>
+        <source>Nauru</source>
+        <target>Nauru</target>
+      </segment>
+    </unit>
+    <unit id="4VoYqty" name="Nepal">
+      <segment>
+        <source>Nepal</source>
+        <target>Nepal</target>
+      </segment>
+    </unit>
+    <unit id="OjhsE9K" name="Netherlands">
+      <segment>
+        <source>Netherlands</source>
+        <target>Netherlands</target>
+      </segment>
+    </unit>
+    <unit id="vmABH1Y" name="New Caledonia">
+      <segment>
+        <source>New Caledonia</source>
+        <target>New Caledonia</target>
+      </segment>
+    </unit>
+    <unit id="KJjhbU5" name="New Zealand">
+      <segment>
+        <source>New Zealand</source>
+        <target>New Zealand</target>
+      </segment>
+    </unit>
+    <unit id="lOa9V0t" name="Nicaragua">
+      <segment>
+        <source>Nicaragua</source>
+        <target>Nicaragua</target>
+      </segment>
+    </unit>
+    <unit id="LL68VB_" name="Niger">
+      <segment>
+        <source>Niger</source>
+        <target>Niger</target>
+      </segment>
+    </unit>
+    <unit id="BJUqD5h" name="Nigeria">
+      <segment>
+        <source>Nigeria</source>
+        <target>Nigeria</target>
+      </segment>
+    </unit>
+    <unit id="SVbCCQ." name="Niue">
+      <segment>
+        <source>Niue</source>
+        <target>Niue</target>
+      </segment>
+    </unit>
+    <unit id="TQ37h38" name="Norfolk Island">
+      <segment>
+        <source>Norfolk Island</source>
+        <target>Norfolk Island</target>
+      </segment>
+    </unit>
+    <unit id="rmF18cz" name="North Korea">
+      <segment>
+        <source>North Korea</source>
+        <target>North Korea</target>
+      </segment>
+    </unit>
+    <unit id="ZlRdNbP" name="Northern Mariana Islands">
+      <segment>
+        <source>Northern Mariana Islands</source>
+        <target>Northern Mariana Islands</target>
+      </segment>
+    </unit>
+    <unit id="vqVKNJe" name="Norway">
+      <segment>
+        <source>Norway</source>
+        <target>Norway</target>
+      </segment>
+    </unit>
+    <unit id="w85L_I2" name="Oman">
+      <segment>
+        <source>Oman</source>
+        <target>Oman</target>
+      </segment>
+    </unit>
+    <unit id="4lZzEux" name="Pakistan">
+      <segment>
+        <source>Pakistan</source>
+        <target>Pakistan</target>
+      </segment>
+    </unit>
+    <unit id="f6ZHc9z" name="Palau">
+      <segment>
+        <source>Palau</source>
+        <target>Palau</target>
+      </segment>
+    </unit>
+    <unit id="Y0aSE5e" name="Palestinian Territories">
+      <segment>
+        <source>Palestinian Territories</source>
+        <target>Palestinian Territories</target>
+      </segment>
+    </unit>
+    <unit id="w2aPWBK" name="Panama">
+      <segment>
+        <source>Panama</source>
+        <target>Panama</target>
+      </segment>
+    </unit>
+    <unit id="xldCzrK" name="Papua New Guinea">
+      <segment>
+        <source>Papua New Guinea</source>
+        <target>Papua New Guinea</target>
+      </segment>
+    </unit>
+    <unit id="f7TReex" name="Paraguay">
+      <segment>
+        <source>Paraguay</source>
+        <target>Paraguay</target>
+      </segment>
+    </unit>
+    <unit id="UIcxo8X" name="Peru">
+      <segment>
+        <source>Peru</source>
+        <target>Peru</target>
+      </segment>
+    </unit>
+    <unit id="w3gshtg" name="Philippines">
+      <segment>
+        <source>Philippines</source>
+        <target>Philippines</target>
+      </segment>
+    </unit>
+    <unit id="yVWX6xk" name="Pitcairn Islands">
+      <segment>
+        <source>Pitcairn Islands</source>
+        <target>Pitcairn Islands</target>
+      </segment>
+    </unit>
+    <unit id="f2lkmtc" name="Poland">
+      <segment>
+        <source>Poland</source>
+        <target>Poland</target>
+      </segment>
+    </unit>
+    <unit id="TH3iw9p" name="Portugal">
+      <segment>
+        <source>Portugal</source>
+        <target>Portugal</target>
+      </segment>
+    </unit>
+    <unit id="2apD6tX" name="Puerto Rico">
+      <segment>
+        <source>Puerto Rico</source>
+        <target>Puerto Rico</target>
+      </segment>
+    </unit>
+    <unit id="VczFAU8" name="Qatar">
+      <segment>
+        <source>Qatar</source>
+        <target>Qatar</target>
+      </segment>
+    </unit>
+    <unit id="fN9XOwy" name="Réunion">
+      <segment>
+        <source>Réunion</source>
+        <target>Réunion</target>
+      </segment>
+    </unit>
+    <unit id="6iNybdD" name="Romania">
+      <segment>
+        <source>Romania</source>
+        <target>Romania</target>
+      </segment>
+    </unit>
+    <unit id="M6PY7ZK" name="Russia">
+      <segment>
+        <source>Russia</source>
+        <target>Russia</target>
+      </segment>
+    </unit>
+    <unit id="Esj49JE" name="Rwanda">
+      <segment>
+        <source>Rwanda</source>
+        <target>Rwanda</target>
+      </segment>
+    </unit>
+    <unit id="DqeBzUK" name="Samoa">
+      <segment>
+        <source>Samoa</source>
+        <target>Samoa</target>
+      </segment>
+    </unit>
+    <unit id="IwRQokm" name="San Marino">
+      <segment>
+        <source>San Marino</source>
+        <target>San Marino</target>
+      </segment>
+    </unit>
+    <unit id="kTRlt0H" name="São Tomé &amp; Príncipe">
+      <segment>
+        <source>São Tomé &amp; Príncipe</source>
+        <target><![CDATA[São Tomé & Príncipe]]></target>
+      </segment>
+    </unit>
+    <unit id="7ZrRNhH" name="Saudi Arabia">
+      <segment>
+        <source>Saudi Arabia</source>
+        <target>Saudi Arabia</target>
+      </segment>
+    </unit>
+    <unit id="Nk5fZSX" name="Senegal">
+      <segment>
+        <source>Senegal</source>
+        <target>Senegal</target>
+      </segment>
+    </unit>
+    <unit id="6HOcg5V" name="Serbia">
+      <segment>
+        <source>Serbia</source>
+        <target>Serbia</target>
+      </segment>
+    </unit>
+    <unit id="0dYzIIU" name="Seychelles">
+      <segment>
+        <source>Seychelles</source>
+        <target>Seychelles</target>
+      </segment>
+    </unit>
+    <unit id="9AW5jV." name="Sierra Leone">
+      <segment>
+        <source>Sierra Leone</source>
+        <target>Sierra Leone</target>
+      </segment>
+    </unit>
+    <unit id="yW3YHbG" name="Singapore">
+      <segment>
+        <source>Singapore</source>
+        <target>Singapore</target>
+      </segment>
+    </unit>
+    <unit id="u6KLCDB" name="Sint Maarten">
+      <segment>
+        <source>Sint Maarten</source>
+        <target>Sint Maarten</target>
+      </segment>
+    </unit>
+    <unit id="ouozhOA" name="Slovakia">
+      <segment>
+        <source>Slovakia</source>
+        <target>Slovakia</target>
+      </segment>
+    </unit>
+    <unit id="VgWef7T" name="Slovenia">
+      <segment>
+        <source>Slovenia</source>
+        <target>Slovenia</target>
+      </segment>
+    </unit>
+    <unit id="z.TFjeC" name="Solomon Islands">
+      <segment>
+        <source>Solomon Islands</source>
+        <target>Solomon Islands</target>
+      </segment>
+    </unit>
+    <unit id="vQXTJNi" name="Somalia">
+      <segment>
+        <source>Somalia</source>
+        <target>Somalia</target>
+      </segment>
+    </unit>
+    <unit id="PgSdeNl" name="South Africa">
+      <segment>
+        <source>South Africa</source>
+        <target>South Africa</target>
+      </segment>
+    </unit>
+    <unit id="..uMHlE" name="South Georgia &amp; South Sandwich Islands">
+      <segment>
+        <source>South Georgia &amp; South Sandwich Islands</source>
+        <target><![CDATA[South Georgia & South Sandwich Islands]]></target>
+      </segment>
+    </unit>
+    <unit id="yFMp43e" name="South Korea">
+      <segment>
+        <source>South Korea</source>
+        <target>South Korea</target>
+      </segment>
+    </unit>
+    <unit id="j_WpMRP" name="South Sudan">
+      <segment>
+        <source>South Sudan</source>
+        <target>South Sudan</target>
+      </segment>
+    </unit>
+    <unit id="jvQeb0s" name="Spain">
+      <segment>
+        <source>Spain</source>
+        <target>Spain</target>
+      </segment>
+    </unit>
+    <unit id="B.jRFEo" name="Sri Lanka">
+      <segment>
+        <source>Sri Lanka</source>
+        <target>Sri Lanka</target>
+      </segment>
+    </unit>
+    <unit id="ozyw8QK" name="St. Barthélemy">
+      <segment>
+        <source>St. Barthélemy</source>
+        <target>St. Barthélemy</target>
+      </segment>
+    </unit>
+    <unit id="2jBT9c_" name="St. Helena">
+      <segment>
+        <source>St. Helena</source>
+        <target>St. Helena</target>
+      </segment>
+    </unit>
+    <unit id="V.FPhuq" name="St. Kitts &amp; Nevis">
+      <segment>
+        <source>St. Kitts &amp; Nevis</source>
+        <target><![CDATA[St. Kitts & Nevis]]></target>
+      </segment>
+    </unit>
+    <unit id="LSc9h5c" name="St. Lucia">
+      <segment>
+        <source>St. Lucia</source>
+        <target>St. Lucia</target>
+      </segment>
+    </unit>
+    <unit id="UKp0VQS" name="St. Martin">
+      <segment>
+        <source>St. Martin</source>
+        <target>St. Martin</target>
+      </segment>
+    </unit>
+    <unit id="BepntSa" name="St. Pierre &amp; Miquelon">
+      <segment>
+        <source>St. Pierre &amp; Miquelon</source>
+        <target><![CDATA[St. Pierre & Miquelon]]></target>
+      </segment>
+    </unit>
+    <unit id="CShMbeI" name="St. Vincent &amp; Grenadines">
+      <segment>
+        <source>St. Vincent &amp; Grenadines</source>
+        <target><![CDATA[St. Vincent & Grenadines]]></target>
+      </segment>
+    </unit>
+    <unit id="7WjU3vG" name="Sudan">
+      <segment>
+        <source>Sudan</source>
+        <target>Sudan</target>
+      </segment>
+    </unit>
+    <unit id="scuOrFs" name="Suriname">
+      <segment>
+        <source>Suriname</source>
+        <target>Suriname</target>
+      </segment>
+    </unit>
+    <unit id="Dfla4hO" name="Svalbard &amp; Jan Mayen">
+      <segment>
+        <source>Svalbard &amp; Jan Mayen</source>
+        <target><![CDATA[Svalbard & Jan Mayen]]></target>
+      </segment>
+    </unit>
+    <unit id="GIEFWE_" name="Swaziland">
+      <segment>
+        <source>Swaziland</source>
+        <target>Swaziland</target>
+      </segment>
+    </unit>
+    <unit id="hTY3E2V" name="Sweden">
+      <segment>
+        <source>Sweden</source>
+        <target>Sweden</target>
+      </segment>
+    </unit>
+    <unit id="InVYMZb" name="Switzerland">
+      <segment>
+        <source>Switzerland</source>
+        <target>Switzerland</target>
+      </segment>
+    </unit>
+    <unit id="z2rCm_H" name="Syria">
+      <segment>
+        <source>Syria</source>
+        <target>Syria</target>
+      </segment>
+    </unit>
+    <unit id="3XavGW4" name="Taiwan">
+      <segment>
+        <source>Taiwan</source>
+        <target>Taiwan</target>
+      </segment>
+    </unit>
+    <unit id="BmsCEwt" name="Tajikistan">
+      <segment>
+        <source>Tajikistan</source>
+        <target>Tajikistan</target>
+      </segment>
+    </unit>
+    <unit id="lVVmT89" name="Tanzania">
+      <segment>
+        <source>Tanzania</source>
+        <target>Tanzania</target>
+      </segment>
+    </unit>
+    <unit id="bknmUIG" name="Thailand">
+      <segment>
+        <source>Thailand</source>
+        <target>Thailand</target>
+      </segment>
+    </unit>
+    <unit id="YwPoRxg" name="Timor-Leste">
+      <segment>
+        <source>Timor-Leste</source>
+        <target>Timor-Leste</target>
+      </segment>
+    </unit>
+    <unit id="QIA0PuD" name="Togo">
+      <segment>
+        <source>Togo</source>
+        <target>Togo</target>
+      </segment>
+    </unit>
+    <unit id="OfwVA6d" name="Tokelau">
+      <segment>
+        <source>Tokelau</source>
+        <target>Tokelau</target>
+      </segment>
+    </unit>
+    <unit id="MQvDJQl" name="Tonga">
+      <segment>
+        <source>Tonga</source>
+        <target>Tonga</target>
+      </segment>
+    </unit>
+    <unit id="FxTCMdv" name="Trinidad &amp; Tobago">
+      <segment>
+        <source>Trinidad &amp; Tobago</source>
+        <target><![CDATA[Trinidad & Tobago]]></target>
+      </segment>
+    </unit>
+    <unit id="njYeqxK" name="Tristan da Cunha">
+      <segment>
+        <source>Tristan da Cunha</source>
+        <target>Tristan da Cunha</target>
+      </segment>
+    </unit>
+    <unit id="RgloKi8" name="Tunisia">
+      <segment>
+        <source>Tunisia</source>
+        <target>Tunisia</target>
+      </segment>
+    </unit>
+    <unit id="B8Z9du_" name="Turkey">
+      <segment>
+        <source>Turkey</source>
+        <target>Turkey</target>
+      </segment>
+    </unit>
+    <unit id="s9.IUF1" name="Turkmenistan">
+      <segment>
+        <source>Turkmenistan</source>
+        <target>Turkmenistan</target>
+      </segment>
+    </unit>
+    <unit id="WT1bbGc" name="Turks &amp; Caicos Islands">
+      <segment>
+        <source>Turks &amp; Caicos Islands</source>
+        <target><![CDATA[Turks & Caicos Islands]]></target>
+      </segment>
+    </unit>
+    <unit id="MLH.mu7" name="Tuvalu">
+      <segment>
+        <source>Tuvalu</source>
+        <target>Tuvalu</target>
+      </segment>
+    </unit>
+    <unit id="fE5Dtz8" name="U.S. Outlying Islands">
+      <segment>
+        <source>U.S. Outlying Islands</source>
+        <target>U.S. Outlying Islands</target>
+      </segment>
+    </unit>
+    <unit id="4ySewR2" name="U.S. Virgin Islands">
+      <segment>
+        <source>U.S. Virgin Islands</source>
+        <target>U.S. Virgin Islands</target>
+      </segment>
+    </unit>
+    <unit id="iT1ThWO" name="Uganda">
+      <segment>
+        <source>Uganda</source>
+        <target>Uganda</target>
+      </segment>
+    </unit>
+    <unit id="WA7txmn" name="Ukraine">
+      <segment>
+        <source>Ukraine</source>
+        <target>Ukraine</target>
+      </segment>
+    </unit>
+    <unit id="3WSRPIu" name="United Arab Emirates">
+      <segment>
+        <source>United Arab Emirates</source>
+        <target>United Arab Emirates</target>
+      </segment>
+    </unit>
+    <unit id="jSOm434" name="United Kingdom">
+      <segment>
+        <source>United Kingdom</source>
+        <target>United Kingdom</target>
+      </segment>
+    </unit>
+    <unit id="w8J8.kQ" name="United Nations">
+      <segment>
+        <source>United Nations</source>
+        <target>United Nations</target>
+      </segment>
+    </unit>
+    <unit id="SdymXzY" name="United States">
+      <segment>
+        <source>United States</source>
+        <target>United States</target>
+      </segment>
+    </unit>
+    <unit id=".iQD8l6" name="Uruguay">
+      <segment>
+        <source>Uruguay</source>
+        <target>Uruguay</target>
+      </segment>
+    </unit>
+    <unit id="S8Lxwjs" name="Uzbekistan">
+      <segment>
+        <source>Uzbekistan</source>
+        <target>Uzbekistan</target>
+      </segment>
+    </unit>
+    <unit id="xbKm3p1" name="Vanuatu">
+      <segment>
+        <source>Vanuatu</source>
+        <target>Vanuatu</target>
+      </segment>
+    </unit>
+    <unit id="sM4QKW8" name="Vatican City">
+      <segment>
+        <source>Vatican City</source>
+        <target>Vatican City</target>
+      </segment>
+    </unit>
+    <unit id="Ag5Di6." name="Venezuela">
+      <segment>
+        <source>Venezuela</source>
+        <target>Venezuela</target>
+      </segment>
+    </unit>
+    <unit id="Ll6BBmo" name="Vietnam">
+      <segment>
+        <source>Vietnam</source>
+        <target>Vietnam</target>
+      </segment>
+    </unit>
+    <unit id="XpeAW4a" name="Wallis &amp; Futuna">
+      <segment>
+        <source>Wallis &amp; Futuna</source>
+        <target><![CDATA[Wallis & Futuna]]></target>
+      </segment>
+    </unit>
+    <unit id="iblOUj_" name="Western Sahara">
+      <segment>
+        <source>Western Sahara</source>
+        <target>Western Sahara</target>
+      </segment>
+    </unit>
+    <unit id="IcGQOvJ" name="Yemen">
+      <segment>
+        <source>Yemen</source>
+        <target>Yemen</target>
+      </segment>
+    </unit>
+    <unit id="tfkiGuB" name="Zambia">
+      <segment>
+        <source>Zambia</source>
+        <target>Zambia</target>
+      </segment>
+    </unit>
+    <unit id="xyGZqFt" name="Zimbabwe">
+      <segment>
+        <source>Zimbabwe</source>
+        <target>Zimbabwe</target>
+      </segment>
+    </unit>
+    <unit id="TOyh1Sz" name="Timezone">
+      <segment>
+        <source>Timezone</source>
+        <target>Timezone</target>
+      </segment>
+    </unit>
+    <unit id="Ugu2p1D" name="The timezone where the school is located.">
+      <segment>
+        <source>The timezone where the school is located.</source>
+        <target>The timezone where the school is located.</target>
+      </segment>
+    </unit>
+    <unit id="xKNxrNf" name="Africa">
+      <segment>
+        <source>Africa</source>
+        <target>Africa</target>
+      </segment>
+    </unit>
+    <unit id="0g0EgFD" name="Abidjan">
+      <segment>
+        <source>Abidjan</source>
+        <target>Abidjan</target>
+      </segment>
+    </unit>
+    <unit id="lmCf2PP" name="Accra">
+      <segment>
+        <source>Accra</source>
+        <target>Accra</target>
+      </segment>
+    </unit>
+    <unit id="oidDFqU" name="Addis Ababa">
+      <segment>
+        <source>Addis Ababa</source>
+        <target>Addis Ababa</target>
+      </segment>
+    </unit>
+    <unit id="oHMIzqi" name="Algiers">
+      <segment>
+        <source>Algiers</source>
+        <target>Algiers</target>
+      </segment>
+    </unit>
+    <unit id="B2Zp9.8" name="Asmara">
+      <segment>
+        <source>Asmara</source>
+        <target>Asmara</target>
+      </segment>
+    </unit>
+    <unit id="V0PYNCM" name="Bamako">
+      <segment>
+        <source>Bamako</source>
+        <target>Bamako</target>
+      </segment>
+    </unit>
+    <unit id="zhxT0Hv" name="Bangui">
+      <segment>
+        <source>Bangui</source>
+        <target>Bangui</target>
+      </segment>
+    </unit>
+    <unit id="w7u4a3S" name="Banjul">
+      <segment>
+        <source>Banjul</source>
+        <target>Banjul</target>
+      </segment>
+    </unit>
+    <unit id="ZS_dLZh" name="Bissau">
+      <segment>
+        <source>Bissau</source>
+        <target>Bissau</target>
+      </segment>
+    </unit>
+    <unit id="hCFhmXJ" name="Blantyre">
+      <segment>
+        <source>Blantyre</source>
+        <target>Blantyre</target>
+      </segment>
+    </unit>
+    <unit id="aFC_wEX" name="Brazzaville">
+      <segment>
+        <source>Brazzaville</source>
+        <target>Brazzaville</target>
+      </segment>
+    </unit>
+    <unit id="kTIF80t" name="Bujumbura">
+      <segment>
+        <source>Bujumbura</source>
+        <target>Bujumbura</target>
+      </segment>
+    </unit>
+    <unit id="Yq9xP1g" name="Cairo">
+      <segment>
+        <source>Cairo</source>
+        <target>Cairo</target>
+      </segment>
+    </unit>
+    <unit id="jOedqRt" name="Casablanca">
+      <segment>
+        <source>Casablanca</source>
+        <target>Casablanca</target>
+      </segment>
+    </unit>
+    <unit id="GUUHuJh" name="Ceuta">
+      <segment>
+        <source>Ceuta</source>
+        <target>Ceuta</target>
+      </segment>
+    </unit>
+    <unit id="vok0Mqa" name="Conakry">
+      <segment>
+        <source>Conakry</source>
+        <target>Conakry</target>
+      </segment>
+    </unit>
+    <unit id="kGwZhtk" name="Dakar">
+      <segment>
+        <source>Dakar</source>
+        <target>Dakar</target>
+      </segment>
+    </unit>
+    <unit id="538.KCb" name="Dar es Salaam">
+      <segment>
+        <source>Dar es Salaam</source>
+        <target>Dar es Salaam</target>
+      </segment>
+    </unit>
+    <unit id="j7_QyMa" name="Douala">
+      <segment>
+        <source>Douala</source>
+        <target>Douala</target>
+      </segment>
+    </unit>
+    <unit id="tzT2eBi" name="El Aaiun">
+      <segment>
+        <source>El Aaiun</source>
+        <target>El Aaiun</target>
+      </segment>
+    </unit>
+    <unit id="nMvQH7X" name="Freetown">
+      <segment>
+        <source>Freetown</source>
+        <target>Freetown</target>
+      </segment>
+    </unit>
+    <unit id="B46MZPl" name="Gaborone">
+      <segment>
+        <source>Gaborone</source>
+        <target>Gaborone</target>
+      </segment>
+    </unit>
+    <unit id="hjwYbcc" name="Harare">
+      <segment>
+        <source>Harare</source>
+        <target>Harare</target>
+      </segment>
+    </unit>
+    <unit id="D90dTxH" name="Johannesburg">
+      <segment>
+        <source>Johannesburg</source>
+        <target>Johannesburg</target>
+      </segment>
+    </unit>
+    <unit id="Ikrkpmf" name="Juba">
+      <segment>
+        <source>Juba</source>
+        <target>Juba</target>
+      </segment>
+    </unit>
+    <unit id="Yw22FGj" name="Kampala">
+      <segment>
+        <source>Kampala</source>
+        <target>Kampala</target>
+      </segment>
+    </unit>
+    <unit id="Ho7gjYQ" name="Khartoum">
+      <segment>
+        <source>Khartoum</source>
+        <target>Khartoum</target>
+      </segment>
+    </unit>
+    <unit id="M7V8GX0" name="Kigali">
+      <segment>
+        <source>Kigali</source>
+        <target>Kigali</target>
+      </segment>
+    </unit>
+    <unit id="_jjz7l4" name="Kinshasa">
+      <segment>
+        <source>Kinshasa</source>
+        <target>Kinshasa</target>
+      </segment>
+    </unit>
+    <unit id="s4SGP6H" name="Lagos">
+      <segment>
+        <source>Lagos</source>
+        <target>Lagos</target>
+      </segment>
+    </unit>
+    <unit id="NRXnN2E" name="Libreville">
+      <segment>
+        <source>Libreville</source>
+        <target>Libreville</target>
+      </segment>
+    </unit>
+    <unit id="JAah.Lx" name="Lome">
+      <segment>
+        <source>Lome</source>
+        <target>Lome</target>
+      </segment>
+    </unit>
+    <unit id="YDkb_dV" name="Luanda">
+      <segment>
+        <source>Luanda</source>
+        <target>Luanda</target>
+      </segment>
+    </unit>
+    <unit id="k5_O03o" name="Lubumbashi">
+      <segment>
+        <source>Lubumbashi</source>
+        <target>Lubumbashi</target>
+      </segment>
+    </unit>
+    <unit id="ZzrU35k" name="Lusaka">
+      <segment>
+        <source>Lusaka</source>
+        <target>Lusaka</target>
+      </segment>
+    </unit>
+    <unit id="lSAQIhp" name="Malabo">
+      <segment>
+        <source>Malabo</source>
+        <target>Malabo</target>
+      </segment>
+    </unit>
+    <unit id="khsfEtY" name="Maputo">
+      <segment>
+        <source>Maputo</source>
+        <target>Maputo</target>
+      </segment>
+    </unit>
+    <unit id="E21IRpp" name="Maseru">
+      <segment>
+        <source>Maseru</source>
+        <target>Maseru</target>
+      </segment>
+    </unit>
+    <unit id="xqMYC.4" name="Mbabane">
+      <segment>
+        <source>Mbabane</source>
+        <target>Mbabane</target>
+      </segment>
+    </unit>
+    <unit id="9ARLMRI" name="Mogadishu">
+      <segment>
+        <source>Mogadishu</source>
+        <target>Mogadishu</target>
+      </segment>
+    </unit>
+    <unit id="V.0qoJ7" name="Monrovia">
+      <segment>
+        <source>Monrovia</source>
+        <target>Monrovia</target>
+      </segment>
+    </unit>
+    <unit id="W.wuVRO" name="Nairobi">
+      <segment>
+        <source>Nairobi</source>
+        <target>Nairobi</target>
+      </segment>
+    </unit>
+    <unit id="M1e1lNW" name="Ndjamena">
+      <segment>
+        <source>Ndjamena</source>
+        <target>Ndjamena</target>
+      </segment>
+    </unit>
+    <unit id="LAHlrPI" name="Niamey">
+      <segment>
+        <source>Niamey</source>
+        <target>Niamey</target>
+      </segment>
+    </unit>
+    <unit id="jKT183b" name="Nouakchott">
+      <segment>
+        <source>Nouakchott</source>
+        <target>Nouakchott</target>
+      </segment>
+    </unit>
+    <unit id="AP4mWCa" name="Ouagadougou">
+      <segment>
+        <source>Ouagadougou</source>
+        <target>Ouagadougou</target>
+      </segment>
+    </unit>
+    <unit id="DlWZQ2d" name="Porto-Novo">
+      <segment>
+        <source>Porto-Novo</source>
+        <target>Porto-Novo</target>
+      </segment>
+    </unit>
+    <unit id="4InIzJR" name="Sao Tome">
+      <segment>
+        <source>Sao Tome</source>
+        <target>Sao Tome</target>
+      </segment>
+    </unit>
+    <unit id="EdzJONm" name="Tripoli">
+      <segment>
+        <source>Tripoli</source>
+        <target>Tripoli</target>
+      </segment>
+    </unit>
+    <unit id="YSdZkKx" name="Tunis">
+      <segment>
+        <source>Tunis</source>
+        <target>Tunis</target>
+      </segment>
+    </unit>
+    <unit id="7G9gQkx" name="Windhoek">
+      <segment>
+        <source>Windhoek</source>
+        <target>Windhoek</target>
+      </segment>
+    </unit>
+    <unit id="mNfxE6o" name="America">
+      <segment>
+        <source>America</source>
+        <target>America</target>
+      </segment>
+    </unit>
+    <unit id="1FSpo8j" name="Adak">
+      <segment>
+        <source>Adak</source>
+        <target>Adak</target>
+      </segment>
+    </unit>
+    <unit id="TWyBsy8" name="Anchorage">
+      <segment>
+        <source>Anchorage</source>
+        <target>Anchorage</target>
+      </segment>
+    </unit>
+    <unit id="JskUy5T" name="Antigua">
+      <segment>
+        <source>Antigua</source>
+        <target>Antigua</target>
+      </segment>
+    </unit>
+    <unit id="F1zDEIu" name="Araguaina">
+      <segment>
+        <source>Araguaina</source>
+        <target>Araguaina</target>
+      </segment>
+    </unit>
+    <unit id="n9iTUrc" name="Argentina - Buenos Aires">
+      <segment>
+        <source>Argentina - Buenos Aires</source>
+        <target>Argentina - Buenos Aires</target>
+      </segment>
+    </unit>
+    <unit id="5vcLZGF" name="Argentina - Catamarca">
+      <segment>
+        <source>Argentina - Catamarca</source>
+        <target>Argentina - Catamarca</target>
+      </segment>
+    </unit>
+    <unit id="UpHYCZq" name="Argentina - Cordoba">
+      <segment>
+        <source>Argentina - Cordoba</source>
+        <target>Argentina - Cordoba</target>
+      </segment>
+    </unit>
+    <unit id="UMjUwyj" name="Argentina - Jujuy">
+      <segment>
+        <source>Argentina - Jujuy</source>
+        <target>Argentina - Jujuy</target>
+      </segment>
+    </unit>
+    <unit id="4YNTYpG" name="Argentina - La Rioja">
+      <segment>
+        <source>Argentina - La Rioja</source>
+        <target>Argentina - La Rioja</target>
+      </segment>
+    </unit>
+    <unit id="5iiPYYB" name="Argentina - Mendoza">
+      <segment>
+        <source>Argentina - Mendoza</source>
+        <target>Argentina - Mendoza</target>
+      </segment>
+    </unit>
+    <unit id="iytCuOs" name="Argentina - Rio Gallegos">
+      <segment>
+        <source>Argentina - Rio Gallegos</source>
+        <target>Argentina - Rio Gallegos</target>
+      </segment>
+    </unit>
+    <unit id="o4SF7Qy" name="Argentina - Salta">
+      <segment>
+        <source>Argentina - Salta</source>
+        <target>Argentina - Salta</target>
+      </segment>
+    </unit>
+    <unit id="NwMVbhv" name="Argentina - San Juan">
+      <segment>
+        <source>Argentina - San Juan</source>
+        <target>Argentina - San Juan</target>
+      </segment>
+    </unit>
+    <unit id="wj5XpMq" name="Argentina - San Luis">
+      <segment>
+        <source>Argentina - San Luis</source>
+        <target>Argentina - San Luis</target>
+      </segment>
+    </unit>
+    <unit id="0gVaUbC" name="Argentina - Tucuman">
+      <segment>
+        <source>Argentina - Tucuman</source>
+        <target>Argentina - Tucuman</target>
+      </segment>
+    </unit>
+    <unit id="kleWa5G" name="Argentina - Ushuaia">
+      <segment>
+        <source>Argentina - Ushuaia</source>
+        <target>Argentina - Ushuaia</target>
+      </segment>
+    </unit>
+    <unit id="yNqVj_u" name="Asuncion">
+      <segment>
+        <source>Asuncion</source>
+        <target>Asuncion</target>
+      </segment>
+    </unit>
+    <unit id="IkL9opV" name="Atikokan">
+      <segment>
+        <source>Atikokan</source>
+        <target>Atikokan</target>
+      </segment>
+    </unit>
+    <unit id="X6jQeUC" name="Bahia">
+      <segment>
+        <source>Bahia</source>
+        <target>Bahia</target>
+      </segment>
+    </unit>
+    <unit id="BONsvHk" name="Bahia Banderas">
+      <segment>
+        <source>Bahia Banderas</source>
+        <target>Bahia Banderas</target>
+      </segment>
+    </unit>
+    <unit id="zQf6Nig" name="Belem">
+      <segment>
+        <source>Belem</source>
+        <target>Belem</target>
+      </segment>
+    </unit>
+    <unit id="M6x7Mzw" name="Blanc-Sablon">
+      <segment>
+        <source>Blanc-Sablon</source>
+        <target>Blanc-Sablon</target>
+      </segment>
+    </unit>
+    <unit id="9lE.nDY" name="Boa Vista">
+      <segment>
+        <source>Boa Vista</source>
+        <target>Boa Vista</target>
+      </segment>
+    </unit>
+    <unit id="aqKMNK9" name="Bogota">
+      <segment>
+        <source>Bogota</source>
+        <target>Bogota</target>
+      </segment>
+    </unit>
+    <unit id="r1egu3h" name="Boise">
+      <segment>
+        <source>Boise</source>
+        <target>Boise</target>
+      </segment>
+    </unit>
+    <unit id="n5Zez70" name="Cambridge Bay">
+      <segment>
+        <source>Cambridge Bay</source>
+        <target>Cambridge Bay</target>
+      </segment>
+    </unit>
+    <unit id="5AOIHrd" name="Campo Grande">
+      <segment>
+        <source>Campo Grande</source>
+        <target>Campo Grande</target>
+      </segment>
+    </unit>
+    <unit id="nmnqA5h" name="Cancun">
+      <segment>
+        <source>Cancun</source>
+        <target>Cancun</target>
+      </segment>
+    </unit>
+    <unit id="exafBQI" name="Caracas">
+      <segment>
+        <source>Caracas</source>
+        <target>Caracas</target>
+      </segment>
+    </unit>
+    <unit id="1J9vkzQ" name="Cayenne">
+      <segment>
+        <source>Cayenne</source>
+        <target>Cayenne</target>
+      </segment>
+    </unit>
+    <unit id="DVSl7JQ" name="Cayman">
+      <segment>
+        <source>Cayman</source>
+        <target>Cayman</target>
+      </segment>
+    </unit>
+    <unit id="D12YPSA" name="Chicago">
+      <segment>
+        <source>Chicago</source>
+        <target>Chicago</target>
+      </segment>
+    </unit>
+    <unit id="xLhLkWZ" name="Chihuahua">
+      <segment>
+        <source>Chihuahua</source>
+        <target>Chihuahua</target>
+      </segment>
+    </unit>
+    <unit id="QrSuztJ" name="Creston">
+      <segment>
+        <source>Creston</source>
+        <target>Creston</target>
+      </segment>
+    </unit>
+    <unit id="vyhCJh_" name="Cuiaba">
+      <segment>
+        <source>Cuiaba</source>
+        <target>Cuiaba</target>
+      </segment>
+    </unit>
+    <unit id="P_YuKJN" name="Curacao">
+      <segment>
+        <source>Curacao</source>
+        <target>Curacao</target>
+      </segment>
+    </unit>
+    <unit id="ZIyyefR" name="Danmarkshavn">
+      <segment>
+        <source>Danmarkshavn</source>
+        <target>Danmarkshavn</target>
+      </segment>
+    </unit>
+    <unit id="Dum7Fok" name="Dawson">
+      <segment>
+        <source>Dawson</source>
+        <target>Dawson</target>
+      </segment>
+    </unit>
+    <unit id="TIHrgiJ" name="Dawson Creek">
+      <segment>
+        <source>Dawson Creek</source>
+        <target>Dawson Creek</target>
+      </segment>
+    </unit>
+    <unit id=".N64wH1" name="Denver">
+      <segment>
+        <source>Denver</source>
+        <target>Denver</target>
+      </segment>
+    </unit>
+    <unit id="CDgqQTz" name="Detroit">
+      <segment>
+        <source>Detroit</source>
+        <target>Detroit</target>
+      </segment>
+    </unit>
+    <unit id="pfDS0I6" name="Edmonton">
+      <segment>
+        <source>Edmonton</source>
+        <target>Edmonton</target>
+      </segment>
+    </unit>
+    <unit id="CNOfmpa" name="Eirunepe">
+      <segment>
+        <source>Eirunepe</source>
+        <target>Eirunepe</target>
+      </segment>
+    </unit>
+    <unit id="GEB.ZCH" name="Fort Nelson">
+      <segment>
+        <source>Fort Nelson</source>
+        <target>Fort Nelson</target>
+      </segment>
+    </unit>
+    <unit id="ZR6G.Vt" name="Fortaleza">
+      <segment>
+        <source>Fortaleza</source>
+        <target>Fortaleza</target>
+      </segment>
+    </unit>
+    <unit id="ZQoXfec" name="Glace Bay">
+      <segment>
+        <source>Glace Bay</source>
+        <target>Glace Bay</target>
+      </segment>
+    </unit>
+    <unit id="Sf093v0" name="Godthab">
+      <segment>
+        <source>Godthab</source>
+        <target>Godthab</target>
+      </segment>
+    </unit>
+    <unit id="3ZyD8_G" name="Goose Bay">
+      <segment>
+        <source>Goose Bay</source>
+        <target>Goose Bay</target>
+      </segment>
+    </unit>
+    <unit id="B7DDjHN" name="Grand Turk">
+      <segment>
+        <source>Grand Turk</source>
+        <target>Grand Turk</target>
+      </segment>
+    </unit>
+    <unit id="JLf346h" name="Guayaquil">
+      <segment>
+        <source>Guayaquil</source>
+        <target>Guayaquil</target>
+      </segment>
+    </unit>
+    <unit id="t1cyqg_" name="Halifax">
+      <segment>
+        <source>Halifax</source>
+        <target>Halifax</target>
+      </segment>
+    </unit>
+    <unit id="RI4Og0_" name="Havana">
+      <segment>
+        <source>Havana</source>
+        <target>Havana</target>
+      </segment>
+    </unit>
+    <unit id="QL6k1Wd" name="Hermosillo">
+      <segment>
+        <source>Hermosillo</source>
+        <target>Hermosillo</target>
+      </segment>
+    </unit>
+    <unit id="AnKa7Pu" name="Indiana - Indianapolis">
+      <segment>
+        <source>Indiana - Indianapolis</source>
+        <target>Indiana - Indianapolis</target>
+      </segment>
+    </unit>
+    <unit id="ngkObsr" name="Indiana - Knox">
+      <segment>
+        <source>Indiana - Knox</source>
+        <target>Indiana - Knox</target>
+      </segment>
+    </unit>
+    <unit id="SCFR2mL" name="Indiana - Marengo">
+      <segment>
+        <source>Indiana - Marengo</source>
+        <target>Indiana - Marengo</target>
+      </segment>
+    </unit>
+    <unit id="_ckyY5T" name="Indiana - Petersburg">
+      <segment>
+        <source>Indiana - Petersburg</source>
+        <target>Indiana - Petersburg</target>
+      </segment>
+    </unit>
+    <unit id="4iAyGL9" name="Indiana - Tell City">
+      <segment>
+        <source>Indiana - Tell City</source>
+        <target>Indiana - Tell City</target>
+      </segment>
+    </unit>
+    <unit id="R5sxCsq" name="Indiana - Vevay">
+      <segment>
+        <source>Indiana - Vevay</source>
+        <target>Indiana - Vevay</target>
+      </segment>
+    </unit>
+    <unit id="jzDO3ra" name="Indiana - Vincennes">
+      <segment>
+        <source>Indiana - Vincennes</source>
+        <target>Indiana - Vincennes</target>
+      </segment>
+    </unit>
+    <unit id="g4Vj2SR" name="Indiana - Winamac">
+      <segment>
+        <source>Indiana - Winamac</source>
+        <target>Indiana - Winamac</target>
+      </segment>
+    </unit>
+    <unit id="GWz_5cO" name="Inuvik">
+      <segment>
+        <source>Inuvik</source>
+        <target>Inuvik</target>
+      </segment>
+    </unit>
+    <unit id="5YeR5oF" name="Iqaluit">
+      <segment>
+        <source>Iqaluit</source>
+        <target>Iqaluit</target>
+      </segment>
+    </unit>
+    <unit id="lQVrSKv" name="Juneau">
+      <segment>
+        <source>Juneau</source>
+        <target>Juneau</target>
+      </segment>
+    </unit>
+    <unit id="itr_Eat" name="Kentucky - Louisville">
+      <segment>
+        <source>Kentucky - Louisville</source>
+        <target>Kentucky - Louisville</target>
+      </segment>
+    </unit>
+    <unit id="ZIivz3O" name="Kentucky - Monticello">
+      <segment>
+        <source>Kentucky - Monticello</source>
+        <target>Kentucky - Monticello</target>
+      </segment>
+    </unit>
+    <unit id="m1SN7RQ" name="Kralendijk">
+      <segment>
+        <source>Kralendijk</source>
+        <target>Kralendijk</target>
+      </segment>
+    </unit>
+    <unit id="y2oNgTH" name="La Paz">
+      <segment>
+        <source>La Paz</source>
+        <target>La Paz</target>
+      </segment>
+    </unit>
+    <unit id="qvLQVNX" name="Lima">
+      <segment>
+        <source>Lima</source>
+        <target>Lima</target>
+      </segment>
+    </unit>
+    <unit id="i24ElHI" name="Los Angeles">
+      <segment>
+        <source>Los Angeles</source>
+        <target>Los Angeles</target>
+      </segment>
+    </unit>
+    <unit id="Q.99Lij" name="Lower Princes">
+      <segment>
+        <source>Lower Princes</source>
+        <target>Lower Princes</target>
+      </segment>
+    </unit>
+    <unit id="TTeU5da" name="Maceio">
+      <segment>
+        <source>Maceio</source>
+        <target>Maceio</target>
+      </segment>
+    </unit>
+    <unit id="U3k_Ffn" name="Managua">
+      <segment>
+        <source>Managua</source>
+        <target>Managua</target>
+      </segment>
+    </unit>
+    <unit id="1sLo_Hh" name="Manaus">
+      <segment>
+        <source>Manaus</source>
+        <target>Manaus</target>
+      </segment>
+    </unit>
+    <unit id="hqpY6Mm" name="Marigot">
+      <segment>
+        <source>Marigot</source>
+        <target>Marigot</target>
+      </segment>
+    </unit>
+    <unit id="MKCd9dy" name="Matamoros">
+      <segment>
+        <source>Matamoros</source>
+        <target>Matamoros</target>
+      </segment>
+    </unit>
+    <unit id="nnntZ5e" name="Mazatlan">
+      <segment>
+        <source>Mazatlan</source>
+        <target>Mazatlan</target>
+      </segment>
+    </unit>
+    <unit id="K0EJ7yY" name="Menominee">
+      <segment>
+        <source>Menominee</source>
+        <target>Menominee</target>
+      </segment>
+    </unit>
+    <unit id="NPRNhiv" name="Merida">
+      <segment>
+        <source>Merida</source>
+        <target>Merida</target>
+      </segment>
+    </unit>
+    <unit id="CNVyrpw" name="Metlakatla">
+      <segment>
+        <source>Metlakatla</source>
+        <target>Metlakatla</target>
+      </segment>
+    </unit>
+    <unit id="Wz.Z1I3" name="Mexico City">
+      <segment>
+        <source>Mexico City</source>
+        <target>Mexico City</target>
+      </segment>
+    </unit>
+    <unit id="Zp5B5ZK" name="Miquelon">
+      <segment>
+        <source>Miquelon</source>
+        <target>Miquelon</target>
+      </segment>
+    </unit>
+    <unit id="Zd8i7Do" name="Moncton">
+      <segment>
+        <source>Moncton</source>
+        <target>Moncton</target>
+      </segment>
+    </unit>
+    <unit id="SefPSir" name="Monterrey">
+      <segment>
+        <source>Monterrey</source>
+        <target>Monterrey</target>
+      </segment>
+    </unit>
+    <unit id="jlDKz1Y" name="Montevideo">
+      <segment>
+        <source>Montevideo</source>
+        <target>Montevideo</target>
+      </segment>
+    </unit>
+    <unit id="ZCHLOEm" name="Nassau">
+      <segment>
+        <source>Nassau</source>
+        <target>Nassau</target>
+      </segment>
+    </unit>
+    <unit id="gV7Kl3x" name="New York">
+      <segment>
+        <source>New York</source>
+        <target>New York</target>
+      </segment>
+    </unit>
+    <unit id="LSbMLi0" name="Nipigon">
+      <segment>
+        <source>Nipigon</source>
+        <target>Nipigon</target>
+      </segment>
+    </unit>
+    <unit id="UIaQBjX" name="Nome">
+      <segment>
+        <source>Nome</source>
+        <target>Nome</target>
+      </segment>
+    </unit>
+    <unit id="uj8UaC6" name="Noronha">
+      <segment>
+        <source>Noronha</source>
+        <target>Noronha</target>
+      </segment>
+    </unit>
+    <unit id="epm4nBt" name="North Dakota - Beulah">
+      <segment>
+        <source>North Dakota - Beulah</source>
+        <target>North Dakota - Beulah</target>
+      </segment>
+    </unit>
+    <unit id="Jwe0Cp5" name="North Dakota - Center">
+      <segment>
+        <source>North Dakota - Center</source>
+        <target>North Dakota - Center</target>
+      </segment>
+    </unit>
+    <unit id="iJYbo.B" name="North Dakota - New Salem">
+      <segment>
+        <source>North Dakota - New Salem</source>
+        <target>North Dakota - New Salem</target>
+      </segment>
+    </unit>
+    <unit id="hpbCSmI" name="Ojinaga">
+      <segment>
+        <source>Ojinaga</source>
+        <target>Ojinaga</target>
+      </segment>
+    </unit>
+    <unit id="AM2EuVw" name="Pangnirtung">
+      <segment>
+        <source>Pangnirtung</source>
+        <target>Pangnirtung</target>
+      </segment>
+    </unit>
+    <unit id="rxwMy.X" name="Paramaribo">
+      <segment>
+        <source>Paramaribo</source>
+        <target>Paramaribo</target>
+      </segment>
+    </unit>
+    <unit id="D0T.Dld" name="Phoenix">
+      <segment>
+        <source>Phoenix</source>
+        <target>Phoenix</target>
+      </segment>
+    </unit>
+    <unit id="eOXeqk1" name="Port-au-Prince">
+      <segment>
+        <source>Port-au-Prince</source>
+        <target>Port-au-Prince</target>
+      </segment>
+    </unit>
+    <unit id="ZHPpS4R" name="Port of Spain">
+      <segment>
+        <source>Port of Spain</source>
+        <target>Port of Spain</target>
+      </segment>
+    </unit>
+    <unit id="fWKbOcJ" name="Porto Velho">
+      <segment>
+        <source>Porto Velho</source>
+        <target>Porto Velho</target>
+      </segment>
+    </unit>
+    <unit id="6LdKcyp" name="Punta Arenas">
+      <segment>
+        <source>Punta Arenas</source>
+        <target>Punta Arenas</target>
+      </segment>
+    </unit>
+    <unit id="34q4PSM" name="Rainy River">
+      <segment>
+        <source>Rainy River</source>
+        <target>Rainy River</target>
+      </segment>
+    </unit>
+    <unit id="yRS0U3H" name="Rankin Inlet">
+      <segment>
+        <source>Rankin Inlet</source>
+        <target>Rankin Inlet</target>
+      </segment>
+    </unit>
+    <unit id="A4S.9z9" name="Recife">
+      <segment>
+        <source>Recife</source>
+        <target>Recife</target>
+      </segment>
+    </unit>
+    <unit id="t4J7sMs" name="Regina">
+      <segment>
+        <source>Regina</source>
+        <target>Regina</target>
+      </segment>
+    </unit>
+    <unit id="2HFLXtt" name="Resolute">
+      <segment>
+        <source>Resolute</source>
+        <target>Resolute</target>
+      </segment>
+    </unit>
+    <unit id="xVr.Beo" name="Rio Branco">
+      <segment>
+        <source>Rio Branco</source>
+        <target>Rio Branco</target>
+      </segment>
+    </unit>
+    <unit id="R56MWnI" name="Santarem">
+      <segment>
+        <source>Santarem</source>
+        <target>Santarem</target>
+      </segment>
+    </unit>
+    <unit id="MDYjBgk" name="Santiago">
+      <segment>
+        <source>Santiago</source>
+        <target>Santiago</target>
+      </segment>
+    </unit>
+    <unit id="vvzRU_O" name="Santo Domingo">
+      <segment>
+        <source>Santo Domingo</source>
+        <target>Santo Domingo</target>
+      </segment>
+    </unit>
+    <unit id="JjQUPfM" name="Sao Paulo">
+      <segment>
+        <source>Sao Paulo</source>
+        <target>Sao Paulo</target>
+      </segment>
+    </unit>
+    <unit id="qpXZsYI" name="Scoresbysund">
+      <segment>
+        <source>Scoresbysund</source>
+        <target>Scoresbysund</target>
+      </segment>
+    </unit>
+    <unit id=".Fn1qPU" name="Sitka">
+      <segment>
+        <source>Sitka</source>
+        <target>Sitka</target>
+      </segment>
+    </unit>
+    <unit id="3kdvZbP" name="St Barthelemy">
+      <segment>
+        <source>St Barthelemy</source>
+        <target>St Barthelemy</target>
+      </segment>
+    </unit>
+    <unit id="qz5Yn16" name="St Johns">
+      <segment>
+        <source>St Johns</source>
+        <target>St Johns</target>
+      </segment>
+    </unit>
+    <unit id="thJlwRJ" name="St Kitts">
+      <segment>
+        <source>St Kitts</source>
+        <target>St Kitts</target>
+      </segment>
+    </unit>
+    <unit id="NnoL.fQ" name="St Lucia">
+      <segment>
+        <source>St Lucia</source>
+        <target>St Lucia</target>
+      </segment>
+    </unit>
+    <unit id="jB4y5oW" name="St Thomas">
+      <segment>
+        <source>St Thomas</source>
+        <target>St Thomas</target>
+      </segment>
+    </unit>
+    <unit id="DPWEqao" name="St Vincent">
+      <segment>
+        <source>St Vincent</source>
+        <target>St Vincent</target>
+      </segment>
+    </unit>
+    <unit id="JfMTbrY" name="Swift Current">
+      <segment>
+        <source>Swift Current</source>
+        <target>Swift Current</target>
+      </segment>
+    </unit>
+    <unit id="cZUlI1j" name="Tegucigalpa">
+      <segment>
+        <source>Tegucigalpa</source>
+        <target>Tegucigalpa</target>
+      </segment>
+    </unit>
+    <unit id="nidlPvC" name="Thule">
+      <segment>
+        <source>Thule</source>
+        <target>Thule</target>
+      </segment>
+    </unit>
+    <unit id="BwDtRe6" name="Thunder Bay">
+      <segment>
+        <source>Thunder Bay</source>
+        <target>Thunder Bay</target>
+      </segment>
+    </unit>
+    <unit id="O4bsZq4" name="Tijuana">
+      <segment>
+        <source>Tijuana</source>
+        <target>Tijuana</target>
+      </segment>
+    </unit>
+    <unit id="EhcwvWG" name="Toronto">
+      <segment>
+        <source>Toronto</source>
+        <target>Toronto</target>
+      </segment>
+    </unit>
+    <unit id="VnrMdHR" name="Tortola">
+      <segment>
+        <source>Tortola</source>
+        <target>Tortola</target>
+      </segment>
+    </unit>
+    <unit id="iCXPlR2" name="Vancouver">
+      <segment>
+        <source>Vancouver</source>
+        <target>Vancouver</target>
+      </segment>
+    </unit>
+    <unit id="Jq35ADX" name="Whitehorse">
+      <segment>
+        <source>Whitehorse</source>
+        <target>Whitehorse</target>
+      </segment>
+    </unit>
+    <unit id="EcG9ls8" name="Winnipeg">
+      <segment>
+        <source>Winnipeg</source>
+        <target>Winnipeg</target>
+      </segment>
+    </unit>
+    <unit id="NaqW8Kh" name="Yakutat">
+      <segment>
+        <source>Yakutat</source>
+        <target>Yakutat</target>
+      </segment>
+    </unit>
+    <unit id="BA8zvNc" name="Yellowknife">
+      <segment>
+        <source>Yellowknife</source>
+        <target>Yellowknife</target>
+      </segment>
+    </unit>
+    <unit id="4muD1Lq" name="Casey">
+      <segment>
+        <source>Casey</source>
+        <target>Casey</target>
+      </segment>
+    </unit>
+    <unit id="aDMT1pC" name="Davis">
+      <segment>
+        <source>Davis</source>
+        <target>Davis</target>
+      </segment>
+    </unit>
+    <unit id="bJXiWoQ" name="DumontDUrville">
+      <segment>
+        <source>DumontDUrville</source>
+        <target>DumontDUrville</target>
+      </segment>
+    </unit>
+    <unit id="_3aFcDY" name="Macquarie">
+      <segment>
+        <source>Macquarie</source>
+        <target>Macquarie</target>
+      </segment>
+    </unit>
+    <unit id="ls8LfGa" name="Mawson">
+      <segment>
+        <source>Mawson</source>
+        <target>Mawson</target>
+      </segment>
+    </unit>
+    <unit id="5fZIzpY" name="McMurdo">
+      <segment>
+        <source>McMurdo</source>
+        <target>McMurdo</target>
+      </segment>
+    </unit>
+    <unit id="Z.9d5q2" name="Palmer">
+      <segment>
+        <source>Palmer</source>
+        <target>Palmer</target>
+      </segment>
+    </unit>
+    <unit id="..73pv5" name="Rothera">
+      <segment>
+        <source>Rothera</source>
+        <target>Rothera</target>
+      </segment>
+    </unit>
+    <unit id="q_yx4xN" name="Syowa">
+      <segment>
+        <source>Syowa</source>
+        <target>Syowa</target>
+      </segment>
+    </unit>
+    <unit id="m6wlaGx" name="Troll">
+      <segment>
+        <source>Troll</source>
+        <target>Troll</target>
+      </segment>
+    </unit>
+    <unit id="ryIAlyL" name="Vostok">
+      <segment>
+        <source>Vostok</source>
+        <target>Vostok</target>
+      </segment>
+    </unit>
+    <unit id="TpMYTLL" name="Arctic">
+      <segment>
+        <source>Arctic</source>
+        <target>Arctic</target>
+      </segment>
+    </unit>
+    <unit id="Ya8bknb" name="Longyearbyen">
+      <segment>
+        <source>Longyearbyen</source>
+        <target>Longyearbyen</target>
+      </segment>
+    </unit>
+    <unit id="esAuwch" name="Asia">
+      <segment>
+        <source>Asia</source>
+        <target>Asia</target>
+      </segment>
+    </unit>
+    <unit id="O48z.Va" name="Aden">
+      <segment>
+        <source>Aden</source>
+        <target>Aden</target>
+      </segment>
+    </unit>
+    <unit id="hptWGfd" name="Almaty">
+      <segment>
+        <source>Almaty</source>
+        <target>Almaty</target>
+      </segment>
+    </unit>
+    <unit id="P8cyBz6" name="Amman">
+      <segment>
+        <source>Amman</source>
+        <target>Amman</target>
+      </segment>
+    </unit>
+    <unit id="__K2QEc" name="Anadyr">
+      <segment>
+        <source>Anadyr</source>
+        <target>Anadyr</target>
+      </segment>
+    </unit>
+    <unit id="EF.rMgn" name="Aqtau">
+      <segment>
+        <source>Aqtau</source>
+        <target>Aqtau</target>
+      </segment>
+    </unit>
+    <unit id="jo.G1cM" name="Aqtobe">
+      <segment>
+        <source>Aqtobe</source>
+        <target>Aqtobe</target>
+      </segment>
+    </unit>
+    <unit id="60tjgar" name="Ashgabat">
+      <segment>
+        <source>Ashgabat</source>
+        <target>Ashgabat</target>
+      </segment>
+    </unit>
+    <unit id="4k3uLMT" name="Atyrau">
+      <segment>
+        <source>Atyrau</source>
+        <target>Atyrau</target>
+      </segment>
+    </unit>
+    <unit id="xr2aBpv" name="Baghdad">
+      <segment>
+        <source>Baghdad</source>
+        <target>Baghdad</target>
+      </segment>
+    </unit>
+    <unit id="Ew7_ojL" name="Baku">
+      <segment>
+        <source>Baku</source>
+        <target>Baku</target>
+      </segment>
+    </unit>
+    <unit id="_8IEcAV" name="Bangkok">
+      <segment>
+        <source>Bangkok</source>
+        <target>Bangkok</target>
+      </segment>
+    </unit>
+    <unit id="rSzhHaC" name="Barnaul">
+      <segment>
+        <source>Barnaul</source>
+        <target>Barnaul</target>
+      </segment>
+    </unit>
+    <unit id="C2Y.1F." name="Beirut">
+      <segment>
+        <source>Beirut</source>
+        <target>Beirut</target>
+      </segment>
+    </unit>
+    <unit id="XMj9bPl" name="Bishkek">
+      <segment>
+        <source>Bishkek</source>
+        <target>Bishkek</target>
+      </segment>
+    </unit>
+    <unit id="_h1g9TU" name="Chita">
+      <segment>
+        <source>Chita</source>
+        <target>Chita</target>
+      </segment>
+    </unit>
+    <unit id="iGjxMtT" name="Choibalsan">
+      <segment>
+        <source>Choibalsan</source>
+        <target>Choibalsan</target>
+      </segment>
+    </unit>
+    <unit id="Rn8p1kh" name="Colombo">
+      <segment>
+        <source>Colombo</source>
+        <target>Colombo</target>
+      </segment>
+    </unit>
+    <unit id="ek_jIwD" name="Damascus">
+      <segment>
+        <source>Damascus</source>
+        <target>Damascus</target>
+      </segment>
+    </unit>
+    <unit id="UP1THEL" name="Dhaka">
+      <segment>
+        <source>Dhaka</source>
+        <target>Dhaka</target>
+      </segment>
+    </unit>
+    <unit id="XTIUnVc" name="Dili">
+      <segment>
+        <source>Dili</source>
+        <target>Dili</target>
+      </segment>
+    </unit>
+    <unit id="bEJQSKp" name="Dubai">
+      <segment>
+        <source>Dubai</source>
+        <target>Dubai</target>
+      </segment>
+    </unit>
+    <unit id="xoAxlUY" name="Dushanbe">
+      <segment>
+        <source>Dushanbe</source>
+        <target>Dushanbe</target>
+      </segment>
+    </unit>
+    <unit id="8mzhLVT" name="Famagusta">
+      <segment>
+        <source>Famagusta</source>
+        <target>Famagusta</target>
+      </segment>
+    </unit>
+    <unit id="JHM_Bsw" name="Gaza">
+      <segment>
+        <source>Gaza</source>
+        <target>Gaza</target>
+      </segment>
+    </unit>
+    <unit id="GTcKe3m" name="Hebron">
+      <segment>
+        <source>Hebron</source>
+        <target>Hebron</target>
+      </segment>
+    </unit>
+    <unit id="HY2sRux" name="Ho Chi Minh">
+      <segment>
+        <source>Ho Chi Minh</source>
+        <target>Ho Chi Minh</target>
+      </segment>
+    </unit>
+    <unit id="HtjH5Wy" name="Hong Kong">
+      <segment>
+        <source>Hong Kong</source>
+        <target>Hong Kong</target>
+      </segment>
+    </unit>
+    <unit id="VDcTmEd" name="Hovd">
+      <segment>
+        <source>Hovd</source>
+        <target>Hovd</target>
+      </segment>
+    </unit>
+    <unit id="jGvljZY" name="Irkutsk">
+      <segment>
+        <source>Irkutsk</source>
+        <target>Irkutsk</target>
+      </segment>
+    </unit>
+    <unit id="WS4n4nk" name="Jakarta">
+      <segment>
+        <source>Jakarta</source>
+        <target>Jakarta</target>
+      </segment>
+    </unit>
+    <unit id=".5kPN6t" name="Jayapura">
+      <segment>
+        <source>Jayapura</source>
+        <target>Jayapura</target>
+      </segment>
+    </unit>
+    <unit id="RR674.d" name="Jerusalem">
+      <segment>
+        <source>Jerusalem</source>
+        <target>Jerusalem</target>
+      </segment>
+    </unit>
+    <unit id="jXnBBst" name="Kabul">
+      <segment>
+        <source>Kabul</source>
+        <target>Kabul</target>
+      </segment>
+    </unit>
+    <unit id="aiD00FH" name="Kamchatka">
+      <segment>
+        <source>Kamchatka</source>
+        <target>Kamchatka</target>
+      </segment>
+    </unit>
+    <unit id="We3MYa9" name="Karachi">
+      <segment>
+        <source>Karachi</source>
+        <target>Karachi</target>
+      </segment>
+    </unit>
+    <unit id="f90LbYr" name="Kathmandu">
+      <segment>
+        <source>Kathmandu</source>
+        <target>Kathmandu</target>
+      </segment>
+    </unit>
+    <unit id="SMTBxwG" name="Khandyga">
+      <segment>
+        <source>Khandyga</source>
+        <target>Khandyga</target>
+      </segment>
+    </unit>
+    <unit id="zecnbnu" name="Kolkata">
+      <segment>
+        <source>Kolkata</source>
+        <target>Kolkata</target>
+      </segment>
+    </unit>
+    <unit id="OIBItXG" name="Krasnoyarsk">
+      <segment>
+        <source>Krasnoyarsk</source>
+        <target>Krasnoyarsk</target>
+      </segment>
+    </unit>
+    <unit id="EcMUa_u" name="Kuala Lumpur">
+      <segment>
+        <source>Kuala Lumpur</source>
+        <target>Kuala Lumpur</target>
+      </segment>
+    </unit>
+    <unit id="p86AbZo" name="Kuching">
+      <segment>
+        <source>Kuching</source>
+        <target>Kuching</target>
+      </segment>
+    </unit>
+    <unit id="peKNxVh" name="Macau">
+      <segment>
+        <source>Macau</source>
+        <target>Macau</target>
+      </segment>
+    </unit>
+    <unit id="4eClA47" name="Magadan">
+      <segment>
+        <source>Magadan</source>
+        <target>Magadan</target>
+      </segment>
+    </unit>
+    <unit id="0RlxKLy" name="Makassar">
+      <segment>
+        <source>Makassar</source>
+        <target>Makassar</target>
+      </segment>
+    </unit>
+    <unit id="nC3ajvu" name="Manila">
+      <segment>
+        <source>Manila</source>
+        <target>Manila</target>
+      </segment>
+    </unit>
+    <unit id="Odp3nnr" name="Muscat">
+      <segment>
+        <source>Muscat</source>
+        <target>Muscat</target>
+      </segment>
+    </unit>
+    <unit id="e_6Foti" name="Nicosia">
+      <segment>
+        <source>Nicosia</source>
+        <target>Nicosia</target>
+      </segment>
+    </unit>
+    <unit id="JX_ADi." name="Novokuznetsk">
+      <segment>
+        <source>Novokuznetsk</source>
+        <target>Novokuznetsk</target>
+      </segment>
+    </unit>
+    <unit id="2V0CYdI" name="Novosibirsk">
+      <segment>
+        <source>Novosibirsk</source>
+        <target>Novosibirsk</target>
+      </segment>
+    </unit>
+    <unit id=".UhgsGc" name="Omsk">
+      <segment>
+        <source>Omsk</source>
+        <target>Omsk</target>
+      </segment>
+    </unit>
+    <unit id="p3oh.wz" name="Oral">
+      <segment>
+        <source>Oral</source>
+        <target>Oral</target>
+      </segment>
+    </unit>
+    <unit id="jgWCcwD" name="Phnom Penh">
+      <segment>
+        <source>Phnom Penh</source>
+        <target>Phnom Penh</target>
+      </segment>
+    </unit>
+    <unit id="S5ni2a_" name="Pontianak">
+      <segment>
+        <source>Pontianak</source>
+        <target>Pontianak</target>
+      </segment>
+    </unit>
+    <unit id="Za8cbNU" name="Pyongyang">
+      <segment>
+        <source>Pyongyang</source>
+        <target>Pyongyang</target>
+      </segment>
+    </unit>
+    <unit id="W.0WB1h" name="Qyzylorda">
+      <segment>
+        <source>Qyzylorda</source>
+        <target>Qyzylorda</target>
+      </segment>
+    </unit>
+    <unit id="t5s6QRw" name="Riyadh">
+      <segment>
+        <source>Riyadh</source>
+        <target>Riyadh</target>
+      </segment>
+    </unit>
+    <unit id="DQP9t1n" name="Sakhalin">
+      <segment>
+        <source>Sakhalin</source>
+        <target>Sakhalin</target>
+      </segment>
+    </unit>
+    <unit id="TfcHOQV" name="Samarkand">
+      <segment>
+        <source>Samarkand</source>
+        <target>Samarkand</target>
+      </segment>
+    </unit>
+    <unit id="MrY0uIm" name="Seoul">
+      <segment>
+        <source>Seoul</source>
+        <target>Seoul</target>
+      </segment>
+    </unit>
+    <unit id="MDsfqZP" name="Shanghai">
+      <segment>
+        <source>Shanghai</source>
+        <target>Shanghai</target>
+      </segment>
+    </unit>
+    <unit id="C2V9qYr" name="Srednekolymsk">
+      <segment>
+        <source>Srednekolymsk</source>
+        <target>Srednekolymsk</target>
+      </segment>
+    </unit>
+    <unit id="yAW7Gj4" name="Taipei">
+      <segment>
+        <source>Taipei</source>
+        <target>Taipei</target>
+      </segment>
+    </unit>
+    <unit id="jeVupDa" name="Tashkent">
+      <segment>
+        <source>Tashkent</source>
+        <target>Tashkent</target>
+      </segment>
+    </unit>
+    <unit id="Sy14ppH" name="Tbilisi">
+      <segment>
+        <source>Tbilisi</source>
+        <target>Tbilisi</target>
+      </segment>
+    </unit>
+    <unit id="zAYUYHD" name="Tehran">
+      <segment>
+        <source>Tehran</source>
+        <target>Tehran</target>
+      </segment>
+    </unit>
+    <unit id="vlCJX3_" name="Thimphu">
+      <segment>
+        <source>Thimphu</source>
+        <target>Thimphu</target>
+      </segment>
+    </unit>
+    <unit id="7C0ZFoA" name="Tokyo">
+      <segment>
+        <source>Tokyo</source>
+        <target>Tokyo</target>
+      </segment>
+    </unit>
+    <unit id="PByyd6r" name="Tomsk">
+      <segment>
+        <source>Tomsk</source>
+        <target>Tomsk</target>
+      </segment>
+    </unit>
+    <unit id="avfl4qu" name="Ulaanbaatar">
+      <segment>
+        <source>Ulaanbaatar</source>
+        <target>Ulaanbaatar</target>
+      </segment>
+    </unit>
+    <unit id="QL9wI0A" name="Urumqi">
+      <segment>
+        <source>Urumqi</source>
+        <target>Urumqi</target>
+      </segment>
+    </unit>
+    <unit id="QvKR2oE" name="Ust-Nera">
+      <segment>
+        <source>Ust-Nera</source>
+        <target>Ust-Nera</target>
+      </segment>
+    </unit>
+    <unit id="IGHcdHr" name="Vientiane">
+      <segment>
+        <source>Vientiane</source>
+        <target>Vientiane</target>
+      </segment>
+    </unit>
+    <unit id="cyDAMWR" name="Vladivostok">
+      <segment>
+        <source>Vladivostok</source>
+        <target>Vladivostok</target>
+      </segment>
+    </unit>
+    <unit id="AblKw05" name="Yakutsk">
+      <segment>
+        <source>Yakutsk</source>
+        <target>Yakutsk</target>
+      </segment>
+    </unit>
+    <unit id="JkTrRaT" name="Yangon">
+      <segment>
+        <source>Yangon</source>
+        <target>Yangon</target>
+      </segment>
+    </unit>
+    <unit id="s9zP7rf" name="Yekaterinburg">
+      <segment>
+        <source>Yekaterinburg</source>
+        <target>Yekaterinburg</target>
+      </segment>
+    </unit>
+    <unit id="XxCWvwJ" name="Yerevan">
+      <segment>
+        <source>Yerevan</source>
+        <target>Yerevan</target>
+      </segment>
+    </unit>
+    <unit id="HVuTFvo" name="Atlantic">
+      <segment>
+        <source>Atlantic</source>
+        <target>Atlantic</target>
+      </segment>
+    </unit>
+    <unit id="_e4k_6e" name="Azores">
+      <segment>
+        <source>Azores</source>
+        <target>Azores</target>
+      </segment>
+    </unit>
+    <unit id="vWYX8Ap" name="Canary">
+      <segment>
+        <source>Canary</source>
+        <target>Canary</target>
+      </segment>
+    </unit>
+    <unit id="dEFu0DB" name="Faroe">
+      <segment>
+        <source>Faroe</source>
+        <target>Faroe</target>
+      </segment>
+    </unit>
+    <unit id="LF0Poco" name="Madeira">
+      <segment>
+        <source>Madeira</source>
+        <target>Madeira</target>
+      </segment>
+    </unit>
+    <unit id="yL_cx0r" name="Reykjavik">
+      <segment>
+        <source>Reykjavik</source>
+        <target>Reykjavik</target>
+      </segment>
+    </unit>
+    <unit id="XtI2lR5" name="South Georgia">
+      <segment>
+        <source>South Georgia</source>
+        <target>South Georgia</target>
+      </segment>
+    </unit>
+    <unit id="xQCWdvc" name="St Helena">
+      <segment>
+        <source>St Helena</source>
+        <target>St Helena</target>
+      </segment>
+    </unit>
+    <unit id="9FN.Sdg" name="Stanley">
+      <segment>
+        <source>Stanley</source>
+        <target>Stanley</target>
+      </segment>
+    </unit>
+    <unit id="jnurSyO" name="Adelaide">
+      <segment>
+        <source>Adelaide</source>
+        <target>Adelaide</target>
+      </segment>
+    </unit>
+    <unit id="bicO.yc" name="Brisbane">
+      <segment>
+        <source>Brisbane</source>
+        <target>Brisbane</target>
+      </segment>
+    </unit>
+    <unit id="8TEif6G" name="Broken Hill">
+      <segment>
+        <source>Broken Hill</source>
+        <target>Broken Hill</target>
+      </segment>
+    </unit>
+    <unit id="b2vCmNi" name="Currie">
+      <segment>
+        <source>Currie</source>
+        <target>Currie</target>
+      </segment>
+    </unit>
+    <unit id="x745ioN" name="Darwin">
+      <segment>
+        <source>Darwin</source>
+        <target>Darwin</target>
+      </segment>
+    </unit>
+    <unit id="os.wf07" name="Eucla">
+      <segment>
+        <source>Eucla</source>
+        <target>Eucla</target>
+      </segment>
+    </unit>
+    <unit id="CYFy.k2" name="Hobart">
+      <segment>
+        <source>Hobart</source>
+        <target>Hobart</target>
+      </segment>
+    </unit>
+    <unit id="sfG1ORX" name="Lindeman">
+      <segment>
+        <source>Lindeman</source>
+        <target>Lindeman</target>
+      </segment>
+    </unit>
+    <unit id="bg7gJJ3" name="Lord Howe">
+      <segment>
+        <source>Lord Howe</source>
+        <target>Lord Howe</target>
+      </segment>
+    </unit>
+    <unit id="VIGIcBZ" name="Melbourne">
+      <segment>
+        <source>Melbourne</source>
+        <target>Melbourne</target>
+      </segment>
+    </unit>
+    <unit id="wblx4ok" name="Perth">
+      <segment>
+        <source>Perth</source>
+        <target>Perth</target>
+      </segment>
+    </unit>
+    <unit id="bVgJq6n" name="Sydney">
+      <segment>
+        <source>Sydney</source>
+        <target>Sydney</target>
+      </segment>
+    </unit>
+    <unit id="5ZX0Xcb" name="Europe">
+      <segment>
+        <source>Europe</source>
+        <target>Europe</target>
+      </segment>
+    </unit>
+    <unit id="ABPAH_D" name="Amsterdam">
+      <segment>
+        <source>Amsterdam</source>
+        <target>Amsterdam</target>
+      </segment>
+    </unit>
+    <unit id="q7PR5ek" name="Astrakhan">
+      <segment>
+        <source>Astrakhan</source>
+        <target>Astrakhan</target>
+      </segment>
+    </unit>
+    <unit id="4okJBzI" name="Athens">
+      <segment>
+        <source>Athens</source>
+        <target>Athens</target>
+      </segment>
+    </unit>
+    <unit id="Z9p_4dt" name="Belgrade">
+      <segment>
+        <source>Belgrade</source>
+        <target>Belgrade</target>
+      </segment>
+    </unit>
+    <unit id="2tEUtu1" name="Berlin">
+      <segment>
+        <source>Berlin</source>
+        <target>Berlin</target>
+      </segment>
+    </unit>
+    <unit id="GVk855." name="Bratislava">
+      <segment>
+        <source>Bratislava</source>
+        <target>Bratislava</target>
+      </segment>
+    </unit>
+    <unit id="lBahoDH" name="Brussels">
+      <segment>
+        <source>Brussels</source>
+        <target>Brussels</target>
+      </segment>
+    </unit>
+    <unit id="9Sk4_8T" name="Bucharest">
+      <segment>
+        <source>Bucharest</source>
+        <target>Bucharest</target>
+      </segment>
+    </unit>
+    <unit id="FC9BKE5" name="Budapest">
+      <segment>
+        <source>Budapest</source>
+        <target>Budapest</target>
+      </segment>
+    </unit>
+    <unit id="RiV0gLg" name="Busingen">
+      <segment>
+        <source>Busingen</source>
+        <target>Busingen</target>
+      </segment>
+    </unit>
+    <unit id="PSfr_.F" name="Chisinau">
+      <segment>
+        <source>Chisinau</source>
+        <target>Chisinau</target>
+      </segment>
+    </unit>
+    <unit id="FWa.YA7" name="Copenhagen">
+      <segment>
+        <source>Copenhagen</source>
+        <target>Copenhagen</target>
+      </segment>
+    </unit>
+    <unit id="CorVH_o" name="Dublin">
+      <segment>
+        <source>Dublin</source>
+        <target>Dublin</target>
+      </segment>
+    </unit>
+    <unit id="DPTop6m" name="Helsinki">
+      <segment>
+        <source>Helsinki</source>
+        <target>Helsinki</target>
+      </segment>
+    </unit>
+    <unit id="cK9lyQ1" name="Istanbul">
+      <segment>
+        <source>Istanbul</source>
+        <target>Istanbul</target>
+      </segment>
+    </unit>
+    <unit id="tHtJD1m" name="Kaliningrad">
+      <segment>
+        <source>Kaliningrad</source>
+        <target>Kaliningrad</target>
+      </segment>
+    </unit>
+    <unit id="r4x.bF0" name="Kiev">
+      <segment>
+        <source>Kiev</source>
+        <target>Kiev</target>
+      </segment>
+    </unit>
+    <unit id="hb19Ppd" name="Kirov">
+      <segment>
+        <source>Kirov</source>
+        <target>Kirov</target>
+      </segment>
+    </unit>
+    <unit id="kuXcJiv" name="Lisbon">
+      <segment>
+        <source>Lisbon</source>
+        <target>Lisbon</target>
+      </segment>
+    </unit>
+    <unit id="t.FH2LS" name="Ljubljana">
+      <segment>
+        <source>Ljubljana</source>
+        <target>Ljubljana</target>
+      </segment>
+    </unit>
+    <unit id="7MDn3Ah" name="London">
+      <segment>
+        <source>London</source>
+        <target>London</target>
+      </segment>
+    </unit>
+    <unit id="6cciy_." name="Madrid">
+      <segment>
+        <source>Madrid</source>
+        <target>Madrid</target>
+      </segment>
+    </unit>
+    <unit id="fK9bGo8" name="Mariehamn">
+      <segment>
+        <source>Mariehamn</source>
+        <target>Mariehamn</target>
+      </segment>
+    </unit>
+    <unit id="_xXlWfx" name="Minsk">
+      <segment>
+        <source>Minsk</source>
+        <target>Minsk</target>
+      </segment>
+    </unit>
+    <unit id="RmG9W0s" name="Moscow">
+      <segment>
+        <source>Moscow</source>
+        <target>Moscow</target>
+      </segment>
+    </unit>
+    <unit id="QxUsyX9" name="Oslo">
+      <segment>
+        <source>Oslo</source>
+        <target>Oslo</target>
+      </segment>
+    </unit>
+    <unit id="XdJytPM" name="Paris">
+      <segment>
+        <source>Paris</source>
+        <target>Paris</target>
+      </segment>
+    </unit>
+    <unit id="geDjnJe" name="Podgorica">
+      <segment>
+        <source>Podgorica</source>
+        <target>Podgorica</target>
+      </segment>
+    </unit>
+    <unit id="IjMcy4D" name="Prague">
+      <segment>
+        <source>Prague</source>
+        <target>Prague</target>
+      </segment>
+    </unit>
+    <unit id="0Rmd98a" name="Riga">
+      <segment>
+        <source>Riga</source>
+        <target>Riga</target>
+      </segment>
+    </unit>
+    <unit id="0NIgGRh" name="Rome">
+      <segment>
+        <source>Rome</source>
+        <target>Rome</target>
+      </segment>
+    </unit>
+    <unit id="UcgraDz" name="Samara">
+      <segment>
+        <source>Samara</source>
+        <target>Samara</target>
+      </segment>
+    </unit>
+    <unit id="adxn0Ld" name="Sarajevo">
+      <segment>
+        <source>Sarajevo</source>
+        <target>Sarajevo</target>
+      </segment>
+    </unit>
+    <unit id="fGjx4qf" name="Saratov">
+      <segment>
+        <source>Saratov</source>
+        <target>Saratov</target>
+      </segment>
+    </unit>
+    <unit id=".EGRUwr" name="Simferopol">
+      <segment>
+        <source>Simferopol</source>
+        <target>Simferopol</target>
+      </segment>
+    </unit>
+    <unit id="5jlGbEy" name="Skopje">
+      <segment>
+        <source>Skopje</source>
+        <target>Skopje</target>
+      </segment>
+    </unit>
+    <unit id="u4ZpUqh" name="Sofia">
+      <segment>
+        <source>Sofia</source>
+        <target>Sofia</target>
+      </segment>
+    </unit>
+    <unit id="uYLX68o" name="Stockholm">
+      <segment>
+        <source>Stockholm</source>
+        <target>Stockholm</target>
+      </segment>
+    </unit>
+    <unit id="vbx.R1P" name="Tallinn">
+      <segment>
+        <source>Tallinn</source>
+        <target>Tallinn</target>
+      </segment>
+    </unit>
+    <unit id="PQDcSFY" name="Tirane">
+      <segment>
+        <source>Tirane</source>
+        <target>Tirane</target>
+      </segment>
+    </unit>
+    <unit id="f0S0FnU" name="Ulyanovsk">
+      <segment>
+        <source>Ulyanovsk</source>
+        <target>Ulyanovsk</target>
+      </segment>
+    </unit>
+    <unit id="Vzj9tdg" name="Uzhgorod">
+      <segment>
+        <source>Uzhgorod</source>
+        <target>Uzhgorod</target>
+      </segment>
+    </unit>
+    <unit id="OPqAaRL" name="Vaduz">
+      <segment>
+        <source>Vaduz</source>
+        <target>Vaduz</target>
+      </segment>
+    </unit>
+    <unit id="70KPonU" name="Vatican">
+      <segment>
+        <source>Vatican</source>
+        <target>Vatican</target>
+      </segment>
+    </unit>
+    <unit id="237kE9Y" name="Vienna">
+      <segment>
+        <source>Vienna</source>
+        <target>Vienna</target>
+      </segment>
+    </unit>
+    <unit id="woPghpq" name="Vilnius">
+      <segment>
+        <source>Vilnius</source>
+        <target>Vilnius</target>
+      </segment>
+    </unit>
+    <unit id="P1r_xBk" name="Volgograd">
+      <segment>
+        <source>Volgograd</source>
+        <target>Volgograd</target>
+      </segment>
+    </unit>
+    <unit id="LVn43RO" name="Warsaw">
+      <segment>
+        <source>Warsaw</source>
+        <target>Warsaw</target>
+      </segment>
+    </unit>
+    <unit id="7Az56Cx" name="Zagreb">
+      <segment>
+        <source>Zagreb</source>
+        <target>Zagreb</target>
+      </segment>
+    </unit>
+    <unit id="gTUfPNs" name="Zaporozhye">
+      <segment>
+        <source>Zaporozhye</source>
+        <target>Zaporozhye</target>
+      </segment>
+    </unit>
+    <unit id="HnOxZHN" name="Zurich">
+      <segment>
+        <source>Zurich</source>
+        <target>Zurich</target>
+      </segment>
+    </unit>
+    <unit id="ZwgfsqC" name="Indian">
+      <segment>
+        <source>Indian</source>
+        <target>Indian</target>
+      </segment>
+    </unit>
+    <unit id="IqebxlM" name="Antananarivo">
+      <segment>
+        <source>Antananarivo</source>
+        <target>Antananarivo</target>
+      </segment>
+    </unit>
+    <unit id="5m8rE0U" name="Chagos">
+      <segment>
+        <source>Chagos</source>
+        <target>Chagos</target>
+      </segment>
+    </unit>
+    <unit id="oJlI6PY" name="Christmas">
+      <segment>
+        <source>Christmas</source>
+        <target>Christmas</target>
+      </segment>
+    </unit>
+    <unit id=".8NAbwx" name="Cocos">
+      <segment>
+        <source>Cocos</source>
+        <target>Cocos</target>
+      </segment>
+    </unit>
+    <unit id="75LqDPu" name="Comoro">
+      <segment>
+        <source>Comoro</source>
+        <target>Comoro</target>
+      </segment>
+    </unit>
+    <unit id="4Auz1to" name="Kerguelen">
+      <segment>
+        <source>Kerguelen</source>
+        <target>Kerguelen</target>
+      </segment>
+    </unit>
+    <unit id="T5AuYmc" name="Mahe">
+      <segment>
+        <source>Mahe</source>
+        <target>Mahe</target>
+      </segment>
+    </unit>
+    <unit id="xP_0V3l" name="Reunion">
+      <segment>
+        <source>Reunion</source>
+        <target>Reunion</target>
+      </segment>
+    </unit>
+    <unit id="_j.KAqb" name="Pacific">
+      <segment>
+        <source>Pacific</source>
+        <target>Pacific</target>
+      </segment>
+    </unit>
+    <unit id="0pW2TJG" name="Apia">
+      <segment>
+        <source>Apia</source>
+        <target>Apia</target>
+      </segment>
+    </unit>
+    <unit id="eJxcSf7" name="Auckland">
+      <segment>
+        <source>Auckland</source>
+        <target>Auckland</target>
+      </segment>
+    </unit>
+    <unit id="lJm32gP" name="Bougainville">
+      <segment>
+        <source>Bougainville</source>
+        <target>Bougainville</target>
+      </segment>
+    </unit>
+    <unit id="afARQAP" name="Chatham">
+      <segment>
+        <source>Chatham</source>
+        <target>Chatham</target>
+      </segment>
+    </unit>
+    <unit id="8ZU0hQP" name="Chuuk">
+      <segment>
+        <source>Chuuk</source>
+        <target>Chuuk</target>
+      </segment>
+    </unit>
+    <unit id="Vid..Dr" name="Easter">
+      <segment>
+        <source>Easter</source>
+        <target>Easter</target>
+      </segment>
+    </unit>
+    <unit id="ZkUyoRp" name="Efate">
+      <segment>
+        <source>Efate</source>
+        <target>Efate</target>
+      </segment>
+    </unit>
+    <unit id="94t59EY" name="Enderbury">
+      <segment>
+        <source>Enderbury</source>
+        <target>Enderbury</target>
+      </segment>
+    </unit>
+    <unit id="WQRLSuI" name="Fakaofo">
+      <segment>
+        <source>Fakaofo</source>
+        <target>Fakaofo</target>
+      </segment>
+    </unit>
+    <unit id="bWxMBx6" name="Funafuti">
+      <segment>
+        <source>Funafuti</source>
+        <target>Funafuti</target>
+      </segment>
+    </unit>
+    <unit id="2dBUyWw" name="Galapagos">
+      <segment>
+        <source>Galapagos</source>
+        <target>Galapagos</target>
+      </segment>
+    </unit>
+    <unit id="0BZWZZU" name="Gambier">
+      <segment>
+        <source>Gambier</source>
+        <target>Gambier</target>
+      </segment>
+    </unit>
+    <unit id="0sGV4KO" name="Guadalcanal">
+      <segment>
+        <source>Guadalcanal</source>
+        <target>Guadalcanal</target>
+      </segment>
+    </unit>
+    <unit id="PtWklja" name="Honolulu">
+      <segment>
+        <source>Honolulu</source>
+        <target>Honolulu</target>
+      </segment>
+    </unit>
+    <unit id="1zSFqbK" name="Kiritimati">
+      <segment>
+        <source>Kiritimati</source>
+        <target>Kiritimati</target>
+      </segment>
+    </unit>
+    <unit id="LGaPe06" name="Kosrae">
+      <segment>
+        <source>Kosrae</source>
+        <target>Kosrae</target>
+      </segment>
+    </unit>
+    <unit id="KPk1z0o" name="Kwajalein">
+      <segment>
+        <source>Kwajalein</source>
+        <target>Kwajalein</target>
+      </segment>
+    </unit>
+    <unit id="jXdwx4z" name="Majuro">
+      <segment>
+        <source>Majuro</source>
+        <target>Majuro</target>
+      </segment>
+    </unit>
+    <unit id="zW_Z5AQ" name="Marquesas">
+      <segment>
+        <source>Marquesas</source>
+        <target>Marquesas</target>
+      </segment>
+    </unit>
+    <unit id="uwVzTis" name="Midway">
+      <segment>
+        <source>Midway</source>
+        <target>Midway</target>
+      </segment>
+    </unit>
+    <unit id="mzxtVNV" name="Norfolk">
+      <segment>
+        <source>Norfolk</source>
+        <target>Norfolk</target>
+      </segment>
+    </unit>
+    <unit id="Twucq18" name="Noumea">
+      <segment>
+        <source>Noumea</source>
+        <target>Noumea</target>
+      </segment>
+    </unit>
+    <unit id="vozamWp" name="Pago Pago">
+      <segment>
+        <source>Pago Pago</source>
+        <target>Pago Pago</target>
+      </segment>
+    </unit>
+    <unit id="D4oeaii" name="Pitcairn">
+      <segment>
+        <source>Pitcairn</source>
+        <target>Pitcairn</target>
+      </segment>
+    </unit>
+    <unit id="nusn_Ap" name="Pohnpei">
+      <segment>
+        <source>Pohnpei</source>
+        <target>Pohnpei</target>
+      </segment>
+    </unit>
+    <unit id="kwkV.ON" name="Port Moresby">
+      <segment>
+        <source>Port Moresby</source>
+        <target>Port Moresby</target>
+      </segment>
+    </unit>
+    <unit id="5nqC5Hr" name="Rarotonga">
+      <segment>
+        <source>Rarotonga</source>
+        <target>Rarotonga</target>
+      </segment>
+    </unit>
+    <unit id="1yvO2ke" name="Saipan">
+      <segment>
+        <source>Saipan</source>
+        <target>Saipan</target>
+      </segment>
+    </unit>
+    <unit id="zfij0Sj" name="Tahiti">
+      <segment>
+        <source>Tahiti</source>
+        <target>Tahiti</target>
+      </segment>
+    </unit>
+    <unit id="VzTdApk" name="Tarawa">
+      <segment>
+        <source>Tarawa</source>
+        <target>Tarawa</target>
+      </segment>
+    </unit>
+    <unit id="HlYyI9F" name="Tongatapu">
+      <segment>
+        <source>Tongatapu</source>
+        <target>Tongatapu</target>
+      </segment>
+    </unit>
+    <unit id="M6fpCDR" name="Wake">
+      <segment>
+        <source>Wake</source>
+        <target>Wake</target>
+      </segment>
+    </unit>
+    <unit id="dd_KRUq" name="Wallis">
+      <segment>
+        <source>Wallis</source>
+        <target>Wallis</target>
+      </segment>
+    </unit>
+    <unit id="_X6doOO" name="Other">
+      <segment>
+        <source>Other</source>
+        <target>Other</target>
+      </segment>
+    </unit>
+    <unit id="fl92yUp" name="UTC">
+      <segment>
+        <source>UTC</source>
+        <target>UTC</target>
+      </segment>
+    </unit>
+    <unit id="OsGp7E_" name="Currency">
+      <segment>
+        <source>Currency</source>
+        <target>Currency</target>
+      </segment>
+    </unit>
+    <unit id="aEyv8qJ" name="b82459f">
+      <segment>
+        <source>System-wde currency for financial transactions. Support for online payment in this currency depends on your credit card gateway: please consult their support documentation.</source>
+        <target>System-wde currency for financial transactions. Support for online payment in this currency depends on your credit card gateway: please consult their support documentation.</target>
+      </segment>
+    </unit>
+    <unit id="QgMQ6jM" name="Afghan Afghani">
+      <segment>
+        <source>Afghan Afghani</source>
+        <target>Afghan Afghani</target>
+      </segment>
+    </unit>
+    <unit id="WGqgTkk" name="Afghan Afghani (1927–2002)">
+      <segment>
+        <source>Afghan Afghani (1927–2002)</source>
+        <target>Afghan Afghani (1927–2002)</target>
+      </segment>
+    </unit>
+    <unit id="E1nd8wt" name="Albanian Lek">
+      <segment>
+        <source>Albanian Lek</source>
+        <target>Albanian Lek</target>
+      </segment>
+    </unit>
+    <unit id="YZOGiSR" name="Albanian Lek (1946–1965)">
+      <segment>
+        <source>Albanian Lek (1946–1965)</source>
+        <target>Albanian Lek (1946–1965)</target>
+      </segment>
+    </unit>
+    <unit id=".B3SwuZ" name="Algerian Dinar">
+      <segment>
+        <source>Algerian Dinar</source>
+        <target>Algerian Dinar</target>
+      </segment>
+    </unit>
+    <unit id="zzD198S" name="Andorran Peseta">
+      <segment>
+        <source>Andorran Peseta</source>
+        <target>Andorran Peseta</target>
+      </segment>
+    </unit>
+    <unit id="6wyE_cV" name="Angolan Kwanza">
+      <segment>
+        <source>Angolan Kwanza</source>
+        <target>Angolan Kwanza</target>
+      </segment>
+    </unit>
+    <unit id="XdBf.kj" name="Angolan Kwanza (1977–1991)">
+      <segment>
+        <source>Angolan Kwanza (1977–1991)</source>
+        <target>Angolan Kwanza (1977–1991)</target>
+      </segment>
+    </unit>
+    <unit id="pTRG9WW" name="Angolan New Kwanza (1990–2000)">
+      <segment>
+        <source>Angolan New Kwanza (1990–2000)</source>
+        <target>Angolan New Kwanza (1990–2000)</target>
+      </segment>
+    </unit>
+    <unit id="TDeigyN" name="Angolan Readjusted Kwanza (1995–1999)">
+      <segment>
+        <source>Angolan Readjusted Kwanza (1995–1999)</source>
+        <target>Angolan Readjusted Kwanza (1995–1999)</target>
+      </segment>
+    </unit>
+    <unit id="BKCw2Cc" name="Argentine Austral">
+      <segment>
+        <source>Argentine Austral</source>
+        <target>Argentine Austral</target>
+      </segment>
+    </unit>
+    <unit id="3Ct.VA1" name="Argentine Peso">
+      <segment>
+        <source>Argentine Peso</source>
+        <target>Argentine Peso</target>
+      </segment>
+    </unit>
+    <unit id="0OVZTIb" name="Argentine Peso (1881–1970)">
+      <segment>
+        <source>Argentine Peso (1881–1970)</source>
+        <target>Argentine Peso (1881–1970)</target>
+      </segment>
+    </unit>
+    <unit id="CLL8G5A" name="Argentine Peso (1983–1985)">
+      <segment>
+        <source>Argentine Peso (1983–1985)</source>
+        <target>Argentine Peso (1983–1985)</target>
+      </segment>
+    </unit>
+    <unit id="PadUvO7" name="Argentine Peso Ley (1970–1983)">
+      <segment>
+        <source>Argentine Peso Ley (1970–1983)</source>
+        <target>Argentine Peso Ley (1970–1983)</target>
+      </segment>
+    </unit>
+    <unit id="Cm6QHX8" name="Armenian Dram">
+      <segment>
+        <source>Armenian Dram</source>
+        <target>Armenian Dram</target>
+      </segment>
+    </unit>
+    <unit id="uYDwUfW" name="Aruban Florin">
+      <segment>
+        <source>Aruban Florin</source>
+        <target>Aruban Florin</target>
+      </segment>
+    </unit>
+    <unit id="T6E0wV7" name="Australian Dollar">
+      <segment>
+        <source>Australian Dollar</source>
+        <target>Australian Dollar</target>
+      </segment>
+    </unit>
+    <unit id="uWixctG" name="Austrian Schilling">
+      <segment>
+        <source>Austrian Schilling</source>
+        <target>Austrian Schilling</target>
+      </segment>
+    </unit>
+    <unit id="MHYh.JX" name="Azerbaijani Manat">
+      <segment>
+        <source>Azerbaijani Manat</source>
+        <target>Azerbaijani Manat</target>
+      </segment>
+    </unit>
+    <unit id="J2it1YS" name="Azerbaijani Manat (1993–2006)">
+      <segment>
+        <source>Azerbaijani Manat (1993–2006)</source>
+        <target>Azerbaijani Manat (1993–2006)</target>
+      </segment>
+    </unit>
+    <unit id="CuoC1dt" name="Bahamian Dollar">
+      <segment>
+        <source>Bahamian Dollar</source>
+        <target>Bahamian Dollar</target>
+      </segment>
+    </unit>
+    <unit id="SQYPa_q" name="Bahraini Dinar">
+      <segment>
+        <source>Bahraini Dinar</source>
+        <target>Bahraini Dinar</target>
+      </segment>
+    </unit>
+    <unit id="4VDUZ6w" name="Bangladeshi Taka">
+      <segment>
+        <source>Bangladeshi Taka</source>
+        <target>Bangladeshi Taka</target>
+      </segment>
+    </unit>
+    <unit id="pm1e2LL" name="Barbadian Dollar">
+      <segment>
+        <source>Barbadian Dollar</source>
+        <target>Barbadian Dollar</target>
+      </segment>
+    </unit>
+    <unit id="ZKzrEld" name="Belarusian Ruble">
+      <segment>
+        <source>Belarusian Ruble</source>
+        <target>Belarusian Ruble</target>
+      </segment>
+    </unit>
+    <unit id="W7mpho." name="Belarusian Ruble (1994–1999)">
+      <segment>
+        <source>Belarusian Ruble (1994–1999)</source>
+        <target>Belarusian Ruble (1994–1999)</target>
+      </segment>
+    </unit>
+    <unit id="sjktKeY" name="Belarusian Ruble (2000–2016)">
+      <segment>
+        <source>Belarusian Ruble (2000–2016)</source>
+        <target>Belarusian Ruble (2000–2016)</target>
+      </segment>
+    </unit>
+    <unit id="eAs33c3" name="Belgian Franc">
+      <segment>
+        <source>Belgian Franc</source>
+        <target>Belgian Franc</target>
+      </segment>
+    </unit>
+    <unit id="M_7fht7" name="Belgian Franc (convertible)">
+      <segment>
+        <source>Belgian Franc (convertible)</source>
+        <target>Belgian Franc (convertible)</target>
+      </segment>
+    </unit>
+    <unit id="8Q9oPMI" name="Belgian Franc (financial)">
+      <segment>
+        <source>Belgian Franc (financial)</source>
+        <target>Belgian Franc (financial)</target>
+      </segment>
+    </unit>
+    <unit id="yl_chBW" name="Belize Dollar">
+      <segment>
+        <source>Belize Dollar</source>
+        <target>Belize Dollar</target>
+      </segment>
+    </unit>
+    <unit id="RYntdPr" name="Bermudan Dollar">
+      <segment>
+        <source>Bermudan Dollar</source>
+        <target>Bermudan Dollar</target>
+      </segment>
+    </unit>
+    <unit id="HmUkzbW" name="Bhutanese Ngultrum">
+      <segment>
+        <source>Bhutanese Ngultrum</source>
+        <target>Bhutanese Ngultrum</target>
+      </segment>
+    </unit>
+    <unit id="SNICf0_" name="Bolivian Boliviano">
+      <segment>
+        <source>Bolivian Boliviano</source>
+        <target>Bolivian Boliviano</target>
+      </segment>
+    </unit>
+    <unit id="pPBGDXX" name="Bolivian Boliviano (1863–1963)">
+      <segment>
+        <source>Bolivian Boliviano (1863–1963)</source>
+        <target>Bolivian Boliviano (1863–1963)</target>
+      </segment>
+    </unit>
+    <unit id="eWaHFa5" name="Bolivian Mvdol">
+      <segment>
+        <source>Bolivian Mvdol</source>
+        <target>Bolivian Mvdol</target>
+      </segment>
+    </unit>
+    <unit id="iHKTJ5D" name="Bolivian Peso">
+      <segment>
+        <source>Bolivian Peso</source>
+        <target>Bolivian Peso</target>
+      </segment>
+    </unit>
+    <unit id="65RVpu." name="Bosnia-Herzegovina Convertible Mark">
+      <segment>
+        <source>Bosnia-Herzegovina Convertible Mark</source>
+        <target>Bosnia-Herzegovina Convertible Mark</target>
+      </segment>
+    </unit>
+    <unit id="9KV3x4D" name="Bosnia-Herzegovina Dinar (1992–1994)">
+      <segment>
+        <source>Bosnia-Herzegovina Dinar (1992–1994)</source>
+        <target>Bosnia-Herzegovina Dinar (1992–1994)</target>
+      </segment>
+    </unit>
+    <unit id="gRNqtYY" name="Bosnia-Herzegovina New Dinar (1994–1997)">
+      <segment>
+        <source>Bosnia-Herzegovina New Dinar (1994–1997)</source>
+        <target>Bosnia-Herzegovina New Dinar (1994–1997)</target>
+      </segment>
+    </unit>
+    <unit id="s.9OGXJ" name="Botswanan Pula">
+      <segment>
+        <source>Botswanan Pula</source>
+        <target>Botswanan Pula</target>
+      </segment>
+    </unit>
+    <unit id="iE0BuFW" name="Brazilian Cruzado (1986–1989)">
+      <segment>
+        <source>Brazilian Cruzado (1986–1989)</source>
+        <target>Brazilian Cruzado (1986–1989)</target>
+      </segment>
+    </unit>
+    <unit id="ODBmU2i" name="Brazilian Cruzeiro (1942–1967)">
+      <segment>
+        <source>Brazilian Cruzeiro (1942–1967)</source>
+        <target>Brazilian Cruzeiro (1942–1967)</target>
+      </segment>
+    </unit>
+    <unit id="g8k1aeY" name="Brazilian Cruzeiro (1990–1993)">
+      <segment>
+        <source>Brazilian Cruzeiro (1990–1993)</source>
+        <target>Brazilian Cruzeiro (1990–1993)</target>
+      </segment>
+    </unit>
+    <unit id="76aN9hK" name="Brazilian Cruzeiro (1993–1994)">
+      <segment>
+        <source>Brazilian Cruzeiro (1993–1994)</source>
+        <target>Brazilian Cruzeiro (1993–1994)</target>
+      </segment>
+    </unit>
+    <unit id="Nf1mDA4" name="Brazilian New Cruzado (1989–1990)">
+      <segment>
+        <source>Brazilian New Cruzado (1989–1990)</source>
+        <target>Brazilian New Cruzado (1989–1990)</target>
+      </segment>
+    </unit>
+    <unit id="RED6Dtf" name="Brazilian New Cruzeiro (1967–1986)">
+      <segment>
+        <source>Brazilian New Cruzeiro (1967–1986)</source>
+        <target>Brazilian New Cruzeiro (1967–1986)</target>
+      </segment>
+    </unit>
+    <unit id="73odxil" name="Brazilian Real">
+      <segment>
+        <source>Brazilian Real</source>
+        <target>Brazilian Real</target>
+      </segment>
+    </unit>
+    <unit id="m8PGjpC" name="British Pound">
+      <segment>
+        <source>British Pound</source>
+        <target>British Pound</target>
+      </segment>
+    </unit>
+    <unit id="wuyuFzH" name="Brunei Dollar">
+      <segment>
+        <source>Brunei Dollar</source>
+        <target>Brunei Dollar</target>
+      </segment>
+    </unit>
+    <unit id="ZgEW1V_" name="Bulgarian Hard Lev">
+      <segment>
+        <source>Bulgarian Hard Lev</source>
+        <target>Bulgarian Hard Lev</target>
+      </segment>
+    </unit>
+    <unit id="8N_uDFu" name="Bulgarian Lev">
+      <segment>
+        <source>Bulgarian Lev</source>
+        <target>Bulgarian Lev</target>
+      </segment>
+    </unit>
+    <unit id="LHn6M24" name="Bulgarian Lev (1879–1952)">
+      <segment>
+        <source>Bulgarian Lev (1879–1952)</source>
+        <target>Bulgarian Lev (1879–1952)</target>
+      </segment>
+    </unit>
+    <unit id="dga3rmT" name="Bulgarian Socialist Lev">
+      <segment>
+        <source>Bulgarian Socialist Lev</source>
+        <target>Bulgarian Socialist Lev</target>
+      </segment>
+    </unit>
+    <unit id="3Urh1yc" name="Burmese Kyat">
+      <segment>
+        <source>Burmese Kyat</source>
+        <target>Burmese Kyat</target>
+      </segment>
+    </unit>
+    <unit id="S0qVfZk" name="Burundian Franc">
+      <segment>
+        <source>Burundian Franc</source>
+        <target>Burundian Franc</target>
+      </segment>
+    </unit>
+    <unit id="LfWf8Bs" name="CFP Franc">
+      <segment>
+        <source>CFP Franc</source>
+        <target>CFP Franc</target>
+      </segment>
+    </unit>
+    <unit id="5DD1NzG" name="Cambodian Riel">
+      <segment>
+        <source>Cambodian Riel</source>
+        <target>Cambodian Riel</target>
+      </segment>
+    </unit>
+    <unit id="oZBgf4I" name="Canadian Dollar">
+      <segment>
+        <source>Canadian Dollar</source>
+        <target>Canadian Dollar</target>
+      </segment>
+    </unit>
+    <unit id="sPXvWz5" name="Cape Verdean Escudo">
+      <segment>
+        <source>Cape Verdean Escudo</source>
+        <target>Cape Verdean Escudo</target>
+      </segment>
+    </unit>
+    <unit id="MbXFtlM" name="Cayman Islands Dollar">
+      <segment>
+        <source>Cayman Islands Dollar</source>
+        <target>Cayman Islands Dollar</target>
+      </segment>
+    </unit>
+    <unit id="JITahtN" name="Central African CFA Franc">
+      <segment>
+        <source>Central African CFA Franc</source>
+        <target>Central African CFA Franc</target>
+      </segment>
+    </unit>
+    <unit id="ucikaqv" name="Chilean Escudo">
+      <segment>
+        <source>Chilean Escudo</source>
+        <target>Chilean Escudo</target>
+      </segment>
+    </unit>
+    <unit id="gFYvQzW" name="Chilean Peso">
+      <segment>
+        <source>Chilean Peso</source>
+        <target>Chilean Peso</target>
+      </segment>
+    </unit>
+    <unit id="W9odkFq" name="Chilean Unit of Account (UF)">
+      <segment>
+        <source>Chilean Unit of Account (UF)</source>
+        <target>Chilean Unit of Account (UF)</target>
+      </segment>
+    </unit>
+    <unit id="iygLy8H" name="Chinese People’s Bank Dollar">
+      <segment>
+        <source>Chinese People’s Bank Dollar</source>
+        <target>Chinese People’s Bank Dollar</target>
+      </segment>
+    </unit>
+    <unit id="5olXCtd" name="Chinese Yuan">
+      <segment>
+        <source>Chinese Yuan</source>
+        <target>Chinese Yuan</target>
+      </segment>
+    </unit>
+    <unit id=".6fz0Ht" name="Chinese Yuan (offshore)">
+      <segment>
+        <source>Chinese Yuan (offshore)</source>
+        <target>Chinese Yuan (offshore)</target>
+      </segment>
+    </unit>
+    <unit id="EAQdpHM" name="Colombian Peso">
+      <segment>
+        <source>Colombian Peso</source>
+        <target>Colombian Peso</target>
+      </segment>
+    </unit>
+    <unit id="vKe4p0d" name="Colombian Real Value Unit">
+      <segment>
+        <source>Colombian Real Value Unit</source>
+        <target>Colombian Real Value Unit</target>
+      </segment>
+    </unit>
+    <unit id="kMrKxzB" name="Comorian Franc">
+      <segment>
+        <source>Comorian Franc</source>
+        <target>Comorian Franc</target>
+      </segment>
+    </unit>
+    <unit id="Z808yxv" name="Congolese Franc">
+      <segment>
+        <source>Congolese Franc</source>
+        <target>Congolese Franc</target>
+      </segment>
+    </unit>
+    <unit id="P140Ysc" name="Costa Rican Colón">
+      <segment>
+        <source>Costa Rican Colón</source>
+        <target>Costa Rican Colón</target>
+      </segment>
+    </unit>
+    <unit id="iWGomDO" name="Croatian Dinar">
+      <segment>
+        <source>Croatian Dinar</source>
+        <target>Croatian Dinar</target>
+      </segment>
+    </unit>
+    <unit id="G2FKYIo" name="Croatian Kuna">
+      <segment>
+        <source>Croatian Kuna</source>
+        <target>Croatian Kuna</target>
+      </segment>
+    </unit>
+    <unit id="qYvIeWG" name="Cuban Convertible Peso">
+      <segment>
+        <source>Cuban Convertible Peso</source>
+        <target>Cuban Convertible Peso</target>
+      </segment>
+    </unit>
+    <unit id="EzsWiCR" name="Cuban Peso">
+      <segment>
+        <source>Cuban Peso</source>
+        <target>Cuban Peso</target>
+      </segment>
+    </unit>
+    <unit id="EGPAivx" name="Cypriot Pound">
+      <segment>
+        <source>Cypriot Pound</source>
+        <target>Cypriot Pound</target>
+      </segment>
+    </unit>
+    <unit id="GePXHQh" name="Czech Koruna">
+      <segment>
+        <source>Czech Koruna</source>
+        <target>Czech Koruna</target>
+      </segment>
+    </unit>
+    <unit id="xdRC9cy" name="Czechoslovak Hard Koruna">
+      <segment>
+        <source>Czechoslovak Hard Koruna</source>
+        <target>Czechoslovak Hard Koruna</target>
+      </segment>
+    </unit>
+    <unit id="zHPwtM7" name="Danish Krone">
+      <segment>
+        <source>Danish Krone</source>
+        <target>Danish Krone</target>
+      </segment>
+    </unit>
+    <unit id="M3K8pbQ" name="Djiboutian Franc">
+      <segment>
+        <source>Djiboutian Franc</source>
+        <target>Djiboutian Franc</target>
+      </segment>
+    </unit>
+    <unit id="Es5Hk5b" name="Dominican Peso">
+      <segment>
+        <source>Dominican Peso</source>
+        <target>Dominican Peso</target>
+      </segment>
+    </unit>
+    <unit id="HPDltJV" name="Dutch Guilder">
+      <segment>
+        <source>Dutch Guilder</source>
+        <target>Dutch Guilder</target>
+      </segment>
+    </unit>
+    <unit id="GcE.bKp" name="East Caribbean Dollar">
+      <segment>
+        <source>East Caribbean Dollar</source>
+        <target>East Caribbean Dollar</target>
+      </segment>
+    </unit>
+    <unit id="_I9RUUh" name="East German Mark">
+      <segment>
+        <source>East German Mark</source>
+        <target>East German Mark</target>
+      </segment>
+    </unit>
+    <unit id="uXML.LZ" name="Ecuadorian Sucre">
+      <segment>
+        <source>Ecuadorian Sucre</source>
+        <target>Ecuadorian Sucre</target>
+      </segment>
+    </unit>
+    <unit id="Zb_OXQv" name="Ecuadorian Unit of Constant Value">
+      <segment>
+        <source>Ecuadorian Unit of Constant Value</source>
+        <target>Ecuadorian Unit of Constant Value</target>
+      </segment>
+    </unit>
+    <unit id="38cb.7U" name="Egyptian Pound">
+      <segment>
+        <source>Egyptian Pound</source>
+        <target>Egyptian Pound</target>
+      </segment>
+    </unit>
+    <unit id="KGH6fLO" name="Equatorial Guinean Ekwele">
+      <segment>
+        <source>Equatorial Guinean Ekwele</source>
+        <target>Equatorial Guinean Ekwele</target>
+      </segment>
+    </unit>
+    <unit id="naLhli_" name="Eritrean Nakfa">
+      <segment>
+        <source>Eritrean Nakfa</source>
+        <target>Eritrean Nakfa</target>
+      </segment>
+    </unit>
+    <unit id="klO6zK0" name="Estonian Kroon">
+      <segment>
+        <source>Estonian Kroon</source>
+        <target>Estonian Kroon</target>
+      </segment>
+    </unit>
+    <unit id="X7TKL9s" name="Ethiopian Birr">
+      <segment>
+        <source>Ethiopian Birr</source>
+        <target>Ethiopian Birr</target>
+      </segment>
+    </unit>
+    <unit id="i9C0NrS" name="Euro">
+      <segment>
+        <source>Euro</source>
+        <target>Euro</target>
+      </segment>
+    </unit>
+    <unit id="mB8ToaV" name="European Currency Unit">
+      <segment>
+        <source>European Currency Unit</source>
+        <target>European Currency Unit</target>
+      </segment>
+    </unit>
+    <unit id="JcIhPcH" name="Falkland Islands Pound">
+      <segment>
+        <source>Falkland Islands Pound</source>
+        <target>Falkland Islands Pound</target>
+      </segment>
+    </unit>
+    <unit id="nUC6YAQ" name="Fijian Dollar">
+      <segment>
+        <source>Fijian Dollar</source>
+        <target>Fijian Dollar</target>
+      </segment>
+    </unit>
+    <unit id="z6XBA8C" name="Finnish Markka">
+      <segment>
+        <source>Finnish Markka</source>
+        <target>Finnish Markka</target>
+      </segment>
+    </unit>
+    <unit id="QWUHVO_" name="mailer_transport.gmail">
+      <segment>
+        <source>mailer_transport.gmail</source>
+        <target>Gmail</target>
+      </segment>
+    </unit>
+    <unit id="A7Nll3R" name="mailer_transport.sendmail">
+      <segment>
+        <source>mailer_transport.sendmail</source>
+        <target>Sendmail</target>
+      </segment>
+    </unit>
+    <unit id="GvNT4Al" name="mailer_transport.mail">
+      <segment>
+        <source>mailer_transport.mail</source>
+        <target>Mail</target>
+      </segment>
+    </unit>
+    <unit id="OuTXeDu" name="mailer_transport.smtp">
+      <segment>
+        <source>mailer_transport.smtp</source>
+        <target>SMTP</target>
+      </segment>
+    </unit>
+    <unit id="OngRyRr" name="mailer_transport.">
+      <segment>
+        <source>mailer_transport.</source>
+        <target>Select Email Transport...</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

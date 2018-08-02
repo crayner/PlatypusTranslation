@@ -1087,5 +1087,77 @@
         <target>Organisation Settings</target>
       </segment>
     </unit>
+    <unit id="SaJXi7G" name="Security Settings - Password Policy">
+      <segment>
+        <source>Security Settings - Password Policy</source>
+        <target>Security Settings - Password Policy</target>
+      </segment>
+    </unit>
+    <unit id="_gTN0VW" name="Changes in password policy will be applied the next time you attempt to sign in.">
+      <segment>
+        <source>Changes in password policy will be applied the next time you attempt to sign in.</source>
+        <target>Changes in password policy will be applied the next time you attempt to sign in.</target>
+      </segment>
+    </unit>
+    <unit id="sdRinPv" name="Security Settings - Miscellaneous">
+      <segment>
+        <source>Security Settings - Miscellaneous</source>
+        <target>Security Settings - Miscellaneous</target>
+      </segment>
+    </unit>
+    <unit id="8x9PyFE" name="Localisation">
+      <segment>
+        <source>Localisation</source>
+        <target>Localisation</target>
+      </segment>
+    </unit>
+    <unit id="yFJVNJs" name="third_party_settings">
+      <segment>
+        <source>third_party_settings</source>
+        <target>Third Party Settings</target>
+      </segment>
+    </unit>
+    <unit id="asmK3IR" name="Google Integration">
+      <segment>
+        <source>Google Integration</source>
+        <target>Google Integration</target>
+      </segment>
+    </unit>
+    <unit id="SKkzpw8" name="5aebce5">
+      <segment>
+        <source>If your school uses Google Apps, you can enable single sign on and calendar integration with Gibbon. This process makes use of Google's APIs, and allows a user to access Gibbon without a username and password, provided that their listed email address is a Google account to which they have access. For configuration instructions, &lt;a href='https://gibbonedu.org/support/administrators/installing-gibbon/authenticating-with-google-oauth/' target='_blank'&gt;click here&lt;/a&gt;.</source>
+        <target><![CDATA[If your school uses Google Apps, you can enable single sign on and calendar integration with Gibbon. This process makes use of Google's APIs, and allows a user to access Gibbon without a username and password, provided that their listed email address is a Google account to which they have access. For configuration instructions, <a href='https://gibbonedu.org/support/administrators/installing-gibbon/authenticating-with-google-oauth/' target='_blank'>click here</a>.]]></target>
+      </segment>
+    </unit>
+    <unit id="s_g989m" name="PayPal Payment Gateway">
+      <segment>
+        <source>PayPal Payment Gateway</source>
+        <target>PayPal Payment Gateway</target>
+      </segment>
+    </unit>
+    <unit id="2itjFA9" name="cad87dd">
+      <segment>
+        <source>Busybee is designed to use the &lt;a href='http://onewaysms.com' target='_blank'&gt;One Way SMS&lt;/a&gt; gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.</source>
+        <target><![CDATA[Busybee is designed to use the <a href='http://onewaysms.com' target='_blank'>One Way SMS</a> gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.]]></target>
+      </segment>
+    </unit>
+    <unit id="1WbHO32" name="EMail Settings">
+      <segment>
+        <source>EMail Settings</source>
+        <target>EMail Settings</target>
+      </segment>
+    </unit>
+    <unit id="DCV3nPj" name="9c38b11">
+      <segment>
+        <source>Email Settings can be found with your email provider. This system does have a number of preset to set default values. Gmail has been implemented by this site. The site uses &lt;a href="https://swiftmailer.symfony.com/docs/introduction.html" target="_blank"&gt;Swiftmailer&lt;/a&gt; as the engine to send email messages.</source>
+        <target><![CDATA[Email Settings can be found with your email provider. This system does have a number of preset to set default values. Gmail has been implemented by this site. The site uses <a href="https://swiftmailer.symfony.com/docs/introduction.html" target="_blank">Swiftmailer</a> as the engine to send email messages.]]></target>
+      </segment>
+    </unit>
+    <unit id="gPfpSmF" name="9b75cce">
+      <segment>
+        <source>Email Settings can be found with your email provider. This system does have a number of preset to set default values. Gmail has been implemented by this site. This site uses &lt;a href="https://swiftmailer.symfony.com/docs/introduction.html" target="_blank"&gt;Swiftmailer&lt;/a&gt; as the engine to send email messages.</source>
+        <target><![CDATA[Email Settings can be found with your email provider. This system does have a number of preset to set default values. Gmail has been implemented by this site. This site uses <a href="https://swiftmailer.symfony.com/docs/introduction.html" target="_blank">Swiftmailer</a> as the engine to send email messages.]]></target>
+      </segment>
+    </unit>
   </file>
 </xliff>
