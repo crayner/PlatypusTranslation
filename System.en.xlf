@@ -1801,5 +1801,48 @@
         <target>Files Checked(Server Files Writable)</target>
       </segment>
     </unit>
+    <unit id="_INYlEi" name="manage_themes_label">
+      <segment>
+        <source>manage_themes_label</source>
+        <target>Manage Themes</target>
+      </segment>
+    </unit>
+    <unit id="HKV.Gff" name="themes.manage.title">
+      <segment>
+        <source>themes.manage.title</source>
+        <target>Manage Themes</target>
+      </segment>
+    </unit>
+    <unit id="TKt_b2A" name="themes.manage.description">
+      <segment>
+        <source>themes.manage.description</source>
+        <target>To install a theme, run 'composer require theme-name'. After installation, refresh this page and the theme should appear in the list below: use the install button in the Actions column to set it up.
+A list of available themes is available at ?????</target>
+      </segment>
+    </unit>
+    <unit id="Dbjl259" name="theme.name.label">
+      <segment>
+        <source>theme.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="hfRSLJM" name="theme.version.label">
+      <segment>
+        <source>theme.version.label</source>
+        <target>Version</target>
+      </segment>
+    </unit>
+    <unit id="NTL6S7R" name="theme.description.label">
+      <segment>
+        <source>theme.description.label</source>
+        <target>Description</target>
+      </segment>
+    </unit>
+    <unit id="XNeyZRf" name="theme.author.label">
+      <segment>
+        <source>theme.author.label</source>
+        <target>Author</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
