@@ -19,12 +19,6 @@
         <target></target>
       </segment>
     </unit>
-    <unit id="p4YvJDw" name="panel.header.empty">
-      <segment>
-        <source>panel.header.empty</source>
-        <target>panel.header.empty</target>
-      </segment>
-    </unit>
     <unit id="VNbvaDZ" name="day.name">
       <segment>
         <source>day.name</source>

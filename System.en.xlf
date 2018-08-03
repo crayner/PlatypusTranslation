@@ -1417,10 +1417,94 @@
         <target>Yes</target>
       </segment>
     </unit>
-    <unit id="eMW65AO" name="display.false">
+    <unit id="LzBGNOS" name="display.false">
       <segment>
         <source>display.false</source>
         <target>No</target>
+      </segment>
+    </unit>
+    <unit id="7sqpD7s" name="notification_event.details.tab">
+      <segment>
+        <source>notification_event.details.tab</source>
+        <target>Event</target>
+      </segment>
+    </unit>
+    <unit id="MwFRJHV" name="notification.event.edit.description">
+      <segment>
+        <source>notification.event.edit.description</source>
+        <target>Notification Events allow you to connect a person (listener) to be notified when an event occurs in the system.</target>
+      </segment>
+    </unit>
+    <unit id="iNTIvbY" name="notification.event.edit.title">
+      <segment>
+        <source>notification.event.edit.title</source>
+        <target>Manage Notification Event</target>
+      </segment>
+    </unit>
+    <unit id="iT7wBwf" name="notification_event.listener.tab">
+      <segment>
+        <source>notification_event.listener.tab</source>
+        <target>Listeners</target>
+      </segment>
+    </unit>
+    <unit id="p4YvJDw" name="panel.header.empty">
+      <segment>
+        <source>panel.header.empty</source>
+        <target>Set the header variable...</target>
+      </segment>
+    </unit>
+    <unit id="3dfnqBs" name="notification.notification_listeners.label">
+      <segment>
+        <source>notification.notification_listeners.label</source>
+        <target>Event Listeners</target>
+      </segment>
+    </unit>
+    <unit id="gOIg.qH" name="notification.listeners.header">
+      <segment>
+        <source>notification.listeners.header</source>
+        <target>Listeners for %name%</target>
+      </segment>
+    </unit>
+    <unit id="JSqXlNe" name="notification.event.header">
+      <segment>
+        <source>notification.event.header</source>
+        <target>Notification Event: %name%</target>
+      </segment>
+    </unit>
+    <unit id="Nx5eo8m" name="notification.active.label">
+      <segment>
+        <source>notification.active.label</source>
+        <target>Active</target>
+      </segment>
+    </unit>
+    <unit id="le023yQ" name="__name__label__">
+      <segment>
+        <source>__name__label__</source>
+        <target>__name__label__</target>
+      </segment>
+    </unit>
+    <unit id="BOjUFU5" name="notification.action.label">
+      <segment>
+        <source>notification.action.label</source>
+        <target>Permission Required</target>
+      </segment>
+    </unit>
+    <unit id="18CFGAJ" name="notification.module.help">
+      <segment>
+        <source>notification.module.help</source>
+        <target>This value cannot be changed.</target>
+      </segment>
+    </unit>
+    <unit id="cU.gA0d" name="notification.module.label">
+      <segment>
+        <source>notification.module.label</source>
+        <target>Event</target>
+      </segment>
+    </unit>
+    <unit id="Z.ztZH4" name="notification.event.edit">
+      <segment>
+        <source>notification.event.edit</source>
+        <target>Edit Notification Event</target>
       </segment>
     </unit>
   </file>
