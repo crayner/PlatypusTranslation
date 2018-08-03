@@ -1327,5 +1327,101 @@
         <target>Partial</target>
       </segment>
     </unit>
+    <unit id="g2hkLd7" name="String replacement">
+      <segment>
+        <source>String replacement</source>
+        <target>String replacement</target>
+      </segment>
+    </unit>
+    <unit id="foWHROz" name="notification_events">
+      <segment>
+        <source>notification_events</source>
+        <target>Notification Events</target>
+      </segment>
+    </unit>
+    <unit id="wUeU15H" name="notification_event_settings">
+      <segment>
+        <source>notification_event_settings</source>
+        <target>Notification Settings</target>
+      </segment>
+    </unit>
+    <unit id="py7z7Vp" name="notification.event.pagination.title">
+      <segment>
+        <source>notification.event.pagination.title</source>
+        <target>Notification Events</target>
+      </segment>
+    </unit>
+    <unit id="Yv9fv4X" name="notification.event.pagination.description">
+      <segment>
+        <source>notification.event.pagination.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="idsuz8C" name="notification.event.label">
+      <segment>
+        <source>notification.event.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="os8NbSe" name="notification.event.module.label">
+      <segment>
+        <source>notification.event.module.label</source>
+        <target>Module</target>
+      </segment>
+    </unit>
+    <unit id="XGpVIXg" name="notification.event.subscriber.count">
+      <segment>
+        <source>notification.event.subscriber.count</source>
+        <target>Subscribers</target>
+      </segment>
+    </unit>
+    <unit id="HiauhZ_" name="notification.event.active.label">
+      <segment>
+        <source>notification.event.active.label</source>
+        <target>Active</target>
+      </segment>
+    </unit>
+    <unit id="SkTcFTZ" name="10">
+      <segment>
+        <source>10</source>
+        <target>10</target>
+      </segment>
+    </unit>
+    <unit id="t6Voc81" name="25">
+      <segment>
+        <source>25</source>
+        <target>25</target>
+      </segment>
+    </unit>
+    <unit id="GmViWQ7" name="50">
+      <segment>
+        <source>50</source>
+        <target>50</target>
+      </segment>
+    </unit>
+    <unit id="rVc2aGU" name="100">
+      <segment>
+        <source>100</source>
+        <target>100</target>
+      </segment>
+    </unit>
+    <unit id="a4ayc.8" name="1">
+      <segment>
+        <source>1</source>
+        <target>1</target>
+      </segment>
+    </unit>
+    <unit id="eMWsTAO" name="display.true">
+      <segment>
+        <source>display.true</source>
+        <target>Yes</target>
+      </segment>
+    </unit>
+    <unit id="eMW65AO" name="display.false">
+      <segment>
+        <source>display.false</source>
+        <target>No</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
