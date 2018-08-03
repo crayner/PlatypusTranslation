@@ -1507,5 +1507,299 @@
         <target>Edit Notification Event</target>
       </segment>
     </unit>
+    <unit id="8vSA7aF" name="manage_lanuage_setting">
+      <segment>
+        <source>manage_lanuage_setting</source>
+        <target>Language Setting</target>
+      </segment>
+    </unit>
+    <unit id="nMyR47M" name="section.header.extend_and_update">
+      <segment>
+        <source>section.header.extend_and_update</source>
+        <target><![CDATA[Extend & Update]]></target>
+      </segment>
+    </unit>
+    <unit id="Zw3gZ5D" name="system_check_label">
+      <segment>
+        <source>system_check_label</source>
+        <target>System Check</target>
+      </segment>
+    </unit>
+    <unit id="8pK26EN" name="system.check.title">
+      <segment>
+        <source>system.check.title</source>
+        <target>System Check</target>
+      </segment>
+    </unit>
+    <unit id="K7fpvCA" name="system.check.description">
+      <segment>
+        <source>system.check.description</source>
+        <target>This page checks your server for appropriate software versions to run the system at optimum performance.</target>
+      </segment>
+    </unit>
+    <unit id="_I70q5A" name="system.check.system_requirements">
+      <segment>
+        <source>system.check.system_requirements</source>
+        <target>System Requirements</target>
+      </segment>
+    </unit>
+    <unit id="m_zDFHz" name="system.check.php.label">
+      <segment>
+        <source>system.check.php.label</source>
+        <target>PHP Version</target>
+      </segment>
+    </unit>
+    <unit id="hgTF8Ho" name="system.check.php.help">
+      <segment>
+        <source>system.check.php.help</source>
+        <target>Busybee requires PHP version {version} or higher.</target>
+      </segment>
+    </unit>
+    <unit id="UfYEL30" name="system.check.mysql.label">
+      <segment>
+        <source>system.check.mysql.label</source>
+        <target>MySQL Version</target>
+      </segment>
+    </unit>
+    <unit id="dycHgjb" name="system.check.mysql.help">
+      <segment>
+        <source>system.check.mysql.help</source>
+        <target>Busybee requires MySQL version {version} or higher.</target>
+      </segment>
+    </unit>
+    <unit id="TJLrA6T" name="system.check.mariadb.label">
+      <segment>
+        <source>system.check.mariadb.label</source>
+        <target>MariaDB Version</target>
+      </segment>
+    </unit>
+    <unit id="eYjYJUZ" name="system.check.mariadb.help">
+      <segment>
+        <source>system.check.mariadb.help</source>
+        <target>Busybee  requires MariaDB version {version} or higher.</target>
+      </segment>
+    </unit>
+    <unit id="VguFwmj" name="system.check.mysql_collation.label">
+      <segment>
+        <source>system.check.mysql_collation.label</source>
+        <target>Database Collation</target>
+      </segment>
+    </unit>
+    <unit id="9mRk1zV" name="system.check.mysql_collation.help">
+      <segment>
+        <source>system.check.mysql_collation.help</source>
+        <target>Database collation should be set to {version}.</target>
+      </segment>
+    </unit>
+    <unit id="mqRysz9" name="system.check.mysql_pdo.label">
+      <segment>
+        <source>system.check.mysql_pdo.label</source>
+        <target>PDO Support</target>
+      </segment>
+    </unit>
+    <unit id="uAmb0Bs" name="system.check.mysql_pdo.help">
+      <segment>
+        <source>system.check.mysql_pdo.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="TgDgbDo" name="system.check.extension.gd.label">
+      <segment>
+        <source>system.check.extension.gd.label</source>
+        <target>Extension GD</target>
+      </segment>
+    </unit>
+    <unit id="6sg2.AO" name="system.check.extension.xml.help">
+      <segment>
+        <source>system.check.extension.xml.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="rkWoy0s" name="system.check.extension.curl.label">
+      <segment>
+        <source>system.check.extension.curl.label</source>
+        <target>Extension Curl</target>
+      </segment>
+    </unit>
+    <unit id="RY4I14T" name="system.check.extension.xml.label">
+      <segment>
+        <source>system.check.extension.xml.label</source>
+        <target>Extension XML</target>
+      </segment>
+    </unit>
+    <unit id="2kkv4dF" name="system.check.extension.zip.help">
+      <segment>
+        <source>system.check.extension.zip.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="OAgmYkN" name="system.check.extension.mbstring.help">
+      <segment>
+        <source>system.check.extension.mbstring.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="3UdwA4p" name="system.check.extension.zip.label">
+      <segment>
+        <source>system.check.extension.zip.label</source>
+        <target>Extension ZIP</target>
+      </segment>
+    </unit>
+    <unit id="nbcS.D4" name="system.check.extension.mbstring.label">
+      <segment>
+        <source>system.check.extension.mbstring.label</source>
+        <target>Extension Multibyte String (mbstring)</target>
+      </segment>
+    </unit>
+    <unit id="ms0g8wz" name="system.check.extension.curl.help">
+      <segment>
+        <source>system.check.extension.curl.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="y_OwZHn" name="system.check.extension.gettext.help">
+      <segment>
+        <source>system.check.extension.gettext.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="DkZbKKS" name="system.check.extension.gettext.label">
+      <segment>
+        <source>system.check.extension.gettext.label</source>
+        <target>Extension GetText</target>
+      </segment>
+    </unit>
+    <unit id="wU9fViB" name="system.check.extension.gd.help">
+      <segment>
+        <source>system.check.extension.gd.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="_4YJoo2" name="system.check.php_extensions">
+      <segment>
+        <source>system.check.php_extensions</source>
+        <target>PHP Extensions</target>
+      </segment>
+    </unit>
+    <unit id="ehBEqpu" name="system.check.system_requirements.help">
+      <segment>
+        <source>system.check.system_requirements.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="bLOZ.BO" name="system.check.php_extensions.help">
+      <segment>
+        <source>system.check.php_extensions.help</source>
+        <target>Busybee requires you to enable the PHP extensions in the following list. The process to do so depends on your server setup</target>
+      </segment>
+    </unit>
+    <unit id="5CL8.55" name="system.check.php_settings">
+      <segment>
+        <source>system.check.php_settings</source>
+        <target>PHP Settings</target>
+      </segment>
+    </unit>
+    <unit id="f2C_P5j" name="system.check.php_settings.help">
+      <segment>
+        <source>system.check.php_settings.help</source>
+        <target>Configuration values can be set in your system php.ini file. On shared host, use .htaccess to set php settings.</target>
+      </segment>
+    </unit>
+    <unit id="waF6mks" name="system.check.setting.max_input_vars.label">
+      <segment>
+        <source>system.check.setting.max_input_vars.label</source>
+        <target>max_input_vars</target>
+      </segment>
+    </unit>
+    <unit id="0yYFkNC" name="system.check.setting.max_input_vars.help">
+      <segment>
+        <source>system.check.setting.max_input_vars.help</source>
+        <target>{version}</target>
+      </segment>
+    </unit>
+    <unit id="Y7hEAxO" name="system.check.setting.max_file_uploads.label">
+      <segment>
+        <source>system.check.setting.max_file_uploads.label</source>
+        <target>max_file_uploads</target>
+      </segment>
+    </unit>
+    <unit id="NNpPU2c" name="system.check.setting.max_file_uploads.help">
+      <segment>
+        <source>system.check.setting.max_file_uploads.help</source>
+        <target>{version}</target>
+      </segment>
+    </unit>
+    <unit id="0a6GHId" name="system.check.setting.allow_url_fopen.label">
+      <segment>
+        <source>system.check.setting.allow_url_fopen.label</source>
+        <target>allow_url_fopen</target>
+      </segment>
+    </unit>
+    <unit id="mwOl9vU" name="system.check.setting.allow_url_fopen.help">
+      <segment>
+        <source>system.check.setting.allow_url_fopen.help</source>
+        <target>{version}</target>
+      </segment>
+    </unit>
+    <unit id="t2jVizQ" name="system.check.setting.register_globals.label">
+      <segment>
+        <source>system.check.setting.register_globals.label</source>
+        <target>register_globals</target>
+      </segment>
+    </unit>
+    <unit id="1mXct5y" name="system.check.setting.register_globals.help">
+      <segment>
+        <source>system.check.setting.register_globals.help</source>
+        <target>{version}</target>
+      </segment>
+    </unit>
+    <unit id="ft5h7p1" name="system.check.file_permissions">
+      <segment>
+        <source>system.check.file_permissions</source>
+        <target>File Permissions</target>
+      </segment>
+    </unit>
+    <unit id="RfaauKI" name="system.check.file_permissions.help">
+      <segment>
+        <source>system.check.file_permissions.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="CuMWnw." name="system.check.file_not_write.label">
+      <segment>
+        <source>system.check.file_not_write.label</source>
+        <target>System not publicly writable?</target>
+      </segment>
+    </unit>
+    <unit id="gA46Nkn" name="system.check.file_not_write.help">
+      <segment>
+        <source>system.check.file_not_write.help</source>
+        <target>Files Checked(Public Files Writable)</target>
+      </segment>
+    </unit>
+    <unit id="t26O60M" name="system.check.uploads_write.label">
+      <segment>
+        <source>system.check.uploads_write.label</source>
+        <target>Uploads folder server writable?</target>
+      </segment>
+    </unit>
+    <unit id="B.domHp" name="system.check.uploads_write.help">
+      <segment>
+        <source>system.check.uploads_write.help</source>
+        <target>Files Checked(Server Files Writable)</target>
+      </segment>
+    </unit>
+    <unit id="dGaNQjg" name="system.check.config_write.label">
+      <segment>
+        <source>system.check.config_write.label</source>
+        <target>Config folder server writable?</target>
+      </segment>
+    </unit>
+    <unit id="a8IFrAq" name="system.check.config_write.help">
+      <segment>
+        <source>system.check.config_write.help</source>
+        <target>Files Checked(Server Files Writable)</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
