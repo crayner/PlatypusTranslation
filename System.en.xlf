@@ -1844,5 +1844,107 @@ A list of available themes is available at ?????</target>
         <target>Author</target>
       </segment>
     </unit>
+    <unit id="TcSMUBy" name="section.header.alarm">
+      <segment>
+        <source>section.header.alarm</source>
+        <target>Alarm</target>
+      </segment>
+    </unit>
+    <unit id="dPOlv27" name="manage_alarm_label">
+      <segment>
+        <source>manage_alarm_label</source>
+        <target>Sound Alarm</target>
+      </segment>
+    </unit>
+    <unit id="y5k8jYJ" name="alarm.title">
+      <segment>
+        <source>alarm.title</source>
+        <target>Sound Alarm</target>
+      </segment>
+    </unit>
+    <unit id="XyfqClZ" name="alarm.description">
+      <segment>
+        <source>alarm.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="ua8PYMj" name="alarm.edit.title">
+      <segment>
+        <source>alarm.edit.title</source>
+        <target>alarm.edit.title</target>
+      </segment>
+    </unit>
+    <unit id="ICP19wR" name="alarm.type.none">
+      <segment>
+        <source>alarm.type.none</source>
+        <target>Select Alarm Type...</target>
+      </segment>
+    </unit>
+    <unit id="bKTi3hv" name="alarm.type.general">
+      <segment>
+        <source>alarm.type.general</source>
+        <target>General</target>
+      </segment>
+    </unit>
+    <unit id="acXUmNj" name="alarm.type.lockdown-inplace">
+      <segment>
+        <source>alarm.type.lockdown-inplace</source>
+        <target>Lock Down (In Place)</target>
+      </segment>
+    </unit>
+    <unit id="khiuA5W" name="alarm.type.lockdown-internal">
+      <segment>
+        <source>alarm.type.lockdown-internal</source>
+        <target>Lock Down (Internal)</target>
+      </segment>
+    </unit>
+    <unit id="CAw00Ls" name="alarm.type.custom">
+      <segment>
+        <source>alarm.type.custom</source>
+        <target>Custom</target>
+      </segment>
+    </unit>
+    <unit id="btXIobO" name="alarm.type.label">
+      <segment>
+        <source>alarm.type.label</source>
+        <target>Alarm Type</target>
+      </segment>
+    </unit>
+    <unit id="bxPm5f8" name="alarm.status.current">
+      <segment>
+        <source>alarm.status.current</source>
+        <target>Current</target>
+      </segment>
+    </unit>
+    <unit id="MCSvIOD" name="alarm.status.past">
+      <segment>
+        <source>alarm.status.past</source>
+        <target>Past</target>
+      </segment>
+    </unit>
+    <unit id="AVyqYdi" name="alarm.status.label">
+      <segment>
+        <source>alarm.status.label</source>
+        <target>Status</target>
+      </segment>
+    </unit>
+    <unit id="Un6m4NR" name="alarm.custom_alarm.label">
+      <segment>
+        <source>alarm.custom_alarm.label</source>
+        <target>Custom Alarm Sound</target>
+      </segment>
+    </unit>
+    <unit id="RaMfI0L" name="alarm.custom_alarm.help">
+      <segment>
+        <source>alarm.custom_alarm.help</source>
+        <target>Loading a custom sound file will overwrite the existing custom sound file.  Selecting a custom alarm without a custom sound file will raise a warning.</target>
+      </segment>
+    </unit>
+    <unit id="c5uZrxd" name="alarm.type.help">
+      <segment>
+        <source>alarm.type.help</source>
+        <target>Sound a system wide alarm to the school.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
