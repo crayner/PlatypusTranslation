@@ -1946,5 +1946,17 @@ A list of available themes is available at ?????</target>
         <target>Sound a system wide alarm to the school.</target>
       </segment>
     </unit>
+    <unit id="Y10k1UT" name="message.count">
+      <segment>
+        <source>message.count</source>
+        <target>%{count} Messages</target>
+      </segment>
+    </unit>
+    <unit id="Mgw9_le" name="toggle.sidebar">
+      <segment>
+        <source>toggle.sidebar</source>
+        <target>Open/Close Side Bar</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
