@@ -1958,5 +1958,113 @@ A list of available themes is available at ?????</target>
         <target>Open/Close Side Bar</target>
       </segment>
     </unit>
+    <unit id="r776l2v" name="alarm.general.title">
+      <segment>
+        <source>alarm.general.title</source>
+        <target>General Alarm!</target>
+      </segment>
+    </unit>
+    <unit id="paZKJ_i" name="alarm.turn.off.title">
+      <segment>
+        <source>alarm.turn.off.title</source>
+        <target>Turn Off Alarm</target>
+      </segment>
+    </unit>
+    <unit id="D3wZtcL" name="alarm.fire.title">
+      <segment>
+        <source>alarm.fire.title</source>
+        <target>Fire Alarm!</target>
+      </segment>
+    </unit>
+    <unit id="Uf26fr_" name="alarm.lockdown-inplace.title">
+      <segment>
+        <source>alarm.lockdown-inplace.title</source>
+        <target>Classroom Lockdown!</target>
+      </segment>
+    </unit>
+    <unit id="HTtKy9f" name="alarm.lockdown-internal.title">
+      <segment>
+        <source>alarm.lockdown-internal.title</source>
+        <target>Lockdown (Internal)</target>
+      </segment>
+    </unit>
+    <unit id="3MAJL48" name="alarm.custom.title">
+      <segment>
+        <source>alarm.custom.title</source>
+        <target>Custom Alarm!</target>
+      </segment>
+    </unit>
+    <unit id="F6OWGA8" name="alarm.type.fire">
+      <segment>
+        <source>alarm.type.fire</source>
+        <target>Fire Alarm!</target>
+      </segment>
+    </unit>
+    <unit id="ukxClJO" name="only_one_can_be.invalid.field">
+      <segment>
+        <source>only_one_can_be.invalid.field</source>
+        <target>The field '%{field}' is not available using a getter (get, is) in the class '%{entity}.'</target>
+      </segment>
+    </unit>
+    <unit id="87Z5VzV" name="Alarm">
+      <segment>
+        <source>Alarm</source>
+        <target>Alarm</target>
+      </segment>
+    </unit>
+    <unit id="65zWh4y" name="only_one_can_be.row.exists">
+      <segment>
+        <source>only_one_can_be.row.exists</source>
+        <target>The table '%{entity}' has a row with the '%{field}' equal to '%{content}.' One one row in "%{entity}' can hold this value.</target>
+      </segment>
+    </unit>
+    <unit id="n30EwG8" name="only_one_can_be.row.missing">
+      <segment>
+        <source>only_one_can_be.row.missing</source>
+        <target>Changing the '%{field}' value will leave the '%{entity}' without a row set as '%{content}.' </target>
+      </segment>
+    </unit>
+    <unit id="BhFrs8C" name="0e0ed94">
+      <segment>
+        <source>Changing the 'status' value will leave the 'App\Entity\Alarm' without a row set as 'current.' </source>
+        <target>Changing the 'status' value will leave the 'App\Entity\Alarm' without a row set as 'current.' </target>
+      </segment>
+    </unit>
+    <unit id="nMOCppV" name="alarm.type.custom.invalid">
+      <segment>
+        <source>alarm.type.custom.invalid</source>
+        <target>The custom alarm was not able to find a custom sound file.</target>
+      </segment>
+    </unit>
+    <unit id="Bwg_eZc" name="84ac92f">
+      <segment>
+        <source>The table 'App\Entity\Alarm' has a row with the 'status' equal to 'current.' One one row in "App\Entity\Alarm' can hold this value.</source>
+        <target>The table 'App\Entity\Alarm' has a row with the 'status' equal to 'current.' One one row in "App\Entity\Alarm' can hold this value.</target>
+      </segment>
+    </unit>
+    <unit id="GR8.ZUg" name="sound.alarm">
+      <segment>
+        <source>sound.alarm</source>
+        <target>Sound Alarm</target>
+      </segment>
+    </unit>
+    <unit id="ds3Bo8o" name="sound.alarm.help">
+      <segment>
+        <source>sound.alarm.help</source>
+        <target>This page will set an alarm and sound it.  Custom alarms can be loaded without sounding an alarm but loading the alarm file without setting the alarm type.</target>
+      </segment>
+    </unit>
+    <unit id="qYNeyV2" name="play.custom.sound.on">
+      <segment>
+        <source>play.custom.sound.on</source>
+        <target>play.custom.sound.on</target>
+      </segment>
+    </unit>
+    <unit id="q9S5I8y" name="play.custom.sound">
+      <segment>
+        <source>play.custom.sound</source>
+        <target>Play Custom Sound</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
