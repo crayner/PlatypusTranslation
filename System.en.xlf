@@ -2066,5 +2066,17 @@ A list of available themes is available at ?????</target>
         <target>Play Custom Sound</target>
       </segment>
     </unit>
+    <unit id="TnDx.SS" name="Reset Password">
+      <segment>
+        <source>Reset Password</source>
+        <target>Reset Password</target>
+      </segment>
+    </unit>
+    <unit id="vG8_TAh" name="menu.user.preferences.manage">
+      <segment>
+        <source>menu.user.preferences.manage</source>
+        <target>Preferences</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

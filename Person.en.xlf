@@ -79,5 +79,17 @@
         <target>To be a user on the system each person must have a unique email address.</target>
       </segment>
     </unit>
+    <unit id="xlkwfSo" name="preferences.heading">
+      <segment>
+        <source>preferences.heading</source>
+        <target>Personal Preferences</target>
+      </segment>
+    </unit>
+    <unit id="5Q5lDn2" name="preferences.lead">
+      <segment>
+        <source>preferences.lead</source>
+        <target></target>
+      </segment>
+    </unit>
   </file>
 </xliff>
