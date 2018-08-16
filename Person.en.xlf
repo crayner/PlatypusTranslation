@@ -91,5 +91,97 @@
         <target></target>
       </segment>
     </unit>
+    <unit id="2UOI4En" name="person.personal_language.help">
+      <segment>
+        <source>person.personal_language.help</source>
+        <target>Override the system default language.</target>
+      </segment>
+    </unit>
+    <unit id="rYXO.bQ" name="person.personal_language.label">
+      <segment>
+        <source>person.personal_language.label</source>
+        <target>Personal Language</target>
+      </segment>
+    </unit>
+    <unit id="d9Sp_Y8" name="person.personal_calendar_feed.label">
+      <segment>
+        <source>person.personal_calendar_feed.label</source>
+        <target>Personal Google Calendar ID </target>
+      </segment>
+    </unit>
+    <unit id="S.LTCpQ" name="person.personal_theme.help">
+      <segment>
+        <source>person.personal_theme.help</source>
+        <target>Override the system theme.</target>
+      </segment>
+    </unit>
+    <unit id="jjld5CU" name="person.personal_theme.label">
+      <segment>
+        <source>person.personal_theme.label</source>
+        <target>Personal Theme</target>
+      </segment>
+    </unit>
+    <unit id="NZkfucE" name="person.personal_background.help">
+      <segment>
+        <source>person.personal_background.help</source>
+        <target>Set your own custom background image.
+Please upload an image.</target>
+      </segment>
+    </unit>
+    <unit id="128Ee7G" name="person.personal_background.label">
+      <segment>
+        <source>person.personal_background.label</source>
+        <target>Personal Background </target>
+      </segment>
+    </unit>
+    <unit id="Hoy9M33" name="person.personal_calendar_feed.help">
+      <segment>
+        <source>person.personal_calendar_feed.help</source>
+        <target>Google Calendar ID for your personal calendar.
+Only enables timetable integration when logging in via Google.</target>
+      </segment>
+    </unit>
+    <unit id="qFnPk15" name="person.receive_notification_emails.help">
+      <segment>
+        <source>person.receive_notification_emails.help</source>
+        <target>Notifications can always be viewed on screen.</target>
+      </segment>
+    </unit>
+    <unit id="eqd4CTo" name="person.receive_notification_emails.label">
+      <segment>
+        <source>person.receive_notification_emails.label</source>
+        <target>Receive Email Notifications? </target>
+      </segment>
+    </unit>
+    <unit id="bua4W1x" name="person.smart_workflow_help.label">
+      <segment>
+        <source>person.smart_workflow_help.label</source>
+        <target>Enable Smart Workflow Help?</target>
+      </segment>
+    </unit>
+    <unit id="ERFwCHG" name="person.personal_language.placeholder">
+      <segment>
+        <source>person.personal_language.placeholder</source>
+        <target>Override Default Language...</target>
+      </segment>
+    </unit>
+    <unit id="iNdZ6gL" name="Original">
+      <segment>
+        <source>Original</source>
+        <target>Original</target>
+      </segment>
+    </unit>
+    <unit id="29OknQ2" name="en">
+      <segment>
+        <source>en</source>
+        <target>en</target>
+      </segment>
+    </unit>
+    <unit id="3IiRMZo" name="person.personal_theme.placeholder">
+      <segment>
+        <source>person.personal_theme.placeholder</source>
+        <target>Override Default Theme...</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

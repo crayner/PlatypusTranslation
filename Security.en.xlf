@@ -67,5 +67,23 @@
         <target>System Administrator</target>
       </segment>
     </unit>
+    <unit id="TnDx.SS" name="Reset Password">
+      <segment>
+        <source>Reset Password</source>
+        <target>Reset Password</target>
+      </segment>
+    </unit>
+    <unit id="fVReMCF" name="preference.settings">
+      <segment>
+        <source>preference.settings</source>
+        <target>Personal Settings</target>
+      </segment>
+    </unit>
+    <unit id="LHAV1zZ" name="preference.settings.help">
+      <segment>
+        <source>preference.settings.help</source>
+        <target>This form is independent of the password change form.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
