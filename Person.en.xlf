@@ -183,5 +183,65 @@ Only enables timetable integration when logging in via Google.</target>
         <target>Override Default Theme...</target>
       </segment>
     </unit>
+    <unit id="SVN5knc" name="manage_people_label">
+      <segment>
+        <source>manage_people_label</source>
+        <target>Manage People</target>
+      </segment>
+    </unit>
+    <unit id="vs8CqnD" name="person.people.title">
+      <segment>
+        <source>person.people.title</source>
+        <target>Manage People</target>
+      </segment>
+    </unit>
+    <unit id=".wTaYkb" name="person.people.description">
+      <segment>
+        <source>person.people.description</source>
+        <target>Manage All people in the system.</target>
+      </segment>
+    </unit>
+    <unit id="Hd79GuZ" name="person.import.title">
+      <segment>
+        <source>person.import.title</source>
+        <target>Import</target>
+      </segment>
+    </unit>
+    <unit id="4Y5Cam5" name="people.title">
+      <segment>
+        <source>people.title</source>
+        <target>Manage People</target>
+      </segment>
+    </unit>
+    <unit id="2cZ55BK" name="person.photo.title">
+      <segment>
+        <source>person.photo.title</source>
+        <target>Photo</target>
+      </segment>
+    </unit>
+    <unit id="mQxiIIk" name="person.familyName.title">
+      <segment>
+        <source>person.familyName.title</source>
+        <target>Family Name</target>
+      </segment>
+    </unit>
+    <unit id="fenry_N" name="person.givenName.title">
+      <segment>
+        <source>person.givenName.title</source>
+        <target>Given Names</target>
+      </segment>
+    </unit>
+    <unit id="WeRQahe" name="person.details.title">
+      <segment>
+        <source>person.details.title</source>
+        <target>Details</target>
+      </segment>
+    </unit>
+    <unit id="rI_TNyn" name="person.actions">
+      <segment>
+        <source>person.actions</source>
+        <target>Actions</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

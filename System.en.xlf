@@ -2078,5 +2078,17 @@ A list of available themes is available at ?????</target>
         <target>Preferences</target>
       </segment>
     </unit>
+    <unit id="XzmHfUD" name="menu.admin.people">
+      <segment>
+        <source>menu.admin.people</source>
+        <target>People Admin</target>
+      </segment>
+    </unit>
+    <unit id="H_7b.Z9" name="section.header.people_management">
+      <segment>
+        <source>section.header.people_management</source>
+        <target>People Management</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

@@ -37,5 +37,83 @@
         <target>Matching Records: %total%</target>
       </segment>
     </unit>
+    <unit id="FX3KkuQ" name="save">
+      <segment>
+        <source>save</source>
+        <target>Save</target>
+      </segment>
+    </unit>
+    <unit id="X_zrZv." name="0">
+      <segment>
+        <source>0</source>
+        <target>0</target>
+      </segment>
+    </unit>
+    <unit id="a4ayc.8" name="1">
+      <segment>
+        <source>1</source>
+        <target>1</target>
+      </segment>
+    </unit>
+    <unit id="1HNeOiZ" name="2">
+      <segment>
+        <source>2</source>
+        <target>2</target>
+      </segment>
+    </unit>
+    <unit id="JBkykGe" name="search">
+      <segment>
+        <source>search</source>
+        <target>Search</target>
+      </segment>
+    </unit>
+    <unit id="pW5JaBv" name="person.surname.label">
+      <segment>
+        <source>person.surname.label</source>
+        <target>Family Name</target>
+      </segment>
+    </unit>
+    <unit id="Kt1FgF5" name="person.firstName.label">
+      <segment>
+        <source>person.firstName.label</source>
+        <target>Given Names</target>
+      </segment>
+    </unit>
+    <unit id="2rOGyrJ" name="person.email.label">
+      <segment>
+        <source>person.email.label</source>
+        <target>Email</target>
+      </segment>
+    </unit>
+    <unit id="baBjNSj" name="previous">
+      <segment>
+        <source>previous</source>
+        <target>Previous Page</target>
+      </segment>
+    </unit>
+    <unit id="xsHJqch" name="next">
+      <segment>
+        <source>next</source>
+        <target>Next Page</target>
+      </segment>
+    </unit>
+    <unit id="W4I3vpj" name="pagination.figures.empty">
+      <segment>
+        <source>pagination.figures.empty</source>
+        <target>No Records Found.</target>
+      </segment>
+    </unit>
+    <unit id="lSnBj8J" name="pagination.figures.one">
+      <segment>
+        <source>pagination.figures.one</source>
+        <target>One Record Found</target>
+      </segment>
+    </unit>
+    <unit id="VGFQ2Z7" name="pagination.figures.two_plus">
+      <segment>
+        <source>pagination.figures.two_plus</source>
+        <target>Records %first% to %last% of %total%.  %pages% Pages.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
