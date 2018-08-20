@@ -243,5 +243,23 @@ Only enables timetable integration when logging in via Google.</target>
         <target>Actions</target>
       </segment>
     </unit>
+    <unit id="bwfAoBl" name="person.photo.label">
+      <segment>
+        <source>person.photo.label</source>
+        <target>Photo</target>
+      </segment>
+    </unit>
+    <unit id="FjWAzBt" name="person.title.label">
+      <segment>
+        <source>person.title.label</source>
+        <target>Title</target>
+      </segment>
+    </unit>
+    <unit id="HWK1_NC" name="person.pagination.title">
+      <segment>
+        <source>person.pagination.title</source>
+        <target>Manage People</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
