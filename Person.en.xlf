@@ -303,5 +303,47 @@ Only enables timetable integration when logging in via Google.</target>
         <target>Rev.</target>
       </segment>
     </unit>
+    <unit id=".Ervter" name="person.full_name.label">
+      <segment>
+        <source>person.full_name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="mvNoYi5" name="person.status.label">
+      <segment>
+        <source>person.status.label</source>
+        <target>Status</target>
+      </segment>
+    </unit>
+    <unit id="gTAaT1W" name="person.status.full">
+      <segment>
+        <source>person.status.full</source>
+        <target>Full</target>
+      </segment>
+    </unit>
+    <unit id="TLWTPbX" name="person.status.expected">
+      <segment>
+        <source>person.status.expected</source>
+        <target>Expected</target>
+      </segment>
+    </unit>
+    <unit id="bg.ZgFP" name="person.status.left">
+      <segment>
+        <source>person.status.left</source>
+        <target>Left</target>
+      </segment>
+    </unit>
+    <unit id="m_Ynofc" name="person.status.pending">
+      <segment>
+        <source>person.status.pending</source>
+        <target>Pending Approval</target>
+      </segment>
+    </unit>
+    <unit id="6PCpXpN" name="person.primary_role.label">
+      <segment>
+        <source>person.primary_role.label</source>
+        <target>Primary Role</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

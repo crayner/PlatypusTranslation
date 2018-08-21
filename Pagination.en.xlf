@@ -67,24 +67,6 @@
         <target>Search</target>
       </segment>
     </unit>
-    <unit id="pW5JaBv" name="person.surname.label">
-      <segment>
-        <source>person.surname.label</source>
-        <target>Family Name</target>
-      </segment>
-    </unit>
-    <unit id="Kt1FgF5" name="person.firstName.label">
-      <segment>
-        <source>person.firstName.label</source>
-        <target>Given Names</target>
-      </segment>
-    </unit>
-    <unit id="2rOGyrJ" name="person.email.label">
-      <segment>
-        <source>person.email.label</source>
-        <target>Email</target>
-      </segment>
-    </unit>
     <unit id="baBjNSj" name="previous">
       <segment>
         <source>previous</source>
