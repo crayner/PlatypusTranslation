@@ -103,16 +103,22 @@
         <target>No Records Found.</target>
       </segment>
     </unit>
-    <unit id="lSnBj8J" name="pagination.figures.one">
-      <segment>
-        <source>pagination.figures.one</source>
-        <target>One Record Found</target>
-      </segment>
-    </unit>
     <unit id="VGFQ2Z7" name="pagination.figures.two_plus">
       <segment>
         <source>pagination.figures.two_plus</source>
         <target>Records %first% to %last% of %total%.  %pages% Pages.</target>
+      </segment>
+    </unit>
+    <unit id="tv9F4hm" name="pagination.figures.one_page.one_record">
+      <segment>
+        <source>pagination.figures.one_page.one_record</source>
+        <target>One Record Found</target>
+      </segment>
+    </unit>
+    <unit id="3bZpeNr" name="pagination.figures.one_page.two_plus">
+      <segment>
+        <source>pagination.figures.one_page.two_plus</source>
+        <target>%total% Records Found</target>
       </segment>
     </unit>
   </file>
