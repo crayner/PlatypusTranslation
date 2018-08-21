@@ -261,5 +261,47 @@ Only enables timetable integration when logging in via Google.</target>
         <target>Manage People</target>
       </segment>
     </unit>
+    <unit id="sUE_laJ" name="person.title.mr">
+      <segment>
+        <source>person.title.mr</source>
+        <target>Mr</target>
+      </segment>
+    </unit>
+    <unit id="jbG4RVg" name="person.title.master">
+      <segment>
+        <source>person.title.master</source>
+        <target>Master</target>
+      </segment>
+    </unit>
+    <unit id="3fUhwiH" name="person.title.mrs">
+      <segment>
+        <source>person.title.mrs</source>
+        <target>Mrs</target>
+      </segment>
+    </unit>
+    <unit id="WwyIKjU" name="person.title.miss">
+      <segment>
+        <source>person.title.miss</source>
+        <target>Miss</target>
+      </segment>
+    </unit>
+    <unit id="zITtIyB" name="person.title.ms">
+      <segment>
+        <source>person.title.ms</source>
+        <target>Ms</target>
+      </segment>
+    </unit>
+    <unit id="c0qEwHR" name="person.title.dr">
+      <segment>
+        <source>person.title.dr</source>
+        <target>Dr</target>
+      </segment>
+    </unit>
+    <unit id="2j5Adpg" name="person.title.rev">
+      <segment>
+        <source>person.title.rev</source>
+        <target>Rev.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

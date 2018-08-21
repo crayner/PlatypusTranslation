@@ -121,5 +121,17 @@
         <target>%total% Records Found</target>
       </segment>
     </unit>
+    <unit id="Lpt_1N." name="case_sensitive">
+      <segment>
+        <source>case_sensitive</source>
+        <target>Toggle Case Sensitivity</target>
+      </segment>
+    </unit>
+    <unit id="iZRAWQK" name="order_by">
+      <segment>
+        <source>order_by</source>
+        <target>Toggle Order</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
