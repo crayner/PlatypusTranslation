@@ -345,5 +345,23 @@ Only enables timetable integration when logging in via Google.</target>
         <target>Primary Role</target>
       </segment>
     </unit>
+    <unit id="TBWV1xv" name="person.title.">
+      <segment>
+        <source>person.title.</source>
+        <target>person.title.</target>
+      </segment>
+    </unit>
+    <unit id="RClXGpx" name="person.family_name.label">
+      <segment>
+        <source>person.family_name.label</source>
+        <target>Family</target>
+      </segment>
+    </unit>
+    <unit id="CiVJuGV" name="person.details.label">
+      <segment>
+        <source>person.details.label</source>
+        <target>Details</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
