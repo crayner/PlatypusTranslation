@@ -348,7 +348,7 @@ Only enables timetable integration when logging in via Google.</target>
     <unit id="TBWV1xv" name="person.title.">
       <segment>
         <source>person.title.</source>
-        <target>person.title.</target>
+        <target>''</target>
       </segment>
     </unit>
     <unit id="RClXGpx" name="person.family_name.label">
@@ -361,6 +361,18 @@ Only enables timetable integration when logging in via Google.</target>
       <segment>
         <source>person.details.label</source>
         <target>Details</target>
+      </segment>
+    </unit>
+    <unit id="L2Ln90G" name="person.user_name.label">
+      <segment>
+        <source>person.user_name.label</source>
+        <target>Username</target>
+      </segment>
+    </unit>
+    <unit id="OH76gokh" name="person.delete.locked">
+      <segment>
+        <source>person.delete.locked</source>
+        <target>'%{name}' has been locked and deletion is not currently supported.</target>
       </segment>
     </unit>
   </file>

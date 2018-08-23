@@ -115,5 +115,23 @@
         <target>Toggle Order</target>
       </segment>
     </unit>
+    <unit id=".e3sJSU" name="pagination.actions">
+      <segment>
+        <source>pagination.actions</source>
+        <target>Actions</target>
+      </segment>
+    </unit>
+    <unit id=".Ervter" name="person.full_name.label">
+      <segment>
+        <source>person.full_name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="en6pHSQ" name="message.close">
+      <segment>
+        <source>message.close</source>
+        <target>Close Message</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
