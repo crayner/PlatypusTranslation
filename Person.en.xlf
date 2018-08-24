@@ -369,10 +369,28 @@ Only enables timetable integration when logging in via Google.</target>
         <target>Username</target>
       </segment>
     </unit>
-    <unit id="OH76gokh" name="person.delete.locked">
+    <unit id="6GXzXOz" name="person.delete.locked">
       <segment>
         <source>person.delete.locked</source>
         <target>'%{name}' has been locked and deletion is not currently supported.</target>
+      </segment>
+    </unit>
+    <unit id="yG3ryc3" name="person.action.edit">
+      <segment>
+        <source>person.action.edit</source>
+        <target>Edit Person</target>
+      </segment>
+    </unit>
+    <unit id="AjcUVHC" name="person.action.delete">
+      <segment>
+        <source>person.action.delete</source>
+        <target>Delete Person</target>
+      </segment>
+    </unit>
+    <unit id="MO8zk0M" name="person.action.password.change">
+      <segment>
+        <source>person.action.password.change</source>
+        <target>Password Reset</target>
       </segment>
     </unit>
   </file>

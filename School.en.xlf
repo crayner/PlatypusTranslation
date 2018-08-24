@@ -2205,5 +2205,30 @@
         <target>Categories</target>
       </segment>
     </unit>
+    <unit id="b4hRPJN" name="rollgroup_pagination.description">
+      <segment>
+        <source>rollgroup_pagination.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="Ne5Y3Xc" name="roll_group.sort.name">
+      <segment>
+        <source>roll_group.sort.name</source>
+        <target>Roll Group Name</target>
+      </segment>
+    </unit>
+    <unit id="n_UlKnU" name="rollgroup_pagination.title">
+      <segment>
+        <source>rollgroup_pagination.title</source>
+        <target>Manage Roll Groups</target>
+      </segment>
+    </unit>
+    <unit id="dDLzfr6" name="roll_group.name_title.label">
+      <segment>
+        <source>roll_group.name_title.label</source>
+        <target><![CDATA[Name
+<span class="small">{Short Name}</span>]]></target>
+      </segment>
+    </unit>
   </file>
 </xliff>
