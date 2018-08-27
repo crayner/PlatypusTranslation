@@ -393,5 +393,65 @@ Only enables timetable integration when logging in via Google.</target>
         <target>Password Reset</target>
       </segment>
     </unit>
+    <unit id="jYMEmvF" name="person_pagination.filter.group.role">
+      <segment>
+        <source>person_pagination.filter.group.role</source>
+        <target>Role</target>
+      </segment>
+    </unit>
+    <unit id="s4fPDad" name="person_pagination.filter.role.student">
+      <segment>
+        <source>person_pagination.filter.role.student</source>
+        <target>Role:Student</target>
+      </segment>
+    </unit>
+    <unit id="H50RGax" name="person_pagination.filter.role.parent">
+      <segment>
+        <source>person_pagination.filter.role.parent</source>
+        <target>Role:Parent</target>
+      </segment>
+    </unit>
+    <unit id="V0ZMN8r" name="person_pagination.filter.role.staff">
+      <segment>
+        <source>person_pagination.filter.role.staff</source>
+        <target>Role:Staff</target>
+      </segment>
+    </unit>
+    <unit id="sT_kD3s" name="person_pagination.filter.group.status">
+      <segment>
+        <source>person_pagination.filter.group.status</source>
+        <target>Status</target>
+      </segment>
+    </unit>
+    <unit id="wQ3GQw4" name="person_pagination.filter.status.full">
+      <segment>
+        <source>person_pagination.filter.status.full</source>
+        <target>Status:Full</target>
+      </segment>
+    </unit>
+    <unit id="SlBqlQM" name="person_pagination.filter.status.left">
+      <segment>
+        <source>person_pagination.filter.status.left</source>
+        <target>Status:Left</target>
+      </segment>
+    </unit>
+    <unit id="x8yHran" name="person_pagination.filter.role.Student">
+      <segment>
+        <source>person_pagination.filter.role.Student</source>
+        <target>Role::Student</target>
+      </segment>
+    </unit>
+    <unit id="BbXCUTz" name="person_pagination.filter.role.Parent">
+      <segment>
+        <source>person_pagination.filter.role.Parent</source>
+        <target>Role::Parent</target>
+      </segment>
+    </unit>
+    <unit id="xe9AnAR" name="person_pagination.filter.role.Staff">
+      <segment>
+        <source>person_pagination.filter.role.Staff</source>
+        <target>Role::Staff</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

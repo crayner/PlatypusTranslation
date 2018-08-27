@@ -133,5 +133,29 @@
         <target>Close Message</target>
       </segment>
     </unit>
+    <unit id="yCQMrQW" name="pagination.filter.clear">
+      <segment>
+        <source>pagination.filter.clear</source>
+        <target>Clear Filters</target>
+      </segment>
+    </unit>
+    <unit id="V1NmW2E" name="pagination.filter.placeholder">
+      <segment>
+        <source>pagination.filter.placeholder</source>
+        <target>Select multiple filters...</target>
+      </segment>
+    </unit>
+    <unit id="WDclp8r" name="pagination.filter.label">
+      <segment>
+        <source>pagination.filter.label</source>
+        <target>Filter</target>
+      </segment>
+    </unit>
+    <unit id="6ZwaKUz" name="pagination.filter.by">
+      <segment>
+        <source>pagination.filter.by</source>
+        <target>Filtered by: </target>
+      </segment>
+    </unit>
   </file>
 </xliff>
