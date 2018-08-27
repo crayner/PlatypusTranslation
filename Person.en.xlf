@@ -348,7 +348,7 @@ Only enables timetable integration when logging in via Google.</target>
     <unit id="TBWV1xv" name="person.title.">
       <segment>
         <source>person.title.</source>
-        <target>''</target>
+        <target></target>
       </segment>
     </unit>
     <unit id="RClXGpx" name="person.family_name.label">
@@ -451,6 +451,266 @@ Only enables timetable integration when logging in via Google.</target>
       <segment>
         <source>person_pagination.filter.role.Staff</source>
         <target>Role::Staff</target>
+      </segment>
+    </unit>
+    <unit id="o4UHGDB" name="person.edit.title">
+      <segment>
+        <source>person.edit.title</source>
+        <target>Edit Person</target>
+      </segment>
+    </unit>
+    <unit id="Hcjeft6" name="person.edit.description">
+      <segment>
+        <source>person.edit.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="OWHkKI4" name="basic.information.tab">
+      <segment>
+        <source>basic.information.tab</source>
+        <target>Basic Information</target>
+      </segment>
+    </unit>
+    <unit id="47DEQpj" name="">
+      <segment>
+        <source></source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="zu16a.s" name="person.first_name.label">
+      <segment>
+        <source>person.first_name.label</source>
+        <target>First Name(s)</target>
+      </segment>
+    </unit>
+    <unit id="56zaUVf" name="person.surname.help">
+      <segment>
+        <source>person.surname.help</source>
+        <target>Family name as shown in ID documents.</target>
+      </segment>
+    </unit>
+    <unit id="Ag4GDf5" name="person.first_name.help">
+      <segment>
+        <source>person.first_name.help</source>
+        <target>First name as shown in ID documents.</target>
+      </segment>
+    </unit>
+    <unit id="d73I19r" name="person.preferred_name.label">
+      <segment>
+        <source>person.preferred_name.label</source>
+        <target>Preferred Name</target>
+      </segment>
+    </unit>
+    <unit id="eMqlPoG" name="person.preferred_name.help">
+      <segment>
+        <source>person.preferred_name.help</source>
+        <target>Most common name, alias, nickname, etc.</target>
+      </segment>
+    </unit>
+    <unit id="lk5wQyz" name="person.gender.m">
+      <segment>
+        <source>person.gender.m</source>
+        <target>Male</target>
+      </segment>
+    </unit>
+    <unit id="KFIkq3z" name="person.gender.f">
+      <segment>
+        <source>person.gender.f</source>
+        <target>Female</target>
+      </segment>
+    </unit>
+    <unit id="ElO_pF2" name="person.gender.o">
+      <segment>
+        <source>person.gender.o</source>
+        <target>Other</target>
+      </segment>
+    </unit>
+    <unit id="MS17ztq" name="person.gender.u">
+      <segment>
+        <source>person.gender.u</source>
+        <target>Unspecified</target>
+      </segment>
+    </unit>
+    <unit id="XRk4AdB" name="person.gender.label">
+      <segment>
+        <source>person.gender.label</source>
+        <target>Gender</target>
+      </segment>
+    </unit>
+    <unit id="8EeosWk" name="person.official_name.label">
+      <segment>
+        <source>person.official_name.label</source>
+        <target>Official Name</target>
+      </segment>
+    </unit>
+    <unit id="vXOlGnB" name="person.official_name.help">
+      <segment>
+        <source>person.official_name.help</source>
+        <target>Full name as shown in ID documents.</target>
+      </segment>
+    </unit>
+    <unit id="zymHP.." name="person.dob.label">
+      <segment>
+        <source>person.dob.label</source>
+        <target>Date of Birth</target>
+      </segment>
+    </unit>
+    <unit id="7IgDI_O" name="person.dob.help">
+      <segment>
+        <source>person.dob.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="Wl6XN7Q" name="person.name_in_characters.label">
+      <segment>
+        <source>person.name_in_characters.label</source>
+        <target>Name In Characters </target>
+      </segment>
+    </unit>
+    <unit id="7qYKzVY" name="person.name_in_characters.help">
+      <segment>
+        <source>person.name_in_characters.help</source>
+        <target>Chinese or other character-based name.</target>
+      </segment>
+    </unit>
+    <unit id="ifaDJWD" name="Year">
+      <segment>
+        <source>Year</source>
+        <target>Year</target>
+      </segment>
+    </unit>
+    <unit id="MQylA_8" name="Month">
+      <segment>
+        <source>Month</source>
+        <target>Month</target>
+      </segment>
+    </unit>
+    <unit id="jyNk4Ru" name="Day">
+      <segment>
+        <source>Day</source>
+        <target>Day</target>
+      </segment>
+    </unit>
+    <unit id="U64Z0nd" name="person.photo.help">
+      <segment>
+        <source>person.photo.help</source>
+        <target>The image must be smaller than 750k, with a width to height ratio between 0.95 and 0.625. </target>
+      </segment>
+    </unit>
+    <unit id="jjtOUOr" name="basic.information.title">
+      <segment>
+        <source>basic.information.title</source>
+        <target>Basic Information: %name%</target>
+      </segment>
+    </unit>
+    <unit id="BQuNX.A" name="personrole.category.administrator">
+      <segment>
+        <source>personrole.category.administrator</source>
+        <target>Administrator</target>
+      </segment>
+    </unit>
+    <unit id="11xVf5c" name="personrole.category.support_staff">
+      <segment>
+        <source>personrole.category.support_staff</source>
+        <target>Support Staff</target>
+      </segment>
+    </unit>
+    <unit id="TIJ.XdQ" name="personrole.category.teacher">
+      <segment>
+        <source>personrole.category.teacher</source>
+        <target>Teacher</target>
+      </segment>
+    </unit>
+    <unit id="9fNfH7r" name="system.access.tab">
+      <segment>
+        <source>system.access.tab</source>
+        <target>System Access</target>
+      </segment>
+    </unit>
+    <unit id="vrheEPj" name="system.access.title">
+      <segment>
+        <source>system.access.title</source>
+        <target>System Access: %name%</target>
+      </segment>
+    </unit>
+    <unit id="cxrviKr" name="personrole.category.parent">
+      <segment>
+        <source>personrole.category.parent</source>
+        <target>Parent</target>
+      </segment>
+    </unit>
+    <unit id="LJP_UqJ" name="personrole.category.student">
+      <segment>
+        <source>personrole.category.student</source>
+        <target>Student</target>
+      </segment>
+    </unit>
+    <unit id="FurKcm8" name="person.primary_role.help">
+      <segment>
+        <source>person.primary_role.help</source>
+        <target>Controls what a user can do and see</target>
+      </segment>
+    </unit>
+    <unit id="_INM9e1" name="person.secondary_roles.help">
+      <segment>
+        <source>person.secondary_roles.help</source>
+        <target>Controls what a user can do and see.
+Use Control, Command and/or Shift to select multiple.
+</target>
+      </segment>
+    </unit>
+    <unit id="7s91o6J" name="person.secondary_roles.label">
+      <segment>
+        <source>person.secondary_roles.label</source>
+        <target>All Roles</target>
+      </segment>
+    </unit>
+    <unit id="5jR9h8D" name="person.primary_role.placeholder">
+      <segment>
+        <source>person.primary_role.placeholder</source>
+        <target>Select Primary Role ...</target>
+      </segment>
+    </unit>
+    <unit id="eOg7T8Q" name="person.status.help">
+      <segment>
+        <source>person.status.help</source>
+        <target>This determines visibility within the system.</target>
+      </segment>
+    </unit>
+    <unit id="K3FpvRv" name="person.can_login.label">
+      <segment>
+        <source>person.can_login.label</source>
+        <target>Can Login?</target>
+      </segment>
+    </unit>
+    <unit id="GzpmcF." name="person.can_login.help">
+      <segment>
+        <source>person.can_login.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="ikXSfkR" name="person.force_password_reset.label">
+      <segment>
+        <source>person.force_password_reset.label</source>
+        <target>Force Password Change</target>
+      </segment>
+    </unit>
+    <unit id="8lrZ0C." name="person.force_password_reset.help">
+      <segment>
+        <source>person.force_password_reset.help</source>
+        <target>User will be forced to change their password on next login.</target>
+      </segment>
+    </unit>
+    <unit id="xEWUwmL" name="person.username.label">
+      <segment>
+        <source>person.username.label</source>
+        <target>User Name</target>
+      </segment>
+    </unit>
+    <unit id=".i1cm6M" name="person.username.help">
+      <segment>
+        <source>person.username.help</source>
+        <target>The username must be unique!</target>
       </segment>
     </unit>
   </file>
