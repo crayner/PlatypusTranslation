@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Address.en">
+    <unit id="F6f6F6h" name="select.address.label">
+      <segment>
+        <source>select.address.label</source>
+        <target>Select an Address</target>
+      </segment>
+    </unit>
+    <unit id="cwDAlDF" name="select.address.help">
+      <segment>
+        <source>select.address.help</source>
+        <target>How does this select thing work?</target>
+      </segment>
+    </unit>
+    <unit id="D2bGCVz" name="address.help.header">
+      <segment>
+        <source>address.help.header</source>
+        <target>Address information for an individual only needs to be set under the following conditions:</target>
+      </segment>
+    </unit>
+    <unit id="6foxpma" name="address.help.content">
+      <segment>
+        <source>address.help.content</source>
+        <target><![CDATA[<ol>
+<li>If the user is not assigned to a family.</li>
+<li>If the user's family does not have a home address set.</li>
+<li>If the user needs an address in addition to their family's home address.</li>
+</ol>
+<p>Addresses attached via the family record are listed here, but can only be removed in the family record.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="t_Nk01." name="address.no.parent">
+      <segment>
+        <source>address.no.parent</source>
+        <target>Address information is not available until the parent (person, family) has been saved.</target>
+      </segment>
+    </unit>
+    <unit id="CtCO.FZ" name="address.add">
+      <segment>
+        <source>address.add</source>
+        <target>Connect Address</target>
+      </segment>
+    </unit>
+    <unit id="wiAs9Zf" name="address.remove">
+      <segment>
+        <source>address.remove</source>
+        <target>Remove Address</target>
+      </segment>
+    </unit>
+    <unit id="XuTLxAi" name="address.search.placeholder">
+      <segment>
+        <source>address.search.placeholder</source>
+        <target>Start typing to find...</target>
+      </segment>
+    </unit>
+    <unit id="ex0DwFW" name="address.not.found">
+      <segment>
+        <source>address.not.found</source>
+        <target>The address was not found or is not valid.</target>
+      </segment>
+    </unit>
+    <unit id="nqFY_jS" name="person.not.found">
+      <segment>
+        <source>person.not.found</source>
+        <target>The person was not found to attach the address.</target>
+      </segment>
+    </unit>
+    <unit id="ZW4hn4K" name="family.not.found">
+      <segment>
+        <source>family.not.found</source>
+        <target>The family was not found to attach the address.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

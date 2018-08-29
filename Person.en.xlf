@@ -713,5 +713,29 @@ Use Control, Command and/or Shift to select multiple.
         <target>The username must be unique!</target>
       </segment>
     </unit>
+    <unit id="eO_dBWW" name="contact.information.tab">
+      <segment>
+        <source>contact.information.tab</source>
+        <target>Contact Information</target>
+      </segment>
+    </unit>
+    <unit id="zt3bS6O" name="contact.information.title">
+      <segment>
+        <source>contact.information.title</source>
+        <target>Contact Information: %name%</target>
+      </segment>
+    </unit>
+    <unit id="PSvNXdi" name="This value is not a valid email address.">
+      <segment>
+        <source>This value is not a valid email address.</source>
+        <target>This value is not a valid email address.</target>
+      </segment>
+    </unit>
+    <unit id="UatnqFf" name="person.personal_address.label">
+      <segment>
+        <source>person.personal_address.label</source>
+        <target>Enter Personal Address?</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
