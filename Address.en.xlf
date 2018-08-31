@@ -72,5 +72,197 @@
         <target>The family was not found to attach the address.</target>
       </segment>
     </unit>
+    <unit id="XFaK1G3" name="address.button.add">
+      <segment>
+        <source>address.button.add</source>
+        <target>Add new address</target>
+      </segment>
+    </unit>
+    <unit id="J.VXFNc" name="address.property_name.label">
+      <segment>
+        <source>address.property_name.label</source>
+        <target>Property Name</target>
+      </segment>
+    </unit>
+    <unit id="HmN5rum" name="address.street_name.label">
+      <segment>
+        <source>address.street_name.label</source>
+        <target>Street Name</target>
+      </segment>
+    </unit>
+    <unit id="s9ApVKh" name="address.edit.header">
+      <segment>
+        <source>address.edit.header</source>
+        <target>Manage Address</target>
+      </segment>
+    </unit>
+    <unit id="eo8ud17" name="address.edit.content">
+      <segment>
+        <source>address.edit.content</source>
+        <target>To reduce the amount of typing required, the system allows for addresses to be entered only once.  To select an existing address, select the locality in which the address is located.  If the locality does not exist, then clear the locality selector, enter the new details and save the new locality. Once a locality is selected, you can start typing the name of the street in the address search box.  All matching addresses are presented for selection (limited to the first 20.) To create a new address, clear the address, select the appropriate locality, enter the new address details then save the address. Save the person record (green button) to save the address to the person.</target>
+      </segment>
+    </unit>
+    <unit id="0KNjBVW" name="required">
+      <segment>
+        <source>required</source>
+        <target><![CDATA[&nbsp;Required&nbsp;]]></target>
+      </segment>
+    </unit>
+    <unit id="_up9iGz" name="address.building_type.thse">
+      <segment>
+        <source>address.building_type.thse</source>
+        <target>Town House</target>
+      </segment>
+    </unit>
+    <unit id="MqxULgi" name="address.building_type.apt">
+      <segment>
+        <source>address.building_type.apt</source>
+        <target>Apartment</target>
+      </segment>
+    </unit>
+    <unit id="zlUmp2o" name="address.building_type.unit">
+      <segment>
+        <source>address.building_type.unit</source>
+        <target>Unit</target>
+      </segment>
+    </unit>
+    <unit id="tG.8VKr" name="address.building_type.flat">
+      <segment>
+        <source>address.building_type.flat</source>
+        <target>Flat</target>
+      </segment>
+    </unit>
+    <unit id="LzwfWMJ" name="address.building_type.">
+      <segment>
+        <source>address.building_type.</source>
+        <target>Select Building Type...</target>
+      </segment>
+    </unit>
+    <unit id="w_j782S" name="address.building_type.label">
+      <segment>
+        <source>address.building_type.label</source>
+        <target>Building Type</target>
+      </segment>
+    </unit>
+    <unit id="hAOEq2v" name="address.street_number.label">
+      <segment>
+        <source>address.street_number.label</source>
+        <target>Street Number</target>
+      </segment>
+    </unit>
+    <unit id="YoQt81q" name="address.building_number.label">
+      <segment>
+        <source>address.building_number.label</source>
+        <target>Building Number</target>
+      </segment>
+    </unit>
+    <unit id="SNpA68b" name="address.locality.help">
+      <segment>
+        <source>address.locality.help</source>
+        <target>Localities are created by you for this choice list.</target>
+      </segment>
+    </unit>
+    <unit id="Hk05Qry" name="address.locality.label">
+      <segment>
+        <source>address.locality.label</source>
+        <target>Locality</target>
+      </segment>
+    </unit>
+    <unit id="4WTCN8a" name="address.locality.placeholder">
+      <segment>
+        <source>address.locality.placeholder</source>
+        <target>Select Locality...</target>
+      </segment>
+    </unit>
+    <unit id="XW65EI4" name="locality.button.edit">
+      <segment>
+        <source>locality.button.edit</source>
+        <target>Add/Edit Locality</target>
+      </segment>
+    </unit>
+    <unit id="p785vox" name="locality.edit.header">
+      <segment>
+        <source>locality.edit.header</source>
+        <target>Edit Locality</target>
+      </segment>
+    </unit>
+    <unit id="UYBNJls" name="locality.name.label">
+      <segment>
+        <source>locality.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="Q7ZBGZs" name="locality.post_code.label">
+      <segment>
+        <source>locality.post_code.label</source>
+        <target>Post Code</target>
+      </segment>
+    </unit>
+    <unit id="qZVgQWe" name="locality.territory.label">
+      <segment>
+        <source>locality.territory.label</source>
+        <target>State/Province</target>
+      </segment>
+    </unit>
+    <unit id="D_ELStO" name="locality.country.label">
+      <segment>
+        <source>locality.country.label</source>
+        <target>Country</target>
+      </segment>
+    </unit>
+    <unit id="oxQPCER" name="locality.country.placeholder">
+      <segment>
+        <source>locality.country.placeholder</source>
+        <target>Select Country...</target>
+      </segment>
+    </unit>
+    <unit id="XyZyQgH" name="locality.territory.placeholder">
+      <segment>
+        <source>locality.territory.placeholder</source>
+        <target>Select State/Province...</target>
+      </segment>
+    </unit>
+    <unit id="s9a0uoT" name="locality.button.save">
+      <segment>
+        <source>locality.button.save</source>
+        <target>Save Locality</target>
+      </segment>
+    </unit>
+    <unit id="926muTN" name="locality.country.empty">
+      <segment>
+        <source>locality.country.empty</source>
+        <target>The country is required!</target>
+      </segment>
+    </unit>
+    <unit id="1_AsxA8" name="locality.postCode.empty">
+      <segment>
+        <source>locality.postCode.empty</source>
+        <target>The post code is empty!</target>
+      </segment>
+    </unit>
+    <unit id="FE4TKpE" name="locality.postCode.not_valid">
+      <segment>
+        <source>locality.postCode.not_valid</source>
+        <target>The post code is not valid!</target>
+      </segment>
+    </unit>
+    <unit id="WUsuwEN" name="locality.territory.empty">
+      <segment>
+        <source>locality.territory.empty</source>
+        <target>The territory is required!</target>
+      </segment>
+    </unit>
+    <unit id="uFWa9Bm" name="locality.territory.not_valid">
+      <segment>
+        <source>locality.territory.not_valid</source>
+        <target>Territory is not valid!</target>
+      </segment>
+    </unit>
+    <unit id="Z6oQDMP" name="locality.button.exit">
+      <segment>
+        <source>locality.button.exit</source>
+        <target>Exit Locality Management</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
