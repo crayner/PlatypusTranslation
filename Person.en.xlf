@@ -737,5 +737,11 @@ Use Control, Command and/or Shift to select multiple.
         <target>Enter Personal Address?</target>
       </segment>
     </unit>
+    <unit id="r5z81rU" name="person.validator.email.unique">
+      <segment>
+        <source>person.validator.email.unique</source>
+        <target>The email needs to be unique!</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

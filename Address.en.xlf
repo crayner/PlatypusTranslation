@@ -261,7 +261,49 @@
     <unit id="Z6oQDMP" name="locality.button.exit">
       <segment>
         <source>locality.button.exit</source>
-        <target>Exit Locality Management</target>
+        <target>Exit Locality without saving.</target>
+      </segment>
+    </unit>
+    <unit id="ImAVSdS" name="address.button.edit">
+      <segment>
+        <source>address.button.edit</source>
+        <target>Edit this address</target>
+      </segment>
+    </unit>
+    <unit id="eBNveq1" name="address.post_code.help">
+      <segment>
+        <source>address.post_code.help</source>
+        <target>Some countries link postal codes a building or street.  Use the post code in the locality record when the post code covers a suburb/town.</target>
+      </segment>
+    </unit>
+    <unit id="HewzMm." name="address.post_code.label">
+      <segment>
+        <source>address.post_code.label</source>
+        <target>Post Code</target>
+      </segment>
+    </unit>
+    <unit id="VWRilbs" name="address.edit.help">
+      <segment>
+        <source>address.edit.help</source>
+        <target>Changing an address will change the address details for all families and people to which this address is linked. Consider carefully any changes to an address, or consider adding a new address.</target>
+      </segment>
+    </unit>
+    <unit id="ZMWakwz" name="address.button.exit">
+      <segment>
+        <source>address.button.exit</source>
+        <target>Exit address without Saving</target>
+      </segment>
+    </unit>
+    <unit id="wNaGCVY" name="address.postCode.not_valid">
+      <segment>
+        <source>address.postCode.not_valid</source>
+        <target>The post code is not valid!</target>
+      </segment>
+    </unit>
+    <unit id="absyi9V" name="address.locality.empty">
+      <segment>
+        <source>address.locality.empty</source>
+        <target>The locality must be selected</target>
       </segment>
     </unit>
   </file>
