@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Phone.en">
+    <unit id="DbOJaK4" name="phone.search.placeholder">
+      <segment>
+        <source>phone.search.placeholder</source>
+        <target>Search phone records...</target>
+      </segment>
+    </unit>
+    <unit id="qmmSW6O" name="phone.button.add">
+      <segment>
+        <source>phone.button.add</source>
+        <target>Create Phone Record...</target>
+      </segment>
+    </unit>
+    <unit id="C__1saF" name="phone.remove">
+      <segment>
+        <source>phone.remove</source>
+        <target>Remove Phone</target>
+      </segment>
+    </unit>
+    <unit id="_BWAXQk" name="phone.type.">
+      <segment>
+        <source>phone.type.</source>
+        <target>Select Phone Type...</target>
+      </segment>
+    </unit>
+    <unit id="nQeKaYV" name="phone.type.home">
+      <segment>
+        <source>phone.type.home</source>
+        <target>Home</target>
+      </segment>
+    </unit>
+    <unit id="ENGdWmX" name="phone.type.mobile">
+      <segment>
+        <source>phone.type.mobile</source>
+        <target>Mobile</target>
+      </segment>
+    </unit>
+    <unit id="UniXn0c" name="phone.type.work">
+      <segment>
+        <source>phone.type.work</source>
+        <target>Work</target>
+      </segment>
+    </unit>
+    <unit id="966Esj3" name="phone.type.fax">
+      <segment>
+        <source>phone.type.fax</source>
+        <target>Fascimile</target>
+      </segment>
+    </unit>
+    <unit id="e7R6j4Q" name="phone.button.edit">
+      <segment>
+        <source>phone.button.edit</source>
+        <target>Edit Phone</target>
+      </segment>
+    </unit>
+    <unit id="7O7y0uR" name="phone.type.label">
+      <segment>
+        <source>phone.type.label</source>
+        <target>Type of Phone</target>
+      </segment>
+    </unit>
+    <unit id="eGpLA7q" name="phone.number.label">
+      <segment>
+        <source>phone.number.label</source>
+        <target>Phone Number</target>
+      </segment>
+    </unit>
+    <unit id="Z37oUJQ" name="phone.country.label">
+      <segment>
+        <source>phone.country.label</source>
+        <target>Country</target>
+      </segment>
+    </unit>
+    <unit id="GYkmihC" name="phone.button.save">
+      <segment>
+        <source>phone.button.save</source>
+        <target>Save Phone Record</target>
+      </segment>
+    </unit>
+    <unit id="7AkmKuy" name="phone.edit.header">
+      <segment>
+        <source>phone.edit.header</source>
+        <target>Manage Phone Record</target>
+      </segment>
+    </unit>
+    <unit id="5jv5F46" name="phone.button.exit">
+      <segment>
+        <source>phone.button.exit</source>
+        <target>Exit Phone Record without saving!</target>
+      </segment>
+    </unit>
+    <unit id="HOPCE6s" name="phone.edit.help">
+      <segment>
+        <source>phone.edit.help</source>
+        <target>Phone information for an individual only needs to be set under the following conditions:
+If the person is not assigned to a family.
+If the person's family does not have a shared phone number set.
+If the person needs an address in addition to their family's phone number.
+Phone numbers attached via the family record are listed here, but can only be removed in the family record.
+
+</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
