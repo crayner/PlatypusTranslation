@@ -884,7 +884,7 @@ Use Control, Command and/or Shift to select multiple.
     <unit id="lqCO4PJ" name="person.birth_certificate_scan.help">
       <segment>
         <source>person.birth_certificate_scan.help</source>
-        <target>Max size 750kB. Square to Portrait Ratio of 1:1.414. Image or PDF accepted.</target>
+        <target>Less than 750kB. Image of Ratio 0.707:1 to 1:1.414 or PDF.</target>
       </segment>
     </unit>
     <unit id=".cjohNU" name="student.ethnicity.placeholder">
@@ -927,6 +927,138 @@ Use Control, Command and/or Shift to select multiple.
       <segment>
         <source>The file is not a valid image or PDF. Accepts: "image/png", "image/gif", "image/jpg", "image/jpeg", "application/pdf" but received "text/plain"</source>
         <target>The file is not a valid image or PDF. Accepts: "image/png", "image/gif", "image/jpg", "image/jpeg", "application/pdf" but received "text/plain"</target>
+      </segment>
+    </unit>
+    <unit id="L6097a6" name="The size of the image could not be detected.">
+      <segment>
+        <source>The size of the image could not be detected.</source>
+        <target>The size of the image could not be detected.</target>
+      </segment>
+    </unit>
+    <unit id="CC4GGFf" name="The image ratio is too small (0.72). Minimum ratio expected is 1.">
+      <segment>
+        <source>The image ratio is too small (0.72). Minimum ratio expected is 1.</source>
+        <target>The image ratio is too small (0.72). Minimum ratio expected is 1.</target>
+      </segment>
+    </unit>
+    <unit id="PQGHrYV" name="person.citizenship.placeholder">
+      <segment>
+        <source>person.citizenship.placeholder</source>
+        <target>Select Citizenship...</target>
+      </segment>
+    </unit>
+    <unit id="h5Vu7va" name="person.citizenship_1.label">
+      <segment>
+        <source>person.citizenship_1.label</source>
+        <target>Citizenship 1</target>
+      </segment>
+    </unit>
+    <unit id="KbUg3TK" name="person.citizenshipship_1_passport.label">
+      <segment>
+        <source>person.citizenshipship_1_passport.label</source>
+        <target>Citizenship 1 Passport Number </target>
+      </segment>
+    </unit>
+    <unit id="15Ar17S" name="person.citizenship_1_passport_scan.label">
+      <segment>
+        <source>person.citizenship_1_passport_scan.label</source>
+        <target>Citizenship 1 Passport Scan </target>
+      </segment>
+    </unit>
+    <unit id="Qty5ubG" name="person.citizenship_1_passport_scan.help">
+      <segment>
+        <source>person.citizenship_1_passport_scan.help</source>
+        <target>Less than 750kB. Image of Ratio 0.707:1 to 1:1.414 or PDF.</target>
+      </segment>
+    </unit>
+    <unit id="wzwiIj2" name="person.citizenship_2_passport.label">
+      <segment>
+        <source>person.citizenship_2_passport.label</source>
+        <target>Citizenship 2 Passport Number </target>
+      </segment>
+    </unit>
+    <unit id="O_pSbAs" name="person.citizenship_2.label">
+      <segment>
+        <source>person.citizenship_2.label</source>
+        <target>Citizenship 2</target>
+      </segment>
+    </unit>
+    <unit id="YAfbY_G" name="Person">
+      <segment>
+        <source>Person</source>
+        <target>Person</target>
+      </segment>
+    </unit>
+    <unit id="sbqoqdP" name="person.national_id_card.label">
+      <segment>
+        <source>person.national_id_card.label</source>
+        <target>%{national} ID Card Number</target>
+      </segment>
+    </unit>
+    <unit id="nx4a7mM" name="person.national_id_card_scan.label">
+      <segment>
+        <source>person.national_id_card_scan.label</source>
+        <target>%{national} ID Card Scan</target>
+      </segment>
+    </unit>
+    <unit id="J.tXbyy" name="person.national_id_card_scan.help">
+      <segment>
+        <source>person.national_id_card_scan.help</source>
+        <target>Less than 750kB. Image of Ratio 0.707:1 to 1:1.414 or PDF.</target>
+      </segment>
+    </unit>
+    <unit id="RV8bCaz" name="person.visa_expiry_date.label">
+      <segment>
+        <source>person.visa_expiry_date.label</source>
+        <target>%{national} Visa Expiry Date </target>
+      </segment>
+    </unit>
+    <unit id="G9oDawC" name="person.visa_expiry_date.help">
+      <segment>
+        <source>person.visa_expiry_date.help</source>
+        <target>If relevant.</target>
+      </segment>
+    </unit>
+    <unit id=".9zd9wD" name="person.residency_status.placeholder">
+      <segment>
+        <source>person.residency_status.placeholder</source>
+        <target>Select status...</target>
+      </segment>
+    </unit>
+    <unit id="tUXy_0R" name="person.residency_status.citizen">
+      <segment>
+        <source>person.residency_status.citizen</source>
+        <target>Citizen</target>
+      </segment>
+    </unit>
+    <unit id="mPQ.rfp" name="person.residency_status.permanent">
+      <segment>
+        <source>person.residency_status.permanent</source>
+        <target>Permanent Resident</target>
+      </segment>
+    </unit>
+    <unit id="sDLh3vz" name="person.residency_status.temporary">
+      <segment>
+        <source>person.residency_status.temporary</source>
+        <target>Temporary Resident</target>
+      </segment>
+    </unit>
+    <unit id="qW3H1kJ" name="person.residency_status.visitor">
+      <segment>
+        <source>person.residency_status.visitor</source>
+        <target>Visitor</target>
+      </segment>
+    </unit>
+    <unit id="2mMOwS." name="person.residency_status.work">
+      <segment>
+        <source>person.residency_status.work</source>
+        <target>Work Visa</target>
+      </segment>
+    </unit>
+    <unit id="zLmBajM" name="person.residency_status.label">
+      <segment>
+        <source>person.residency_status.label</source>
+        <target>%{national} Residency Visa Type</target>
       </segment>
     </unit>
   </file>
