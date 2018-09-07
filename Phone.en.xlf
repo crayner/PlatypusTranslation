@@ -103,5 +103,17 @@ Phone numbers attached via the family record are listed here, but can only be re
 </target>
       </segment>
     </unit>
+    <unit id="kLcxKVP" name="phone.help.header">
+      <segment>
+        <source>phone.help.header</source>
+        <target>Manage Phones</target>
+      </segment>
+    </unit>
+    <unit id="dnZpOOw" name="phone.help.content">
+      <segment>
+        <source>phone.help.content</source>
+        <target>The same considerations listed in the address section apply to phone management.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

@@ -743,5 +743,191 @@ Use Control, Command and/or Shift to select multiple.
         <target>The email needs to be unique!</target>
       </segment>
     </unit>
+    <unit id="F8sP5MJ" name="school.information.tab">
+      <segment>
+        <source>school.information.tab</source>
+        <target>School Details</target>
+      </segment>
+    </unit>
+    <unit id="BtEolOy" name="school.information.title">
+      <segment>
+        <source>school.information.title</source>
+        <target>School Information: %name%</target>
+      </segment>
+    </unit>
+    <unit id="X7l8cyV" name="person.last_school.label">
+      <segment>
+        <source>person.last_school.label</source>
+        <target>Last School</target>
+      </segment>
+    </unit>
+    <unit id="7Qgqa9H" name="person.graduation_year.placeholder">
+      <segment>
+        <source>person.graduation_year.placeholder</source>
+        <target>Select Graduation Year...</target>
+      </segment>
+    </unit>
+    <unit id="AG.FR.7" name="person.graduation_year.label">
+      <segment>
+        <source>person.graduation_year.label</source>
+        <target>Graduation Year (Class of)</target>
+      </segment>
+    </unit>
+    <unit id="hTNsSCB" name="person.graduation_year.help">
+      <segment>
+        <source>person.graduation_year.help</source>
+        <target>When is the student expected to graduate?</target>
+      </segment>
+    </unit>
+    <unit id="RzkdCpj" name="person.date_start.label">
+      <segment>
+        <source>person.date_start.label</source>
+        <target>Start Date</target>
+      </segment>
+    </unit>
+    <unit id="SlmuLtM" name="person.date_start.help">
+      <segment>
+        <source>person.date_start.help</source>
+        <target>Students's first day at school</target>
+      </segment>
+    </unit>
+    <unit id="RyyiHz5" name="person.date_end.label">
+      <segment>
+        <source>person.date_end.label</source>
+        <target>End Date</target>
+      </segment>
+    </unit>
+    <unit id="_d8J_ur" name="person.date_end.help">
+      <segment>
+        <source>person.date_end.help</source>
+        <target>Student's last day at school.</target>
+      </segment>
+    </unit>
+    <unit id="CwbBkHj" name="person.next_school.label">
+      <segment>
+        <source>person.next_school.label</source>
+        <target>Next School</target>
+      </segment>
+    </unit>
+    <unit id="UuYW_Ua" name="person.departure_reason.label">
+      <segment>
+        <source>person.departure_reason.label</source>
+        <target>Departure Reason</target>
+      </segment>
+    </unit>
+    <unit id="KpHVfiI" name="background.information.tab">
+      <segment>
+        <source>background.information.tab</source>
+        <target>Background Details</target>
+      </segment>
+    </unit>
+    <unit id="DJ4e3ZK" name="background.information.title">
+      <segment>
+        <source>background.information.title</source>
+        <target>Background Information: %name%</target>
+      </segment>
+    </unit>
+    <unit id="kk0L661" name="person.language_first.placeholder">
+      <segment>
+        <source>person.language_first.placeholder</source>
+        <target>First Language </target>
+      </segment>
+    </unit>
+    <unit id="rmQ0tis" name="person.language_first.label">
+      <segment>
+        <source>person.language_first.label</source>
+        <target>Select Language...</target>
+      </segment>
+    </unit>
+    <unit id="dhn0H14" name="person.language_second.placeholder">
+      <segment>
+        <source>person.language_second.placeholder</source>
+        <target>Select Language...</target>
+      </segment>
+    </unit>
+    <unit id="o8kCpOV" name="person.language_second.label">
+      <segment>
+        <source>person.language_second.label</source>
+        <target>Second Language</target>
+      </segment>
+    </unit>
+    <unit id="g8_RlbJ" name="person.language_third.placeholder">
+      <segment>
+        <source>person.language_third.placeholder</source>
+        <target>Select Language...</target>
+      </segment>
+    </unit>
+    <unit id="LfOH.gz" name="person.language_third.label">
+      <segment>
+        <source>person.language_third.label</source>
+        <target>Third Language</target>
+      </segment>
+    </unit>
+    <unit id="aMX5qj." name="person.country_birth.placeholder">
+      <segment>
+        <source>person.country_birth.placeholder</source>
+        <target>Select Country...</target>
+      </segment>
+    </unit>
+    <unit id="AZkWOsA" name="person.country_birth.label">
+      <segment>
+        <source>person.country_birth.label</source>
+        <target>Country of Birth</target>
+      </segment>
+    </unit>
+    <unit id="G_IE_x5" name="person.birth_certificate_scan.label">
+      <segment>
+        <source>person.birth_certificate_scan.label</source>
+        <target>Birth Certificate Scan</target>
+      </segment>
+    </unit>
+    <unit id="lqCO4PJ" name="person.birth_certificate_scan.help">
+      <segment>
+        <source>person.birth_certificate_scan.help</source>
+        <target>Max size 750kB. Square to Portrait Ratio of 1:1.414. Image or PDF accepted.</target>
+      </segment>
+    </unit>
+    <unit id=".cjohNU" name="student.ethnicity.placeholder">
+      <segment>
+        <source>student.ethnicity.placeholder</source>
+        <target>Select ...</target>
+      </segment>
+    </unit>
+    <unit id="3lzvQzU" name="student.ethnicity.label">
+      <segment>
+        <source>student.ethnicity.label</source>
+        <target>Ethnicity</target>
+      </segment>
+    </unit>
+    <unit id="at1evlh" name="student.religion.placeholder">
+      <segment>
+        <source>student.religion.placeholder</source>
+        <target>Select ...</target>
+      </segment>
+    </unit>
+    <unit id="gtNhaXp" name="student.religion.label">
+      <segment>
+        <source>student.religion.label</source>
+        <target>Religion</target>
+      </segment>
+    </unit>
+    <unit id="BS2Ez6i" name="This file is not a valid image.">
+      <segment>
+        <source>This file is not a valid image.</source>
+        <target>This file is not a valid image.</target>
+      </segment>
+    </unit>
+    <unit id="Yjzd_Cb" name="The file is not a valid image or PDF.">
+      <segment>
+        <source>The file is not a valid image or PDF.</source>
+        <target>The file is not a valid image or PDF.</target>
+      </segment>
+    </unit>
+    <unit id="usfFSXV" name="654b952">
+      <segment>
+        <source>The file is not a valid image or PDF. Accepts: "image/png", "image/gif", "image/jpg", "image/jpeg", "application/pdf" but received "text/plain"</source>
+        <target>The file is not a valid image or PDF. Accepts: "image/png", "image/gif", "image/jpg", "image/jpeg", "application/pdf" but received "text/plain"</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
