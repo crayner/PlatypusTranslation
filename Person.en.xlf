@@ -1115,5 +1115,17 @@ Use Control, Command and/or Shift to select multiple.
         <target>Locker Number</target>
       </segment>
     </unit>
+    <unit id="Gnj4WBr" name="person.transport.label">
+      <segment>
+        <source>person.transport.label</source>
+        <target>Transport</target>
+      </segment>
+    </unit>
+    <unit id="jy5Ja_d" name="person.transport_notes.label">
+      <segment>
+        <source>person.transport_notes.label</source>
+        <target>Transport Notes</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
