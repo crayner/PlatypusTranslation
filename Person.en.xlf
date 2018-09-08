@@ -1061,5 +1061,59 @@ Use Control, Command and/or Shift to select multiple.
         <target>%{national} Residency Visa Type</target>
       </segment>
     </unit>
+    <unit id="tF98SuJ" name="miscellaneous.tab">
+      <segment>
+        <source>miscellaneous.tab</source>
+        <target>Miscellaneous</target>
+      </segment>
+    </unit>
+    <unit id="O5f6sjJ" name="miscellaneous.title">
+      <segment>
+        <source>miscellaneous.title</source>
+        <target>Miscellaneous: %name%</target>
+      </segment>
+    </unit>
+    <unit id="h1IoIC8" name="person.house.placeholder">
+      <segment>
+        <source>person.house.placeholder</source>
+        <target>Select House...</target>
+      </segment>
+    </unit>
+    <unit id="GQbfS3q" name="person.house.label">
+      <segment>
+        <source>person.house.label</source>
+        <target>House</target>
+      </segment>
+    </unit>
+    <unit id="z0eUYgK" name="person.house.help">
+      <segment>
+        <source>person.house.help</source>
+        <target>person.house.help</target>
+      </segment>
+    </unit>
+    <unit id="PeYmRYU" name="person.vehicle_registration.label">
+      <segment>
+        <source>person.vehicle_registration.label</source>
+        <target>Vehicle Registration</target>
+      </segment>
+    </unit>
+    <unit id="ykWhl85" name="person.student_identifier.label">
+      <segment>
+        <source>person.student_identifier.label</source>
+        <target>Student Identifier</target>
+      </segment>
+    </unit>
+    <unit id="uequvdn" name="person.student_identifier.help">
+      <segment>
+        <source>person.student_identifier.help</source>
+        <target>Unique Value or empty!</target>
+      </segment>
+    </unit>
+    <unit id="Vltxq3m" name="person.locker_number.label">
+      <segment>
+        <source>person.locker_number.label</source>
+        <target>Locker Number</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
