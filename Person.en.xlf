@@ -462,7 +462,7 @@ Only enables timetable integration when logging in via Google.</target>
     <unit id="Hcjeft6" name="person.edit.description">
       <segment>
         <source>person.edit.description</source>
-        <target></target>
+        <target>Note that certain fields are hidden or revealed depending on the role categories (Staff, Student, Parent) that a user is assigned to. For example, parents do not get Emergency Contact fields, and students/staff do not get Employment fields.</target>
       </segment>
     </unit>
     <unit id="OWHkKI4" name="basic.information.tab">
@@ -1179,6 +1179,12 @@ Use Control, Command and/or Shift to select multiple.
       <segment>
         <source>employment.title</source>
         <target>Employment: %name%</target>
+      </segment>
+    </unit>
+    <unit id="CuhJdy5" name="person.website.label">
+      <segment>
+        <source>person.website.label</source>
+        <target>Website</target>
       </segment>
     </unit>
   </file>
