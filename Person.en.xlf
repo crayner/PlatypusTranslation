@@ -1127,5 +1127,59 @@ Use Control, Command and/or Shift to select multiple.
         <target>Transport Notes</target>
       </segment>
     </unit>
+    <unit id="rXTkRTN" name="parent.date_start.help">
+      <segment>
+        <source>parent.date_start.help</source>
+        <target>First date that this parent's children started at this school.</target>
+      </segment>
+    </unit>
+    <unit id="TL8E5lB" name="parent.date_end.help">
+      <segment>
+        <source>parent.date_end.help</source>
+        <target>Last date that this parent's children attended this school.</target>
+      </segment>
+    </unit>
+    <unit id="N2xS0U4" name="staff.date_start.help">
+      <segment>
+        <source>staff.date_start.help</source>
+        <target>First date of work at this school.</target>
+      </segment>
+    </unit>
+    <unit id="Q6UJ4ZJ" name="staff.date_end.help">
+      <segment>
+        <source>staff.date_end.help</source>
+        <target>Last date of work at this school.</target>
+      </segment>
+    </unit>
+    <unit id="LvECF.h" name="employment.tab">
+      <segment>
+        <source>employment.tab</source>
+        <target>Employment</target>
+      </segment>
+    </unit>
+    <unit id="WubI6mz" name="person.profession.label">
+      <segment>
+        <source>person.profession.label</source>
+        <target>Profession</target>
+      </segment>
+    </unit>
+    <unit id="NZy8gc4" name="person.employer.label">
+      <segment>
+        <source>person.employer.label</source>
+        <target>Employer</target>
+      </segment>
+    </unit>
+    <unit id="OUnJO0e" name="person.job_title.label">
+      <segment>
+        <source>person.job_title.label</source>
+        <target>Job Title</target>
+      </segment>
+    </unit>
+    <unit id="Kac76Tk" name="employment.title">
+      <segment>
+        <source>employment.title</source>
+        <target>Employment: %name%</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
