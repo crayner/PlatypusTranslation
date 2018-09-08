@@ -1187,5 +1187,29 @@ Use Control, Command and/or Shift to select multiple.
         <target>Website</target>
       </segment>
     </unit>
+    <unit id="Z0yQ.DJ" name="personal_settings">
+      <segment>
+        <source>personal_settings</source>
+        <target>Manage Personal Settings</target>
+      </segment>
+    </unit>
+    <unit id="ME8FvTx" name="Departure Reasons">
+      <segment>
+        <source>Departure Reasons</source>
+        <target>Departure Reasons</target>
+      </segment>
+    </unit>
+    <unit id="ApYfl6C" name="List of departure reasons.">
+      <segment>
+        <source>List of departure reasons.</source>
+        <target>List of departure reasons.</target>
+      </segment>
+    </unit>
+    <unit id="88hbHQw" name="personnel_settings">
+      <segment>
+        <source>personnel_settings</source>
+        <target>Personnel Settings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
