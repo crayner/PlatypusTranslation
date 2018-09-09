@@ -157,5 +157,11 @@
         <target>Filtered by: </target>
       </segment>
     </unit>
+    <unit id="Ne5Y3Xc" name="roll_group.sort.name">
+      <segment>
+        <source>roll_group.sort.name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
