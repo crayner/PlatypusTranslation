@@ -1211,5 +1211,149 @@ Use Control, Command and/or Shift to select multiple.
         <target>Personnel Settings</target>
       </segment>
     </unit>
+    <unit id="BlnimNf" name="English - Default">
+      <segment>
+        <source>English - Default</source>
+        <target>English - Default</target>
+      </segment>
+    </unit>
+    <unit id="8jWa0XA" name="manage_custom_fields">
+      <segment>
+        <source>manage_custom_fields</source>
+        <target>Manage People Custom Fields</target>
+      </segment>
+    </unit>
+    <unit id="luwHaqk" name="person.field.title">
+      <segment>
+        <source>person.field.title</source>
+        <target>Manage Custom Fields</target>
+      </segment>
+    </unit>
+    <unit id="9S7UyX2" name="person.field.description">
+      <segment>
+        <source>person.field.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="4af9eld" name="field.list.placeholder">
+      <segment>
+        <source>field.list.placeholder</source>
+        <target>Select to edit or add new...</target>
+      </segment>
+    </unit>
+    <unit id="cQiTVDL" name="field.name.label">
+      <segment>
+        <source>field.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="4iL2_Ex" name="field.active.label">
+      <segment>
+        <source>field.active.label</source>
+        <target>Active</target>
+      </segment>
+    </unit>
+    <unit id="0BzFknQ" name="personfield.type.varchar">
+      <segment>
+        <source>personfield.type.varchar</source>
+        <target><![CDATA[String (< 256 Characters)]]></target>
+      </segment>
+    </unit>
+    <unit id="W_iiQ7Y" name="personfield.type.text">
+      <segment>
+        <source>personfield.type.text</source>
+        <target>Long Text</target>
+      </segment>
+    </unit>
+    <unit id="Ge4FVBe" name="personfield.type.date">
+      <segment>
+        <source>personfield.type.date</source>
+        <target>Date Time</target>
+      </segment>
+    </unit>
+    <unit id="D5nFuhR" name="personfield.type.url">
+      <segment>
+        <source>personfield.type.url</source>
+        <target>URL (Link)</target>
+      </segment>
+    </unit>
+    <unit id="V7taWwE" name="personfield.type.select">
+      <segment>
+        <source>personfield.type.select</source>
+        <target>Dropdown</target>
+      </segment>
+    </unit>
+    <unit id="n9.PrC0" name="personfield.type.checkboxes">
+      <segment>
+        <source>personfield.type.checkboxes</source>
+        <target>Check Boxes</target>
+      </segment>
+    </unit>
+    <unit id="d5q5jHv" name="field.type.label">
+      <segment>
+        <source>field.type.label</source>
+        <target>Field Type</target>
+      </segment>
+    </unit>
+    <unit id="W0rvotd" name="field.required.label">
+      <segment>
+        <source>field.required.label</source>
+        <target>Required</target>
+      </segment>
+    </unit>
+    <unit id="9QehdVg" name="field.description.label">
+      <segment>
+        <source>field.description.label</source>
+        <target>Description</target>
+      </segment>
+    </unit>
+    <unit id="AjmmJnv" name="field.type.placeholder">
+      <segment>
+        <source>field.type.placeholder</source>
+        <target>Select Field Type</target>
+      </segment>
+    </unit>
+    <unit id="nRLkEhx" name="field.for_student.label">
+      <segment>
+        <source>field.for_student.label</source>
+        <target>Apply to Student Records</target>
+      </segment>
+    </unit>
+    <unit id="c8x0GXC" name="field.for_staff.label">
+      <segment>
+        <source>field.for_staff.label</source>
+        <target>Apply to Staff Records</target>
+      </segment>
+    </unit>
+    <unit id="U3Gbc9s" name="field.for_parent.label">
+      <segment>
+        <source>field.for_parent.label</source>
+        <target>Apply to Parent Records</target>
+      </segment>
+    </unit>
+    <unit id="No2EV6W" name="field.for_other.label">
+      <segment>
+        <source>field.for_other.label</source>
+        <target>Apply to Other Records</target>
+      </segment>
+    </unit>
+    <unit id="ZfF0TdY" name="field.for_data_updater.label">
+      <segment>
+        <source>field.for_data_updater.label</source>
+        <target>Include in Data Updater</target>
+      </segment>
+    </unit>
+    <unit id="bhC0d.J" name="field.for_application_form.label">
+      <segment>
+        <source>field.for_application_form.label</source>
+        <target>Include in Application Form</target>
+      </segment>
+    </unit>
+    <unit id="JqOhFiy" name="field.for_public_registration.label">
+      <segment>
+        <source>field.for_public_registration.label</source>
+        <target>Include in Public Registration Form</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
