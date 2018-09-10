@@ -85,5 +85,131 @@
         <target>This form is independent of the password change form.</target>
       </segment>
     </unit>
+    <unit id="121GKTL" name="manage_roles">
+      <segment>
+        <source>manage_roles</source>
+        <target>Manage Roles</target>
+      </segment>
+    </unit>
+    <unit id="h8Gblev" name="manage_permissions">
+      <segment>
+        <source>manage_permissions</source>
+        <target>Manage Permissions</target>
+      </segment>
+    </unit>
+    <unit id="qXUJ_RL" name="action.permissions.title">
+      <segment>
+        <source>action.permissions.title</source>
+        <target>Manage Permissions</target>
+      </segment>
+    </unit>
+    <unit id="pgVNixZ" name="action.permissions.description">
+      <segment>
+        <source>action.permissions.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="9vg66F6" name="action.name.label">
+      <segment>
+        <source>action.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="wR_yS1q" name="action.groupby.school_admin">
+      <segment>
+        <source>action.groupby.school_admin</source>
+        <target>School Administration</target>
+      </segment>
+    </unit>
+    <unit id="07rpIpo" name="action.groupBy.label">
+      <segment>
+        <source>action.groupBy.label</source>
+        <target>Group By</target>
+      </segment>
+    </unit>
+    <unit id="3tCpzKo" name="action.route.label">
+      <segment>
+        <source>action.route.label</source>
+        <target>Route</target>
+      </segment>
+    </unit>
+    <unit id="jp8JULM" name="action.route.help">
+      <segment>
+        <source>action.route.help</source>
+        <target>The Symfony Route Name</target>
+      </segment>
+    </unit>
+    <unit id="le023yQ" name="__name__label__">
+      <segment>
+        <source>__name__label__</source>
+        <target>__name__label__</target>
+      </segment>
+    </unit>
+    <unit id="IhpiLA2" name="action.route_params.label">
+      <segment>
+        <source>action.route_params.label</source>
+        <target>Route Parameters</target>
+      </segment>
+    </unit>
+    <unit id="Q_72Emf" name="action.route_params.help">
+      <segment>
+        <source>action.route_params.help</source>
+        <target>An array of route parameters which must be met to match this action. %{parameters}  To match any value enter a '%'</target>
+      </segment>
+    </unit>
+    <unit id="PNr0ysj" name="action.role.label">
+      <segment>
+        <source>action.role.label</source>
+        <target>Primary Role</target>
+      </segment>
+    </unit>
+    <unit id="o8I91wC" name="action.role.help">
+      <segment>
+        <source>action.role.help</source>
+        <target>This role must be selected for each action permission.</target>
+      </segment>
+    </unit>
+    <unit id="tcrV6xN" name="action.person_roles.label">
+      <segment>
+        <source>action.person_roles.label</source>
+        <target>Secondary Roles</target>
+      </segment>
+    </unit>
+    <unit id="PAqUCQx" name="action.person_roles.help">
+      <segment>
+        <source>action.person_roles.help</source>
+        <target>Allow these roles as well as the primary role. Multiple selection is enabled.</target>
+      </segment>
+    </unit>
+    <unit id="fSqsDLO" name="action.role.placeholder">
+      <segment>
+        <source>action.role.placeholder</source>
+        <target>Select Primary Role...</target>
+      </segment>
+    </unit>
+    <unit id="XhaOxkF" name="action.title">
+      <segment>
+        <source>action.title</source>
+        <target>Action Permissions</target>
+      </segment>
+    </unit>
+    <unit id="c__a1V8" name="action.description">
+      <segment>
+        <source>action.description</source>
+        <target>Set permissions to allow other groups access to this action.</target>
+      </segment>
+    </unit>
+    <unit id="PHxlQca" name="action.route_param.name.label">
+      <segment>
+        <source>action.route_param.name.label</source>
+        <target>Parameter Name</target>
+      </segment>
+    </unit>
+    <unit id="mVECElC" name="action.route_param.value.label">
+      <segment>
+        <source>action.route_param.value.label</source>
+        <target>Parameter Value</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
