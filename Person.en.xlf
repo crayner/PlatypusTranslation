@@ -1355,5 +1355,143 @@ Use Control, Command and/or Shift to select multiple.
         <target>Include in Public Registration Form</target>
       </segment>
     </unit>
+    <unit id="jD5Flru" name="person.role.title">
+      <segment>
+        <source>person.role.title</source>
+        <target>Manage Roles</target>
+      </segment>
+    </unit>
+    <unit id="fkRCjlf" name="person.role.description">
+      <segment>
+        <source>person.role.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="rAoze2b" name="person.roles.placeholder">
+      <segment>
+        <source>person.roles.placeholder</source>
+        <target>Select to edit or add...</target>
+      </segment>
+    </unit>
+    <unit id="qpJ6g3u" name="role.name.label">
+      <segment>
+        <source>role.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="Ufw6ABx" name="personrole.category.staff">
+      <segment>
+        <source>personrole.category.staff</source>
+        <target>Staff</target>
+      </segment>
+    </unit>
+    <unit id="IFIIjG." name="personrole.category.other">
+      <segment>
+        <source>personrole.category.other</source>
+        <target>Other</target>
+      </segment>
+    </unit>
+    <unit id="uy33eW7" name="role.category.label">
+      <segment>
+        <source>role.category.label</source>
+        <target>Category</target>
+      </segment>
+    </unit>
+    <unit id="7ZV9W_k" name="role.description.label">
+      <segment>
+        <source>role.description.label</source>
+        <target>Description</target>
+      </segment>
+    </unit>
+    <unit id="heF5.Y." name="role.name_short.label">
+      <segment>
+        <source>role.name_short.label</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="7QANdEG" name="personrole.type.core">
+      <segment>
+        <source>personrole.type.core</source>
+        <target>Core</target>
+      </segment>
+    </unit>
+    <unit id="esfe_gu" name="personrole.type.additional">
+      <segment>
+        <source>personrole.type.additional</source>
+        <target>Additional</target>
+      </segment>
+    </unit>
+    <unit id="8trGVvD" name="role.type.label">
+      <segment>
+        <source>role.type.label</source>
+        <target>Type</target>
+      </segment>
+    </unit>
+    <unit id="hgI4Bvw" name="role.restriction.help">
+      <segment>
+        <source>role.restriction.help</source>
+        <target>Determines who can grant or remove this role in Manage Users. </target>
+      </segment>
+    </unit>
+    <unit id="zYqZMCV" name="role.restriction.label">
+      <segment>
+        <source>role.restriction.label</source>
+        <target>Restriction</target>
+      </segment>
+    </unit>
+    <unit id="ILI5RvI" name="personrole.restriction.admin_only">
+      <segment>
+        <source>personrole.restriction.admin_only</source>
+        <target>Administrators Only</target>
+      </segment>
+    </unit>
+    <unit id="Pk.T8N1" name="personrole.restriction.same_role">
+      <segment>
+        <source>personrole.restriction.same_role</source>
+        <target>People of the same role</target>
+      </segment>
+    </unit>
+    <unit id="hgVyzfq" name="personrole.restriction.none">
+      <segment>
+        <source>personrole.restriction.none</source>
+        <target>None</target>
+      </segment>
+    </unit>
+    <unit id="H1KlyCH" name="role.past_years_login.label">
+      <segment>
+        <source>role.past_years_login.label</source>
+        <target>Login To Past Years</target>
+      </segment>
+    </unit>
+    <unit id="OJEhvxg" name="role.future_years_login.label">
+      <segment>
+        <source>role.future_years_login.label</source>
+        <target>Login To Future Years</target>
+      </segment>
+    </unit>
+    <unit id="N4GL8Ky" name="role.value.set">
+      <segment>
+        <source>role.value.set</source>
+        <target>This value cannot be changed.</target>
+      </segment>
+    </unit>
+    <unit id="jCin1iI" name="role.restriction.helprole.value.set">
+      <segment>
+        <source>role.restriction.helprole.value.set</source>
+        <target>Determines who can grant or remove this role in Manage Users. This value cannot be changed.</target>
+      </segment>
+    </unit>
+    <unit id="PpWj_vm" name="role.category.placeholder">
+      <segment>
+        <source>role.category.placeholder</source>
+        <target>Please select ...</target>
+      </segment>
+    </unit>
+    <unit id="c7cv_9M" name="form.placeholder">
+      <segment>
+        <source>form.placeholder</source>
+        <target>Please select ...</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
