@@ -154,7 +154,7 @@
     <unit id="Q_72Emf" name="action.route_params.help">
       <segment>
         <source>action.route_params.help</source>
-        <target>An array of route parameters which must be met to match this action. %{parameters}  To match any value enter a '%'</target>
+        <target>An array of route parameters which must be met to match this action. the route "%{route}" has the following parameters to match: "[%{parameters}]"  To match any value for a parameter enter a '%'.</target>
       </segment>
     </unit>
     <unit id="PNr0ysj" name="action.role.label">
@@ -209,6 +209,72 @@
       <segment>
         <source>action.route_param.value.label</source>
         <target>Parameter Value</target>
+      </segment>
+    </unit>
+    <unit id="ZM.xMZ0" name="Action">
+      <segment>
+        <source>Action</source>
+        <target>Action</target>
+      </segment>
+    </unit>
+    <unit id="1ExLTmC" name="action.groupBy.placeholder">
+      <segment>
+        <source>action.groupBy.placeholder</source>
+        <target>Select Group ...</target>
+      </segment>
+    </unit>
+    <unit id="tBZKxzb" name="Action permission">
+      <segment>
+        <source>Action permission</source>
+        <target>Action permission</target>
+      </segment>
+    </unit>
+    <unit id="JyHeyvS" name="action.group_by.school_admin">
+      <segment>
+        <source>action.group_by.school_admin</source>
+        <target>School Administraion</target>
+      </segment>
+    </unit>
+    <unit id="FrLg1B9" name="personrole.allowedcategories.staff">
+      <segment>
+        <source>personrole.allowedcategories.staff</source>
+        <target>personrole.allowedcategories.staff</target>
+      </segment>
+    </unit>
+    <unit id="OpwaETW" name="personrole.allowedcategories.student">
+      <segment>
+        <source>personrole.allowedcategories.student</source>
+        <target>personrole.allowedcategories.student</target>
+      </segment>
+    </unit>
+    <unit id="WUzfvPK" name="personrole.allowedcategories.parent">
+      <segment>
+        <source>personrole.allowedcategories.parent</source>
+        <target>personrole.allowedcategories.parent</target>
+      </segment>
+    </unit>
+    <unit id="u8BjUCs" name="personrole.allowedcategories.other">
+      <segment>
+        <source>personrole.allowedcategories.other</source>
+        <target>personrole.allowedcategories.other</target>
+      </segment>
+    </unit>
+    <unit id="kLPCWRk" name="action.allowed_categories.label">
+      <segment>
+        <source>action.allowed_categories.label</source>
+        <target>Allowed Categories</target>
+      </segment>
+    </unit>
+    <unit id="GrdyTRF" name="action.allowed_categories.help">
+      <segment>
+        <source>action.allowed_categories.help</source>
+        <target>Allow appropriate staff to switch access to this action within this categories.</target>
+      </segment>
+    </unit>
+    <unit id="r4tg45" name="action.permission.toggle">
+      <segment>
+        <source>action.permission.toggle</source>
+        <target>The permission %{permission} was toggled in %{action}.</target>
       </segment>
     </unit>
   </file>
