@@ -874,7 +874,7 @@
     <unit id="XXWN5FX" name="manage_markbook_settings">
       <segment>
         <source>manage_markbook_settings</source>
-        <target>Markbook Settings</target>
+        <target>Manage Markbook Settings</target>
       </segment>
     </unit>
     <unit id="fJwALcE" name="section.header.assessment">
