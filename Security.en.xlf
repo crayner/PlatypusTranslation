@@ -271,10 +271,22 @@
         <target>Allow appropriate staff to switch access to this action within this categories.</target>
       </segment>
     </unit>
-    <unit id="r4tg45" name="action.permission.toggle">
+    <unit id="lF_.2Ur" name="action.permission.toggle">
       <segment>
         <source>action.permission.toggle</source>
         <target>The permission %{permission} was toggled in %{action}.</target>
+      </segment>
+    </unit>
+    <unit id="ol_7Zh1" name="action.groupby.system_admin">
+      <segment>
+        <source>action.groupby.system_admin</source>
+        <target>System Administration</target>
+      </segment>
+    </unit>
+    <unit id="tnUgnGB" name="action.group_by.system_admin">
+      <segment>
+        <source>action.group_by.system_admin</source>
+        <target>System Administration</target>
       </segment>
     </unit>
   </file>
