@@ -2090,5 +2090,35 @@ A list of available themes is available at ?????</target>
         <target>People Management</target>
       </segment>
     </unit>
+    <unit id="95PeIF6" name="Low">
+      <segment>
+        <source>Low</source>
+        <target>Low</target>
+      </segment>
+    </unit>
+    <unit id="jliM0Yd" name="Medium">
+      <segment>
+        <source>Medium</source>
+        <target>Medium</target>
+      </segment>
+    </unit>
+    <unit id="xOvG1KW" name="High">
+      <segment>
+        <source>High</source>
+        <target>High</target>
+      </segment>
+    </unit>
+    <unit id="E90iW4t" name="system.check.extension.intl.label">
+      <segment>
+        <source>system.check.extension.intl.label</source>
+        <target>Extension International (intl)</target>
+      </segment>
+    </unit>
+    <unit id="9yGJ9Zm" name="system.check.extension.intl.help">
+      <segment>
+        <source>system.check.extension.intl.help</source>
+        <target></target>
+      </segment>
+    </unit>
   </file>
 </xliff>
