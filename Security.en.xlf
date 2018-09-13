@@ -289,5 +289,23 @@
         <target>System Administration</target>
       </segment>
     </unit>
+    <unit id="LMCWnpV" name="action.groupby.personal_admin">
+      <segment>
+        <source>action.groupby.personal_admin</source>
+        <target>Personnel Settings</target>
+      </segment>
+    </unit>
+    <unit id="_pLdJW2" name="action.group_by.personal_admin">
+      <segment>
+        <source>action.group_by.personal_admin</source>
+        <target>Personnel Administration</target>
+      </segment>
+    </unit>
+    <unit id="EsxFxx0" name="action.group_by.personnel_admin">
+      <segment>
+        <source>action.group_by.personnel_admin</source>
+        <target>Personnel Administration</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

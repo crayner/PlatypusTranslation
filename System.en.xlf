@@ -2120,5 +2120,59 @@ A list of available themes is available at ?????</target>
         <target></target>
       </segment>
     </unit>
+    <unit id="oV.3uiW" name="gibbon.transfer.title">
+      <segment>
+        <source>gibbon.transfer.title</source>
+        <target>Gibbon Transfer to %{header}</target>
+      </segment>
+    </unit>
+    <unit id="japc5cO" name="gibbon.transfer.description">
+      <segment>
+        <source>gibbon.transfer.description</source>
+        <target>Transfer from %{gibbonName}. Check the gibbon logs in var/logs for details.</target>
+      </segment>
+    </unit>
+    <unit id="g_aSS28" name="gibbon.transfer.destination">
+      <segment>
+        <source>gibbon.transfer.destination</source>
+        <target>Data from %{gibbonName} has been loaded into:</target>
+      </segment>
+    </unit>
+    <unit id="BGzsEpP" name="gibbon.transfer.load">
+      <segment>
+        <source>gibbon.transfer.load</source>
+        <target>Continue with %{next}</target>
+      </segment>
+    </unit>
+    <unit id=".SyY6RV" name="manage_personal_settings">
+      <segment>
+        <source>manage_personal_settings</source>
+        <target>Manage Personnel Settings</target>
+      </segment>
+    </unit>
+    <unit id="L6TwBMi" name="Field Values">
+      <segment>
+        <source>Field Values</source>
+        <target>Field Values</target>
+      </segment>
+    </unit>
+    <unit id="ZDppIS_" name="Privacy Options">
+      <segment>
+        <source>Privacy Options</source>
+        <target>Privacy Options</target>
+      </segment>
+    </unit>
+    <unit id="ROuH5IU" name="Interface Options">
+      <segment>
+        <source>Interface Options</source>
+        <target>Interface Options</target>
+      </segment>
+    </unit>
+    <unit id="pVHWKld" name="Day Type Options">
+      <segment>
+        <source>Day Type Options</source>
+        <target>Day Type Options</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
