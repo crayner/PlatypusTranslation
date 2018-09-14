@@ -1493,5 +1493,113 @@ Use Control, Command and/or Shift to select multiple.
         <target>Please select ...</target>
       </segment>
     </unit>
+    <unit id="ji0NIZN" name="manage_families">
+      <segment>
+        <source>manage_families</source>
+        <target>Manage Families</target>
+      </segment>
+    </unit>
+    <unit id="ZfcLGhZ" name="family.list.title">
+      <segment>
+        <source>family.list.title</source>
+        <target>Manage Families</target>
+      </segment>
+    </unit>
+    <unit id="kWPqEez" name="family.list.description">
+      <segment>
+        <source>family.list.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="UQWVKPD" name="family.name.label">
+      <segment>
+        <source>family.name.label</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="pLX3TDQ" name="family.name/label">
+      <segment>
+        <source>family.name/label</source>
+        <target>family.name/label</target>
+      </segment>
+    </unit>
+    <unit id="NCg6v8u" name="family_pagination.title">
+      <segment>
+        <source>family_pagination.title</source>
+        <target>Manage Families</target>
+      </segment>
+    </unit>
+    <unit id="qHPA3sd" name="family.status.label">
+      <segment>
+        <source>family.status.label</source>
+        <target>Status</target>
+      </segment>
+    </unit>
+    <unit id="MqFjqdX" name="family.adults.label">
+      <segment>
+        <source>family.adults.label</source>
+        <target>Adults</target>
+      </segment>
+    </unit>
+    <unit id="0psB4Ul" name="family.children.label">
+      <segment>
+        <source>family.children.label</source>
+        <target>Children</target>
+      </segment>
+    </unit>
+    <unit id="u9nAXbL" name="family.status.">
+      <segment>
+        <source>family.status.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="kMLe.XE" name="family.status.married">
+      <segment>
+        <source>family.status.married</source>
+        <target>Married</target>
+      </segment>
+    </unit>
+    <unit id="7MyO_8f" name="family.status.separated">
+      <segment>
+        <source>family.status.separated</source>
+        <target>Separated</target>
+      </segment>
+    </unit>
+    <unit id="_1s1f5u" name="family.status.divorced">
+      <segment>
+        <source>family.status.divorced</source>
+        <target>Divorced</target>
+      </segment>
+    </unit>
+    <unit id="qOM9A6K" name="family.status.de_facto">
+      <segment>
+        <source>family.status.de_facto</source>
+        <target>De Facto </target>
+      </segment>
+    </unit>
+    <unit id="8T30VMD" name="family.status.other">
+      <segment>
+        <source>family.status.other</source>
+        <target>Other</target>
+      </segment>
+    </unit>
+    <unit id="TFJ7uId" name="family.action.edit">
+      <segment>
+        <source>family.action.edit</source>
+        <target>Edit Family</target>
+      </segment>
+    </unit>
+    <unit id="rGtjt5i" name="family.action.delete">
+      <segment>
+        <source>family.action.delete</source>
+        <target>Delete Family</target>
+      </segment>
+    </unit>
+    <unit id="JboaN72" name="family.status.widowed">
+      <segment>
+        <source>family.status.widowed</source>
+        <target>Widowed</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
