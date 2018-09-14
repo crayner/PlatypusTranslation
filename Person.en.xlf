@@ -1601,5 +1601,53 @@ Use Control, Command and/or Shift to select multiple.
         <target>Widowed</target>
       </segment>
     </unit>
+    <unit id="D5EKoNd" name="family.edit.title">
+      <segment>
+        <source>family.edit.title</source>
+        <target>Edit Family</target>
+      </segment>
+    </unit>
+    <unit id="Mc5fJ1M" name="family.edit.description">
+      <segment>
+        <source>family.edit.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="s1tuFOu" name="family.language_home_primary.placeholder.e">
+      <segment>
+        <source>family.language_home_primary.placeholder.e</source>
+        <target>Please select...</target>
+      </segment>
+    </unit>
+    <unit id="ISgCUpr" name="family.language_home_primary.label">
+      <segment>
+        <source>family.language_home_primary.label</source>
+        <target>Language at Home</target>
+      </segment>
+    </unit>
+    <unit id="9CCbirY" name="family.language_home_secondary.placeholder">
+      <segment>
+        <source>family.language_home_secondary.placeholder</source>
+        <target>Please select...</target>
+      </segment>
+    </unit>
+    <unit id="AyueTOY" name="family.language_home_secondary.label">
+      <segment>
+        <source>family.language_home_secondary.label</source>
+        <target>Language at Home (Alternate)</target>
+      </segment>
+    </unit>
+    <unit id="OPjCD5E" name="family.details.tab">
+      <segment>
+        <source>family.details.tab</source>
+        <target>Details</target>
+      </segment>
+    </unit>
+    <unit id="27oQVUG" name="family.details.title">
+      <segment>
+        <source>family.details.title</source>
+        <target>Family Details: %name%</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
