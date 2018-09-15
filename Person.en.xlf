@@ -1532,7 +1532,7 @@ Use Control, Command and/or Shift to select multiple.
     <unit id="qHPA3sd" name="family.status.label">
       <segment>
         <source>family.status.label</source>
-        <target>Status</target>
+        <target>Family Relationship Type</target>
       </segment>
     </unit>
     <unit id="MqFjqdX" name="family.adults.label">
@@ -1550,7 +1550,7 @@ Use Control, Command and/or Shift to select multiple.
     <unit id="u9nAXbL" name="family.status.">
       <segment>
         <source>family.status.</source>
-        <target></target>
+        <target>Select Family Relationship...</target>
       </segment>
     </unit>
     <unit id="kMLe.XE" name="family.status.married">
@@ -1647,6 +1647,66 @@ Use Control, Command and/or Shift to select multiple.
       <segment>
         <source>family.details.title</source>
         <target>Family Details: %name%</target>
+      </segment>
+    </unit>
+    <unit id="abBDmnu" name="family.name_address.label">
+      <segment>
+        <source>family.name_address.label</source>
+        <target>Formal Family Name</target>
+      </segment>
+    </unit>
+    <unit id="vPzqCf4" name="family.name_address.help">
+      <segment>
+        <source>family.name_address.help</source>
+        <target>Used to address formal correspondence to this family.</target>
+      </segment>
+    </unit>
+    <unit id="kranZUg" name="family.adults.tab">
+      <segment>
+        <source>family.adults.tab</source>
+        <target>Adults</target>
+      </segment>
+    </unit>
+    <unit id="le023yQ" name="__name__label__">
+      <segment>
+        <source>__name__label__</source>
+        <target>__name__label__</target>
+      </segment>
+    </unit>
+    <unit id="X_zrZv." name="0">
+      <segment>
+        <source>0</source>
+        <target>0</target>
+      </segment>
+    </unit>
+    <unit id="a4ayc.8" name="1">
+      <segment>
+        <source>1</source>
+        <target>1</target>
+      </segment>
+    </unit>
+    <unit id="XRR1v4K" name="family.adult_members.label">
+      <segment>
+        <source>family.adult_members.label</source>
+        <target>Adult Family Members</target>
+      </segment>
+    </unit>
+    <unit id="Y61krAd" name="family.adult_members.help">
+      <segment>
+        <source>family.adult_members.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="Nx5OGrz" name="family.adults.title">
+      <segment>
+        <source>family.adults.title</source>
+        <target>Family Adults: %name%</target>
+      </segment>
+    </unit>
+    <unit id="wB7zot7" name="Family Adult Details">
+      <segment>
+        <source>Family Adult Details</source>
+        <target>Family Adult Details</target>
       </segment>
     </unit>
   </file>
