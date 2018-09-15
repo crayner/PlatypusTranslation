@@ -1775,5 +1775,137 @@ Use Control, Command and/or Shift to select multiple.
         <target>family.help.students</target>
       </segment>
     </unit>
+    <unit id=".lsbIOS" name="family.children.title">
+      <segment>
+        <source>family.children.title</source>
+        <target>Family Children: %name%</target>
+      </segment>
+    </unit>
+    <unit id="AWX1YPJ" name="Family Children Details">
+      <segment>
+        <source>Family Children Details</source>
+        <target>Family Children Details</target>
+      </segment>
+    </unit>
+    <unit id="xPON2Wk" name="family.relationship.tab">
+      <segment>
+        <source>family.relationship.tab</source>
+        <target>family.relationship.tab</target>
+      </segment>
+    </unit>
+    <unit id="rQje.L." name="Adult">
+      <segment>
+        <source>Adult</source>
+        <target>Adult</target>
+      </segment>
+    </unit>
+    <unit id="gFMyEoH" name="Child">
+      <segment>
+        <source>Child</source>
+        <target>Child</target>
+      </segment>
+    </unit>
+    <unit id="JUkKENB" name="Relationship">
+      <segment>
+        <source>Relationship</source>
+        <target>Relationship</target>
+      </segment>
+    </unit>
+    <unit id="hXUqRqp" name="Relationships">
+      <segment>
+        <source>Relationships</source>
+        <target>Relationships</target>
+      </segment>
+    </unit>
+    <unit id="TYRaAGy" name="family.relationships.title">
+      <segment>
+        <source>family.relationships.title</source>
+        <target>Family Relationships: %name%</target>
+      </segment>
+    </unit>
+    <unit id="NVyC7F8" name="familyrelationship.relationship.mother">
+      <segment>
+        <source>familyrelationship.relationship.mother</source>
+        <target>Mother</target>
+      </segment>
+    </unit>
+    <unit id="O6qmd4X" name="familyrelationship.relationship.father">
+      <segment>
+        <source>familyrelationship.relationship.father</source>
+        <target>Father</target>
+      </segment>
+    </unit>
+    <unit id="J651H.S" name="familyrelationship.relationship.step_mother">
+      <segment>
+        <source>familyrelationship.relationship.step_mother</source>
+        <target>Step Mother</target>
+      </segment>
+    </unit>
+    <unit id="E.dXJ.F" name="familyrelationship.relationship.step_father">
+      <segment>
+        <source>familyrelationship.relationship.step_father</source>
+        <target>Step Father</target>
+      </segment>
+    </unit>
+    <unit id="JitDRLS" name="familyrelationship.relationship.adoptive_parent">
+      <segment>
+        <source>familyrelationship.relationship.adoptive_parent</source>
+        <target>Adoptive Parent</target>
+      </segment>
+    </unit>
+    <unit id="5lRLZs2" name="familyrelationship.relationship.guardian">
+      <segment>
+        <source>familyrelationship.relationship.guardian</source>
+        <target>Guardian</target>
+      </segment>
+    </unit>
+    <unit id="IBT0n2r" name="familyrelationship.relationship.grandmother">
+      <segment>
+        <source>familyrelationship.relationship.grandmother</source>
+        <target>Grandmother</target>
+      </segment>
+    </unit>
+    <unit id="LMNFwmN" name="familyrelationship.relationship.grandfather">
+      <segment>
+        <source>familyrelationship.relationship.grandfather</source>
+        <target>Grandfather</target>
+      </segment>
+    </unit>
+    <unit id="FvXNpy6" name="familyrelationship.relationship.aunt">
+      <segment>
+        <source>familyrelationship.relationship.aunt</source>
+        <target>Aunt</target>
+      </segment>
+    </unit>
+    <unit id="wptRinV" name="familyrelationship.relationship.uncle">
+      <segment>
+        <source>familyrelationship.relationship.uncle</source>
+        <target>Uncle</target>
+      </segment>
+    </unit>
+    <unit id="UkD_WmL" name="familyrelationship.relationship.nanny_helper">
+      <segment>
+        <source>familyrelationship.relationship.nanny_helper</source>
+        <target>Nanny/Helper</target>
+      </segment>
+    </unit>
+    <unit id="Jwiv9Ta" name="familyrelationship.relationship.family_friend">
+      <segment>
+        <source>familyrelationship.relationship.family_friend</source>
+        <target>Family Friend</target>
+      </segment>
+    </unit>
+    <unit id="N.jlI91" name="familyrelationship.relationship.other">
+      <segment>
+        <source>familyrelationship.relationship.other</source>
+        <target>Other</target>
+      </segment>
+    </unit>
+    <unit id="gQV1Nb9" name="familyrelationship.relationship.sibling">
+      <segment>
+        <source>familyrelationship.relationship.sibling</source>
+        <target>Sibling</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
