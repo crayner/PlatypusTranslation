@@ -1709,5 +1709,71 @@ Use Control, Command and/or Shift to select multiple.
         <target>Family Adult Details</target>
       </segment>
     </unit>
+    <unit id="23ftezy" name="Required Select...">
+      <segment>
+        <source>Required Select...</source>
+        <target>Required Select...</target>
+      </segment>
+    </unit>
+    <unit id="xFfEA7i" name="Receive Reporting">
+      <segment>
+        <source>Receive Reporting</source>
+        <target>Receive Reporting</target>
+      </segment>
+    </unit>
+    <unit id="3deB_gb" name="ea0e9e6">
+      <segment>
+        <source>Please ensure correct contact priority by sorting the order from top to bottom of the page.</source>
+        <target>Please ensure correct contact priority by sorting the order from top to bottom of the page.</target>
+      </segment>
+    </unit>
+    <unit id="iM9kFHI" name="Contact by Phone Call">
+      <segment>
+        <source>Contact by Phone Call</source>
+        <target>Contact by Phone Call</target>
+      </segment>
+    </unit>
+    <unit id="iXV_a6p" name="Contact by SMS">
+      <segment>
+        <source>Contact by SMS</source>
+        <target>Contact by SMS</target>
+      </segment>
+    </unit>
+    <unit id="JpatoLM" name="Contact by E-Mail">
+      <segment>
+        <source>Contact by E-Mail</source>
+        <target>Contact by E-Mail</target>
+      </segment>
+    </unit>
+    <unit id="IiAwiVN" name="Contact by Mail">
+      <segment>
+        <source>Contact by Mail</source>
+        <target>Contact by Mail</target>
+      </segment>
+    </unit>
+    <unit id="RPXj__x" name="Comment">
+      <segment>
+        <source>Comment</source>
+        <target>Comment</target>
+      </segment>
+    </unit>
+    <unit id="etH5Z9V" name="family.children.tab">
+      <segment>
+        <source>family.children.tab</source>
+        <target>Children</target>
+      </segment>
+    </unit>
+    <unit id="a2jK9ef" name="family.label.students">
+      <segment>
+        <source>family.label.students</source>
+        <target>family.label.students</target>
+      </segment>
+    </unit>
+    <unit id="FARjrrr" name="family.help.students">
+      <segment>
+        <source>family.help.students</source>
+        <target>family.help.students</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
