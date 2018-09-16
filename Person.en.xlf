@@ -1907,5 +1907,17 @@ Use Control, Command and/or Shift to select multiple.
         <target>Sibling</target>
       </segment>
     </unit>
+    <unit id="Tv_tgjs" name="Suggest">
+      <segment>
+        <source>Suggest</source>
+        <target>Suggest</target>
+      </segment>
+    </unit>
+    <unit id="83yKna8" name="Suggest a family name and address.">
+      <segment>
+        <source>Suggest a family name and address.</source>
+        <target>Suggest a family name and address.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
