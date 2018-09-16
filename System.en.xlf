@@ -2174,5 +2174,17 @@ A list of available themes is available at ?????</target>
         <target>Day Type Options</target>
       </segment>
     </unit>
+    <unit id="HeE_cXi" name="section.header.student_management">
+      <segment>
+        <source>section.header.student_management</source>
+        <target>Student Management</target>
+      </segment>
+    </unit>
+    <unit id="_tkRyWl" name="public_registration_settings">
+      <segment>
+        <source>public_registration_settings</source>
+        <target>Public Registration Settings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

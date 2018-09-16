@@ -8086,5 +8086,397 @@ short: SHT
         <target>United Kingdom GCSE/iGCSE Predicted</target>
       </segment>
     </unit>
+    <unit id="pWFFJwz" name="id">
+      <segment>
+        <source>id</source>
+        <target>id</target>
+      </segment>
+    </unit>
+    <unit id="n8xjCDn" name="smartWorkflowHelp">
+      <segment>
+        <source>smartWorkflowHelp</source>
+        <target>smartWorkflowHelp</target>
+      </segment>
+    </unit>
+    <unit id="OKgeh_e" name="person">
+      <segment>
+        <source>person</source>
+        <target>person</target>
+      </segment>
+    </unit>
+    <unit id="ZVwy_4R" name="surname">
+      <segment>
+        <source>surname</source>
+        <target>surname</target>
+      </segment>
+    </unit>
+    <unit id="nPIv0BV" name="firstName">
+      <segment>
+        <source>firstName</source>
+        <target>firstName</target>
+      </segment>
+    </unit>
+    <unit id="qvIyBkY" name="title">
+      <segment>
+        <source>title</source>
+        <target>title</target>
+      </segment>
+    </unit>
+    <unit id="glCSouU" name="preferredName">
+      <segment>
+        <source>preferredName</source>
+        <target>preferredName</target>
+      </segment>
+    </unit>
+    <unit id="Gq_fX3r" name="officialName">
+      <segment>
+        <source>officialName</source>
+        <target>officialName</target>
+      </segment>
+    </unit>
+    <unit id="WZyomzH" name="nameInCharacters">
+      <segment>
+        <source>nameInCharacters</source>
+        <target>nameInCharacters</target>
+      </segment>
+    </unit>
+    <unit id="3p.q6ot" name="gender">
+      <segment>
+        <source>gender</source>
+        <target>gender</target>
+      </segment>
+    </unit>
+    <unit id="giREF.l" name="email">
+      <segment>
+        <source>email</source>
+        <target>email</target>
+      </segment>
+    </unit>
+    <unit id="ZRYjSSA" name="emailAlternate">
+      <segment>
+        <source>emailAlternate</source>
+        <target>emailAlternate</target>
+      </segment>
+    </unit>
+    <unit id="pKDT6z." name="receiveNotificationEmails">
+      <segment>
+        <source>receiveNotificationEmails</source>
+        <target>receiveNotificationEmails</target>
+      </segment>
+    </unit>
+    <unit id="Fc55GG3" name="personalCalendarFeed">
+      <segment>
+        <source>personalCalendarFeed</source>
+        <target>personalCalendarFeed</target>
+      </segment>
+    </unit>
+    <unit id="bm0y1n0" name="personalBackground">
+      <segment>
+        <source>personalBackground</source>
+        <target>personalBackground</target>
+      </segment>
+    </unit>
+    <unit id="5whLTEP" name="personalTheme">
+      <segment>
+        <source>personalTheme</source>
+        <target>personalTheme</target>
+      </segment>
+    </unit>
+    <unit id="BTJmawg" name="personalLanguage">
+      <segment>
+        <source>personalLanguage</source>
+        <target>personalLanguage</target>
+      </segment>
+    </unit>
+    <unit id="VcZND81" name="photo">
+      <segment>
+        <source>photo</source>
+        <target>photo</target>
+      </segment>
+    </unit>
+    <unit id="BzwWNMS" name="status">
+      <segment>
+        <source>status</source>
+        <target>status</target>
+      </segment>
+    </unit>
+    <unit id="OE8wOxS" name="dob">
+      <segment>
+        <source>dob</source>
+        <target>dob</target>
+      </segment>
+    </unit>
+    <unit id="d02F0NV" name="lastSchool">
+      <segment>
+        <source>lastSchool</source>
+        <target>lastSchool</target>
+      </segment>
+    </unit>
+    <unit id="oi.0oHT" name="dateStart">
+      <segment>
+        <source>dateStart</source>
+        <target>dateStart</target>
+      </segment>
+    </unit>
+    <unit id="zWoVOJX" name="dateEnd">
+      <segment>
+        <source>dateEnd</source>
+        <target>dateEnd</target>
+      </segment>
+    </unit>
+    <unit id="i1SMOa4" name="nextSchool">
+      <segment>
+        <source>nextSchool</source>
+        <target>nextSchool</target>
+      </segment>
+    </unit>
+    <unit id="woEmawr" name="departureReason">
+      <segment>
+        <source>departureReason</source>
+        <target>departureReason</target>
+      </segment>
+    </unit>
+    <unit id="GV8z9o3" name="languageFirst">
+      <segment>
+        <source>languageFirst</source>
+        <target>languageFirst</target>
+      </segment>
+    </unit>
+    <unit id="vNNTBA0" name="languageSecond">
+      <segment>
+        <source>languageSecond</source>
+        <target>languageSecond</target>
+      </segment>
+    </unit>
+    <unit id="v_uY4Pe" name="languageThird">
+      <segment>
+        <source>languageThird</source>
+        <target>languageThird</target>
+      </segment>
+    </unit>
+    <unit id="UCehhpw" name="countryOfBirth">
+      <segment>
+        <source>countryOfBirth</source>
+        <target>countryOfBirth</target>
+      </segment>
+    </unit>
+    <unit id="yyomWtG" name="birthCertificateScan">
+      <segment>
+        <source>birthCertificateScan</source>
+        <target>birthCertificateScan</target>
+      </segment>
+    </unit>
+    <unit id="eNczyCI" name="ethnicity">
+      <segment>
+        <source>ethnicity</source>
+        <target>ethnicity</target>
+      </segment>
+    </unit>
+    <unit id="E50Uthy" name="religion">
+      <segment>
+        <source>religion</source>
+        <target>religion</target>
+      </segment>
+    </unit>
+    <unit id="h9SDYaj" name="citizenship1">
+      <segment>
+        <source>citizenship1</source>
+        <target>citizenship1</target>
+      </segment>
+    </unit>
+    <unit id="_Ru_KeH" name="citizenship1Passport">
+      <segment>
+        <source>citizenship1Passport</source>
+        <target>citizenship1Passport</target>
+      </segment>
+    </unit>
+    <unit id="EBnQWxg" name="citizenship1PassportScan">
+      <segment>
+        <source>citizenship1PassportScan</source>
+        <target>citizenship1PassportScan</target>
+      </segment>
+    </unit>
+    <unit id="ZWICzNa" name="citizenship2">
+      <segment>
+        <source>citizenship2</source>
+        <target>citizenship2</target>
+      </segment>
+    </unit>
+    <unit id="7vZirXv" name="citizenship2Passport">
+      <segment>
+        <source>citizenship2Passport</source>
+        <target>citizenship2Passport</target>
+      </segment>
+    </unit>
+    <unit id="ZV3H3Sg" name="nationalIDCard">
+      <segment>
+        <source>nationalIDCard</source>
+        <target>nationalIDCard</target>
+      </segment>
+    </unit>
+    <unit id="MMx4ylp" name="nationalIDCardScan">
+      <segment>
+        <source>nationalIDCardScan</source>
+        <target>nationalIDCardScan</target>
+      </segment>
+    </unit>
+    <unit id="RS_27Q5" name="residencyStatus">
+      <segment>
+        <source>residencyStatus</source>
+        <target>residencyStatus</target>
+      </segment>
+    </unit>
+    <unit id="9.yWDzJ" name="visaExpiryDate">
+      <segment>
+        <source>visaExpiryDate</source>
+        <target>visaExpiryDate</target>
+      </segment>
+    </unit>
+    <unit id="lkfpAZW" name="vehicleRegistration">
+      <segment>
+        <source>vehicleRegistration</source>
+        <target>vehicleRegistration</target>
+      </segment>
+    </unit>
+    <unit id="_Cuz4.0" name="studentIdentifier">
+      <segment>
+        <source>studentIdentifier</source>
+        <target>studentIdentifier</target>
+      </segment>
+    </unit>
+    <unit id="g4k6yG5" name="lockerNumber">
+      <segment>
+        <source>lockerNumber</source>
+        <target>lockerNumber</target>
+      </segment>
+    </unit>
+    <unit id="ZpTqgHU" name="transport">
+      <segment>
+        <source>transport</source>
+        <target>transport</target>
+      </segment>
+    </unit>
+    <unit id="qmtmwbv" name="transportNotes">
+      <segment>
+        <source>transportNotes</source>
+        <target>transportNotes</target>
+      </segment>
+    </unit>
+    <unit id="UODSUCK" name="profession">
+      <segment>
+        <source>profession</source>
+        <target>profession</target>
+      </segment>
+    </unit>
+    <unit id="jv31VyT" name="employer">
+      <segment>
+        <source>employer</source>
+        <target>employer</target>
+      </segment>
+    </unit>
+    <unit id="1UPaPRd" name="jobTitle">
+      <segment>
+        <source>jobTitle</source>
+        <target>jobTitle</target>
+      </segment>
+    </unit>
+    <unit id="dHqPOYO" name="website">
+      <segment>
+        <source>website</source>
+        <target>website</target>
+      </segment>
+    </unit>
+    <unit id="HmOHQO9" name="viewSchoolCalendar">
+      <segment>
+        <source>viewSchoolCalendar</source>
+        <target>viewSchoolCalendar</target>
+      </segment>
+    </unit>
+    <unit id="M6juEaM" name="viewPersonalCalendar">
+      <segment>
+        <source>viewPersonalCalendar</source>
+        <target>viewPersonalCalendar</target>
+      </segment>
+    </unit>
+    <unit id="4dxu_GL" name="viewSpaceBookingCalendar">
+      <segment>
+        <source>viewSpaceBookingCalendar</source>
+        <target>viewSpaceBookingCalendar</target>
+      </segment>
+    </unit>
+    <unit id="pMxrwBq" name="privacy">
+      <segment>
+        <source>privacy</source>
+        <target>privacy</target>
+      </segment>
+    </unit>
+    <unit id="PQq9F3I" name="studentAgreements">
+      <segment>
+        <source>studentAgreements</source>
+        <target>studentAgreements</target>
+      </segment>
+    </unit>
+    <unit id="SDnk2Eu" name="dayType">
+      <segment>
+        <source>dayType</source>
+        <target>dayType</target>
+      </segment>
+    </unit>
+    <unit id="QbFHTmC" name="googleAPIRefreshToken">
+      <segment>
+        <source>googleAPIRefreshToken</source>
+        <target>googleAPIRefreshToken</target>
+      </segment>
+    </unit>
+    <unit id="qVTX4qE" name="Enable Public Registration">
+      <segment>
+        <source>Enable Public Registration</source>
+        <target>Enable Public Registration</target>
+      </segment>
+    </unit>
+    <unit id="VD3FZLZ" name="Allows members of the public to register to use the system.">
+      <segment>
+        <source>Allows members of the public to register to use the system.</source>
+        <target>Allows members of the public to register to use the system.</target>
+      </segment>
+    </unit>
+    <unit id="4ZToLvG" name="Public Registration Minimum Age">
+      <segment>
+        <source>Public Registration Minimum Age</source>
+        <target>Public Registration Minimum Age</target>
+      </segment>
+    </unit>
+    <unit id="7Zb7vGr" name="The minimum age, in years, permitted to register.">
+      <segment>
+        <source>The minimum age, in years, permitted to register.</source>
+        <target>The minimum age, in years, permitted to register.</target>
+      </segment>
+    </unit>
+    <unit id="P7g4QyX" name="Public Registration Default Status">
+      <segment>
+        <source>Public Registration Default Status</source>
+        <target>Public Registration Default Status</target>
+      </segment>
+    </unit>
+    <unit id="omQbOMY" name="Should new people be 'Full' or 'Pending Approval'?&#13;&#10;">
+      <segment>
+        <source>Should new people be 'Full' or 'Pending Approval'?&#13;
+</source>
+        <target>Should new people be 'Full' or 'Pending Approval'?&#13;
+</target>
+      </segment>
+    </unit>
+    <unit id="39Oz2pr" name="user_admin.public_registration_default_status.full">
+      <segment>
+        <source>user_admin.public_registration_default_status.full</source>
+        <target>Full</target>
+      </segment>
+    </unit>
+    <unit id="qhSsHJv" name="user_admin.public_registration_default_status.pending">
+      <segment>
+        <source>user_admin.public_registration_default_status.pending</source>
+        <target>Pending Approval</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
