@@ -8478,5 +8478,71 @@ short: SHT
         <target>Pending Approval</target>
       </segment>
     </unit>
+    <unit id="B7_ipxA" name="Short Organisation Name">
+      <segment>
+        <source>Short Organisation Name</source>
+        <target>Organisation Name Abbreviation</target>
+      </segment>
+    </unit>
+    <unit id="ymRXD8Y" name="Ellison: Krystal">
+      <segment>
+        <source>Ellison: Krystal</source>
+        <target>Ellison: Krystal</target>
+      </segment>
+    </unit>
+    <unit id="JjmgFvP" name="Frye: Aurora">
+      <segment>
+        <source>Frye: Aurora</source>
+        <target>Frye: Aurora</target>
+      </segment>
+    </unit>
+    <unit id="oY7bnix" name="Hopkins: Mariah">
+      <segment>
+        <source>Hopkins: Mariah</source>
+        <target>Hopkins: Mariah</target>
+      </segment>
+    </unit>
+    <unit id="WAlB3CE" name="Morton: Nia">
+      <segment>
+        <source>Morton: Nia</source>
+        <target>Morton: Nia</target>
+      </segment>
+    </unit>
+    <unit id="cOlyMzH" name="Pacheco: Whitney">
+      <segment>
+        <source>Pacheco: Whitney</source>
+        <target>Pacheco: Whitney</target>
+      </segment>
+    </unit>
+    <unit id="JvFybu6" name="Pierce: Craig">
+      <segment>
+        <source>Pierce: Craig</source>
+        <target>Pierce: Craig</target>
+      </segment>
+    </unit>
+    <unit id="PV7_DXW" name="Ramirez: Donte">
+      <segment>
+        <source>Ramirez: Donte</source>
+        <target>Ramirez: Donte</target>
+      </segment>
+    </unit>
+    <unit id="NT8SNwp" name="Rayner: Craig">
+      <segment>
+        <source>Rayner: Craig</source>
+        <target>Rayner: Craig</target>
+      </segment>
+    </unit>
+    <unit id="KwiivEr" name="Valentine: Harry">
+      <segment>
+        <source>Valentine: Harry</source>
+        <target>Valentine: Harry</target>
+      </segment>
+    </unit>
+    <unit id="Rene581" name="Welch: Annie">
+      <segment>
+        <source>Welch: Annie</source>
+        <target>Welch: Annie</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

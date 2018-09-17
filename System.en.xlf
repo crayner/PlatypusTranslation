@@ -2186,5 +2186,23 @@ A list of available themes is available at ?????</target>
         <target>Public Registration Settings</target>
       </segment>
     </unit>
+    <unit id="g8ln991" name="system.install_type.production">
+      <segment>
+        <source>system.install_type.production</source>
+        <target>Production</target>
+      </segment>
+    </unit>
+    <unit id="aJUfjbs" name="system.install_type.testing">
+      <segment>
+        <source>system.install_type.testing</source>
+        <target>Testing</target>
+      </segment>
+    </unit>
+    <unit id="Csfu7to" name="system.install_type.development">
+      <segment>
+        <source>system.install_type.development</source>
+        <target>Development</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
