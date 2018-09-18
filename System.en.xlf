@@ -2204,5 +2204,23 @@ A list of available themes is available at ?????</target>
         <target>Development</target>
       </segment>
     </unit>
+    <unit id="3lzvQzU" name="student.ethnicity.label">
+      <segment>
+        <source>student.ethnicity.label</source>
+        <target>student.ethnicity.label</target>
+      </segment>
+    </unit>
+    <unit id="gtNhaXp" name="student.religion.label">
+      <segment>
+        <source>student.religion.label</source>
+        <target>student.religion.label</target>
+      </segment>
+    </unit>
+    <unit id="FTm930Z" name="sound.alarm.warning">
+      <segment>
+        <source>sound.alarm.warning</source>
+        <target>Sounding alarms on browsers, tablets and mobile phones requires autoplay over-ride for audio to allow the sound to play without user interaction.  As this becomes more and more diverse, this option may be withdrawn as not being a reliable alarm system.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
