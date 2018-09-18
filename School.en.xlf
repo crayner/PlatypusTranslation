@@ -2386,5 +2386,11 @@
         <target>Add Roll Group</target>
       </segment>
     </unit>
+    <unit id="kkgZUUG" name="Refresh Roll Groups">
+      <segment>
+        <source>Refresh Roll Groups</source>
+        <target>Refresh Roll Groups</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
