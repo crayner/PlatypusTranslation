@@ -2230,5 +2230,161 @@
 <span class="small">{Short Name}</span>]]></target>
       </segment>
     </unit>
+    <unit id="9Y.BCww" name="5ab881a">
+      <segment>
+        <source>&lt;div style="float: right"&gt;School Day&amp;nbsp;
+                            
+                                        
+                        
+        
+        &lt;span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_0_schoolDay_span"&gt;
+            &lt;input type="hidden" value="1" id="days_of_week_days_0_schoolDay" name="days_of_week[days][0][schoolDay]" class=schoolDayChange /&gt;
+                            &lt;span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"&gt;&lt;/span&gt;
+                    &lt;/span&gt;&lt;/div</source>
+        <target><![CDATA[<div style="float: right">School Day&nbsp;
+                            
+                                        
+                        
+        
+        <span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_0_schoolDay_span">
+            <input type="hidden" value="1" id="days_of_week_days_0_schoolDay" name="days_of_week[days][0][schoolDay]" class=schoolDayChange />
+                            <span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"></span>
+                    </span></div]]></target>
+      </segment>
+    </unit>
+    <unit id="xhBxLA6" name="4241e0a">
+      <segment>
+        <source>&lt;div style="float: right"&gt;School Day&amp;nbsp;
+                            
+                                        
+                        
+        
+        &lt;span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_1_schoolDay_span"&gt;
+            &lt;input type="hidden" value="1" id="days_of_week_days_1_schoolDay" name="days_of_week[days][1][schoolDay]" class=schoolDayChange /&gt;
+                            &lt;span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"&gt;&lt;/span&gt;
+                    &lt;/span&gt;&lt;/div</source>
+        <target><![CDATA[<div style="float: right">School Day&nbsp;
+                            
+                                        
+                        
+        
+        <span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_1_schoolDay_span">
+            <input type="hidden" value="1" id="days_of_week_days_1_schoolDay" name="days_of_week[days][1][schoolDay]" class=schoolDayChange />
+                            <span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"></span>
+                    </span></div]]></target>
+      </segment>
+    </unit>
+    <unit id="uEnSOq5" name="0e837c1">
+      <segment>
+        <source>&lt;div style="float: right"&gt;School Day&amp;nbsp;
+                            
+                                        
+                        
+        
+        &lt;span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_2_schoolDay_span"&gt;
+            &lt;input type="hidden" value="1" id="days_of_week_days_2_schoolDay" name="days_of_week[days][2][schoolDay]" class=schoolDayChange /&gt;
+                            &lt;span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"&gt;&lt;/span&gt;
+                    &lt;/span&gt;&lt;/div</source>
+        <target><![CDATA[<div style="float: right">School Day&nbsp;
+                            
+                                        
+                        
+        
+        <span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_2_schoolDay_span">
+            <input type="hidden" value="1" id="days_of_week_days_2_schoolDay" name="days_of_week[days][2][schoolDay]" class=schoolDayChange />
+                            <span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"></span>
+                    </span></div]]></target>
+      </segment>
+    </unit>
+    <unit id="IaZVNGT" name="ebbb493">
+      <segment>
+        <source>&lt;div style="float: right"&gt;School Day&amp;nbsp;
+                            
+                                        
+                        
+        
+        &lt;span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_3_schoolDay_span"&gt;
+            &lt;input type="hidden" value="1" id="days_of_week_days_3_schoolDay" name="days_of_week[days][3][schoolDay]" class=schoolDayChange /&gt;
+                            &lt;span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"&gt;&lt;/span&gt;
+                    &lt;/span&gt;&lt;/div</source>
+        <target><![CDATA[<div style="float: right">School Day&nbsp;
+                            
+                                        
+                        
+        
+        <span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_3_schoolDay_span">
+            <input type="hidden" value="1" id="days_of_week_days_3_schoolDay" name="days_of_week[days][3][schoolDay]" class=schoolDayChange />
+                            <span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"></span>
+                    </span></div]]></target>
+      </segment>
+    </unit>
+    <unit id="u0VH.Dl" name="aabf2a5">
+      <segment>
+        <source>&lt;div style="float: right"&gt;School Day&amp;nbsp;
+                            
+                                        
+                        
+        
+        &lt;span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_4_schoolDay_span"&gt;
+            &lt;input type="hidden" value="1" id="days_of_week_days_4_schoolDay" name="days_of_week[days][4][schoolDay]" class=schoolDayChange /&gt;
+                            &lt;span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"&gt;&lt;/span&gt;
+                    &lt;/span&gt;&lt;/div</source>
+        <target><![CDATA[<div style="float: right">School Day&nbsp;
+                            
+                                        
+                        
+        
+        <span class="toggleRight btn btn-success btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_4_schoolDay_span">
+            <input type="hidden" value="1" id="days_of_week_days_4_schoolDay" name="days_of_week[days][4][schoolDay]" class=schoolDayChange />
+                            <span class="far fa-thumbs-up" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"></span>
+                    </span></div]]></target>
+      </segment>
+    </unit>
+    <unit id="20jR4Kv" name="391fdb2">
+      <segment>
+        <source>&lt;div style="float: right"&gt;School Day&amp;nbsp;
+                            
+                        
+        
+        &lt;span class="toggleRight btn btn-danger btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_5_schoolDay_span"&gt;
+            &lt;input type="hidden" value="0" id="days_of_week_days_5_schoolDay" name="days_of_week[days][5][schoolDay]" class=schoolDayChange /&gt;
+                            &lt;span class="far fa-thumbs-down" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"&gt;&lt;/span&gt;
+                    &lt;/span&gt;&lt;/div</source>
+        <target><![CDATA[<div style="float: right">School Day&nbsp;
+                            
+                        
+        
+        <span class="toggleRight btn btn-danger btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_5_schoolDay_span">
+            <input type="hidden" value="0" id="days_of_week_days_5_schoolDay" name="days_of_week[days][5][schoolDay]" class=schoolDayChange />
+                            <span class="far fa-thumbs-down" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"></span>
+                    </span></div]]></target>
+      </segment>
+    </unit>
+    <unit id="W9cCL1d" name="41e2d90">
+      <segment>
+        <source>&lt;div style="float: right"&gt;School Day&amp;nbsp;
+                            
+                        
+        
+        &lt;span class="toggleRight btn btn-danger btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_6_schoolDay_span"&gt;
+            &lt;input type="hidden" value="0" id="days_of_week_days_6_schoolDay" name="days_of_week[days][6][schoolDay]" class=schoolDayChange /&gt;
+                            &lt;span class="far fa-thumbs-down" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"&gt;&lt;/span&gt;
+                    &lt;/span&gt;&lt;/div</source>
+        <target><![CDATA[<div style="float: right">School Day&nbsp;
+                            
+                        
+        
+        <span class="toggleRight btn btn-danger btn-sm" toggle_on="btn btn-success btn-sm" toggle_off="btn btn-danger btn-sm" data-toggle="buttons" id="days_of_week_days_6_schoolDay_span">
+            <input type="hidden" value="0" id="days_of_week_days_6_schoolDay" name="days_of_week[days][6][schoolDay]" class=schoolDayChange />
+                            <span class="far fa-thumbs-down" icon_on="far fa-thumbs-up" icon_off="far fa-thumbs-down" type_on="far" type_off="far"></span>
+                    </span></div]]></target>
+      </segment>
+    </unit>
+    <unit id="crutuuK" name="school.roll_group.add.title">
+      <segment>
+        <source>school.roll_group.add.title</source>
+        <target>Add Roll Group</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
