@@ -121,5 +121,11 @@ Phone numbers attached via the family record are listed here, but can only be re
         <target>Family Link</target>
       </segment>
     </unit>
+    <unit id="CN7bo.7" name="phone.no.family">
+      <segment>
+        <source>phone.no.family</source>
+        <target>Phone information is not available until the parent (person, family) has been saved.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
