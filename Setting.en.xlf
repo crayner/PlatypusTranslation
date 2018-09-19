@@ -8544,5 +8544,137 @@ short: SHT
         <target>Welch: Annie</target>
       </segment>
     </unit>
+    <unit id="VKV8MUf" name="Privacy">
+      <segment>
+        <source>Privacy</source>
+        <target>Privacy</target>
+      </segment>
+    </unit>
+    <unit id="etX3qXJ" name="Should privacy options be turned on across the system?">
+      <segment>
+        <source>Should privacy options be turned on across the system?</source>
+        <target>Should privacy options be turned on across the system?</target>
+      </segment>
+    </unit>
+    <unit id="b2rOfYZ" name="Privacy Blurb">
+      <segment>
+        <source>Privacy Blurb</source>
+        <target>Privacy Blurb</target>
+      </segment>
+    </unit>
+    <unit id="7VuY4lz" name="a202417">
+      <segment>
+        <source>Descriptive text to accompany image privacy option when shown to people using the system.</source>
+        <target>Descriptive text to accompany image privacy option when shown to people using the system.</target>
+      </segment>
+    </unit>
+    <unit id="ZDppIS_" name="Privacy Options">
+      <segment>
+        <source>Privacy Options</source>
+        <target>Privacy Options</target>
+      </segment>
+    </unit>
+    <unit id="9BpMtfV" name="c5c8ad4">
+      <segment>
+        <source>List of choices to make available if privacy is turned on. If blank, privacy fields will not be displayed.</source>
+        <target>List of choices to make available if privacy is turned on. If blank, privacy fields will not be displayed.</target>
+      </segment>
+    </unit>
+    <unit id="JFxVHEs" name="Personal Background">
+      <segment>
+        <source>Personal Background</source>
+        <target>Personal Background</target>
+      </segment>
+    </unit>
+    <unit id="eNuy9xP" name="Should personnel/students be allowed to set their own personal backgrounds?">
+      <segment>
+        <source>Should personnel/students be allowed to set their own personal backgrounds?</source>
+        <target>Should personnel/students be allowed to set their own personal backgrounds?</target>
+      </segment>
+    </unit>
+    <unit id="pVHWKld" name="Day Type Options">
+      <segment>
+        <source>Day Type Options</source>
+        <target>Day Type Options</target>
+      </segment>
+    </unit>
+    <unit id="BChiv8Q" name="0b8eb6d">
+      <segment>
+        <source>List of options to make available (e.g. half-day, full-day). If blank, this field will not show up in the application form.</source>
+        <target>List of options to make available (e.g. half-day, full-day). If blank, this field will not show up in the application form.</target>
+      </segment>
+    </unit>
+    <unit id="BUYZIQD" name="Day-Type Text">
+      <segment>
+        <source>Day-Type Text</source>
+        <target>Day-Type Text</target>
+      </segment>
+    </unit>
+    <unit id="MAst56I" name="Explanatory text to include with Day Type Options.">
+      <segment>
+        <source>Explanatory text to include with Day Type Options.</source>
+        <target>Explanatory text to include with Day Type Options.</target>
+      </segment>
+    </unit>
+    <unit id="iOegi4I" name="person_admin.public_registration_default_status.full">
+      <segment>
+        <source>person_admin.public_registration_default_status.full</source>
+        <target>Full</target>
+      </segment>
+    </unit>
+    <unit id="tPdUl.3" name="person_admin.public_registration_default_status.pending">
+      <segment>
+        <source>person_admin.public_registration_default_status.pending</source>
+        <target>Pending Approval</target>
+      </segment>
+    </unit>
+    <unit id="mTK4O0u" name="Public Registration Introductory Text">
+      <segment>
+        <source>Public Registration Introductory Text</source>
+        <target>Public Registration Introductory Text</target>
+      </segment>
+    </unit>
+    <unit id="uLlaaKm" name="HTML text that will appear above the public registration form.">
+      <segment>
+        <source>HTML text that will appear above the public registration form.</source>
+        <target>HTML text that will appear above the public registration form.</target>
+      </segment>
+    </unit>
+    <unit id="rdjsa6w" name="Public Registration Postscript">
+      <segment>
+        <source>Public Registration Postscript</source>
+        <target>Public Registration Postscript</target>
+      </segment>
+    </unit>
+    <unit id="mtEh.hY" name="HTML text that will appear underneath the public registration form.">
+      <segment>
+        <source>HTML text that will appear underneath the public registration form.</source>
+        <target>HTML text that will appear underneath the public registration form.</target>
+      </segment>
+    </unit>
+    <unit id="IQAs1sd" name="Public Registration Privacy Statement">
+      <segment>
+        <source>Public Registration Privacy Statement</source>
+        <target>Public Registration Privacy Statement</target>
+      </segment>
+    </unit>
+    <unit id="R06scfj" name="HTML text that will appear above the Submit button, explaining privacy policy.">
+      <segment>
+        <source>HTML text that will appear above the Submit button, explaining privacy policy.</source>
+        <target>HTML text that will appear above the Submit button, explaining privacy policy.</target>
+      </segment>
+    </unit>
+    <unit id="O26GEyS" name="Public Registration Agreement">
+      <segment>
+        <source>Public Registration Agreement</source>
+        <target>Public Registration Agreement</target>
+      </segment>
+    </unit>
+    <unit id="yF6dQ72" name="Agreement that people must confirm before joining. Blank for no agreement.">
+      <segment>
+        <source>Agreement that people must confirm before joining. Blank for no agreement.</source>
+        <target>Agreement that people must confirm before joining. Blank for no agreement.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

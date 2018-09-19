@@ -2003,5 +2003,71 @@ Use Control, Command and/or Shift to select multiple.
         <target>Teacher</target>
       </segment>
     </unit>
+    <unit id="oqYsrxS" name="List of Ethnicities">
+      <segment>
+        <source>List of Ethnicities</source>
+        <target>List of Ethnicities</target>
+      </segment>
+    </unit>
+    <unit id="aYff8sO" name="List of Ethnicities.  Uses the Australian Standard to create this list">
+      <segment>
+        <source>List of Ethnicities.  Uses the Australian Standard to create this list</source>
+        <target>List of Ethnicities.  Uses the Australian Standard to create this list</target>
+      </segment>
+    </unit>
+    <unit id="COXH41Z" name="List of Religions">
+      <segment>
+        <source>List of Religions</source>
+        <target>List of Religions</target>
+      </segment>
+    </unit>
+    <unit id="_ic1TmI" name="List of Religions.  Uses the Australian Standard to create this list">
+      <segment>
+        <source>List of Religions.  Uses the Australian Standard to create this list</source>
+        <target>List of Religions.  Uses the Australian Standard to create this list</target>
+      </segment>
+    </unit>
+    <unit id="NhPgenB" name="Residency Status">
+      <segment>
+        <source>Residency Status</source>
+        <target>Residency Status</target>
+      </segment>
+    </unit>
+    <unit id="Zuy0vjF" name="List of residency status available in system.">
+      <segment>
+        <source>List of residency status available in system.</source>
+        <target>List of residency status available in system.</target>
+      </segment>
+    </unit>
+    <unit id="hMAs7fl" name="person_admin.public_registration_default_role.administrator">
+      <segment>
+        <source>person_admin.public_registration_default_role.administrator</source>
+        <target>Administrator</target>
+      </segment>
+    </unit>
+    <unit id="xMpjING" name="person_admin.public_registration_default_role.parent">
+      <segment>
+        <source>person_admin.public_registration_default_role.parent</source>
+        <target>Parent</target>
+      </segment>
+    </unit>
+    <unit id="9TAyI8A" name="person_admin.public_registration_default_role.student">
+      <segment>
+        <source>person_admin.public_registration_default_role.student</source>
+        <target>Student</target>
+      </segment>
+    </unit>
+    <unit id="xpf.Y7f" name="person_admin.public_registration_default_role.support_staff">
+      <segment>
+        <source>person_admin.public_registration_default_role.support_staff</source>
+        <target>Support Staff</target>
+      </segment>
+    </unit>
+    <unit id="IM7kbvO" name="person_admin.public_registration_default_role.teacher">
+      <segment>
+        <source>person_admin.public_registration_default_role.teacher</source>
+        <target>Teacher</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
