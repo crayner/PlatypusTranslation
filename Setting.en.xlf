@@ -8676,5 +8676,65 @@ short: SHT
         <target>Agreement that people must confirm before joining. Blank for no agreement.</target>
       </segment>
     </unit>
+    <unit id="ym3jhB4" name="Application Form Introduction">
+      <segment>
+        <source>Application Form Introduction</source>
+        <target>Application Form Introduction</target>
+      </segment>
+    </unit>
+    <unit id="N8ZEMPJ" name="Information to display before the form">
+      <segment>
+        <source>Information to display before the form</source>
+        <target>Information to display before the form</target>
+      </segment>
+    </unit>
+    <unit id="I4HodMe" name="Application Form Referee Link ">
+      <segment>
+        <source>Application Form Referee Link </source>
+        <target>Application Form Referee Link </target>
+      </segment>
+    </unit>
+    <unit id="Fcj8C8K" name="49e4963">
+      <segment>
+        <source>Link to an external form that will be emailed to a referee of the applicant's choosing.</source>
+        <target>Link to an external form that will be emailed to a referee of the applicant's choosing.</target>
+      </segment>
+    </unit>
+    <unit id="BavEkgr" name="Application Form Introduction.">
+      <segment>
+        <source>Application Form Introduction.</source>
+        <target>Application Form Introduction.</target>
+      </segment>
+    </unit>
+    <unit id="hWLtR.9" name="Application Form Referee Link.">
+      <segment>
+        <source>Application Form Referee Link.</source>
+        <target>Application Form Referee Link.</target>
+      </segment>
+    </unit>
+    <unit id="NLkuTkq" name="Application Form Postscript.">
+      <segment>
+        <source>Application Form Postscript.</source>
+        <target>Application Form Postscript.</target>
+      </segment>
+    </unit>
+    <unit id="GthjbvZ" name="Information to display at the end of the form">
+      <segment>
+        <source>Information to display at the end of the form</source>
+        <target>Information to display at the end of the form</target>
+      </segment>
+    </unit>
+    <unit id="cY9YRhh" name="Application Form Agreement.">
+      <segment>
+        <source>Application Form Agreement.</source>
+        <target>Application Form Agreement.</target>
+      </segment>
+    </unit>
+    <unit id="BTSFezR" name="ee4e838">
+      <segment>
+        <source>Without this text, which is displayed above the agreement, peoples will not be asked to agree to anything</source>
+        <target>Without this text, which is displayed above the agreement, peoples will not be asked to agree to anything</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

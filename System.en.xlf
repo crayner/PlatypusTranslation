@@ -2222,5 +2222,23 @@ A list of available themes is available at ?????</target>
         <target>Sounding alarms on browsers, tablets and mobile phones requires autoplay over-ride for audio to allow the sound to play without user interaction.  As this becomes more and more diverse, this option may be withdrawn as not being a reliable alarm system.</target>
       </segment>
     </unit>
+    <unit id="ET1YqHj" name="2e43667">
+      <segment>
+        <source>The entity "App\Entity\Scale" identified as "IB Diploma (Subject) (IBDS)" was marked as locked, not to be removed.</source>
+        <target>The entity "App\Entity\Scale" identified as "IB Diploma (Subject) (IBDS)" was marked as locked, not to be removed.</target>
+      </segment>
+    </unit>
+    <unit id="OEZsSSO" name="6ff0a6c">
+      <segment>
+        <source>Busybee is designed to use the &lt;a href="http://onewaysms.com" target="_blank"&gt;One Way SMS&lt;/a&gt; gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.</source>
+        <target><![CDATA[Busybee is designed to use the <a href="http://onewaysms.com" target="_blank">One Way SMS</a> gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.]]></target>
+      </segment>
+    </unit>
+    <unit id="SjQbahj" name="Application Form Settings">
+      <segment>
+        <source>Application Form Settings</source>
+        <target>Application Form Settings</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
