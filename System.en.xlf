@@ -2240,5 +2240,71 @@ A list of available themes is available at ?????</target>
         <target>Application Form Settings</target>
       </segment>
     </unit>
+    <unit id="5vyySJZ" name="General Options">
+      <segment>
+        <source>General Options</source>
+        <target>General Options</target>
+      </segment>
+    </unit>
+    <unit id="k0Xe7hE" name="Required Document Options">
+      <segment>
+        <source>Required Document Options</source>
+        <target>Required Document Options</target>
+      </segment>
+    </unit>
+    <unit id="NJxYnNK" name="Language Learning Options">
+      <segment>
+        <source>Language Learning Options</source>
+        <target>Language Learning Options</target>
+      </segment>
+    </unit>
+    <unit id="ptkipsh" name="Set values for applicants to specify which language they wish to learn.">
+      <segment>
+        <source>Set values for applicants to specify which language they wish to learn.</source>
+        <target>Set values for applicants to specify which language they wish to learn.</target>
+      </segment>
+    </unit>
+    <unit id="m66Rit2" name="Sections">
+      <segment>
+        <source>Sections</source>
+        <target>Sections</target>
+      </segment>
+    </unit>
+    <unit id="Uvy81vr" name="Acceptance Options">
+      <segment>
+        <source>Acceptance Options</source>
+        <target>Acceptance Options</target>
+      </segment>
+    </unit>
+    <unit id="OuWQ4Yj" name="Student Sections">
+      <segment>
+        <source>Student Sections</source>
+        <target>Student Sections</target>
+      </segment>
+    </unit>
+    <unit id="3y1FJRC" name="section.header.staff_management">
+      <segment>
+        <source>section.header.staff_management</source>
+        <target>Staff Management</target>
+      </segment>
+    </unit>
+    <unit id="4GcNonw" name="Staff Application Form Settings">
+      <segment>
+        <source>Staff Application Form Settings</source>
+        <target>Staff Application Form Settings</target>
+      </segment>
+    </unit>
+    <unit id="ppRSwwF" name="application_form_settings">
+      <segment>
+        <source>application_form_settings</source>
+        <target>Application Form Settings</target>
+      </segment>
+    </unit>
+    <unit id="GRbW.qu" name="General options">
+      <segment>
+        <source>General options</source>
+        <target>General options</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

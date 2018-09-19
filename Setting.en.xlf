@@ -8736,5 +8736,389 @@ short: SHT
         <target>Without this text, which is displayed above the agreement, peoples will not be asked to agree to anything</target>
       </segment>
     </unit>
+    <unit id="9.S93U1" name="Application Fee.">
+      <segment>
+        <source>Application Fee.</source>
+        <target>Application Fee.</target>
+      </segment>
+    </unit>
+    <unit id="YMPf99S" name="The cost of applying to the school. In .">
+      <segment>
+        <source>The cost of applying to the school. In .</source>
+        <target>The cost of applying to the school. In .</target>
+      </segment>
+    </unit>
+    <unit id="lE1jO3g" name="The cost of applying to the school. In AUD.">
+      <segment>
+        <source>The cost of applying to the school. In AUD.</source>
+        <target>The cost of applying to the school. In AUD.</target>
+      </segment>
+    </unit>
+    <unit id="P1_juMi" name="Public Applications?">
+      <segment>
+        <source>Public Applications?</source>
+        <target>Public Applications?</target>
+      </segment>
+    </unit>
+    <unit id="V0Qdy1v" name="If yes, members of the public can submit applications">
+      <segment>
+        <source>If yes, members of the public can submit applications</source>
+        <target>If yes, members of the public can submit applications</target>
+      </segment>
+    </unit>
+    <unit id="vhPQQB3" name="Application Milestones">
+      <segment>
+        <source>Application Milestones</source>
+        <target>Application Milestones</target>
+      </segment>
+    </unit>
+    <unit id="2gW23qm" name="2d962b3">
+      <segment>
+        <source>List of the major steps in the application process. Applicants can be tracked through the various stages.</source>
+        <target>List of the major steps in the application process. Applicants can be tracked through the various stages.</target>
+      </segment>
+    </unit>
+    <unit id="KhhIN._" name="How Did Your Hear?">
+      <segment>
+        <source>How Did Your Hear?</source>
+        <target>How Did Your Hear?</target>
+      </segment>
+    </unit>
+    <unit id="hvYLMFx" name="Enable Limited Years of Entry">
+      <segment>
+        <source>Enable Limited Years of Entry</source>
+        <target>Enable Limited Years of Entry</target>
+      </segment>
+    </unit>
+    <unit id="9JFmr6x" name="69bd374">
+      <segment>
+        <source>If yes, applicants choices for Year of Entry can be limited to specific school years.</source>
+        <target>If yes, applicants choices for Year of Entry can be limited to specific school years.</target>
+      </segment>
+    </unit>
+    <unit id="wxyi0wp" name="Available Years of Entry">
+      <segment>
+        <source>Available Years of Entry</source>
+        <target>Available Years of Entry</target>
+      </segment>
+    </unit>
+    <unit id="HEoaEtb" name="94b28f0">
+      <segment>
+        <source>Which school years should be available to apply to? Use Control, Command and/or Shift to select multiple.</source>
+        <target>Which school years should be available to apply to? Use Control, Command and/or Shift to select multiple.</target>
+      </segment>
+    </unit>
+    <unit id="gqNTf.D" name="name">
+      <segment>
+        <source>name</source>
+        <target>name</target>
+      </segment>
+    </unit>
+    <unit id="uOVPhLF" name="2018-2019">
+      <segment>
+        <source>2018-2019</source>
+        <target>2018-2019</target>
+      </segment>
+    </unit>
+    <unit id="8aCus1q" name="2019-2020">
+      <segment>
+        <source>2019-2020</source>
+        <target>2019-2020</target>
+      </segment>
+    </unit>
+    <unit id="8Cu73Gw" name="Required Documents">
+      <segment>
+        <source>Required Documents</source>
+        <target>Required Documents</target>
+      </segment>
+    </unit>
+    <unit id="cpj8PnB" name="4ac507f">
+      <segment>
+        <source>List of documents which must be submitted electronically with the application form.</source>
+        <target>List of documents which must be submitted electronically with the application form.</target>
+      </segment>
+    </unit>
+    <unit id="Gt2fgF0" name="Internal Documents">
+      <segment>
+        <source>Internal Documents</source>
+        <target>Internal Documents</target>
+      </segment>
+    </unit>
+    <unit id="iNc97bY" name="List of documents for internal upload and use.">
+      <segment>
+        <source>List of documents for internal upload and use.</source>
+        <target>List of documents for internal upload and use.</target>
+      </segment>
+    </unit>
+    <unit id="mhA_zn." name="Required Documents Text">
+      <segment>
+        <source>Required Documents Text</source>
+        <target>Required Documents Text</target>
+      </segment>
+    </unit>
+    <unit id="Il9vDg1" name="Explanatory text to appear with the required documents?">
+      <segment>
+        <source>Explanatory text to appear with the required documents?</source>
+        <target>Explanatory text to appear with the required documents?</target>
+      </segment>
+    </unit>
+    <unit id="j3jv9_u" name="Required Documents Compulsory?">
+      <segment>
+        <source>Required Documents Compulsory?</source>
+        <target>Required Documents Compulsory?</target>
+      </segment>
+    </unit>
+    <unit id="JPUViPm" name="Language Options Active">
+      <segment>
+        <source>Language Options Active</source>
+        <target>Language Options Active</target>
+      </segment>
+    </unit>
+    <unit id="CgHRN_A" name="Should the Language Options section be turned on?">
+      <segment>
+        <source>Should the Language Options section be turned on?</source>
+        <target>Should the Language Options section be turned on?</target>
+      </segment>
+    </unit>
+    <unit id="3neu.Cv" name="Language Options Introduction">
+      <segment>
+        <source>Language Options Introduction</source>
+        <target>Language Options Introduction</target>
+      </segment>
+    </unit>
+    <unit id="VBxiH7S" name="Introductory text if Language Options section is turned on.">
+      <segment>
+        <source>Introductory text if Language Options section is turned on.</source>
+        <target>Introductory text if Language Options section is turned on.</target>
+      </segment>
+    </unit>
+    <unit id="LQ4JPt." name="Language Options Language List">
+      <segment>
+        <source>Language Options Language List</source>
+        <target>Language Options Language List</target>
+      </segment>
+    </unit>
+    <unit id="zA2Fb3G" name="List of available language selections if Language Options section is turned on.">
+      <segment>
+        <source>List of available language selections if Language Options section is turned on.</source>
+        <target>List of available language selections if Language Options section is turned on.</target>
+      </segment>
+    </unit>
+    <unit id="1kWw3wN" name="Special Education Needs Active">
+      <segment>
+        <source>Special Education Needs Active</source>
+        <target>Special Education Needs Active</target>
+      </segment>
+    </unit>
+    <unit id="olm_JFF" name="Should the Special Education Needs section be turned on?">
+      <segment>
+        <source>Should the Special Education Needs section be turned on?</source>
+        <target>Should the Special Education Needs section be turned on?</target>
+      </segment>
+    </unit>
+    <unit id="JPnFwLa" name="Special Education Application Text">
+      <segment>
+        <source>Special Education Application Text</source>
+        <target>Special Education Application Text</target>
+      </segment>
+    </unit>
+    <unit id="QGxNdrx" name="dad0a4b">
+      <segment>
+        <source>Text to appear with the Special Educational Needs section of the student application form.</source>
+        <target>Text to appear with the Special Educational Needs section of the student application form.</target>
+      </segment>
+    </unit>
+    <unit id="jbuDtiv" name="Scholarship Options Active">
+      <segment>
+        <source>Scholarship Options Active</source>
+        <target>Scholarship Options Active</target>
+      </segment>
+    </unit>
+    <unit id="A08VCDa" name="Should the Scholarship Options section be turned on?">
+      <segment>
+        <source>Should the Scholarship Options section be turned on?</source>
+        <target>Should the Scholarship Options section be turned on?</target>
+      </segment>
+    </unit>
+    <unit id="aLkRmC2" name="Scholarships ">
+      <segment>
+        <source>Scholarships </source>
+        <target>Scholarships </target>
+      </segment>
+    </unit>
+    <unit id="5NrbJN." name="Information to display before the scholarship options.">
+      <segment>
+        <source>Information to display before the scholarship options.</source>
+        <target>Information to display before the scholarship options.</target>
+      </segment>
+    </unit>
+    <unit id="4PDmQmM" name="Payment Options Active">
+      <segment>
+        <source>Payment Options Active</source>
+        <target>Payment Options Active</target>
+      </segment>
+    </unit>
+    <unit id="ylb2QLl" name="Should the Payment section be turned on?">
+      <segment>
+        <source>Should the Payment section be turned on?</source>
+        <target>Should the Payment section be turned on?</target>
+      </segment>
+    </unit>
+    <unit id="wymUIKs" name="User-name Format">
+      <segment>
+        <source>User-name Format</source>
+        <target>User-name Format</target>
+      </segment>
+    </unit>
+    <unit id="7fMlvP1" name="73804c8">
+      <segment>
+        <source>How should user-names be formatted? Choose from [preferredName], [preferredNameInitial], [surname].</source>
+        <target>How should user-names be formatted? Choose from [preferredName], [preferredNameInitial], [surname].</target>
+      </segment>
+    </unit>
+    <unit id="jwPa9Zc" name="Student Notification Default">
+      <segment>
+        <source>Student Notification Default</source>
+        <target>Student Notification Default</target>
+      </segment>
+    </unit>
+    <unit id="cMw4op2" name="Should student acceptance email be turned on or off.">
+      <segment>
+        <source>Should student acceptance email be turned on or off.</source>
+        <target>Should student acceptance email be turned on or off.</target>
+      </segment>
+    </unit>
+    <unit id="uvZPzpI" name="Student Notification Message">
+      <segment>
+        <source>Student Notification Message</source>
+        <target>Student Notification Message</target>
+      </segment>
+    </unit>
+    <unit id="aNYpC6u" name="A custom message to add to the standard email to students on acceptance.">
+      <segment>
+        <source>A custom message to add to the standard email to students on acceptance.</source>
+        <target>A custom message to add to the standard email to students on acceptance.</target>
+      </segment>
+    </unit>
+    <unit id="vLU3AOL" name="Parent Notification Default">
+      <segment>
+        <source>Parent Notification Default</source>
+        <target>Parent Notification Default</target>
+      </segment>
+    </unit>
+    <unit id="nMbcwG5" name="Should parent acceptance email be turned on or off.">
+      <segment>
+        <source>Should parent acceptance email be turned on or off.</source>
+        <target>Should parent acceptance email be turned on or off.</target>
+      </segment>
+    </unit>
+    <unit id="AAOtonA" name="Parent Notification Message">
+      <segment>
+        <source>Parent Notification Message</source>
+        <target>Parent Notification Message</target>
+      </segment>
+    </unit>
+    <unit id=".ER28f0" name="A custom message to add to the standard email to parents on acceptance.">
+      <segment>
+        <source>A custom message to add to the standard email to parents on acceptance.</source>
+        <target>A custom message to add to the standard email to parents on acceptance.</target>
+      </segment>
+    </unit>
+    <unit id="QJ6qUzO" name="Student Default Email">
+      <segment>
+        <source>Student Default Email</source>
+        <target>Student Default Email</target>
+      </segment>
+    </unit>
+    <unit id="HHXFqlV" name="5948aca">
+      <segment>
+        <source>Set default email for students on acceptance, using [username] to insert user-name.</source>
+        <target>Set default email for students on acceptance, using [username] to insert user-name.</target>
+      </segment>
+    </unit>
+    <unit id="8VX6FYv" name="Student Default Website">
+      <segment>
+        <source>Student Default Website</source>
+        <target>Student Default Website</target>
+      </segment>
+    </unit>
+    <unit id="6CMR4uo" name="09a3db2">
+      <segment>
+        <source>Set default website for students on acceptance, using [username] to insert user-name.</source>
+        <target>Set default website for students on acceptance, using [username] to insert user-name.</target>
+      </segment>
+    </unit>
+    <unit id="ZSaEbiA" name="Auto House Assign">
+      <segment>
+        <source>Auto House Assign</source>
+        <target>Auto House Assign</target>
+      </segment>
+    </unit>
+    <unit id="SvXSIQB" name="Attempt to automatically place student in a house?">
+      <segment>
+        <source>Attempt to automatically place student in a house?</source>
+        <target>Attempt to automatically place student in a house?</target>
+      </segment>
+    </unit>
+    <unit id="6rGzV1h" name="This value is too long. It should have 25 characters or less.">
+      <segment>
+        <source>This value is too long. It should have 25 characters or less.</source>
+        <target>This value is too long. It should have 25 characters or less.</target>
+      </segment>
+    </unit>
+    <unit id="za_oHwM" name="Staff Application Introduction">
+      <segment>
+        <source>Staff Application Introduction</source>
+        <target>Staff Application Introduction</target>
+      </segment>
+    </unit>
+    <unit id=".xlSBUM" name="Staff Application Questions">
+      <segment>
+        <source>Staff Application Questions</source>
+        <target>Staff Application Questions</target>
+      </segment>
+    </unit>
+    <unit id="Jmoqu7q" name="HTML text that will appear as questions for the applicant to answer.">
+      <segment>
+        <source>HTML text that will appear as questions for the applicant to answer.</source>
+        <target>HTML text that will appear as questions for the applicant to answer.</target>
+      </segment>
+    </unit>
+    <unit id="eobJz1q" name="Staff Application Postscript">
+      <segment>
+        <source>Staff Application Postscript</source>
+        <target>Staff Application Postscript</target>
+      </segment>
+    </unit>
+    <unit id="ufkvxw2" name="Information to display at the end of the form.">
+      <segment>
+        <source>Information to display at the end of the form.</source>
+        <target>Information to display at the end of the form.</target>
+      </segment>
+    </unit>
+    <unit id="kwT8MJj" name="Staff Application Agreement">
+      <segment>
+        <source>Staff Application Agreement</source>
+        <target>Staff Application Agreement</target>
+      </segment>
+    </unit>
+    <unit id="TYvBFE_" name="96b3c87">
+      <segment>
+        <source>Without this text, which is displayed above the agreement, peoples will not be asked to agree to anything.</source>
+        <target>Without this text, which is displayed above the agreement, peoples will not be asked to agree to anything.</target>
+      </segment>
+    </unit>
+    <unit id="ReW4tbV" name="Staff Public Applications?">
+      <segment>
+        <source>Staff Public Applications?</source>
+        <target>Staff Public Applications?</target>
+      </segment>
+    </unit>
+    <unit id="O4NGohh" name="If yes, members of the public can submit staff applications.">
+      <segment>
+        <source>If yes, members of the public can submit staff applications.</source>
+        <target>If yes, members of the public can submit staff applications.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
