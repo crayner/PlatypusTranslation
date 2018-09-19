@@ -2392,5 +2392,41 @@
         <target>Refresh Roll Groups</target>
       </segment>
     </unit>
+    <unit id="4ZwicYs" name="department.sort.name">
+      <segment>
+        <source>department.sort.name</source>
+        <target>Department Name</target>
+      </segment>
+    </unit>
+    <unit id="3NHVIj9" name="Name">
+      <segment>
+        <source>Name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="AcjuKhL" name="department_pagination.title">
+      <segment>
+        <source>department_pagination.title</source>
+        <target>Manage Departments</target>
+      </segment>
+    </unit>
+    <unit id="uq3fcPt" name="Type">
+      <segment>
+        <source>Type</source>
+        <target>Type</target>
+      </segment>
+    </unit>
+    <unit id="kf3StTt" name="Staff Members">
+      <segment>
+        <source>Staff Members</source>
+        <target>Staff Members</target>
+      </segment>
+    </unit>
+    <unit id="ol3qL_N" name="department.sort.type">
+      <segment>
+        <source>department.sort.type</source>
+        <target>Department Type</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
