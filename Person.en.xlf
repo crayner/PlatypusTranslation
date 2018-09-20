@@ -2099,5 +2099,41 @@ Use Control, Command and/or Shift to select multiple.
         <target>Work</target>
       </segment>
     </unit>
+    <unit id="kHD7Ptx" name="enrolment.tab">
+      <segment>
+        <source>enrolment.tab</source>
+        <target>enrolment.tab</target>
+      </segment>
+    </unit>
+    <unit id="oTdaKJf" name="Enrolment">
+      <segment>
+        <source>Enrolment</source>
+        <target>Enrolment</target>
+      </segment>
+    </unit>
+    <unit id="nPTZEIj" name="Enrolment: %name%">
+      <segment>
+        <source>Enrolment: %name%</source>
+        <target>Enrolment: Aguilar: Allyson (Allyson)</target>
+      </segment>
+    </unit>
+    <unit id="IV3gTho" name="Year group">
+      <segment>
+        <source>Year group</source>
+        <target>Year group</target>
+      </segment>
+    </unit>
+    <unit id="bo.b5WT" name="Roll group">
+      <segment>
+        <source>Roll group</source>
+        <target>Roll group</target>
+      </segment>
+    </unit>
+    <unit id="qhupQK2" name="Please Select...">
+      <segment>
+        <source>Please Select...</source>
+        <target>Please Select...</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
