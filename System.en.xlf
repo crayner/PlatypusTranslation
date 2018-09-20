@@ -2354,5 +2354,113 @@ A list of available themes is available at ?????</target>
         <target>How should staff names be formatted? Choose from [title], [preferredName], [surname]. Use a colon to limit the number of letters, for example [preferredName:1] will use the first initial.</target>
       </segment>
     </unit>
+    <unit id="pec.FfX" name="section.header.data_updater">
+      <segment>
+        <source>section.header.data_updater</source>
+        <target>Data Updater</target>
+      </segment>
+    </unit>
+    <unit id="IlG4x3H" name="Data Updater Settings">
+      <segment>
+        <source>Data Updater Settings</source>
+        <target>Data Updater Settings</target>
+      </segment>
+    </unit>
+    <unit id="BQTewjK" name="data_updater_settings">
+      <segment>
+        <source>data_updater_settings</source>
+        <target>Data Updater Settings</target>
+      </segment>
+    </unit>
+    <unit id="dKiDoDe" name="Settings">
+      <segment>
+        <source>Settings</source>
+        <target>Settings</target>
+      </segment>
+    </unit>
+    <unit id="7y13Wie" name="Required Data Update Types">
+      <segment>
+        <source>Required Data Update Types</source>
+        <target>Required Data Update Types</target>
+      </segment>
+    </unit>
+    <unit id="q5jgIqs" name="Which type of data updates should be required.">
+      <segment>
+        <source>Which type of data updates should be required.</source>
+        <target>Which type of data updates should be required.</target>
+      </segment>
+    </unit>
+    <unit id="X_zrZv." name="0">
+      <segment>
+        <source>0</source>
+        <target>0</target>
+      </segment>
+    </unit>
+    <unit id="1HNeOiZ" name="2">
+      <segment>
+        <source>2</source>
+        <target>2</target>
+      </segment>
+    </unit>
+    <unit id="TgdAhWK" name="3">
+      <segment>
+        <source>3</source>
+        <target>3</target>
+      </segment>
+    </unit>
+    <unit id="lAZgp2." name="Data Updater Redirect">
+      <segment>
+        <source>Data Updater Redirect</source>
+        <target>Data Updater Redirect</target>
+      </segment>
+    </unit>
+    <unit id="n1SxEll" name="3218349">
+      <segment>
+        <source>Which types of users should be redirected to the Data Updater if updates are required.</source>
+        <target>Which types of users should be redirected to the Data Updater if updates are required.</target>
+      </segment>
+    </unit>
+    <unit id="LdMlXxj" name="data_updater.required_updates_by_type.family">
+      <segment>
+        <source>data_updater.required_updates_by_type.family</source>
+        <target>Family</target>
+      </segment>
+    </unit>
+    <unit id="fp5KUFi" name="data_updater.required_updates_by_type.personal">
+      <segment>
+        <source>data_updater.required_updates_by_type.personal</source>
+        <target>Personal</target>
+      </segment>
+    </unit>
+    <unit id="aMCJzci" name="data_updater.required_updates_by_type.medical">
+      <segment>
+        <source>data_updater.required_updates_by_type.medical</source>
+        <target>Medical</target>
+      </segment>
+    </unit>
+    <unit id="U1A9Y8l" name="data_updater.required_updates_by_type.finance">
+      <segment>
+        <source>data_updater.required_updates_by_type.finance</source>
+        <target>Finance</target>
+      </segment>
+    </unit>
+    <unit id="kX575nT" name="data_updater.redirect_by_role_category.staff">
+      <segment>
+        <source>data_updater.redirect_by_role_category.staff</source>
+        <target>Staff</target>
+      </segment>
+    </unit>
+    <unit id="mTRHBRA" name="data_updater.redirect_by_role_category.student">
+      <segment>
+        <source>data_updater.redirect_by_role_category.student</source>
+        <target>Student</target>
+      </segment>
+    </unit>
+    <unit id="bdDUl0W" name="data_updater.redirect_by_role_category.parent">
+      <segment>
+        <source>data_updater.redirect_by_role_category.parent</source>
+        <target>Parent</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
