@@ -2306,5 +2306,53 @@ A list of available themes is available at ?????</target>
         <target>General options</target>
       </segment>
     </unit>
+    <unit id="PY6gmqN" name="staff_application_form_settings">
+      <segment>
+        <source>staff_application_form_settings</source>
+        <target>Staff Application Form Settings</target>
+      </segment>
+    </unit>
+    <unit id="dXeX3QV" name="Application Form Referee Documents">
+      <segment>
+        <source>Application Form Referee Documents</source>
+        <target>Application Form Referee Documents</target>
+      </segment>
+    </unit>
+    <unit id="3MWcbWg" name="Add an html link for each role as required.">
+      <segment>
+        <source>Add an html link for each role as required.</source>
+        <target>Add an html link for each role as required.</target>
+      </segment>
+    </unit>
+    <unit id="ME7mgvH" name="Required Documents Options">
+      <segment>
+        <source>Required Documents Options</source>
+        <target>Required Documents Options</target>
+      </segment>
+    </unit>
+    <unit id="hGefzp3" name="Manage Staff Settings">
+      <segment>
+        <source>Manage Staff Settings</source>
+        <target>Manage Staff Settings</target>
+      </segment>
+    </unit>
+    <unit id="0Qw7kYe" name="staff_settings">
+      <segment>
+        <source>staff_settings</source>
+        <target>Staff Settings</target>
+      </segment>
+    </unit>
+    <unit id="Ct6KR6a" name="Name Formats">
+      <segment>
+        <source>Name Formats</source>
+        <target>Name Formats</target>
+      </segment>
+    </unit>
+    <unit id="fXQVtfr" name="61b2624">
+      <segment>
+        <source>How should staff names be formatted? Choose from [title], [preferredName], [surname]. Use a colon to limit the number of letters, for example [preferredName:1] will use the first initial.</source>
+        <target>How should staff names be formatted? Choose from [title], [preferredName], [surname]. Use a colon to limit the number of letters, for example [preferredName:1] will use the first initial.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
