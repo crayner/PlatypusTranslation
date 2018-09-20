@@ -2069,5 +2069,35 @@ Use Control, Command and/or Shift to select multiple.
         <target>Teacher</target>
       </segment>
     </unit>
+    <unit id="Ny9_zgS" name="person_admin.residency_status.citizen">
+      <segment>
+        <source>person_admin.residency_status.citizen</source>
+        <target>Citizen</target>
+      </segment>
+    </unit>
+    <unit id="hkFX8TB" name="person_admin.residency_status.permanent">
+      <segment>
+        <source>person_admin.residency_status.permanent</source>
+        <target>Permanent</target>
+      </segment>
+    </unit>
+    <unit id="p6xyV1X" name="person_admin.residency_status.temporary">
+      <segment>
+        <source>person_admin.residency_status.temporary</source>
+        <target>Temporary</target>
+      </segment>
+    </unit>
+    <unit id="9AnI67Z" name="person_admin.residency_status.visitor">
+      <segment>
+        <source>person_admin.residency_status.visitor</source>
+        <target>Visitor</target>
+      </segment>
+    </unit>
+    <unit id="x1juZN4" name="person_admin.residency_status.work">
+      <segment>
+        <source>person_admin.residency_status.work</source>
+        <target>Work</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
