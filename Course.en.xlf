@@ -76,7 +76,7 @@
     <unit id="Hrefk5D" name="Course %name%">
       <segment>
         <source>Course %name%</source>
-        <target>Course Year 10 Art</target>
+        <target>Course %name%</target>
       </segment>
     </unit>
     <unit id="47DEQpj" name="">
@@ -112,13 +112,13 @@
     <unit id="g0wa4fQ" name="Course Details: %name%">
       <segment>
         <source>Course Details: %name%</source>
-        <target>Course Details: Year 10 Art</target>
+        <target>Course Details: %name%</target>
       </segment>
     </unit>
     <unit id="kYrw37F" name="Course Description: %name%">
       <segment>
         <source>Course Description: %name%</source>
-        <target>Course Description: Year 10 Art</target>
+        <target>Course Description: %name%</target>
       </segment>
     </unit>
     <unit id="a_CQgly" name="Order">
@@ -155,6 +155,174 @@
       <segment>
         <source>Must be unique in the school year.</source>
         <target>Must be unique in the school year.</target>
+      </segment>
+    </unit>
+    <unit id="q5l5nqa" name="Course Classes: %name%">
+      <segment>
+        <source>Course Classes: %name%</source>
+        <target>Course Classes: %name%</target>
+      </segment>
+    </unit>
+    <unit id="P7CP4p2" name="Class Short Name">
+      <segment>
+        <source>Class Short Name</source>
+        <target>Class Short Name</target>
+      </segment>
+    </unit>
+    <unit id="bjocWxE" name="Class Name">
+      <segment>
+        <source>Class Name</source>
+        <target>Class Name</target>
+      </segment>
+    </unit>
+    <unit id="DicnmzM" name="Participants">
+      <segment>
+        <source>Participants</source>
+        <target>Participants</target>
+      </segment>
+    </unit>
+    <unit id="GjpRc7K" name="Reportable">
+      <segment>
+        <source>Reportable</source>
+        <target>Reportable</target>
+      </segment>
+    </unit>
+    <unit id=".4BZ3Gd" name="Actions">
+      <segment>
+        <source>Actions</source>
+        <target>Actions</target>
+      </segment>
+    </unit>
+    <unit id="8yc39L4" name="No classes have been found for this course.">
+      <segment>
+        <source>No classes have been found for this course.</source>
+        <target>No classes have been found for this course.</target>
+      </segment>
+    </unit>
+    <unit id="fR2kiHl" name="Students (Tutors)">
+      <segment>
+        <source>Students (Tutors)</source>
+        <target>Students (Tutors)</target>
+      </segment>
+    </unit>
+    <unit id="anDZeRw" name="Edit Class">
+      <segment>
+        <source>Edit Class</source>
+        <target>Edit Class</target>
+      </segment>
+    </unit>
+    <unit id="0tRiZ4W" name="Edit CLass">
+      <segment>
+        <source>Edit CLass</source>
+        <target>Edit CLass</target>
+      </segment>
+    </unit>
+    <unit id="rM0Vp81" name="Class Details: %name%">
+      <segment>
+        <source>Class Details: %name%</source>
+        <target>Class Details: %name%</target>
+      </segment>
+    </unit>
+    <unit id="ylv0lcV" name="Use Course Name">
+      <segment>
+        <source>Use Course Name</source>
+        <target>Use Course Name</target>
+      </segment>
+    </unit>
+    <unit id="GKd1RbF" name="Prefix the class name with the course name.">
+      <segment>
+        <source>Prefix the class name with the course name.</source>
+        <target>Prefix the class name with the course name.</target>
+      </segment>
+    </unit>
+    <unit id="rDaBcGJ" name="Displayed as &quot;%{name}&quot;">
+      <segment>
+        <source>Displayed as "%{name}"</source>
+        <target>Displayed as "%{name}"</target>
+      </segment>
+    </unit>
+    <unit id="JH9sMPt" name="Reportable?">
+      <segment>
+        <source>Reportable?</source>
+        <target>Reportable?</target>
+      </segment>
+    </unit>
+    <unit id="Fgii_TY" name="Should this class show in reports?">
+      <segment>
+        <source>Should this class show in reports?</source>
+        <target>Should this class show in reports?</target>
+      </segment>
+    </unit>
+    <unit id="opg0eTR" name="Track Attendance?">
+      <segment>
+        <source>Track Attendance?</source>
+        <target>Track Attendance?</target>
+      </segment>
+    </unit>
+    <unit id="GVdoDIC" name="Should this class allow attendance to be taken?">
+      <segment>
+        <source>Should this class allow attendance to be taken?</source>
+        <target>Should this class allow attendance to be taken?</target>
+      </segment>
+    </unit>
+    <unit id="EkMF6ZV" name="Use Scale">
+      <segment>
+        <source>Use Scale</source>
+        <target>Use Scale</target>
+      </segment>
+    </unit>
+    <unit id="I9yqgEv" name="Default scale used for this class.">
+      <segment>
+        <source>Default scale used for this class.</source>
+        <target>Default scale used for this class.</target>
+      </segment>
+    </unit>
+    <unit id="BBPVekI" name="courseclassperson.role.student">
+      <segment>
+        <source>courseclassperson.role.student</source>
+        <target>Student</target>
+      </segment>
+    </unit>
+    <unit id="jQxEGzS" name="courseclassperson.role.teacher">
+      <segment>
+        <source>courseclassperson.role.teacher</source>
+        <target>Teacher</target>
+      </segment>
+    </unit>
+    <unit id="JbLOAvY" name="courseclassperson.role.assistant">
+      <segment>
+        <source>courseclassperson.role.assistant</source>
+        <target>Assistant</target>
+      </segment>
+    </unit>
+    <unit id="hCZm5nZ" name="courseclassperson.role.technician">
+      <segment>
+        <source>courseclassperson.role.technician</source>
+        <target>Technician</target>
+      </segment>
+    </unit>
+    <unit id="8cBv39M" name="courseclassperson.role.parent">
+      <segment>
+        <source>courseclassperson.role.parent</source>
+        <target>Parent</target>
+      </segment>
+    </unit>
+    <unit id="pqkRoHf" name="courseclassperson.role.student_left">
+      <segment>
+        <source>courseclassperson.role.student_left</source>
+        <target>Student - Left</target>
+      </segment>
+    </unit>
+    <unit id="EaH3Shq" name="courseclassperson.role.teacher_left">
+      <segment>
+        <source>courseclassperson.role.teacher_left</source>
+        <target>Teacher - Left</target>
+      </segment>
+    </unit>
+    <unit id="Khm7eN4" name="Students">
+      <segment>
+        <source>Students</source>
+        <target>Students</target>
       </segment>
     </unit>
   </file>
