@@ -61,5 +61,101 @@
         <target>Class Count</target>
       </segment>
     </unit>
+    <unit id="BgbKTOv" name="Edit Course &amp; Classes">
+      <segment>
+        <source>Edit Course &amp; Classes</source>
+        <target><![CDATA[Edit Course & Classes]]></target>
+      </segment>
+    </unit>
+    <unit id="RZid5J_" name="Details">
+      <segment>
+        <source>Details</source>
+        <target>Details</target>
+      </segment>
+    </unit>
+    <unit id="Hrefk5D" name="Course %name%">
+      <segment>
+        <source>Course %name%</source>
+        <target>Course Year 10 Art</target>
+      </segment>
+    </unit>
+    <unit id="47DEQpj" name="">
+      <segment>
+        <source></source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="LJWQYtR" name="Course Name">
+      <segment>
+        <source>Course Name</source>
+        <target>Course Name</target>
+      </segment>
+    </unit>
+    <unit id="Nua9Xb." name="Course Short Name">
+      <segment>
+        <source>Course Short Name</source>
+        <target>Course Short Name</target>
+      </segment>
+    </unit>
+    <unit id="M73MCiU" name="Please select...">
+      <segment>
+        <source>Please select...</source>
+        <target>Please select...</target>
+      </segment>
+    </unit>
+    <unit id="uS70O6c" name="Description (Blurb)">
+      <segment>
+        <source>Description (Blurb)</source>
+        <target>Description (Blurb)</target>
+      </segment>
+    </unit>
+    <unit id="g0wa4fQ" name="Course Details: %name%">
+      <segment>
+        <source>Course Details: %name%</source>
+        <target>Course Details: Year 10 Art</target>
+      </segment>
+    </unit>
+    <unit id="kYrw37F" name="Course Description: %name%">
+      <segment>
+        <source>Course Description: %name%</source>
+        <target>Course Description: Year 10 Art</target>
+      </segment>
+    </unit>
+    <unit id="a_CQgly" name="Order">
+      <segment>
+        <source>Order</source>
+        <target>Order</target>
+      </segment>
+    </unit>
+    <unit id="lOFy1Ui" name="May be used to adjust arrangement of courses in reports.">
+      <segment>
+        <source>May be used to adjust arrangement of courses in reports.</source>
+        <target>May be used to adjust arrangement of courses in reports.</target>
+      </segment>
+    </unit>
+    <unit id="EK1wywP" name="Include In Curriculum Map">
+      <segment>
+        <source>Include In Curriculum Map</source>
+        <target>Include In Curriculum Map</target>
+      </segment>
+    </unit>
+    <unit id="EU.nF70" name="Year Groups">
+      <segment>
+        <source>Year Groups</source>
+        <target>Year Groups</target>
+      </segment>
+    </unit>
+    <unit id="1h2WlMH" name="Enrolment available to selected year groups.">
+      <segment>
+        <source>Enrolment available to selected year groups.</source>
+        <target>Enrolment available to selected year groups.</target>
+      </segment>
+    </unit>
+    <unit id="UChzjSW" name="Must be unique in the school year.">
+      <segment>
+        <source>Must be unique in the school year.</source>
+        <target>Must be unique in the school year.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
