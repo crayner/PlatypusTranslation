@@ -307,5 +307,11 @@
         <target>Personnel Administration</target>
       </segment>
     </unit>
+    <unit id="yD2spGF" name="action.group_by.timetable_admin">
+      <segment>
+        <source>action.group_by.timetable_admin</source>
+        <target>Timetable Administration</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

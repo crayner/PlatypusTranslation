@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Course.en">
+    <unit id="KDjEOKn" name="Manage Courses and Classes">
+      <segment>
+        <source>Manage Courses and Classes</source>
+        <target>Manage Courses and Classes</target>
+      </segment>
+    </unit>
+    <unit id="QLlZL98" name="Abbrev.">
+      <segment>
+        <source>Abbrev.</source>
+        <target>Abbrev.</target>
+      </segment>
+    </unit>
+    <unit id="pMEWWA." name="course_pagination.title">
+      <segment>
+        <source>course_pagination.title</source>
+        <target><![CDATA[Manage Courses & Classes]]></target>
+      </segment>
+    </unit>
+    <unit id="3NHVIj9" name="Name">
+      <segment>
+        <source>Name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="nN0.GJ0" name="Learning Area">
+      <segment>
+        <source>Learning Area</source>
+        <target>Learning Area</target>
+      </segment>
+    </unit>
+    <unit id="UwSrmOW" name="Department">
+      <segment>
+        <source>Department</source>
+        <target>Department</target>
+      </segment>
+    </unit>
+    <unit id="ezu2sCI" name="classes">
+      <segment>
+        <source>classes</source>
+        <target>classes</target>
+      </segment>
+    </unit>
+    <unit id="hGNyhsW" name="Classes">
+      <segment>
+        <source>Classes</source>
+        <target>Classes</target>
+      </segment>
+    </unit>
+    <unit id="i0u8_gl" name="Short Name">
+      <segment>
+        <source>Short Name</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="dTL.Gic" name="Class Count">
+      <segment>
+        <source>Class Count</source>
+        <target>Class Count</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

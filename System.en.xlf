@@ -2462,5 +2462,23 @@ A list of available themes is available at ?????</target>
         <target>Parent</target>
       </segment>
     </unit>
+    <unit id="RbZ_qWr" name="section.header.course_classes">
+      <segment>
+        <source>section.header.course_classes</source>
+        <target><![CDATA[Courses & Classes]]></target>
+      </segment>
+    </unit>
+    <unit id="ddFABum" name="Manage Course &amp; Classes">
+      <segment>
+        <source>Manage Course &amp; Classes</source>
+        <target><![CDATA[Manage Course & Classes]]></target>
+      </segment>
+    </unit>
+    <unit id="6qSRNKz" name="menu.admin.timetable">
+      <segment>
+        <source>menu.admin.timetable</source>
+        <target>Timetable Admin</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
