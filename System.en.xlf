@@ -223,12 +223,6 @@
         <target>Admin</target>
       </segment>
     </unit>
-    <unit id="CqIniSt" name="setting.create.success">
-      <segment>
-        <source>setting.create.success</source>
-        <target>{0}No settings were processed.|{1}A setting was loaded to the database.|]1,Inf[%count% settings were processed successfully.</target>
-      </segment>
-    </unit>
     <unit id="zJfW_jN" name="system.setting.file">
       <segment>
         <source>system.setting.file</source>
