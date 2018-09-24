@@ -88,19 +88,19 @@
     <unit id="nLHnSFy" name="welcome.sentence.1">
       <segment>
         <source>welcome.sentence.1</source>
-        <target>Created by teachers, Gibbon is the school platform which solves real problems faced by educators every day.</target>
+        <target>Busybee is the school platform which solves real problems faced by educators every day.</target>
       </segment>
     </unit>
     <unit id="5.1tIvg" name="welcome.sentence.2">
       <segment>
         <source>welcome.sentence.2</source>
-        <target>Free, open source and flexible, Gibbon can morph to meet the needs of a huge range of schools.</target>
+        <target>Free, open source and flexible, Busybee can morph to meet the needs of a huge range of schools.</target>
       </segment>
     </unit>
     <unit id="bnEMPi2" name="welcome.sentence.3">
       <segment>
         <source>welcome.sentence.3</source>
-        <target><![CDATA[For support, please visit <a target='_blank' href='https://gibbonedu.org/support'>gibbonedu.org</a>.]]></target>
+        <target><![CDATA[For support, please visit <a target='_blank' href='https://www.craigrayner.com/support'>Busybee Documentation</a>.]]></target>
       </segment>
     </unit>
     <unit id="iER2gsJ" name="database.settings">

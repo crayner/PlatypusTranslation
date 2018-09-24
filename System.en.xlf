@@ -2474,5 +2474,35 @@ A list of available themes is available at ?????</target>
         <target>Timetable Admin</target>
       </segment>
     </unit>
+    <unit id="Ij9AT58" name="278a0af">
+      <segment>
+        <source>{0}no settings were installed.|{1}a setting was added to the database.|]1,inf[%count% settings were installed successfully.</source>
+        <target>{0}no settings were installed.|{1}a setting was added to the database.|]1,inf[%count% settings were installed successfully.</target>
+      </segment>
+    </unit>
+    <unit id="uk8.Ed1" name="8993459">
+      <segment>
+        <source>{0}no settings were altered.|{1}a setting was altered in the database.|]1,inf[%count% settings were altered successfully.</source>
+        <target>{0}no settings were altered.|{1}a setting was altered in the database.|]1,inf[%count% settings were altered successfully.</target>
+      </segment>
+    </unit>
+    <unit id="0sf2vgm" name="Home Page">
+      <segment>
+        <source>Home Page</source>
+        <target>Home Page</target>
+      </segment>
+    </unit>
+    <unit id="_wje9qc" name="Completed Transfer: Goto Home Page">
+      <segment>
+        <source>Completed Transfer: Goto Home Page</source>
+        <target>Completed Transfer: Goto Home Page</target>
+      </segment>
+    </unit>
+    <unit id="wcEAnT8" name="Update">
+      <segment>
+        <source>Update</source>
+        <target>Update</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
