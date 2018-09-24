@@ -325,5 +325,41 @@
         <target>Students</target>
       </segment>
     </unit>
+    <unit id="9KVTE8v" name="Class Participants: %name%">
+      <segment>
+        <source>Class Participants: %name%</source>
+        <target>Class Participants: %name%</target>
+      </segment>
+    </unit>
+    <unit id="KM8Og3J" name="Participant Name">
+      <segment>
+        <source>Participant Name</source>
+        <target>Participant Name</target>
+      </segment>
+    </unit>
+    <unit id="FHNqLrn" name="Role">
+      <segment>
+        <source>Role</source>
+        <target>Role</target>
+      </segment>
+    </unit>
+    <unit id="sL2GDF_" name="Teachers / Assistants">
+      <segment>
+        <source>Teachers / Assistants</source>
+        <target>Teachers / Assistants</target>
+      </segment>
+    </unit>
+    <unit id="mkjMWSM" name="Former Participants">
+      <segment>
+        <source>Former Participants</source>
+        <target>Former Participants</target>
+      </segment>
+    </unit>
+    <unit id="jVKDI6f" name="Course class">
+      <segment>
+        <source>Course class</source>
+        <target>Course class</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
