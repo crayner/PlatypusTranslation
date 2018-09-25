@@ -109,5 +109,23 @@
         <target>The timetable is not valid. Selected year groups [%{yearGroups}] are already active in the %{schoolYear} school year!</target>
       </segment>
     </unit>
+    <unit id="B5ebaMp" name="This value is already used.">
+      <segment>
+        <source>This value is already used.</source>
+        <target>This value is already used.</target>
+      </segment>
+    </unit>
+    <unit id="Ct9FkIk" name="Manage Timetable: %name%">
+      <segment>
+        <source>Manage Timetable: %name%</source>
+        <target>Manage Timetable: 2018-2019 TT</target>
+      </segment>
+    </unit>
+    <unit id="wQG7uTW" name="The timetable is locked to the school year in which you are currently working.">
+      <segment>
+        <source>The timetable is locked to the school year in which you are currently working.</source>
+        <target>The timetable is locked to the school year in which you are currently working.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
