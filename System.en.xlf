@@ -916,7 +916,7 @@
     <unit id="YYObEAF" name="entity.remove.locked">
       <segment>
         <source>entity.remove.locked</source>
-        <target>The entity "%{entity}" identified as "%{name}" was marked as locked, not to be removed.</target>
+        <target>The entity "%{entity}" identified as "%{name}" is marked as locked, not to be removed.</target>
       </segment>
     </unit>
     <unit id="g2hA5zM" name="The entity &quot;App\Entity\Department&quot; identified as &quot;Finance&quot; was removed.">
@@ -2516,10 +2516,22 @@ A list of available themes is available at ?????</target>
         <target>Timetable</target>
       </segment>
     </unit>
-    <unit id="tJUQjc9" name="Manage Timetables">
+    <unit id="eQs6MFE" name="Manage Timetables">
       <segment>
         <source>Manage Timetables</source>
         <target>Manage Timetables</target>
+      </segment>
+    </unit>
+    <unit id=".V2Sx.b" name="31c8e84">
+      <segment>
+        <source>{0}No settings were installed.|{1}A setting was added to the database.|]1,Inf[%count% settings were installed successfully.</source>
+        <target>{0}No settings were installed.|{1}A setting was added to the database.|]1,Inf[%count% settings were installed successfully.</target>
+      </segment>
+    </unit>
+    <unit id="1EYK8ZR" name="b0c1254">
+      <segment>
+        <source>{0}No settings were altered.|{1}A setting was altered in the database.|]1,Inf[%count% settings were altered successfully.</source>
+        <target>{0}No settings were altered.|{1}A setting was altered in the database.|]1,Inf[%count% settings were altered successfully.</target>
       </segment>
     </unit>
   </file>
