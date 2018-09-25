@@ -361,5 +361,29 @@
         <target>Course class</target>
       </segment>
     </unit>
+    <unit id="s7GQNjB" name="Abbreviation">
+      <segment>
+        <source>Abbreviation</source>
+        <target>Abbreviation</target>
+      </segment>
+    </unit>
+    <unit id="B89Iobo" name="The class or person was not found and removal do not happen!">
+      <segment>
+        <source>The class or person was not found and removal do not happen!</source>
+        <target>The class or person was not found and removal do not happen!</target>
+      </segment>
+    </unit>
+    <unit id="2XqKEEZ" name="I did not find a participant to remove from %{class}!">
+      <segment>
+        <source>I did not find a participant to remove from %{class}!</source>
+        <target>I did not find a participant to remove from %{class}!</target>
+      </segment>
+    </unit>
+    <unit id="wnp4VV4" name="Removed %{person} from %{class}">
+      <segment>
+        <source>Removed %{person} from %{class}</source>
+        <target>Removed %{person} from %{class}</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

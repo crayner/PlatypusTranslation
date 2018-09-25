@@ -163,5 +163,29 @@
         <target>Name</target>
       </segment>
     </unit>
+    <unit id="s7GQNjB" name="Abbreviation">
+      <segment>
+        <source>Abbreviation</source>
+        <target>Abbreviation</target>
+      </segment>
+    </unit>
+    <unit id="3NHVIj9" name="Name">
+      <segment>
+        <source>Name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="UwSrmOW" name="Department">
+      <segment>
+        <source>Department</source>
+        <target>Department</target>
+      </segment>
+    </unit>
+    <unit id="dTL.Gic" name="Class Count">
+      <segment>
+        <source>Class Count</source>
+        <target>Class Count</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
