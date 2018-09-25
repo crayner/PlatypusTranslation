@@ -2504,5 +2504,23 @@ A list of available themes is available at ?????</target>
         <target>Update</target>
       </segment>
     </unit>
+    <unit id=".4BZ3Gd" name="Actions">
+      <segment>
+        <source>Actions</source>
+        <target>Actions</target>
+      </segment>
+    </unit>
+    <unit id="Fccq9qb" name="section.header.timetable">
+      <segment>
+        <source>section.header.timetable</source>
+        <target>Timetable</target>
+      </segment>
+    </unit>
+    <unit id="tJUQjc9" name="Manage Timetables">
+      <segment>
+        <source>Manage Timetables</source>
+        <target>Manage Timetables</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
