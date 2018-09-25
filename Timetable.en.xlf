@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Timetable.en">
+    <unit id="eQs6MFE" name="Manage Timetables">
+      <segment>
+        <source>Manage Timetables</source>
+        <target>Manage Timetables</target>
+      </segment>
+    </unit>
+    <unit id="s7GQNjB" name="Abbreviation">
+      <segment>
+        <source>Abbreviation</source>
+        <target>Abbreviation</target>
+      </segment>
+    </unit>
+    <unit id="3NHVIj9" name="Name">
+      <segment>
+        <source>Name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="QLlZL98" name="Abbrev.">
+      <segment>
+        <source>Abbrev.</source>
+        <target>Abbrev.</target>
+      </segment>
+    </unit>
+    <unit id="OTyBONx" name="timetable_pagination.title">
+      <segment>
+        <source>timetable_pagination.title</source>
+        <target>Timetable List</target>
+      </segment>
+    </unit>
+    <unit id="kjQGlYm" name="Active">
+      <segment>
+        <source>Active</source>
+        <target>Active</target>
+      </segment>
+    </unit>
+    <unit id="EU.nF70" name="Year Groups">
+      <segment>
+        <source>Year Groups</source>
+        <target>Year Groups</target>
+      </segment>
+    </unit>
+    <unit id="n1J6nmr" name="Must be unique within the school year">
+      <segment>
+        <source>Must be unique within the school year</source>
+        <target>Must be unique within the school year</target>
+      </segment>
+    </unit>
+    <unit id="KKn_hu7" name="Abbreviated Name">
+      <segment>
+        <source>Abbreviated Name</source>
+        <target>Abbreviated Name</target>
+      </segment>
+    </unit>
+    <unit id="snKJUA_" name="Groups not in a active timetable in this school year.">
+      <segment>
+        <source>Groups not in a active timetable in this school year.</source>
+        <target>Groups not in a active timetable in this school year.</target>
+      </segment>
+    </unit>
+    <unit id="03X8u_1" name="timetable.nameshortdisplay.day_of_the_week">
+      <segment>
+        <source>timetable.nameshortdisplay.day_of_the_week</source>
+        <target>Day of the Week</target>
+      </segment>
+    </unit>
+    <unit id="znH1hzN" name="timetable.nameshortdisplay.timetable_day_short_name">
+      <segment>
+        <source>timetable.nameshortdisplay.timetable_day_short_name</source>
+        <target>Timetable Day Abbreviation</target>
+      </segment>
+    </unit>
+    <unit id="KKqQazG" name="timetable.nameshortdisplay.">
+      <segment>
+        <source>timetable.nameshortdisplay.</source>
+        <target>Use Day Name </target>
+      </segment>
+    </unit>
+    <unit id="AV7Hz6x" name="Day Column Display Format">
+      <segment>
+        <source>Day Column Display Format</source>
+        <target>Day Column Display Format</target>
+      </segment>
+    </unit>
+    <unit id="Rpl3pl9" name="Edit Timetable">
+      <segment>
+        <source>Edit Timetable</source>
+        <target>Edit Timetable</target>
+      </segment>
+    </unit>
+    <unit id="8aI1O5C" name="The timetable is not valid">
+      <segment>
+        <source>The timetable is not valid</source>
+        <target>The timetable is not valid</target>
+      </segment>
+    </unit>
+    <unit id="4CrW5RZ" name="Timetable">
+      <segment>
+        <source>Timetable</source>
+        <target>Timetable</target>
+      </segment>
+    </unit>
+    <unit id="1YScRhP" name="8acaaf9">
+      <segment>
+        <source>The timetable is not valid. Selected year groups [%{yearGroups}] are already active in the %{schoolYear} school year!</source>
+        <target>The timetable is not valid. Selected year groups [%{yearGroups}] are already active in the %{schoolYear} school year!</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
