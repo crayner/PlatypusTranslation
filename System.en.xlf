@@ -2534,5 +2534,17 @@ A list of available themes is available at ?????</target>
         <target>{0}No settings were altered.|{1}A setting was altered in the database.|]1,Inf[%count% settings were altered successfully.</target>
       </segment>
     </unit>
+    <unit id="i0u8_gl" name="Short Name">
+      <segment>
+        <source>Short Name</source>
+        <target>Short Name</target>
+      </segment>
+    </unit>
+    <unit id="QLlZL98" name="Abbrev.">
+      <segment>
+        <source>Abbrev.</source>
+        <target>Abbrev.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

@@ -127,5 +127,275 @@
         <target>The timetable is locked to the school year in which you are currently working.</target>
       </segment>
     </unit>
+    <unit id="RZid5J_" name="Details">
+      <segment>
+        <source>Details</source>
+        <target>Details</target>
+      </segment>
+    </unit>
+    <unit id="4IwKqPV" name="Days">
+      <segment>
+        <source>Days</source>
+        <target>Days</target>
+      </segment>
+    </unit>
+    <unit id="RvS.ajp" name="Timetable Days: %name%">
+      <segment>
+        <source>Timetable Days: %name%</source>
+        <target>Timetable Days: 2018-2019 TT</target>
+      </segment>
+    </unit>
+    <unit id="47DEQpj" name="">
+      <segment>
+        <source></source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="X_zrZv." name="0">
+      <segment>
+        <source>0</source>
+        <target>0</target>
+      </segment>
+    </unit>
+    <unit id="a4ayc.8" name="1">
+      <segment>
+        <source>1</source>
+        <target>1</target>
+      </segment>
+    </unit>
+    <unit id="1HNeOiZ" name="2">
+      <segment>
+        <source>2</source>
+        <target>2</target>
+      </segment>
+    </unit>
+    <unit id="TgdAhWK" name="3">
+      <segment>
+        <source>3</source>
+        <target>3</target>
+      </segment>
+    </unit>
+    <unit id="SyJ3d9T" name="4">
+      <segment>
+        <source>4</source>
+        <target>4</target>
+      </segment>
+    </unit>
+    <unit id="7y0SfeN" name="5">
+      <segment>
+        <source>5</source>
+        <target>5</target>
+      </segment>
+    </unit>
+    <unit id="5.bAEXd" name="6">
+      <segment>
+        <source>6</source>
+        <target>6</target>
+      </segment>
+    </unit>
+    <unit id="eQJpm_Q" name="7">
+      <segment>
+        <source>7</source>
+        <target>7</target>
+      </segment>
+    </unit>
+    <unit id="LGJCMs3" name="8">
+      <segment>
+        <source>8</source>
+        <target>8</target>
+      </segment>
+    </unit>
+    <unit id="GVgeJ95" name="9">
+      <segment>
+        <source>9</source>
+        <target>9</target>
+      </segment>
+    </unit>
+    <unit id="P9yaWHa" name="Column">
+      <segment>
+        <source>Column</source>
+        <target>Column</target>
+      </segment>
+    </unit>
+    <unit id="k7pCgwa" name="Header Background Colour">
+      <segment>
+        <source>Header Background Colour</source>
+        <target>Header Background Colour</target>
+      </segment>
+    </unit>
+    <unit id="goaJ7_q" name="Header Font Colour">
+      <segment>
+        <source>Header Font Colour</source>
+        <target>Header Font Colour</target>
+      </segment>
+    </unit>
+    <unit id="ePV0jTX" name="Manage Columns">
+      <segment>
+        <source>Manage Columns</source>
+        <target>Manage Columns</target>
+      </segment>
+    </unit>
+    <unit id="Ef1.BSE" name="timetablecolumn_pagination.title">
+      <segment>
+        <source>timetablecolumn_pagination.title</source>
+        <target>timetablecolumn_pagination.title</target>
+      </segment>
+    </unit>
+    <unit id="pYDXwGB" name="Timetable Column List">
+      <segment>
+        <source>Timetable Column List</source>
+        <target>Timetable Column List</target>
+      </segment>
+    </unit>
+    <unit id="sE3CsIb" name="ff67126">
+      <segment>
+        <source>In Busybee a column is a holder for the structure of a day. A number of columns can be defined, and these can be tied to particular timetable days in the timetable interface.</source>
+        <target>In Busybee a column is a holder for the structure of a day. A number of columns can be defined, and these can be tied to particular timetable days in the timetable interface.</target>
+      </segment>
+    </unit>
+    <unit id="EJQsveZ" name="Column Rows">
+      <segment>
+        <source>Column Rows</source>
+        <target>Column Rows</target>
+      </segment>
+    </unit>
+    <unit id="7Tb68nB" name="Manage Timetable Column">
+      <segment>
+        <source>Manage Timetable Column</source>
+        <target>Manage Timetable Column</target>
+      </segment>
+    </unit>
+    <unit id="oCh_mL5" name="Timetable Column Rows: %name%">
+      <segment>
+        <source>Timetable Column Rows: %name%</source>
+        <target>Timetable Column Rows: %name%</target>
+      </segment>
+    </unit>
+    <unit id="M7k0ds9" name="Time">
+      <segment>
+        <source>Time</source>
+        <target>Time</target>
+      </segment>
+    </unit>
+    <unit id=".a9m6u0" name="Row Type">
+      <segment>
+        <source>Row Type</source>
+        <target>Row Type</target>
+      </segment>
+    </unit>
+    <unit id="8AY7gIc" name="Hour">
+      <segment>
+        <source>Hour</source>
+        <target>Hour</target>
+      </segment>
+    </unit>
+    <unit id="S3hmW_x" name="Minute">
+      <segment>
+        <source>Minute</source>
+        <target>Minute</target>
+      </segment>
+    </unit>
+    <unit id="Hr1oPH8" name="timetablecolumnrow.type.lesson">
+      <segment>
+        <source>timetablecolumnrow.type.lesson</source>
+        <target>Lesson</target>
+      </segment>
+    </unit>
+    <unit id="GF9vUcr" name="timetablecolumnrow.type.pastoral">
+      <segment>
+        <source>timetablecolumnrow.type.pastoral</source>
+        <target>Pastoral</target>
+      </segment>
+    </unit>
+    <unit id="8fo3Uz8" name="timetablecolumnrow.type.sport">
+      <segment>
+        <source>timetablecolumnrow.type.sport</source>
+        <target>Sport</target>
+      </segment>
+    </unit>
+    <unit id="NqjNRcJ" name="timetablecolumnrow.type.break">
+      <segment>
+        <source>timetablecolumnrow.type.break</source>
+        <target>Break</target>
+      </segment>
+    </unit>
+    <unit id="NDYm1qU" name="timetablecolumnrow.type.service">
+      <segment>
+        <source>timetablecolumnrow.type.service</source>
+        <target>Service</target>
+      </segment>
+    </unit>
+    <unit id="BQonhIY" name="timetablecolumnrow.type.other">
+      <segment>
+        <source>timetablecolumnrow.type.other</source>
+        <target>Other</target>
+      </segment>
+    </unit>
+    <unit id="81Z4W92" name="Start @">
+      <segment>
+        <source>Start @</source>
+        <target>Start @</target>
+      </segment>
+    </unit>
+    <unit id="L7yMLzU" name="End @">
+      <segment>
+        <source>End @</source>
+        <target>End @</target>
+      </segment>
+    </unit>
+    <unit id="pbzgI3f" name="Manage Timetable Columns">
+      <segment>
+        <source>Manage Timetable Columns</source>
+        <target>Manage Timetable Columns</target>
+      </segment>
+    </unit>
+    <unit id="EB8v894" name="Rows">
+      <segment>
+        <source>Rows</source>
+        <target>Rows</target>
+      </segment>
+    </unit>
+    <unit id="9I7_iM5" name="Edit Timetable Column">
+      <segment>
+        <source>Edit Timetable Column</source>
+        <target>Edit Timetable Column</target>
+      </segment>
+    </unit>
+    <unit id="jwtGHBT" name="Day of the Week">
+      <segment>
+        <source>Day of the Week</source>
+        <target>Day of the Week</target>
+      </segment>
+    </unit>
+    <unit id="chDfjOC" name="Timetable column">
+      <segment>
+        <source>Timetable column</source>
+        <target>Timetable Column</target>
+      </segment>
+    </unit>
+    <unit id="cXOKBuU" name="A gap in time exists between %previous% and %current%.">
+      <segment>
+        <source>A gap in time exists between %previous% and %current%.</source>
+        <target>A gap in time exists between %previous% and %current%.</target>
+      </segment>
+    </unit>
+    <unit id="PZ91.hP" name="An overlap exists between %previous% and %current% rows.">
+      <segment>
+        <source>An overlap exists between %previous% and %current% rows.</source>
+        <target>An overlap exists between %previous% and %current% rows.</target>
+      </segment>
+    </unit>
+    <unit id="XYYFVlQ" name="4b222d9">
+      <segment>
+        <source>The rows starts at %start%, before the school starts teaching at %opens%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
+        <target><![CDATA[The rows starts %start%, before the school starts teaching at %opens%. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
+      </segment>
+    </unit>
+    <unit id="kG6Ukbj" name="9820dc6">
+      <segment>
+        <source>The rows ends at %end%, after the school finished teaching at %closes%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
+        <target><![CDATA[The rows ends at %end%, after the school finished teaching at %closes%. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
+      </segment>
+    </unit>
   </file>
 </xliff>
