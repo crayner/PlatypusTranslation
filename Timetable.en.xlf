@@ -55,10 +55,10 @@
         <target>Abbreviated Name</target>
       </segment>
     </unit>
-    <unit id="snKJUA_" name="Groups not in a active timetable in this school year.">
+    <unit id="snKJUA_" name="Select only groups not in an active timetable in this school year.">
       <segment>
-        <source>Groups not in a active timetable in this school year.</source>
-        <target>Groups not in a active timetable in this school year.</target>
+        <source>Select only groups not in an active timetable in this school year.</source>
+        <target>Select only groups not in an active timetable in this school year.</target>
       </segment>
     </unit>
     <unit id="03X8u_1" name="timetable.nameshortdisplay.day_of_the_week">
@@ -118,7 +118,7 @@
     <unit id="Ct9FkIk" name="Manage Timetable: %name%">
       <segment>
         <source>Manage Timetable: %name%</source>
-        <target>Manage Timetable: 2018-2019 TT</target>
+        <target>Manage Timetable: %name%</target>
       </segment>
     </unit>
     <unit id="wQG7uTW" name="The timetable is locked to the school year in which you are currently working.">
@@ -142,7 +142,7 @@
     <unit id="RvS.ajp" name="Timetable Days: %name%">
       <segment>
         <source>Timetable Days: %name%</source>
-        <target>Timetable Days: 2018-2019 TT</target>
+        <target>Timetable Days: %name%</target>
       </segment>
     </unit>
     <unit id="47DEQpj" name="">
@@ -385,16 +385,76 @@
         <target>An overlap exists between %previous% and %current% rows.</target>
       </segment>
     </unit>
-    <unit id="XYYFVlQ" name="4b222d9">
+    <unit id="kI1vIzl" name="a97871d">
       <segment>
         <source>The rows starts at %start%, before the school starts teaching at %opens%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
         <target><![CDATA[The rows starts %start%, before the school starts teaching at %opens%. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
       </segment>
     </unit>
-    <unit id="kG6Ukbj" name="9820dc6">
+    <unit id="SRCWiF8" name="28210dd">
       <segment>
         <source>The rows ends at %end%, after the school finished teaching at %closes%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
         <target><![CDATA[The rows ends at %end%, after the school finished teaching at %closes%. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
+      </segment>
+    </unit>
+    <unit id="4lsJ8bc" name="a5bf6d4">
+      <segment>
+        <source>The rows starts at %start% before the school starts teaching at %opens%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
+        <target><![CDATA[The rows starts at 08:15 before the school starts teaching at 08:30. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
+      </segment>
+    </unit>
+    <unit id="VNqUgWO" name="586705b">
+      <segment>
+        <source>The rows ends at %end% after the school finished teaching at %closes%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
+        <target><![CDATA[The rows ends at 16:30 after the school finished teaching at 15:30. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
+      </segment>
+    </unit>
+    <unit id="ForCDho" name="d08052f">
+      <segment>
+        <source>Their is a gap between the end time %end% and the last period %limit%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
+        <target><![CDATA[Their is a gap between the end time 16:30 and the last period Activities. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
+      </segment>
+    </unit>
+    <unit id="y6oAhSy" name="Tie Days to Dates">
+      <segment>
+        <source>Tie Days to Dates</source>
+        <target>Tie Days to Dates</target>
+      </segment>
+    </unit>
+    <unit id="AFQO62X" name="Term 1">
+      <segment>
+        <source>Term 1</source>
+        <target>Term 1</target>
+      </segment>
+    </unit>
+    <unit id="Bch6TFz" name="Term 2">
+      <segment>
+        <source>Term 2</source>
+        <target>Term 2</target>
+      </segment>
+    </unit>
+    <unit id="ZL0Fh6v" name="Term 3">
+      <segment>
+        <source>Term 3</source>
+        <target>Term 3</target>
+      </segment>
+    </unit>
+    <unit id="LybpETK" name="Term Days: %tt_name% - %term%">
+      <segment>
+        <source>Term Days: %tt_name% - %term%</source>
+        <target>Term Days: %tt_name% - %term%</target>
+      </segment>
+    </unit>
+    <unit id="hGYSRoC" name="calendar.specialDay.label">
+      <segment>
+        <source>calendar.specialDay.label</source>
+        <target>calendar.specialDay.label</target>
+      </segment>
+    </unit>
+    <unit id="5p2.Jya" name="e48d14d">
+      <segment>
+        <source>Click on any day to cycle to the next timetable day.  Changes to timetable days are saved immediately.</source>
+        <target>Click on any day to cycle to the next timetable day.  Changes to timetable days are saved immediately.</target>
       </segment>
     </unit>
   </file>
