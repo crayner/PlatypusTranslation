@@ -13470,5 +13470,185 @@ short: SHT
         <target>Sunday</target>
       </segment>
     </unit>
+    <unit id="H10dWnB" name="Google Developers Client Name">
+      <segment>
+        <source>Google Developers Client Name</source>
+        <target>Google Developers Client Name</target>
+      </segment>
+    </unit>
+    <unit id="62TDCvL" name="Name of Google Project in Developers Console.">
+      <segment>
+        <source>Name of Google Project in Developers Console.</source>
+        <target>Name of Google Project in Developers Console.</target>
+      </segment>
+    </unit>
+    <unit id="DJ_nt5N" name="Google Developers Client ID">
+      <segment>
+        <source>Google Developers Client ID</source>
+        <target>Google Developers Client ID</target>
+      </segment>
+    </unit>
+    <unit id="jGHdfAc" name="Client ID for Google Project In Developers Console.">
+      <segment>
+        <source>Client ID for Google Project In Developers Console.</source>
+        <target>Client ID for Google Project In Developers Console.</target>
+      </segment>
+    </unit>
+    <unit id="vzNTFYw" name="Google Developers Client Secret">
+      <segment>
+        <source>Google Developers Client Secret</source>
+        <target>Google Developers Client Secret</target>
+      </segment>
+    </unit>
+    <unit id="CI1h4mk" name="Client Secret for Google Project In Developers Console.">
+      <segment>
+        <source>Client Secret for Google Project In Developers Console.</source>
+        <target>Client Secret for Google Project In Developers Console.</target>
+      </segment>
+    </unit>
+    <unit id="FbItoZl" name="Google Developers Redirect Uri">
+      <segment>
+        <source>Google Developers Redirect Uri</source>
+        <target>Google Developers Redirect Uri</target>
+      </segment>
+    </unit>
+    <unit id="3bIT4uE" name="aa03907">
+      <segment>
+        <source>Google Redirect on successful authentication. (Hint: This will be a page on your site.)</source>
+        <target>Google Redirect on successful authentication. (Hint: This will be a page on your site.)</target>
+      </segment>
+    </unit>
+    <unit id="NHE6Lm9" name="Google Developers Developer Key">
+      <segment>
+        <source>Google Developers Developer Key</source>
+        <target>Google Developers Developer Key</target>
+      </segment>
+    </unit>
+    <unit id="Y5y8kvM" name="Google project Developer Key.">
+      <segment>
+        <source>Google project Developer Key.</source>
+        <target>Google project Developer Key.</target>
+      </segment>
+    </unit>
+    <unit id="KZWffvq" name="School Google Calendar ID">
+      <segment>
+        <source>School Google Calendar ID</source>
+        <target>School Google Calendar ID</target>
+      </segment>
+    </unit>
+    <unit id="toFGO8I" name="7246f30">
+      <segment>
+        <source>Google Calendar ID for your school calendar. Only enables timetable integration when logging in via Google.</source>
+        <target>Google Calendar ID for your school calendar. Only enables timetable integration when logging in via Google.</target>
+      </segment>
+    </unit>
+    <unit id="P4Ubdjh" name="PayPal API Username">
+      <segment>
+        <source>PayPal API Username</source>
+        <target>PayPal API Username</target>
+      </segment>
+    </unit>
+    <unit id="jjXlxSs" name="API username provided by PayPal.">
+      <segment>
+        <source>API username provided by PayPal.</source>
+        <target>API username provided by PayPal.</target>
+      </segment>
+    </unit>
+    <unit id="Cvq8Dxs" name="PayPal API Password">
+      <segment>
+        <source>PayPal API Password</source>
+        <target>PayPal API Password</target>
+      </segment>
+    </unit>
+    <unit id="x.LeA7K" name="API password provided by PayPal.">
+      <segment>
+        <source>API password provided by PayPal.</source>
+        <target>API password provided by PayPal.</target>
+      </segment>
+    </unit>
+    <unit id="pDUQG9S" name="PayPal API Signature">
+      <segment>
+        <source>PayPal API Signature</source>
+        <target>PayPal API Signature</target>
+      </segment>
+    </unit>
+    <unit id="4xbXR7V" name="API signature provided by PayPal.">
+      <segment>
+        <source>API signature provided by PayPal.</source>
+        <target>API signature provided by PayPal.</target>
+      </segment>
+    </unit>
+    <unit id="LzQR.Jr" name="Enable SMS Settings">
+      <segment>
+        <source>Enable SMS Settings</source>
+        <target>Enable SMS Settings</target>
+      </segment>
+    </unit>
+    <unit id="SKbh.uA" name="setting.mailer_transport.">
+      <segment>
+        <source>setting.mailer_transport.</source>
+        <target>Select Mail Transport...</target>
+      </segment>
+    </unit>
+    <unit id="mZQpM7a" name="setting.mailer_transport.smtp">
+      <segment>
+        <source>setting.mailer_transport.smtp</source>
+        <target>SMTP</target>
+      </segment>
+    </unit>
+    <unit id="3lmui8X" name="setting.mailer_transport.mail">
+      <segment>
+        <source>setting.mailer_transport.mail</source>
+        <target>Mail</target>
+      </segment>
+    </unit>
+    <unit id="cSD7Jxk" name="setting.mailer_transport.sendmail">
+      <segment>
+        <source>setting.mailer_transport.sendmail</source>
+        <target>Send Mail</target>
+      </segment>
+    </unit>
+    <unit id="IxFPAuq" name="setting.mailer_transport.gmail">
+      <segment>
+        <source>setting.mailer_transport.gmail</source>
+        <target>Gmail</target>
+      </segment>
+    </unit>
+    <unit id="zVjh7uB" name="mailer.encryption.none">
+      <segment>
+        <source>mailer.encryption.none</source>
+        <target>None</target>
+      </segment>
+    </unit>
+    <unit id="phTmPmy" name="mailer.encryption.ssl">
+      <segment>
+        <source>mailer.encryption.ssl</source>
+        <target>SSL</target>
+      </segment>
+    </unit>
+    <unit id="UjAq2Pk" name="mailer.encryption.tls">
+      <segment>
+        <source>mailer.encryption.tls</source>
+        <target>TLS</target>
+      </segment>
+    </unit>
+    <unit id="0yS2M6d" name="mailer.auth_mode.plain">
+      <segment>
+        <source>mailer.auth_mode.plain</source>
+        <target>Plain</target>
+      </segment>
+    </unit>
+    <unit id="H57vHDP" name="mailer.auth_mode.login">
+      <segment>
+        <source>mailer.auth_mode.login</source>
+        <target>Login</target>
+      </segment>
+    </unit>
+    <unit id="Mj2JKJ4" name="mailer.auth_mode.cram-md5">
+      <segment>
+        <source>mailer.auth_mode.cram-md5</source>
+        <target>CRAM-MD5</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
