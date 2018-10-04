@@ -181,5 +181,11 @@
         <target>Controls who can use this code.</target>
       </segment>
     </unit>
+    <unit id="JnCGkxt" name="Person roles">
+      <segment>
+        <source>Person roles</source>
+        <target>Person Roles</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
