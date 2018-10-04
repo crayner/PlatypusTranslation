@@ -14514,5 +14514,65 @@ short: SHT
         <target>Activities</target>
       </segment>
     </unit>
+    <unit id="TUAHNjO" name="school_admin.external_assessments_by_year_group.expected_grade">
+      <segment>
+        <source>school_admin.external_assessments_by_year_group.expected_grade</source>
+        <target>Expected Grade</target>
+      </segment>
+    </unit>
+    <unit id="kTFJ2jQ" name="year_group.label.Year 7">
+      <segment>
+        <source>year_group.label.Year 7</source>
+        <target>Year 7</target>
+      </segment>
+    </unit>
+    <unit id="LBt1.1E" name="year_group.label.Year 8">
+      <segment>
+        <source>year_group.label.Year 8</source>
+        <target>Year 8</target>
+      </segment>
+    </unit>
+    <unit id="2gj7e47" name="year_group.label.Year 9">
+      <segment>
+        <source>year_group.label.Year 9</source>
+        <target>Year 9</target>
+      </segment>
+    </unit>
+    <unit id=".4AEMyl" name="year_group.label.Year 10">
+      <segment>
+        <source>year_group.label.Year 10</source>
+        <target>Year 10</target>
+      </segment>
+    </unit>
+    <unit id="COvXoRt" name="year_group.label.Year 11">
+      <segment>
+        <source>year_group.label.Year 11</source>
+        <target>Year 11</target>
+      </segment>
+    </unit>
+    <unit id="RnGMKJR" name="year_group.label.Year 12">
+      <segment>
+        <source>year_group.label.Year 12</source>
+        <target>Year 12</target>
+      </segment>
+    </unit>
+    <unit id="qSwHleX" name="year_group.label.Year 13">
+      <segment>
+        <source>year_group.label.Year 13</source>
+        <target>Year 13</target>
+      </segment>
+    </unit>
+    <unit id="EJHfpMZ" name="school_admin.external_assessments_by_year_group.predicted_grade">
+      <segment>
+        <source>school_admin.external_assessments_by_year_group.predicted_grade</source>
+        <target>Predicted Grade</target>
+      </segment>
+    </unit>
+    <unit id="beB.qBP" name="school_admin.external_assessments_by_year_group.target_grade">
+      <segment>
+        <source>school_admin.external_assessments_by_year_group.target_grade</source>
+        <target>Target Grade</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
