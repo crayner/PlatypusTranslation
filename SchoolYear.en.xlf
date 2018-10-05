@@ -619,5 +619,29 @@
         <target>%{name}</target>
       </segment>
     </unit>
+    <unit id="J_nUuFw" name="year.term.error.order">
+      <segment>
+        <source>year.term.error.order</source>
+        <target>Terms must not overlap and must be in order.</target>
+      </segment>
+    </unit>
+    <unit id="hGYSRoC" name="calendar.specialDay.label">
+      <segment>
+        <source>calendar.specialDay.label</source>
+        <target>calendar.specialDay.label</target>
+      </segment>
+    </unit>
+    <unit id="xb_9Uol" name="user.school_yesr.warning">
+      <segment>
+        <source>user.school_yesr.warning</source>
+        <target>user.school_yesr.warning</target>
+      </segment>
+    </unit>
+    <unit id="QybaTh9" name="user.school_year.warning">
+      <segment>
+        <source>user.school_year.warning</source>
+        <target>Your School Calendar is NOT the current School Calendar.  Some changes made in the database may not be reflected in current changes.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
