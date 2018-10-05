@@ -14916,5 +14916,113 @@ short: SHT
         <target>Staff</target>
       </segment>
     </unit>
+    <unit id="zrqmLnG" name="Required Data Updates?">
+      <segment>
+        <source>Required Data Updates?</source>
+        <target>Required Data Updates?</target>
+      </segment>
+    </unit>
+    <unit id="s0W0S0F" name="Should the data updater highlight updates that are required?">
+      <segment>
+        <source>Should the data updater highlight updates that are required?</source>
+        <target>Should the data updater highlight updates that are required?</target>
+      </segment>
+    </unit>
+    <unit id="7y13Wie" name="Required Data Update Types">
+      <segment>
+        <source>Required Data Update Types</source>
+        <target>Required Data Update Types</target>
+      </segment>
+    </unit>
+    <unit id="q5jgIqs" name="Which type of data updates should be required.">
+      <segment>
+        <source>Which type of data updates should be required.</source>
+        <target>Which type of data updates should be required.</target>
+      </segment>
+    </unit>
+    <unit id="LdMlXxj" name="data_updater.required_updates_by_type.family">
+      <segment>
+        <source>data_updater.required_updates_by_type.family</source>
+        <target>Family</target>
+      </segment>
+    </unit>
+    <unit id="fp5KUFi" name="data_updater.required_updates_by_type.personal">
+      <segment>
+        <source>data_updater.required_updates_by_type.personal</source>
+        <target>Personal</target>
+      </segment>
+    </unit>
+    <unit id="aMCJzci" name="data_updater.required_updates_by_type.medical">
+      <segment>
+        <source>data_updater.required_updates_by_type.medical</source>
+        <target>Medical</target>
+      </segment>
+    </unit>
+    <unit id="U1A9Y8l" name="data_updater.required_updates_by_type.finance">
+      <segment>
+        <source>data_updater.required_updates_by_type.finance</source>
+        <target>Finance</target>
+      </segment>
+    </unit>
+    <unit id="EtgvFYu" name="Cutoff Date">
+      <segment>
+        <source>Cutoff Date</source>
+        <target>Cutoff Date</target>
+      </segment>
+    </unit>
+    <unit id="6LwyvWZ" name="Earliest acceptable date when checking if data updates are required.">
+      <segment>
+        <source>Earliest acceptable date when checking if data updates are required.</source>
+        <target>Earliest acceptable date when checking if data updates are required.</target>
+      </segment>
+    </unit>
+    <unit id="ifaDJWD" name="Year">
+      <segment>
+        <source>Year</source>
+        <target>Year</target>
+      </segment>
+    </unit>
+    <unit id="MQylA_8" name="Month">
+      <segment>
+        <source>Month</source>
+        <target>Month</target>
+      </segment>
+    </unit>
+    <unit id="jyNk4Ru" name="Day">
+      <segment>
+        <source>Day</source>
+        <target>Day</target>
+      </segment>
+    </unit>
+    <unit id="lAZgp2." name="Data Updater Redirect">
+      <segment>
+        <source>Data Updater Redirect</source>
+        <target>Data Updater Redirect</target>
+      </segment>
+    </unit>
+    <unit id="n1SxEll" name="3218349">
+      <segment>
+        <source>Which types of users should be redirected to the Data Updater if updates are required.</source>
+        <target>Which types of users should be redirected to the Data Updater if updates are required.</target>
+      </segment>
+    </unit>
+    <unit id="kX575nT" name="data_updater.redirect_by_role_category.staff">
+      <segment>
+        <source>data_updater.redirect_by_role_category.staff</source>
+        <target>Staff</target>
+      </segment>
+    </unit>
+    <unit id="mTRHBRA" name="data_updater.redirect_by_role_category.student">
+      <segment>
+        <source>data_updater.redirect_by_role_category.student</source>
+        <target>Student</target>
+      </segment>
+    </unit>
+    <unit id="bdDUl0W" name="data_updater.redirect_by_role_category.parent">
+      <segment>
+        <source>data_updater.redirect_by_role_category.parent</source>
+        <target>Parent</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
