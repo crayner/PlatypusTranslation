@@ -14574,5 +14574,347 @@ short: SHT
         <target>Target Grade</target>
       </segment>
     </unit>
+    <unit id="COXH41Z" name="List of Religions">
+      <segment>
+        <source>List of Religions</source>
+        <target>List of Religions</target>
+      </segment>
+    </unit>
+    <unit id="_ic1TmI" name="List of Religions.  Uses the Australian Standard to create this list">
+      <segment>
+        <source>List of Religions.  Uses the Australian Standard to create this list</source>
+        <target>List of Religions.  Uses the Australian Standard to create this list</target>
+      </segment>
+    </unit>
+    <unit id="NhPgenB" name="Residency Status">
+      <segment>
+        <source>Residency Status</source>
+        <target>Residency Status</target>
+      </segment>
+    </unit>
+    <unit id="Zuy0vjF" name="List of residency status available in system.">
+      <segment>
+        <source>List of residency status available in system.</source>
+        <target>List of residency status available in system.</target>
+      </segment>
+    </unit>
+    <unit id="ME8FvTx" name="Departure Reasons">
+      <segment>
+        <source>Departure Reasons</source>
+        <target>Departure Reasons</target>
+      </segment>
+    </unit>
+    <unit id="ApYfl6C" name="List of departure reasons.">
+      <segment>
+        <source>List of departure reasons.</source>
+        <target>List of departure reasons.</target>
+      </segment>
+    </unit>
+    <unit id="oqYsrxS" name="List of Ethnicities">
+      <segment>
+        <source>List of Ethnicities</source>
+        <target>List of Ethnicities</target>
+      </segment>
+    </unit>
+    <unit id="aYff8sO" name="List of Ethnicities.  Uses the Australian Standard to create this list">
+      <segment>
+        <source>List of Ethnicities.  Uses the Australian Standard to create this list</source>
+        <target>List of Ethnicities.  Uses the Australian Standard to create this list</target>
+      </segment>
+    </unit>
+    <unit id="3Kw79sr" name="Long Date Format">
+      <segment>
+        <source>Long Date Format</source>
+        <target>Long Date Format</target>
+      </segment>
+    </unit>
+    <unit id="vpcWhLy" name="e82adcd">
+      <segment>
+        <source>The format used to display a long date using details as described at &lt;a href="https://www.w3schools.com/php/func_date_date_format.asp" target="__blank"&gt;PHP Date Formats&lt;/a&gt;.</source>
+        <target><![CDATA[The format used to display a long date using details as described at <a href="https://www.w3schools.com/php/func_date_date_format.asp" target="__blank">PHP Date Formats</a>.]]></target>
+      </segment>
+    </unit>
+    <unit id="nsmrplw" name="Short Date Format">
+      <segment>
+        <source>Short Date Format</source>
+        <target>Short Date Format</target>
+      </segment>
+    </unit>
+    <unit id="o12EJve" name="997b92d">
+      <segment>
+        <source>The format used to display a short date using details as described at &lt;a href="https://www.w3schools.com/php/func_date_date_format.asp" target="__blank"&gt;PHP Date Formats&lt;/a&gt;.</source>
+        <target><![CDATA[The format used to display a short date using details as described at <a href="https://www.w3schools.com/php/func_date_date_format.asp" target="__blank">PHP Date Formats</a>.]]></target>
+      </segment>
+    </unit>
+    <unit id="I5IyKTi" name="04532a1">
+      <segment>
+        <source>The format used to display a long date using details as described at "https://www.w3schools.com/php/func_date_date_format.asp".</source>
+        <target>The format used to display a long date using details as described at "https://www.w3schools.com/php/func_date_date_format.asp".</target>
+      </segment>
+    </unit>
+    <unit id="lxxOLy3" name="2f4e7c7">
+      <segment>
+        <source>The format used to display a short date using details as described at "https://www.w3schools.com/php/func_date_date_format.asp".</source>
+        <target>The format used to display a short date using details as described at "https://www.w3schools.com/php/func_date_date_format.asp".</target>
+      </segment>
+    </unit>
+    <unit id="E3BGnmJ" name="Staff Salary Scale Positions">
+      <segment>
+        <source>Staff Salary Scale Positions</source>
+        <target>Staff Salary Scale Positions</target>
+      </segment>
+    </unit>
+    <unit id="azyxyMH" name="List of salary scale positions, from lowest to highest.">
+      <segment>
+        <source>List of salary scale positions, from lowest to highest.</source>
+        <target>List of salary scale positions, from lowest to highest.</target>
+      </segment>
+    </unit>
+    <unit id="2qIva8V" name="Staff Responsibility Posts">
+      <segment>
+        <source>Staff Responsibility Posts</source>
+        <target>Staff Responsibility Posts</target>
+      </segment>
+    </unit>
+    <unit id="jG5v0d7" name="List of posts carrying extra responsibilities.">
+      <segment>
+        <source>List of posts carrying extra responsibilities.</source>
+        <target>List of posts carrying extra responsibilities.</target>
+      </segment>
+    </unit>
+    <unit id="p8Er5e_" name="Staff Job Opening Description Template">
+      <segment>
+        <source>Staff Job Opening Description Template</source>
+        <target>Staff Job Opening Description Template</target>
+      </segment>
+    </unit>
+    <unit id="9_6W6K." name="Default HTML contents for the Job Opening Description field.">
+      <segment>
+        <source>Default HTML contents for the Job Opening Description field.</source>
+        <target>Default HTML contents for the Job Opening Description field.</target>
+      </segment>
+    </unit>
+    <unit id="wg5IskJ" name="Staff Formal Name Format">
+      <segment>
+        <source>Staff Formal Name Format</source>
+        <target>Staff Formal Name Format</target>
+      </segment>
+    </unit>
+    <unit id="iUtlnmn" name="Staff Formal Name Format - Reverse">
+      <segment>
+        <source>Staff Formal Name Format - Reverse</source>
+        <target>Staff Formal Name Format - Reverse</target>
+      </segment>
+    </unit>
+    <unit id="w9LbVN." name="Staff Informal Name Format">
+      <segment>
+        <source>Staff Informal Name Format</source>
+        <target>Staff Informal Name Format</target>
+      </segment>
+    </unit>
+    <unit id="D_CGLK0" name="Staff Informal Name Format - Reverse">
+      <segment>
+        <source>Staff Informal Name Format - Reverse</source>
+        <target>Staff Informal Name Format - Reverse</target>
+      </segment>
+    </unit>
+    <unit id="4l1a6cz" name="Staff Application Milestones">
+      <segment>
+        <source>Staff Application Milestones</source>
+        <target>Staff Application Milestones</target>
+      </segment>
+    </unit>
+    <unit id="dQ2e.Ca" name="Staff Application Reference Links">
+      <segment>
+        <source>Staff Application Reference Links</source>
+        <target>Staff Application Reference Links</target>
+      </segment>
+    </unit>
+    <unit id="mt_.X8s" name="Staff Application Required Documents">
+      <segment>
+        <source>Staff Application Required Documents</source>
+        <target>Staff Application Required Documents</target>
+      </segment>
+    </unit>
+    <unit id="SYmMCOk" name="Staff Application Required Documents Text">
+      <segment>
+        <source>Staff Application Required Documents Text</source>
+        <target>Staff Application Required Documents Text</target>
+      </segment>
+    </unit>
+    <unit id="OxEIDhg" name="Staff Application Required Documents Compulsory">
+      <segment>
+        <source>Staff Application Required Documents Compulsory</source>
+        <target>Staff Application Required Documents Compulsory</target>
+      </segment>
+    </unit>
+    <unit id="3sM64Vi" name="Are the required documents compulsory?">
+      <segment>
+        <source>Are the required documents compulsory?</source>
+        <target>Are the required documents compulsory?</target>
+      </segment>
+    </unit>
+    <unit id="EZZztGY" name="Staff User-name Format">
+      <segment>
+        <source>Staff User-name Format</source>
+        <target>Staff User-name Format</target>
+      </segment>
+    </unit>
+    <unit id="Rs.MqMU" name="Staff Application Notification Message">
+      <segment>
+        <source>Staff Application Notification Message</source>
+        <target>Staff Application Notification Message</target>
+      </segment>
+    </unit>
+    <unit id="dWIx1ap" name="A custom message to add to the standard email on acceptance.">
+      <segment>
+        <source>A custom message to add to the standard email on acceptance.</source>
+        <target>A custom message to add to the standard email on acceptance.</target>
+      </segment>
+    </unit>
+    <unit id="1FmBBa7" name="Staff Application Notification Default">
+      <segment>
+        <source>Staff Application Notification Default</source>
+        <target>Staff Application Notification Default</target>
+      </segment>
+    </unit>
+    <unit id="o5T12h6" name="Should acceptance email be turned on or off by default.">
+      <segment>
+        <source>Should acceptance email be turned on or off by default.</source>
+        <target>Should acceptance email be turned on or off by default.</target>
+      </segment>
+    </unit>
+    <unit id="jAapvXt" name="Staff Default Email">
+      <segment>
+        <source>Staff Default Email</source>
+        <target>Staff Default Email</target>
+      </segment>
+    </unit>
+    <unit id="ohbCkkS" name="c8286e0">
+      <segment>
+        <source>Set default email on acceptance, using {{ username }} to insert user-name.  e.g. {{ username }}_staff@your-domain.com</source>
+        <target>Set default email on acceptance, using {{ username }} to insert user-name.  e.g. {{ username }}_staff@your-domain.com</target>
+      </segment>
+    </unit>
+    <unit id="LgSVOVu" name="Staff Default Website">
+      <segment>
+        <source>Staff Default Website</source>
+        <target>Staff Default Website</target>
+      </segment>
+    </unit>
+    <unit id="bwpFqaL" name="8f10007">
+      <segment>
+        <source>Set default website on acceptance, using {{ username }} to insert user-name.  e.g. http://your-domain.com/{{ username }}/</source>
+        <target>Set default website on acceptance, using {{ username }} to insert user-name.  e.g. http://your-domain.com/{{ username }}/</target>
+      </segment>
+    </unit>
+    <unit id="jI2slao" name="http://">
+      <segment>
+        <source>http://</source>
+        <target>http://</target>
+      </segment>
+    </unit>
+    <unit id="vJf7icW" name="527185f">
+      <segment>
+        <source>Set default email on acceptance, using {{ username }} to insert user-name.  e.g. {{ username }}_student@your-domain.com</source>
+        <target>Set default email on acceptance, using {{ username }} to insert user-name.  e.g. {{ username }}_student@your-domain.com</target>
+      </segment>
+    </unit>
+    <unit id="kNNJ9GH" name="Should new people be 'Full' or 'Pending Approval'?">
+      <segment>
+        <source>Should new people be 'Full' or 'Pending Approval'?</source>
+        <target>Should new people be 'Full' or 'Pending Approval'?</target>
+      </segment>
+    </unit>
+    <unit id="_KZsZ3m" name="Public Registration Default Role">
+      <segment>
+        <source>Public Registration Default Role</source>
+        <target>Public Registration Default Role</target>
+      </segment>
+    </unit>
+    <unit id="SVFrrxd" name="System role to be assigned to registering members of the public.">
+      <segment>
+        <source>System role to be assigned to registering members of the public.</source>
+        <target>System role to be assigned to registering members of the public.</target>
+      </segment>
+    </unit>
+    <unit id="QZTRcG7" name="administrator">
+      <segment>
+        <source>administrator</source>
+        <target>administrator</target>
+      </segment>
+    </unit>
+    <unit id="5HEllos" name="parent">
+      <segment>
+        <source>parent</source>
+        <target>parent</target>
+      </segment>
+    </unit>
+    <unit id="JkyMOBv" name="student">
+      <segment>
+        <source>student</source>
+        <target>student</target>
+      </segment>
+    </unit>
+    <unit id="tWNSVpZ" name="support_staff">
+      <segment>
+        <source>support_staff</source>
+        <target>support_staff</target>
+      </segment>
+    </unit>
+    <unit id="EFepYE4" name="teacher">
+      <segment>
+        <source>teacher</source>
+        <target>teacher</target>
+      </segment>
+    </unit>
+    <unit id="pOC_5_p" name="person_role.administrator">
+      <segment>
+        <source>person_role.administrator</source>
+        <target>Administrator</target>
+      </segment>
+    </unit>
+    <unit id="vlkPlhm" name="person_role.parent">
+      <segment>
+        <source>person_role.parent</source>
+        <target>Parent</target>
+      </segment>
+    </unit>
+    <unit id="uk9WZ9e" name="person_role.student">
+      <segment>
+        <source>person_role.student</source>
+        <target>Student</target>
+      </segment>
+    </unit>
+    <unit id="Z8C_puf" name="person_role.support_staff">
+      <segment>
+        <source>person_role.support_staff</source>
+        <target>Support Staff</target>
+      </segment>
+    </unit>
+    <unit id="bEqpONL" name="person_role.teacher">
+      <segment>
+        <source>person_role.teacher</source>
+        <target>Teacher</target>
+      </segment>
+    </unit>
+    <unit id="VpB.xXe" name="person_role.category.student">
+      <segment>
+        <source>person_role.category.student</source>
+        <target>Student</target>
+      </segment>
+    </unit>
+    <unit id="25GnfRk" name="person_role.category.parent">
+      <segment>
+        <source>person_role.category.parent</source>
+        <target>Parent</target>
+      </segment>
+    </unit>
+    <unit id="a0MYk1x" name="person_role.category.staff">
+      <segment>
+        <source>person_role.category.staff</source>
+        <target>Staff</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
