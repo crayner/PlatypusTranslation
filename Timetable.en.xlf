@@ -55,7 +55,7 @@
         <target>Abbreviated Name</target>
       </segment>
     </unit>
-    <unit id="snKJUA_" name="Select only groups not in an active timetable in this school year.">
+    <unit id="yIH_Mop" name="Select only groups not in an active timetable in this school year.">
       <segment>
         <source>Select only groups not in an active timetable in this school year.</source>
         <target>Select only groups not in an active timetable in this school year.</target>
@@ -455,6 +455,66 @@
       <segment>
         <source>Click on any day to cycle to the next timetable day.  Changes to timetable days are saved immediately.</source>
         <target>Click on any day to cycle to the next timetable day.  Changes to timetable days are saved immediately.</target>
+      </segment>
+    </unit>
+    <unit id="DyFIqY_" name="Day of Week">
+      <segment>
+        <source>Day of Week</source>
+        <target>Day of Week</target>
+      </segment>
+    </unit>
+    <unit id="le023yQ" name="__name__label__">
+      <segment>
+        <source>__name__label__</source>
+        <target>__name__label__</target>
+      </segment>
+    </unit>
+    <unit id="Vd.3Nhz" name="HELP! I need someone!">
+      <segment>
+        <source>HELP! I need someone!</source>
+        <target>HELP! I need someone!</target>
+      </segment>
+    </unit>
+    <unit id="nqEx4s4" name="Timetable Column Rows: %{name}">
+      <segment>
+        <source>Timetable Column Rows: %{name}</source>
+        <target>Timetable Column Rows: %{name}</target>
+      </segment>
+    </unit>
+    <unit id="bism2d5" name="Lesson">
+      <segment>
+        <source>Lesson</source>
+        <target>Lesson</target>
+      </segment>
+    </unit>
+    <unit id="XiE0.Jg" name="Pastoral">
+      <segment>
+        <source>Pastoral</source>
+        <target>Pastoral</target>
+      </segment>
+    </unit>
+    <unit id="mghd2FT" name="Sport">
+      <segment>
+        <source>Sport</source>
+        <target>Sport</target>
+      </segment>
+    </unit>
+    <unit id="9xCB_wr" name="Break">
+      <segment>
+        <source>Break</source>
+        <target>Break</target>
+      </segment>
+    </unit>
+    <unit id="1ncZDgq" name="Service">
+      <segment>
+        <source>Service</source>
+        <target>Service</target>
+      </segment>
+    </unit>
+    <unit id="_X6doOO" name="Other">
+      <segment>
+        <source>Other</source>
+        <target>Other</target>
       </segment>
     </unit>
   </file>
