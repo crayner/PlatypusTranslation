@@ -2546,5 +2546,29 @@ A list of available themes is available at ?????</target>
         <target>Abbrev.</target>
       </segment>
     </unit>
+    <unit id="78NlatN" name="Collecting data. Please be patient...">
+      <segment>
+        <source>Collecting data. Please be patient...</source>
+        <target>Collecting data. Please be patient...</target>
+      </segment>
+    </unit>
+    <unit id="MT9Q6eA" name="All details were saved successfully.">
+      <segment>
+        <source>All details were saved successfully.</source>
+        <target>All details were saved successfully.</target>
+      </segment>
+    </unit>
+    <unit id="vt.pA7T" name="All errors must be cleared before the form can be saved!">
+      <segment>
+        <source>All errors must be cleared before the form can be saved!</source>
+        <target>All errors must be cleared before the form can be saved!</target>
+      </segment>
+    </unit>
+    <unit id="qX8glFQ" name="Loading Data...">
+      <segment>
+        <source>Loading Data...</source>
+        <target>Loading Data...</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

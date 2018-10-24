@@ -7,5 +7,29 @@
         <target>The file is not a valid image or PDF. Accepts: {{ types }} but received {{ type }}</target>
       </segment>
     </unit>
+    <unit id="WYC2ojc" name="This field is always invalid">
+      <segment>
+        <source>This field is always invalid</source>
+        <target>This field is always invalid</target>
+      </segment>
+    </unit>
+    <unit id="M4WtTW9" name="This field %{name} is always invalid">
+      <segment>
+        <source>This field %{name} is always invalid</source>
+        <target>This field Craig was Here is always invalid</target>
+      </segment>
+    </unit>
+    <unit id="dBLMFF6" name="This value is too short. It should have  characters or more.">
+      <segment>
+        <source>This value is too short. It should have  characters or more.</source>
+        <target>This value is too short. It should have  characters or more.</target>
+      </segment>
+    </unit>
+    <unit id="0fccgR7" name="This value is too short. It should have 8 characters or more.">
+      <segment>
+        <source>This value is too short. It should have 8 characters or more.</source>
+        <target>This value is too short. It should have 8 characters or more.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
