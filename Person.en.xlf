@@ -1310,7 +1310,7 @@ Use Control, Command and/or Shift to select multiple.
     <unit id="AjmmJnv" name="field.type.placeholder">
       <segment>
         <source>field.type.placeholder</source>
-        <target>Select Field Type</target>
+        <target>Select Field Type...</target>
       </segment>
     </unit>
     <unit id="nRLkEhx" name="field.for_student.label">
@@ -2133,6 +2133,12 @@ Use Control, Command and/or Shift to select multiple.
       <segment>
         <source>Please Select...</source>
         <target>Please Select...</target>
+      </segment>
+    </unit>
+    <unit id="LzNlbH9" name="Select a custom field name to edit that custom field.">
+      <segment>
+        <source>Select a custom field name to edit that custom field.</source>
+        <target>Select a custom field name to edit that custom field.</target>
       </segment>
     </unit>
   </file>
