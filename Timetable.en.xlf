@@ -385,36 +385,6 @@
         <target>An overlap exists between %previous% and %current% rows.</target>
       </segment>
     </unit>
-    <unit id="kI1vIzl" name="a97871d">
-      <segment>
-        <source>The rows starts at %start%, before the school starts teaching at %opens%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
-        <target><![CDATA[The rows starts %start%, before the school starts teaching at %opens%. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
-      </segment>
-    </unit>
-    <unit id="SRCWiF8" name="28210dd">
-      <segment>
-        <source>The rows ends at %end%, after the school finished teaching at %closes%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
-        <target><![CDATA[The rows ends at %end%, after the school finished teaching at %closes%. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
-      </segment>
-    </unit>
-    <unit id="4lsJ8bc" name="a5bf6d4">
-      <segment>
-        <source>The rows starts at %start% before the school starts teaching at %opens%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
-        <target><![CDATA[The rows starts at 08:15 before the school starts teaching at 08:30. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
-      </segment>
-    </unit>
-    <unit id="VNqUgWO" name="586705b">
-      <segment>
-        <source>The rows ends at %end% after the school finished teaching at %closes%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
-        <target><![CDATA[The rows ends at 16:30 after the school finished teaching at 15:30. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
-      </segment>
-    </unit>
-    <unit id="ForCDho" name="d08052f">
-      <segment>
-        <source>Their is a gap between the end time %end% and the last period %limit%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
-        <target><![CDATA[Their is a gap between the end time 16:30 and the last period Activities. <a href="/en/school/year/days/of/week/" target="_blank">Days of the week can be altered here. </a>]]></target>
-      </segment>
-    </unit>
     <unit id="y6oAhSy" name="Tie Days to Dates">
       <segment>
         <source>Tie Days to Dates</source>
@@ -515,6 +485,12 @@
       <segment>
         <source>Other</source>
         <target>Other</target>
+      </segment>
+    </unit>
+    <unit id="_hdf283t45O" name="jfbwei8gtr">
+      <segment>
+        <source><![CDATA[The rows end at %end% after the school finished teaching at %closes%. <a href="%route%" target="_blank">Days of the week can be altered here. </a>]]></source>
+        <target><![CDATA[The rows end at %end% after the school finished teaching at %closes%. <a href="%route%" target="_blank">Days of the week can be altered here. </a>]]></target>
       </segment>
     </unit>
   </file>
