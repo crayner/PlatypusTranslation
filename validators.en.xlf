@@ -31,5 +31,23 @@
         <target>This value is too short. It should have 8 characters or more.</target>
       </segment>
     </unit>
+    <unit id="snjgFy9" name="The value should not be empty!">
+      <segment>
+        <source>The value should not be empty!</source>
+        <target>The value should not be empty!</target>
+      </segment>
+    </unit>
+    <unit id="uDbZVRB" name="colour.validation.error">
+      <segment>
+        <source>colour.validation.error</source>
+        <target>The colour is not correctly formatted!</target>
+      </segment>
+    </unit>
+    <unit id="vt.pA7T" name="All errors must be cleared before the form can be saved!">
+      <segment>
+        <source>All errors must be cleared before the form can be saved!</source>
+        <target>All errors must be cleared before the form can be saved!</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
