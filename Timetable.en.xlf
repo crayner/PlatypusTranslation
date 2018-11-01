@@ -433,12 +433,6 @@
         <target>Day of Week</target>
       </segment>
     </unit>
-    <unit id="le023yQ" name="__name__label__">
-      <segment>
-        <source>__name__label__</source>
-        <target>__name__label__</target>
-      </segment>
-    </unit>
     <unit id="Vd.3Nhz" name="HELP! I need someone!">
       <segment>
         <source>HELP! I need someone!</source>
@@ -487,10 +481,94 @@
         <target>Other</target>
       </segment>
     </unit>
-    <unit id="_hdf283t45O" name="jfbwei8gtr">
+    <unit id="7bCFeA2" name="3b5c6a7">
       <segment>
-        <source><![CDATA[The rows end at %end% after the school finished teaching at %closes%. <a href="%route%" target="_blank">Days of the week can be altered here. </a>]]></source>
+        <source>The rows end at %end% after the school finished teaching at %closes%. &lt;a href="%route%" target="_blank"&gt;Days of the week can be altered here. &lt;/a&gt;</source>
         <target><![CDATA[The rows end at %end% after the school finished teaching at %closes%. <a href="%route%" target="_blank">Days of the week can be altered here. </a>]]></target>
+      </segment>
+    </unit>
+    <unit id=".4BZ3Gd" name="Actions">
+      <segment>
+        <source>Actions</source>
+        <target>Actions</target>
+      </segment>
+    </unit>
+    <unit id="pLQHA.E" name="week_header">
+      <segment>
+        <source>week_header</source>
+        <target>week_header</target>
+      </segment>
+    </unit>
+    <unit id="It1pd5R" name="day_label">
+      <segment>
+        <source>day_label</source>
+        <target>day_label</target>
+      </segment>
+    </unit>
+    <unit id="gqNTf.D" name="name">
+      <segment>
+        <source>name</source>
+        <target>name</target>
+      </segment>
+    </unit>
+    <unit id="ax6LHX8" name="school_day_header">
+      <segment>
+        <source>school_day_header</source>
+        <target>school_day_header</target>
+      </segment>
+    </unit>
+    <unit id="tgjhOLY" name="Year 7">
+      <segment>
+        <source>Year 7</source>
+        <target>Year 7</target>
+      </segment>
+    </unit>
+    <unit id="0IcpzKY" name="Year 8">
+      <segment>
+        <source>Year 8</source>
+        <target>Year 8</target>
+      </segment>
+    </unit>
+    <unit id="BAr8Yzd" name="Year 9">
+      <segment>
+        <source>Year 9</source>
+        <target>Year 9</target>
+      </segment>
+    </unit>
+    <unit id=".UhadTj" name="Year 10">
+      <segment>
+        <source>Year 10</source>
+        <target>Year 10</target>
+      </segment>
+    </unit>
+    <unit id="v0ql5dA" name="Year 11">
+      <segment>
+        <source>Year 11</source>
+        <target>Year 11</target>
+      </segment>
+    </unit>
+    <unit id=".akvnI7" name="Year 12">
+      <segment>
+        <source>Year 12</source>
+        <target>Year 12</target>
+      </segment>
+    </unit>
+    <unit id="4POiAzA" name="Year 13">
+      <segment>
+        <source>Year 13</source>
+        <target>Year 13</target>
+      </segment>
+    </unit>
+    <unit id="Ezm93Cs" name="Select...">
+      <segment>
+        <source>Select...</source>
+        <target>Select...</target>
+      </segment>
+    </unit>
+    <unit id="le023yQ" name="__name__label__">
+      <segment>
+        <source>__name__label__</source>
+        <target>__name__label__</target>
       </segment>
     </unit>
   </file>
