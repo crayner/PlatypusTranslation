@@ -313,5 +313,17 @@
         <target>Timetable Administration</target>
       </segment>
     </unit>
+    <unit id=".4BZ3Gd" name="Actions">
+      <segment>
+        <source>Actions</source>
+        <target>Actions</target>
+      </segment>
+    </unit>
+    <unit id="pUqw6xI" name="action.group_by.timetable">
+      <segment>
+        <source>action.group_by.timetable</source>
+        <target>Timetable</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
