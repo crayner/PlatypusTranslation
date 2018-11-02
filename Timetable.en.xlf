@@ -571,5 +571,47 @@
         <target>__name__label__</target>
       </segment>
     </unit>
+    <unit id="5QnEo_p" name="Add Timetable">
+      <segment>
+        <source>Add Timetable</source>
+        <target>Add Timetable</target>
+      </segment>
+    </unit>
+    <unit id="kgIbhFr" name="Delete Timetable">
+      <segment>
+        <source>Delete Timetable</source>
+        <target>Delete Timetable</target>
+      </segment>
+    </unit>
+    <unit id="a5aT7cC" name="Undo changes to timetable day by clicking here.">
+      <segment>
+        <source>Undo changes to timetable day by clicking here.</source>
+        <target>Undo changes to timetable day by clicking here.</target>
+      </segment>
+    </unit>
+    <unit id="xhiENYA" name="Delete Course">
+      <segment>
+        <source>Delete Course</source>
+        <target>Delete Course</target>
+      </segment>
+    </unit>
+    <unit id="0e53_Dn" name="Edit Course">
+      <segment>
+        <source>Edit Course</source>
+        <target>Edit Course</target>
+      </segment>
+    </unit>
+    <unit id="SPvEGkD" name="Add Timetable Column">
+      <segment>
+        <source>Add Timetable Column</source>
+        <target>Add Timetable Column</target>
+      </segment>
+    </unit>
+    <unit id="9Znb12M" name="Delete Timetable Column">
+      <segment>
+        <source>Delete Timetable Column</source>
+        <target>Delete Timetable Column</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

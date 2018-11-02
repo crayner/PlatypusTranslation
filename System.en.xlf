@@ -1234,7 +1234,7 @@
     <unit id=".tVXC1y" name="string.mode.pagination.header">
       <segment>
         <source>string.mode.pagination.header</source>
-        <target>Mode/Case Sensitive/Priority</target>
+        <target>Mode / Case Sensitive / Priority</target>
       </segment>
     </unit>
     <unit id="Y0kZXZl" name="school.scale.edit.title">
