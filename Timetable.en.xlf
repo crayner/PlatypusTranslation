@@ -613,5 +613,71 @@
         <target>Delete Timetable Column</target>
       </segment>
     </unit>
+    <unit id="JxGJrji" name="Start Time">
+      <segment>
+        <source>Start Time</source>
+        <target>Start Time</target>
+      </segment>
+    </unit>
+    <unit id="SLzN3Ym" name="End Time">
+      <segment>
+        <source>End Time</source>
+        <target>End Time</target>
+      </segment>
+    </unit>
+    <unit id="DSqUxs9" name="Column Type">
+      <segment>
+        <source>Column Type</source>
+        <target>Column Type</target>
+      </segment>
+    </unit>
+    <unit id="iIr4iNs" name="My Timetable">
+      <segment>
+        <source>My Timetable</source>
+        <target>My Timetable</target>
+      </segment>
+    </unit>
+    <unit id="UGbX0MJ" name="Move to previous group">
+      <segment>
+        <source>Move to previous group</source>
+        <target>Move to previous group</target>
+      </segment>
+    </unit>
+    <unit id="S8M.Hp6" name="Move to next group.">
+      <segment>
+        <source>Move to next group.</source>
+        <target>Move to next group.</target>
+      </segment>
+    </unit>
+    <unit id="EmevZTC" name="Return to today.">
+      <segment>
+        <source>Return to today.</source>
+        <target>Return to today.</target>
+      </segment>
+    </unit>
+    <unit id="25kjzKf" name="Term Break">
+      <segment>
+        <source>Term Break</source>
+        <target>Term Break</target>
+      </segment>
+    </unit>
+    <unit id="JdteWLi" name="week_number">
+      <segment>
+        <source>week_number</source>
+        <target>Week %{number}</target>
+      </segment>
+    </unit>
+    <unit id="M2B0gF." name="time">
+      <segment>
+        <source>time</source>
+        <target>Time</target>
+      </segment>
+    </unit>
+    <unit id="RVadpX9" name="phone">
+      <segment>
+        <source>phone</source>
+        <target>Phone: </target>
+      </segment>
+    </unit>
   </file>
 </xliff>
