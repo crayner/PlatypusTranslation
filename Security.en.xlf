@@ -325,5 +325,11 @@
         <target>Timetable</target>
       </segment>
     </unit>
+    <unit id="y9TEtaP" name="action.group_by.department">
+      <segment>
+        <source>action.group_by.department</source>
+        <target>Department</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
