@@ -415,5 +415,47 @@
         <target>Attendance</target>
       </segment>
     </unit>
+    <unit id="OFgdGDt" name="Planner">
+      <segment>
+        <source>Planner</source>
+        <target>Planner</target>
+      </segment>
+    </unit>
+    <unit id="2m2yFuB" name="Markbook">
+      <segment>
+        <source>Markbook</source>
+        <target>Markbook</target>
+      </segment>
+    </unit>
+    <unit id="DZLvwyb" name="Homework">
+      <segment>
+        <source>Homework</source>
+        <target>Homework</target>
+      </segment>
+    </unit>
+    <unit id="ovm.4bc" name="Internal Assessment ">
+      <segment>
+        <source>Internal Assessment </source>
+        <target>Internal Assessment </target>
+      </segment>
+    </unit>
+    <unit id="8QeREaH" name="Goto">
+      <segment>
+        <source>Goto</source>
+        <target>Goto</target>
+      </segment>
+    </unit>
+    <unit id="6n.xImR" name="Related Classes">
+      <segment>
+        <source>Related Classes</source>
+        <target>Related Classes</target>
+      </segment>
+    </unit>
+    <unit id="ygoOcHj" name="Current Classes">
+      <segment>
+        <source>Current Classes</source>
+        <target>Current Classes</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
