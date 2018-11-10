@@ -385,5 +385,35 @@
         <target>Removed %{person} from %{class}</target>
       </segment>
     </unit>
+    <unit id="jU1kTV3" name="Course: %{name}">
+      <segment>
+        <source>Course: %{name}</source>
+        <target>Course: %{name}</target>
+      </segment>
+    </unit>
+    <unit id="25XZ8Ea" name="Class: %{name}">
+      <segment>
+        <source>Class: %{name}</source>
+        <target>Class: %{name}</target>
+      </segment>
+    </unit>
+    <unit id="xhiENYA" name="Delete Course">
+      <segment>
+        <source>Delete Course</source>
+        <target>Delete Course</target>
+      </segment>
+    </unit>
+    <unit id="0e53_Dn" name="Edit Course">
+      <segment>
+        <source>Edit Course</source>
+        <target>Edit Course</target>
+      </segment>
+    </unit>
+    <unit id="TOzHCFh" name="Attendance">
+      <segment>
+        <source>Attendance</source>
+        <target>Attendance</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

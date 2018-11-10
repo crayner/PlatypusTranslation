@@ -331,5 +331,11 @@
         <target>Department</target>
       </segment>
     </unit>
+    <unit id="pL.Pls6" name="action.group_by.take_attendance">
+      <segment>
+        <source>action.group_by.take_attendance</source>
+        <target>Take Attendance</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
