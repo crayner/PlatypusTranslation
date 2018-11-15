@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="Attendance.en">
+    <unit id="RzULXrt" name="Attendance by Class">
+      <segment>
+        <source>Attendance by Class</source>
+        <target>Attendance by Class</target>
+      </segment>
+    </unit>
+    <unit id="24amGnq" name="my Classes">
+      <segment>
+        <source>my Classes</source>
+        <target>My Classes</target>
+      </segment>
+    </unit>
+    <unit id="sn1m9VY" name="all classes">
+      <segment>
+        <source>all classes</source>
+        <target>All Classes</target>
+      </segment>
+    </unit>
+    <unit id="CIkRPgT" name="class">
+      <segment>
+        <source>class</source>
+        <target>Class/Roll</target>
+      </segment>
+    </unit>
+    <unit id="DodjLNR" name="date">
+      <segment>
+        <source>date</source>
+        <target>on Date</target>
+      </segment>
+    </unit>
+    <unit id="LAtfMSa" name="The date %{date} is in the future, and is not acceptable">
+      <segment>
+        <source>The date %{date} is in the future, and is not acceptable</source>
+        <target>The date %{date} is in the future, and is not acceptable!</target>
+      </segment>
+    </unit>
+    <unit id="vBIaFxY" name="The class &quot;%{class}&quot; is not in the current school year &quot;%{year}&quot;">
+      <segment>
+        <source>The class "%{class}" is not in the current school year "%{year}"</source>
+        <target>The class "%{class}" is not in the current school year "%{year}"!</target>
+      </segment>
+    </unit>
+    <unit id="hHE4IjG" name="The date &quot;%{date}&quot; is not a school day.">
+      <segment>
+        <source>The date "%{date}" is not a school day.</source>
+        <target>The date "%{date}" is not a school day!</target>
+      </segment>
+    </unit>
+    <unit id="5iwaV3t" name="The date &quot;%{date}&quot; is in the future, and is not acceptable">
+      <segment>
+        <source>The date "%{date}" is in the future, and is not acceptable</source>
+        <target>The date "%{date}" is in the future, and is not acceptable!</target>
+      </segment>
+    </unit>
+    <unit id="tkkWeGG" name="The class &quot;%{class}&quot; is not being held on this day &quot;%{date}&quot;">
+      <segment>
+        <source>The class "%{class}" is not being held on this day "%{date}"</source>
+        <target>The class "%{class}" is not being held on this day "%{date}"!</target>
+      </segment>
+    </unit>
+    <unit id="x5U31aa" name="72bd673">
+      <segment>
+        <source>The class "%{class}" is not being scheduled in the timetable for this day "%{date}"</source>
+        <target>The class "%{class}" is not being scheduled in the timetable for this day "%{date}"!</target>
+      </segment>
+    </unit>
+    <unit id="jkyo0eB" name="The class &quot;%{class}&quot; is not scheduled in the timetable for this day: &quot;%{date}&quot;">
+      <segment>
+        <source>The class "%{class}" is not scheduled in the timetable for this day: "%{date}"</source>
+        <target>The class "%{class}" is not scheduled in the timetable for this day: "%{date}"!</target>
+      </segment>
+    </unit>
+    <unit id="7ZxWlla" name="9a06151">
+      <segment>
+        <source>Attendance has not been taken for this group yet for the specified date. The entries below are a best-guess based on defaults and information put into the system in advance, not actual data.</source>
+        <target>Attendance has not been taken for this group yet for the specified date. The entries below are a best-guess based on defaults and information put into the system in advance, not actual data.</target>
+      </segment>
+    </unit>
+    <unit id="Qo6ebLe" name="e3a2744">
+      <segment>
+        <source>Attendance has not been taken for %{class} yet for the %{date}. The entries below are a best-guess based on defaults and information put into the system in advance, not actual data.</source>
+        <target>Attendance has not been taken for %{class} yet for the %{date}. The entries below are a best-guess based on defaults and information put into the system in advance, not actual data.</target>
+      </segment>
+    </unit>
+    <unit id="zpmNLKr" name="class.absent.count">
+      <segment>
+        <source>class.absent.count</source>
+        <target>{0}No Recorded Absence|{1}1 class absent|[2,Inf[%count% Classes Absent</target>
+      </segment>
+    </unit>
+    <unit id="cowqrEy" name="Attendance by CLass">
+      <segment>
+        <source>Attendance by CLass</source>
+        <target>Attendance by CLass</target>
+      </segment>
+    </unit>
+    <unit id="2_QC.15" name="Select Reason ...">
+      <segment>
+        <source>Select Reason ...</source>
+        <target>Select Reason ...</target>
+      </segment>
+    </unit>
+    <unit id="uHwWzCh" name="Attendance by Class: %name%">
+      <segment>
+        <source>Attendance by Class: %name%</source>
+        <target>Attendance by Class: %name%</target>
+      </segment>
+    </unit>
+    <unit id="Qr7uj_e" name="Select the class and date">
+      <segment>
+        <source>Select the class and date</source>
+        <target>Select the class and date</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

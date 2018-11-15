@@ -1,220 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
   <file id="System.en">
-    <unit id="evSC8P0" name="misc.email.label">
-      <segment>
-        <source>misc.email.label</source>
-        <target>misc.email.label</target>
-      </segment>
-    </unit>
-    <unit id="de_QVhj" name="misc.email.help">
-      <segment>
-        <source>misc.email.help</source>
-        <target>misc.email.help</target>
-      </segment>
-    </unit>
-    <unit id="FkP7Vt9" name="misc.username.label">
-      <segment>
-        <source>misc.username.label</source>
-        <target>misc.username.label</target>
-      </segment>
-    </unit>
-    <unit id="JcXJrOy" name="misc.username.help">
-      <segment>
-        <source>misc.username.help</source>
-        <target>misc.username.help</target>
-      </segment>
-    </unit>
-    <unit id="fyyouUh" name="misc.password.label">
-      <segment>
-        <source>misc.password.label</source>
-        <target>misc.password.label</target>
-      </segment>
-    </unit>
-    <unit id="30KkevH" name="misc.password.help">
-      <segment>
-        <source>misc.password.help</source>
-        <target>misc.password.help</target>
-      </segment>
-    </unit>
-    <unit id="yBfItek" name="setting.choice.name">
-      <segment>
-        <source>setting.choice.name</source>
-        <target>%name%</target>
-      </segment>
-    </unit>
-    <unit id="oX4P2rM" name="user.username.label">
-      <segment>
-        <source>user.username.label</source>
-        <target>Username</target>
-      </segment>
-    </unit>
-    <unit id="QPNDwTq" name="user.username.help">
-      <segment>
-        <source>user.username.help</source>
-        <target>Must be unique! System login name. If left blank, defaults to the email address.</target>
-      </segment>
-    </unit>
-    <unit id="6SYx6u8" name="user.password.label">
-      <segment>
-        <source>user.password.label</source>
-        <target>User Password</target>
-      </segment>
-    </unit>
-    <unit id="Mnacxwn" name="user.password.help">
-      <segment>
-        <source>user.password.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="3EjIKbZ" name="user.password1.generate">
-      <segment>
-        <source>user.password1.generate</source>
-        <target>Generate Password</target>
-      </segment>
-    </unit>
-    <unit id="4dmkNMw" name="system.settings.title">
-      <segment>
-        <source>system.settings.title</source>
-        <target>System Settings</target>
-      </segment>
-    </unit>
-    <unit id="iKy1L2i" name="user.password.generate">
-      <segment>
-        <source>user.password.generate</source>
-        <target>Generate Password</target>
-      </segment>
-    </unit>
-    <unit id="533.MkN" name="user.password.conditions">
-      <segment>
-        <source>user.password.conditions</source>
-        <target>Required Aspects: Minimum Length: %minLength% characters, Numbers Required: %numbers%, Mixed Case: %mixedCase%, Special Characters: %specials%.</target>
-      </segment>
-    </unit>
-    <unit id="tWdmID9" name="system.organisation.settings.title">
-      <segment>
-        <source>system.organisation.settings.title</source>
-        <target>Organisation Settings</target>
-      </segment>
-    </unit>
-    <unit id="GOIHF3X" name="system.org_name.label">
-      <segment>
-        <source>system.org_name.label</source>
-        <target>Organisation Name</target>
-      </segment>
-    </unit>
-    <unit id="u8zjcZ9" name="system.org_code.label">
-      <segment>
-        <source>system.org_code.label</source>
-        <target>Organisation Initials</target>
-      </segment>
-    </unit>
-    <unit id="PhaiSww" name="system.country.label">
-      <segment>
-        <source>system.country.label</source>
-        <target>Country</target>
-      </segment>
-    </unit>
-    <unit id="RFmUkIB" name="system.country.help">
-      <segment>
-        <source>system.country.help</source>
-        <target>The country in which the school is located.</target>
-      </segment>
-    </unit>
-    <unit id="WmVOdMU" name="system.placeholder">
-      <segment>
-        <source>system.placeholder</source>
-        <target>Please select ...</target>
-      </segment>
-    </unit>
-    <unit id="HXRjkoD" name="system.currency.label">
-      <segment>
-        <source>system.currency.label</source>
-        <target>Currency</target>
-      </segment>
-    </unit>
-    <unit id="LBd8cUC" name="system.currency.help">
-      <segment>
-        <source>system.currency.help</source>
-        <target>System-wde currency for financial transactions. Support for online payment in this currency depends on your credit card gateway: please consult their support documentation</target>
-      </segment>
-    </unit>
-    <unit id="32wVPoN" name="system.timezone.label">
-      <segment>
-        <source>system.timezone.label</source>
-        <target>Timezone</target>
-      </segment>
-    </unit>
-    <unit id="LDmsq7i" name="system.timezone.help">
-      <segment>
-        <source>system.timezone.help</source>
-        <target><![CDATA[The <a href="http://php.net/manual/en/timezones.php">timezone</a> where the school is located]]></target>
-      </segment>
-    </unit>
-    <unit id="SFxbxwm" name="system.miscellaneous.settings.title">
-      <segment>
-        <source>system.miscellaneous.settings.title</source>
-        <target>Miscellaneous Settings</target>
-      </segment>
-    </unit>
     <unit id="Ro89gZF" name="home.heading">
       <segment>
         <source>home.heading</source>
         <target>%{header}</target>
-      </segment>
-    </unit>
-    <unit id="38Hm0Wu" name="Toggle navigation">
-      <segment>
-        <source>Toggle navigation</source>
-        <target>Toggle navigation</target>
-      </segment>
-    </unit>
-    <unit id="cuDYjHi" name="Username/Email">
-      <segment>
-        <source>Username/Email</source>
-        <target>Username/Email</target>
-      </segment>
-    </unit>
-    <unit id="588_9PF" name="Password">
-      <segment>
-        <source>Password</source>
-        <target>Password</target>
-      </segment>
-    </unit>
-    <unit id="LhF86R." name="google.oauth">
-      <segment>
-        <source>google.oauth</source>
-        <target>Google Sign In</target>
-      </segment>
-    </unit>
-    <unit id="qtYqmi6" name="homee.lead">
-      <segment>
-        <source>homee.lead</source>
-        <target>homee.lead</target>
-      </segment>
-    </unit>
-    <unit id="dt_gAAG" name="home.para1">
-      <segment>
-        <source>home.para1</source>
-        <target>One of the great things about Google is the way they give their services to education for free. I worked at a school that took up the offer of free Google services, moving their email, web-sites, et al to Google. The school failed to fully capitalise on the full benefits that Google offers education. The major stumbling block for the school was that the administration system of the school could not be easily duplicated in Google. All of the systems are separate from Google, and whilst import/export are available, the extra steps involved in moving between systems proved a barrier to the adoption of Google Apps for Education (GAFE) as a tool suitable for use at the school.</target>
-      </segment>
-    </unit>
-    <unit id="O7TK5AB" name="home.para2">
-      <segment>
-        <source>home.para2</source>
-        <target>One of the tools missing from the Google tool kit is an administration package that combines the detail needed for the school to manage people (students, staff, family, contacts, et al) in a package that seamlessly creates the ability to contact an individual, or any group within the school based on the administration system of the school. This is the key, as a centralised place of resource available to administer the school, provide LMS (Learning Management System) capability for teaching staff, reporting, attendance, library management, et al, as the school requires.</target>
-      </segment>
-    </unit>
-    <unit id="FxmMsnU" name="home.para3">
-      <segment>
-        <source>home.para3</source>
-        <target>It is my hope to build a low cost core for such a system that will allow schools from 1 student to 50,000+ students to manage their administration, adding and creating modules to handle their particular needs as required within their region or circumstances. It is a big challenge, but one that I am looking forward to delivering soon.</target>
-      </segment>
-    </unit>
-    <unit id="h95L5U6" name="home.lead">
-      <segment>
-        <source>home.lead</source>
-        <target>Busybee is designed for School Management</target>
       </segment>
     </unit>
     <unit id="DBZTWY3" name="menu.admin.node">
@@ -223,52 +13,946 @@
         <target>Admin</target>
       </segment>
     </unit>
-    <unit id="zJfW_jN" name="system.setting.file">
-      <segment>
-        <source>system.setting.file</source>
-        <target>{0}The class %{class} was processed correctly.|{1}The class %{class} was processed correctly. One setting was processed.|]1,Inf[The class %{class} was processed correctly. %count% settings were processed.</target>
-      </segment>
-    </unit>
-    <unit id="5jC135l" name="menu.user.self.manage">
-      <segment>
-        <source>menu.user.self.manage</source>
-        <target>Manage Current User</target>
-      </segment>
-    </unit>
-    <unit id="CxhLxdU" name="Sign Out">
-      <segment>
-        <source>Sign Out</source>
-        <target>Sign Out</target>
-      </segment>
-    </unit>
     <unit id="7KQtyoM" name="menu.admin.school">
       <segment>
         <source>menu.admin.school</source>
         <target>School Admin</target>
       </segment>
     </unit>
-    <unit id="TuddPf0" name="school_year.status.label">
+    <unit id="tg70r_P" name="menu.admin.system">
       <segment>
-        <source>school_year.status.label</source>
-        <target>Status</target>
+        <source>menu.admin.system</source>
+        <target>System Admin</target>
       </segment>
     </unit>
-    <unit id="q9kNnmz" name="setting.choice.name.not_found">
+    <unit id="6qSRNKz" name="menu.admin.timetable">
       <segment>
-        <source>setting.choice.name.not_found</source>
-        <target>The setting "%{name}" was not found.'</target>
+        <source>menu.admin.timetable</source>
+        <target>Timetable Admin</target>
       </segment>
     </unit>
-    <unit id="kmW8YnB" name="section.header.years_days_times">
+    <unit id="XzmHfUD" name="menu.admin.people">
       <segment>
-        <source>section.header.years_days_times</source>
-        <target><![CDATA[Years, Days & Times]]></target>
+        <source>menu.admin.people</source>
+        <target>People Admin</target>
       </segment>
     </unit>
-    <unit id="dB4egiZ" name="system.route.missing">
+    <unit id="h95L5U6" name="home.lead">
       <segment>
-        <source>system.route.missing</source>
-        <target>Route not found: %{route}</target>
+        <source>home.lead</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="Y10k1UT" name="message.count">
+      <segment>
+        <source>message.count</source>
+        <target>Message Count</target>
+      </segment>
+    </unit>
+    <unit id="Mgw9_le" name="toggle.sidebar">
+      <segment>
+        <source>toggle.sidebar</source>
+        <target>Toggle Sidebar</target>
+      </segment>
+    </unit>
+    <unit id="LhF86R." name="google.oauth">
+      <segment>
+        <source>google.oauth</source>
+        <target>google.oauth</target>
+      </segment>
+    </unit>
+    <unit id="KujIY5C" name="Close Message">
+      <segment>
+        <source>Close Message</source>
+        <target>Close Message</target>
+      </segment>
+    </unit>
+    <unit id="Xoqyc9g" name="School Admin">
+      <segment>
+        <source>School Admin</source>
+        <target>School Admin</target>
+      </segment>
+    </unit>
+    <unit id="H4f4g8x" name="System Settings">
+      <segment>
+        <source>System Settings</source>
+        <target>System Settings</target>
+      </segment>
+    </unit>
+    <unit id="47DEQpj" name="">
+      <segment>
+        <source></source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="NQMCEvO" name="system.value.warning">
+      <segment>
+        <source>system.value.warning</source>
+        <target>system.value.warning</target>
+      </segment>
+    </unit>
+    <unit id="D5uTjAk" name="Organisation Settings">
+      <segment>
+        <source>Organisation Settings</source>
+        <target>Organisation Settings</target>
+      </segment>
+    </unit>
+    <unit id="SaJXi7G" name="Security Settings - Password Policy">
+      <segment>
+        <source>Security Settings - Password Policy</source>
+        <target>Security Settings - Password Policy</target>
+      </segment>
+    </unit>
+    <unit id="_gTN0VW" name="Changes in password policy will be applied the next time you attempt to sign in.">
+      <segment>
+        <source>Changes in password policy will be applied the next time you attempt to sign in.</source>
+        <target>Changes in password policy will be applied the next time you attempt to sign in.</target>
+      </segment>
+    </unit>
+    <unit id="sdRinPv" name="Security Settings - Miscellaneous">
+      <segment>
+        <source>Security Settings - Miscellaneous</source>
+        <target>Security Settings - Miscellaneous</target>
+      </segment>
+    </unit>
+    <unit id="8x9PyFE" name="Localisation">
+      <segment>
+        <source>Localisation</source>
+        <target>Localisation</target>
+      </segment>
+    </unit>
+    <unit id="XLC0JmB" name="Miscellaneous">
+      <segment>
+        <source>Miscellaneous</source>
+        <target>Miscellaneous</target>
+      </segment>
+    </unit>
+    <unit id="_INYlEi" name="manage_themes_label">
+      <segment>
+        <source>manage_themes_label</source>
+        <target>Manage Themes</target>
+      </segment>
+    </unit>
+    <unit id="Zw3gZ5D" name="system_check_label">
+      <segment>
+        <source>system_check_label</source>
+        <target>System Check</target>
+      </segment>
+    </unit>
+    <unit id="wcEAnT8" name="Update">
+      <segment>
+        <source>Update</source>
+        <target>Update</target>
+      </segment>
+    </unit>
+    <unit id="8vSA7aF" name="manage_lanuage_setting">
+      <segment>
+        <source>manage_lanuage_setting</source>
+        <target>Language Settings</target>
+      </segment>
+    </unit>
+    <unit id="wUeU15H" name="notification_event_settings">
+      <segment>
+        <source>notification_event_settings</source>
+        <target>Notification Settings</target>
+      </segment>
+    </unit>
+    <unit id="Ckb3QU5" name="string_replacement">
+      <segment>
+        <source>string_replacement</source>
+        <target>String Replacement</target>
+      </segment>
+    </unit>
+    <unit id="yFJVNJs" name="third_party_settings">
+      <segment>
+        <source>third_party_settings</source>
+        <target>Third Party Settings</target>
+      </segment>
+    </unit>
+    <unit id="8pK26EN" name="system.check.title">
+      <segment>
+        <source>system.check.title</source>
+        <target>System Check</target>
+      </segment>
+    </unit>
+    <unit id="K7fpvCA" name="system.check.description">
+      <segment>
+        <source>system.check.description</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="_I70q5A" name="system.check.system_requirements">
+      <segment>
+        <source>system.check.system_requirements</source>
+        <target>System Requirements</target>
+      </segment>
+    </unit>
+    <unit id="ehBEqpu" name="system.check.system_requirements.help">
+      <segment>
+        <source>system.check.system_requirements.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="m_zDFHz" name="system.check.php.label">
+      <segment>
+        <source>system.check.php.label</source>
+        <target>PHP Version</target>
+      </segment>
+    </unit>
+    <unit id="hgTF8Ho" name="system.check.php.help">
+      <segment>
+        <source>system.check.php.help</source>
+        <target>Platypus requires PHP version 7.2+</target>
+      </segment>
+    </unit>
+    <unit id="TJLrA6T" name="system.check.mariadb.label">
+      <segment>
+        <source>system.check.mariadb.label</source>
+        <target>Database Type / Version</target>
+      </segment>
+    </unit>
+    <unit id="eYjYJUZ" name="system.check.mariadb.help">
+      <segment>
+        <source>system.check.mariadb.help</source>
+        <target>Requires MySQL 5.6+, MariaDB 10.2+</target>
+      </segment>
+    </unit>
+    <unit id="VguFwmj" name="system.check.mysql_collation.label">
+      <segment>
+        <source>system.check.mysql_collation.label</source>
+        <target>Database Collation</target>
+      </segment>
+    </unit>
+    <unit id="9mRk1zV" name="system.check.mysql_collation.help">
+      <segment>
+        <source>system.check.mysql_collation.help</source>
+        <target>Requires utf8mb4_general_ci to meet language settings available.</target>
+      </segment>
+    </unit>
+    <unit id="mqRysz9" name="system.check.mysql_pdo.label">
+      <segment>
+        <source>system.check.mysql_pdo.label</source>
+        <target>Database PDO Support</target>
+      </segment>
+    </unit>
+    <unit id="uAmb0Bs" name="system.check.mysql_pdo.help">
+      <segment>
+        <source>system.check.mysql_pdo.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="_4YJoo2" name="system.check.php_extensions">
+      <segment>
+        <source>system.check.php_extensions</source>
+        <target>PHP Extensions</target>
+      </segment>
+    </unit>
+    <unit id="bLOZ.BO" name="system.check.php_extensions.help">
+      <segment>
+        <source>system.check.php_extensions.help</source>
+        <target>The following extension are minimum requirements.</target>
+      </segment>
+    </unit>
+    <unit id="rkWoy0s" name="system.check.extension.curl.label">
+      <segment>
+        <source>system.check.extension.curl.label</source>
+        <target>Curl</target>
+      </segment>
+    </unit>
+    <unit id="ms0g8wz" name="system.check.extension.curl.help">
+      <segment>
+        <source>system.check.extension.curl.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="TgDgbDo" name="system.check.extension.gd.label">
+      <segment>
+        <source>system.check.extension.gd.label</source>
+        <target>Graphic (gd)</target>
+      </segment>
+    </unit>
+    <unit id="wU9fViB" name="system.check.extension.gd.help">
+      <segment>
+        <source>system.check.extension.gd.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="DkZbKKS" name="system.check.extension.gettext.label">
+      <segment>
+        <source>system.check.extension.gettext.label</source>
+        <target>GetText</target>
+      </segment>
+    </unit>
+    <unit id="y_OwZHn" name="system.check.extension.gettext.help">
+      <segment>
+        <source>system.check.extension.gettext.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="E90iW4t" name="system.check.extension.intl.label">
+      <segment>
+        <source>system.check.extension.intl.label</source>
+        <target>International (intl)</target>
+      </segment>
+    </unit>
+    <unit id="9yGJ9Zm" name="system.check.extension.intl.help">
+      <segment>
+        <source>system.check.extension.intl.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="nbcS.D4" name="system.check.extension.mbstring.label">
+      <segment>
+        <source>system.check.extension.mbstring.label</source>
+        <target>Multibyte String (mbstring)</target>
+      </segment>
+    </unit>
+    <unit id="OAgmYkN" name="system.check.extension.mbstring.help">
+      <segment>
+        <source>system.check.extension.mbstring.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="RY4I14T" name="system.check.extension.xml.label">
+      <segment>
+        <source>system.check.extension.xml.label</source>
+        <target>Extensible Markup Language (XML)</target>
+      </segment>
+    </unit>
+    <unit id="6sg2.AO" name="system.check.extension.xml.help">
+      <segment>
+        <source>system.check.extension.xml.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="3UdwA4p" name="system.check.extension.zip.label">
+      <segment>
+        <source>system.check.extension.zip.label</source>
+        <target>Compression (ZIP)</target>
+      </segment>
+    </unit>
+    <unit id="2kkv4dF" name="system.check.extension.zip.help">
+      <segment>
+        <source>system.check.extension.zip.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="5CL8.55" name="system.check.php_settings">
+      <segment>
+        <source>system.check.php_settings</source>
+        <target>PHP Settings</target>
+      </segment>
+    </unit>
+    <unit id="f2C_P5j" name="system.check.php_settings.help">
+      <segment>
+        <source>system.check.php_settings.help</source>
+        <target>Configuration values can be set in your system php.ini file. On shared hosts, using Apache, .htaccess can be used to set php settings.</target>
+      </segment>
+    </unit>
+    <unit id="waF6mks" name="system.check.setting.max_input_vars.label">
+      <segment>
+        <source>system.check.setting.max_input_vars.label</source>
+        <target>Maximum Input Variables</target>
+      </segment>
+    </unit>
+    <unit id="0yYFkNC" name="system.check.setting.max_input_vars.help">
+      <segment>
+        <source>system.check.setting.max_input_vars.help</source>
+        <target><![CDATA[max_input_vars >= 5000]]></target>
+      </segment>
+    </unit>
+    <unit id="Y7hEAxO" name="system.check.setting.max_file_uploads.label">
+      <segment>
+        <source>system.check.setting.max_file_uploads.label</source>
+        <target>Maximum File Uploads</target>
+      </segment>
+    </unit>
+    <unit id="NNpPU2c" name="system.check.setting.max_file_uploads.help">
+      <segment>
+        <source>system.check.setting.max_file_uploads.help</source>
+        <target><![CDATA[max_file_uploads >= 20]]></target>
+      </segment>
+    </unit>
+    <unit id="0a6GHId" name="system.check.setting.allow_url_fopen.label">
+      <segment>
+        <source>system.check.setting.allow_url_fopen.label</source>
+        <target>Allow URL File Open</target>
+      </segment>
+    </unit>
+    <unit id="mwOl9vU" name="system.check.setting.allow_url_fopen.help">
+      <segment>
+        <source>system.check.setting.allow_url_fopen.help</source>
+        <target>allow_url_fopen == 1</target>
+      </segment>
+    </unit>
+    <unit id="t2jVizQ" name="system.check.setting.register_globals.label">
+      <segment>
+        <source>system.check.setting.register_globals.label</source>
+        <target>Register Globals</target>
+      </segment>
+    </unit>
+    <unit id="1mXct5y" name="system.check.setting.register_globals.help">
+      <segment>
+        <source>system.check.setting.register_globals.help</source>
+        <target>register_globals == 0</target>
+      </segment>
+    </unit>
+    <unit id="ft5h7p1" name="system.check.file_permissions">
+      <segment>
+        <source>system.check.file_permissions</source>
+        <target>File Permissions</target>
+      </segment>
+    </unit>
+    <unit id="RfaauKI" name="system.check.file_permissions.help">
+      <segment>
+        <source>system.check.file_permissions.help</source>
+        <target>system.check.file_permissions.help</target>
+      </segment>
+    </unit>
+    <unit id="CuMWnw." name="system.check.file_not_write.label">
+      <segment>
+        <source>system.check.file_not_write.label</source>
+        <target>System File Permissions</target>
+      </segment>
+    </unit>
+    <unit id="gA46Nkn" name="system.check.file_not_write.help">
+      <segment>
+        <source>system.check.file_not_write.help</source>
+        <target>No files should be available to write. X(0)</target>
+      </segment>
+    </unit>
+    <unit id="t26O60M" name="system.check.uploads_write.label">
+      <segment>
+        <source>system.check.uploads_write.label</source>
+        <target>Upload Directory Permissions</target>
+      </segment>
+    </unit>
+    <unit id="B.domHp" name="system.check.uploads_write.help">
+      <segment>
+        <source>system.check.uploads_write.help</source>
+        <target>All files should be available to write. X(X)</target>
+      </segment>
+    </unit>
+    <unit id="dGaNQjg" name="system.check.config_write.label">
+      <segment>
+        <source>system.check.config_write.label</source>
+        <target>Config Directory Permissions</target>
+      </segment>
+    </unit>
+    <unit id="a8IFrAq" name="system.check.config_write.help">
+      <segment>
+        <source>system.check.config_write.help</source>
+        <target>All files should be available to write. X(X)</target>
+      </segment>
+    </unit>
+    <unit id="Kw3N1AA" name="actions">
+      <segment>
+        <source>actions</source>
+        <target>Actions</target>
+      </segment>
+    </unit>
+    <unit id="eIvh72Y" name="reveal.hidden">
+      <segment>
+        <source>reveal.hidden</source>
+        <target>reveal.hidden</target>
+      </segment>
+    </unit>
+    <unit id="cu0kXSz" name="Reasons">
+      <segment>
+        <source>Reasons</source>
+        <target>Reasons</target>
+      </segment>
+    </unit>
+    <unit id="rT2K_lk" name="Pre-Fills and Defaults">
+      <segment>
+        <source>Pre-Fills and Defaults</source>
+        <target>Pre-Fills and Defaults</target>
+      </segment>
+    </unit>
+    <unit id="KJ2V2Kq" name="170cb32">
+      <segment>
+        <source>The pre-fill settings below determine which Attendance contexts are preset by data available from other contexts. This allows, for example, for attendance taken in a class to be preset by attendance already taken in a Roll Group. The contexts for attendance include Roll Group, Class, Person, Future and Self Registration.</source>
+        <target>The pre-fill settings below determine which Attendance contexts are preset by data available from other contexts. This allows, for example, for attendance taken in a class to be preset by attendance already taken in a Roll Group. The contexts for attendance include Roll Group, Class, Person, Future and Self Registration.</target>
+      </segment>
+    </unit>
+    <unit id="QDp.mep" name="Student Self Registration">
+      <segment>
+        <source>Student Self Registration</source>
+        <target>Student Self Registration</target>
+      </segment>
+    </unit>
+    <unit id="sPj073J" name="Your current IP address is (%{ip_address}).">
+      <segment>
+        <source>Your current IP address is (%{ip_address}).</source>
+        <target>Your current IP address is (172.16.0.111).</target>
+      </segment>
+    </unit>
+    <unit id="EFz1EvA" name="Attendance CLI">
+      <segment>
+        <source>Attendance CLI</source>
+        <target>Attendance CLI</target>
+      </segment>
+    </unit>
+    <unit id="3l4g3Ge" name="Manage Formal Assessments">
+      <segment>
+        <source>Manage Formal Assessments</source>
+        <target>Manage Formal Assessments</target>
+      </segment>
+    </unit>
+    <unit id="oyHbGiE" name="Manage Markbook Settings">
+      <segment>
+        <source>Manage Markbook Settings</source>
+        <target>Manage Markbook Settings</target>
+      </segment>
+    </unit>
+    <unit id="Agu9OD0" name="Manage Tracking Settings">
+      <segment>
+        <source>Manage Tracking Settings</source>
+        <target>Manage Tracking Settings</target>
+      </segment>
+    </unit>
+    <unit id="id3qiyd" name="Manage Dashboard Settings">
+      <segment>
+        <source>Manage Dashboard Settings</source>
+        <target>Manage Dashboard Settings</target>
+      </segment>
+    </unit>
+    <unit id="VsIfFA." name="Manage Facilities">
+      <segment>
+        <source>Manage Facilities</source>
+        <target>Manage Facilities</target>
+      </segment>
+    </unit>
+    <unit id="Ebf07ix" name="Manage Facility Settings">
+      <segment>
+        <source>Manage Facility Settings</source>
+        <target>Manage Facility Settings</target>
+      </segment>
+    </unit>
+    <unit id="bjVfIO." name="Manage File Extensions">
+      <segment>
+        <source>Manage File Extensions</source>
+        <target>Manage File Extensions</target>
+      </segment>
+    </unit>
+    <unit id="g7ZJN_l" name="Manage Finance Settings">
+      <segment>
+        <source>Manage Finance Settings</source>
+        <target>Manage Finance Settings</target>
+      </segment>
+    </unit>
+    <unit id="W0ia0Ds" name="Manage Messenger Settings">
+      <segment>
+        <source>Manage Messenger Settings</source>
+        <target>Manage Messenger Settings</target>
+      </segment>
+    </unit>
+    <unit id="Vbrxzfj" name="Manage Alert Levels">
+      <segment>
+        <source>Manage Alert Levels</source>
+        <target>Manage Alert Levels</target>
+      </segment>
+    </unit>
+    <unit id="WAUEhtB" name="Manage Attendance Settings">
+      <segment>
+        <source>Manage Attendance Settings</source>
+        <target>Manage Attendance Settings</target>
+      </segment>
+    </unit>
+    <unit id="QdAnQt_" name="Manage Behaviour Settings">
+      <segment>
+        <source>Manage Behaviour Settings</source>
+        <target>Manage Behaviour Settings</target>
+      </segment>
+    </unit>
+    <unit id="36Lh2xW" name="Manage IN Settings">
+      <segment>
+        <source>Manage IN Settings</source>
+        <target>Manage IN Settings</target>
+      </segment>
+    </unit>
+    <unit id="vxfz7oq" name="Manage Student Settings">
+      <segment>
+        <source>Manage Student Settings</source>
+        <target>Manage Student Settings</target>
+      </segment>
+    </unit>
+    <unit id=".2uy938" name="Manage Activities Settings">
+      <segment>
+        <source>Manage Activities Settings</source>
+        <target>Manage Activities Settings</target>
+      </segment>
+    </unit>
+    <unit id="or7B4tu" name="Manage Library Settings">
+      <segment>
+        <source>Manage Library Settings</source>
+        <target>Manage Library Settings</target>
+      </segment>
+    </unit>
+    <unit id="WB9i593" name="Manage Planner Settings">
+      <segment>
+        <source>Manage Planner Settings</source>
+        <target>Manage Planner Settings</target>
+      </segment>
+    </unit>
+    <unit id="n47wNpH" name="Manage Resource Settings">
+      <segment>
+        <source>Manage Resource Settings</source>
+        <target>Manage Resource Settings</target>
+      </segment>
+    </unit>
+    <unit id="eIMKPcc" name="Manage System Settings">
+      <segment>
+        <source>Manage System Settings</source>
+        <target>Manage System Settings</target>
+      </segment>
+    </unit>
+    <unit id="1x2iWqm" name="Manage Themes">
+      <segment>
+        <source>Manage Themes</source>
+        <target>Manage Themes</target>
+      </segment>
+    </unit>
+    <unit id="lybaFxk" name="System Check">
+      <segment>
+        <source>System Check</source>
+        <target>System Check</target>
+      </segment>
+    </unit>
+    <unit id="Ge3UmuO" name="Manage Language Settings">
+      <segment>
+        <source>Manage Language Settings</source>
+        <target>Manage Language Settings</target>
+      </segment>
+    </unit>
+    <unit id="7QM1riM" name="Notification Event Settings">
+      <segment>
+        <source>Notification Event Settings</source>
+        <target>Notification Event Settings</target>
+      </segment>
+    </unit>
+    <unit id="nCyYyLb" name="String Replacement">
+      <segment>
+        <source>String Replacement</source>
+        <target>String Replacement</target>
+      </segment>
+    </unit>
+    <unit id="8Jk_Bhb" name="Third Party Settings">
+      <segment>
+        <source>Third Party Settings</source>
+        <target>Third Party Settings</target>
+      </segment>
+    </unit>
+    <unit id="iysZhga" name="System Admin">
+      <segment>
+        <source>System Admin</source>
+        <target>System Admin</target>
+      </segment>
+    </unit>
+    <unit id="30XAiPK" name="Timetable Admin">
+      <segment>
+        <source>Timetable Admin</source>
+        <target>Timetable Admin</target>
+      </segment>
+    </unit>
+    <unit id="AsoEiA0" name="People Admin">
+      <segment>
+        <source>People Admin</source>
+        <target>People Admin</target>
+      </segment>
+    </unit>
+    <unit id="wcIksDz" name="Admin">
+      <segment>
+        <source>Admin</source>
+        <target>Admin</target>
+      </segment>
+    </unit>
+    <unit id="pDToFJA" name="manage_facility_settings">
+      <segment>
+        <source>manage_facility_settings</source>
+        <target>manage_facility_settings</target>
+      </segment>
+    </unit>
+    <unit id="6EZp5q5" name="Facility Settings">
+      <segment>
+        <source>Facility Settings</source>
+        <target>Facility Settings</target>
+      </segment>
+    </unit>
+    <unit id="XXWN5FX" name="manage_markbook_settings">
+      <segment>
+        <source>manage_markbook_settings</source>
+        <target>manage_markbook_settings</target>
+      </segment>
+    </unit>
+    <unit id="VpfQPa7" name="Features">
+      <segment>
+        <source>Features</source>
+        <target>Features</target>
+      </segment>
+    </unit>
+    <unit id="5awsKyS" name="Interfaces">
+      <segment>
+        <source>Interfaces</source>
+        <target>Interfaces</target>
+      </segment>
+    </unit>
+    <unit id="DgTNEPm" name="Warnings">
+      <segment>
+        <source>Warnings</source>
+        <target>Warnings</target>
+      </segment>
+    </unit>
+    <unit id="q6Fv495" name="manage_tracking_settings">
+      <segment>
+        <source>manage_tracking_settings</source>
+        <target>manage_tracking_settings</target>
+      </segment>
+    </unit>
+    <unit id="TOHrXXJ" name="Data Points - External Assessment">
+      <segment>
+        <source>Data Points - External Assessment</source>
+        <target>Data Points - External Assessment</target>
+      </segment>
+    </unit>
+    <unit id="WRoc4BG" name="dc36b2a">
+      <segment>
+        <source>Use the options below to select the external assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</source>
+        <target>Use the options below to select the external assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</target>
+      </segment>
+    </unit>
+    <unit id="Xsbxl56" name="Data Points - Internal Assessment">
+      <segment>
+        <source>Data Points - Internal Assessment</source>
+        <target>Data Points - Internal Assessment</target>
+      </segment>
+    </unit>
+    <unit id="Fs0DXE7" name="813197e">
+      <segment>
+        <source>Use the options below to select the internal assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</source>
+        <target>Use the options below to select the internal assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</target>
+      </segment>
+    </unit>
+    <unit id="FugLubS" name="alert_level_header">
+      <segment>
+        <source>alert_level_header</source>
+        <target>alert_level_header</target>
+      </segment>
+    </unit>
+    <unit id="7.sc6xd" name="New Alert Level">
+      <segment>
+        <source>New Alert Level</source>
+        <target>New Alert Level</target>
+      </segment>
+    </unit>
+    <unit id="0NDrCl7" name="alert_level.name.label">
+      <segment>
+        <source>alert_level.name.label</source>
+        <target>Level Name</target>
+      </segment>
+    </unit>
+    <unit id="ZNLMoeS" name="alert_level.name_short.label">
+      <segment>
+        <source>alert_level.name_short.label</source>
+        <target>Level Abbrev.</target>
+      </segment>
+    </unit>
+    <unit id="tJndgiv" name="alert_level.colour.label">
+      <segment>
+        <source>alert_level.colour.label</source>
+        <target>Font Colour</target>
+      </segment>
+    </unit>
+    <unit id="1DKcPCJ" name="alert_level.colour_bg.label">
+      <segment>
+        <source>alert_level.colour_bg.label</source>
+        <target>Background Colour</target>
+      </segment>
+    </unit>
+    <unit id="3Bcnhu1" name="alert_level.description.label">
+      <segment>
+        <source>alert_level.description.label</source>
+        <target>Description</target>
+      </segment>
+    </unit>
+    <unit id=".89SEn." name="Alert Levels">
+      <segment>
+        <source>Alert Levels</source>
+        <target>Alert Levels</target>
+      </segment>
+    </unit>
+    <unit id="Hh1iEsg" name="form.submit.success">
+      <segment>
+        <source>form.submit.success</source>
+        <target>form.submit.success</target>
+      </segment>
+    </unit>
+    <unit id="WWo_aae" name="Form Saved Successfully.">
+      <segment>
+        <source>Form Saved Successfully.</source>
+        <target>Form Saved Successfully.</target>
+      </segment>
+    </unit>
+    <unit id="SgZgH3x" name="manage_behaviour_settings">
+      <segment>
+        <source>manage_behaviour_settings</source>
+        <target>manage_behaviour_settings</target>
+      </segment>
+    </unit>
+    <unit id="Pnfnvzf" name="Descriptors">
+      <segment>
+        <source>Descriptors</source>
+        <target>Descriptors</target>
+      </segment>
+    </unit>
+    <unit id="sUghMZ7" name="Levels">
+      <segment>
+        <source>Levels</source>
+        <target>Levels</target>
+      </segment>
+    </unit>
+    <unit id="jcAY0PL" name="Behaviour Letters">
+      <segment>
+        <source>Behaviour Letters</source>
+        <target>Behaviour Letters</target>
+      </segment>
+    </unit>
+    <unit id="0Ur1cvY" name="4c08daa">
+      <segment>
+        <source>By using an &lt;a href="https://docs.gibbonedu.org/administrators/misc/command-line-tools/" target="_blank"&gt;included CLI script&lt;/a&gt;, Platypus can be configured to automatically generate and email behaviour letters to parents and tutors, once certain negative behaviour threshold levels have been reached. In your letter text you may use the following fields: [studentName], [rollGroup], [behaviourCount], [behaviourRecord]</source>
+        <target><![CDATA[By using an <a href="https://docs.gibbonedu.org/administrators/misc/command-line-tools/" target="_blank">included CLI script</a>, Platypus can be configured to automatically generate and email behaviour letters to parents and tutors, once certain negative behaviour threshold levels have been reached. In your letter text you may use the following fields: [studentName], [rollGroup], [behaviourCount], [behaviourRecord]]]></target>
+      </segment>
+    </unit>
+    <unit id="yqMY8RM" name="individual_need_descriptior_header">
+      <segment>
+        <source>individual_need_descriptior_header</source>
+        <target>individual_need_descriptior_header</target>
+      </segment>
+    </unit>
+    <unit id="TlnQS.0" name="individual_need_descriptor.description.name.label">
+      <segment>
+        <source>individual_need_descriptor.description.name.label</source>
+        <target>individual_need_descriptor.description.name.label</target>
+      </segment>
+    </unit>
+    <unit id="1W520TX" name="individual_need_descriptor.description.name_short.label">
+      <segment>
+        <source>individual_need_descriptor.description.name_short.label</source>
+        <target>individual_need_descriptor.description.name_short.label</target>
+      </segment>
+    </unit>
+    <unit id="murh0Ws" name="individual_need_descriptor.description.label">
+      <segment>
+        <source>individual_need_descriptor.description.label</source>
+        <target>individual_need_descriptor.description.label</target>
+      </segment>
+    </unit>
+    <unit id="VrVkt1x" name="Templates">
+      <segment>
+        <source>Templates</source>
+        <target>Templates</target>
+      </segment>
+    </unit>
+    <unit id="DYKusOh" name="Individual Needs Descriptor">
+      <segment>
+        <source>Individual Needs Descriptor</source>
+        <target>Individual Needs Descriptor</target>
+      </segment>
+    </unit>
+    <unit id="3NHVIj9" name="Name">
+      <segment>
+        <source>Name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="QLlZL98" name="Abbrev.">
+      <segment>
+        <source>Abbrev.</source>
+        <target>Abbrev.</target>
+      </segment>
+    </unit>
+    <unit id="Um4Ah8w" name="Description">
+      <segment>
+        <source>Description</source>
+        <target>Description</target>
+      </segment>
+    </unit>
+    <unit id=".4BZ3Gd" name="Actions">
+      <segment>
+        <source>Actions</source>
+        <target>Actions</target>
+      </segment>
+    </unit>
+    <unit id="D569KCI" name="Student Notes">
+      <segment>
+        <source>Student Notes</source>
+        <target>Student Notes</target>
+      </segment>
+    </unit>
+    <unit id="9i6SZ9G" name="Alerts">
+      <segment>
+        <source>Alerts</source>
+        <target>Alerts</target>
+      </segment>
+    </unit>
+    <unit id="B2so4LP" name="manage_activities_settings">
+      <segment>
+        <source>manage_activities_settings</source>
+        <target>manage_activities_settings</target>
+      </segment>
+    </unit>
+    <unit id="7P3UHyC" name="Activity Settings">
+      <segment>
+        <source>Activity Settings</source>
+        <target>Activity Settings</target>
+      </segment>
+    </unit>
+    <unit id="KI4_Tam" name="manage_library_settings">
+      <segment>
+        <source>manage_library_settings</source>
+        <target>manage_library_settings</target>
+      </segment>
+    </unit>
+    <unit id="b1Fx8gn" name="manage_planner_settings">
+      <segment>
+        <source>manage_planner_settings</source>
+        <target>manage_planner_settings</target>
+      </segment>
+    </unit>
+    <unit id="AO9qtew" name="Planner Templates">
+      <segment>
+        <source>Planner Templates</source>
+        <target>Planner Templates</target>
+      </segment>
+    </unit>
+    <unit id="E_A28cQ" name="Access Settings">
+      <segment>
+        <source>Access Settings</source>
+        <target>Access Settings</target>
+      </segment>
+    </unit>
+    <unit id="zt67xzV" name="Planner Settings">
+      <segment>
+        <source>Planner Settings</source>
+        <target>Planner Settings</target>
+      </segment>
+    </unit>
+    <unit id="7AuLRLr" name="Library Settings">
+      <segment>
+        <source>Library Settings</source>
+        <target>Library Settings</target>
+      </segment>
+    </unit>
+    <unit id="iQDk2uN" name="manage_resource_settings">
+      <segment>
+        <source>manage_resource_settings</source>
+        <target>manage_resource_settings</target>
+      </segment>
+    </unit>
+    <unit id="1BGceGL" name="Resource Settings">
+      <segment>
+        <source>Resource Settings</source>
+        <target>Resource Settings</target>
       </segment>
     </unit>
     <unit id="agDfwdy" name="Monday">
@@ -353,2227 +1037,6 @@
       <segment>
         <source>Sun</source>
         <target>Sun</target>
-      </segment>
-    </unit>
-    <unit id="Hh1iEsg" name="form.submit.success">
-      <segment>
-        <source>form.submit.success</source>
-        <target>Saved</target>
-      </segment>
-    </unit>
-    <unit id="KujIY5C" name="Close Message">
-      <segment>
-        <source>Close Message</source>
-        <target>Close Message</target>
-      </segment>
-    </unit>
-    <unit id="wXsYPZr" name="section.header.groupings">
-      <segment>
-        <source>section.header.groupings</source>
-        <target>Groupings</target>
-      </segment>
-    </unit>
-    <unit id="vZOMaI9" name="action">
-      <segment>
-        <source>action</source>
-        <target>Action</target>
-      </segment>
-    </unit>
-    <unit id="kyGk9H1" name="section.header.teaching_learning">
-      <segment>
-        <source>section.header.teaching_learning</source>
-        <target><![CDATA[Teaching & Learning]]></target>
-      </segment>
-    </unit>
-    <unit id="iQDk2uN" name="manage_resource_settings">
-      <segment>
-        <source>manage_resource_settings</source>
-        <target>Manage Resource Settings</target>
-      </segment>
-    </unit>
-    <unit id="Xoqyc9g" name="School Admin">
-      <segment>
-        <source>School Admin</source>
-        <target>School Admin</target>
-      </segment>
-    </unit>
-    <unit id="1BGceGL" name="Resource Settings">
-      <segment>
-        <source>Resource Settings</source>
-        <target>Resource Settings</target>
-      </segment>
-    </unit>
-    <unit id="47DEQpj" name="">
-      <segment>
-        <source></source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="RrlK.tJ" name="Manage Settings">
-      <segment>
-        <source>Manage Settings</source>
-        <target>Manage Settings</target>
-      </segment>
-    </unit>
-    <unit id="n47wNpH" name="Manage Resource Settings">
-      <segment>
-        <source>Manage Resource Settings</source>
-        <target>Manage Resource Settings</target>
-      </segment>
-    </unit>
-    <unit id="b1Fx8gn" name="manage_planner_settings">
-      <segment>
-        <source>manage_planner_settings</source>
-        <target>Manage Planner Settings</target>
-      </segment>
-    </unit>
-    <unit id="AO9qtew" name="Planner Templates">
-      <segment>
-        <source>Planner Templates</source>
-        <target>Planner Templates</target>
-      </segment>
-    </unit>
-    <unit id="XLC0JmB" name="Miscellaneous">
-      <segment>
-        <source>Miscellaneous</source>
-        <target>Miscellaneous</target>
-      </segment>
-    </unit>
-    <unit id="TqFAWIF" name="home">
-      <segment>
-        <source>home</source>
-        <target>Home</target>
-      </segment>
-    </unit>
-    <unit id="KI4_Tam" name="manage_library_settings">
-      <segment>
-        <source>manage_library_settings</source>
-        <target>Manage Library Settings</target>
-      </segment>
-    </unit>
-    <unit id="Pnfnvzf" name="Descriptors">
-      <segment>
-        <source>Descriptors</source>
-        <target>Descriptors</target>
-      </segment>
-    </unit>
-    <unit id="E_A28cQ" name="Access Settings">
-      <segment>
-        <source>Access Settings</source>
-        <target>Access Settings</target>
-      </segment>
-    </unit>
-    <unit id="B2so4LP" name="manage_activities_settings">
-      <segment>
-        <source>manage_activities_settings</source>
-        <target>Manage Activity Settings</target>
-      </segment>
-    </unit>
-    <unit id="7P3UHyC" name="Activity Settings">
-      <segment>
-        <source>Activity Settings</source>
-        <target>Activity Settings</target>
-      </segment>
-    </unit>
-    <unit id="PB02VC6" name="section.header.people">
-      <segment>
-        <source>section.header.people</source>
-        <target>People</target>
-      </segment>
-    </unit>
-    <unit id="OQF9pkt" name="manage_student_settings">
-      <segment>
-        <source>manage_student_settings</source>
-        <target>Manage Student Settings</target>
-      </segment>
-    </unit>
-    <unit id="Kw3N1AA" name="actions">
-      <segment>
-        <source>actions</source>
-        <target>Actions</target>
-      </segment>
-    </unit>
-    <unit id="D569KCI" name="Student Notes">
-      <segment>
-        <source>Student Notes</source>
-        <target>Student Notes</target>
-      </segment>
-    </unit>
-    <unit id="yqMY8RM" name="individual_need_descriptior_header">
-      <segment>
-        <source>individual_need_descriptior_header</source>
-        <target>Individual Needs Descriptors</target>
-      </segment>
-    </unit>
-    <unit id="TlnQS.0" name="individual_need_descriptor.description.name.label">
-      <segment>
-        <source>individual_need_descriptor.description.name.label</source>
-        <target>Name</target>
-      </segment>
-    </unit>
-    <unit id="1W520TX" name="individual_need_descriptor.description.name_short.label">
-      <segment>
-        <source>individual_need_descriptor.description.name_short.label</source>
-        <target>Short Name</target>
-      </segment>
-    </unit>
-    <unit id="murh0Ws" name="individual_need_descriptor.description.label">
-      <segment>
-        <source>individual_need_descriptor.description.label</source>
-        <target>Description</target>
-      </segment>
-    </unit>
-    <unit id="VrVkt1x" name="Templates">
-      <segment>
-        <source>Templates</source>
-        <target>Templates</target>
-      </segment>
-    </unit>
-    <unit id="PA2veFz" name="manage_attendance_settings">
-      <segment>
-        <source>manage_attendance_settings</source>
-        <target>Manage Attendance Settings</target>
-      </segment>
-    </unit>
-    <unit id="SgZgH3x" name="manage_behaviour_settings">
-      <segment>
-        <source>manage_behaviour_settings</source>
-        <target>Manage Behaviour Settings</target>
-      </segment>
-    </unit>
-    <unit id="BUb9qER" name="manage_individual_need_settings">
-      <segment>
-        <source>manage_individual_need_settings</source>
-        <target>Manage IN Settings</target>
-      </segment>
-    </unit>
-    <unit id="sUghMZ7" name="Levels">
-      <segment>
-        <source>Levels</source>
-        <target>Levels</target>
-      </segment>
-    </unit>
-    <unit id="jcAY0PL" name="Behaviour Letters">
-      <segment>
-        <source>Behaviour Letters</source>
-        <target>Behaviour Letters</target>
-      </segment>
-    </unit>
-    <unit id="0Ur1cvY" name="4c08daa">
-      <segment>
-        <source>By using an &lt;a href="https://docs.gibbonedu.org/administrators/misc/command-line-tools/" target="_blank"&gt;included CLI script&lt;/a&gt;, Platypus can be configured to automatically generate and email behaviour letters to parents and tutors, once certain negative behaviour threshold levels have been reached. In your letter text you may use the following fields: [studentName], [rollGroup], [behaviourCount], [behaviourRecord]</source>
-        <target><![CDATA[By using an <a href="https://docs.gibbonedu.org/administrators/misc/command-line-tools/" target="_blank">included CLI script</a>, Platypus can be configured to automatically generate and email behaviour letters to parents and tutors, once certain negative behaviour threshold levels have been reached. In your letter text you may use the following fields: [studentName], [rollGroup], [behaviourCount], [behaviourRecord]]]></target>
-      </segment>
-    </unit>
-    <unit id="cu0kXSz" name="Reasons">
-      <segment>
-        <source>Reasons</source>
-        <target>Reasons</target>
-      </segment>
-    </unit>
-    <unit id="rT2K_lk" name="Pre-Fills and Defaults">
-      <segment>
-        <source>Pre-Fills and Defaults</source>
-        <target><![CDATA[Pre-Fills & Defaults]]></target>
-      </segment>
-    </unit>
-    <unit id="KJ2V2Kq" name="170cb32">
-      <segment>
-        <source>The pre-fill settings below determine which Attendance contexts are preset by data available from other contexts. This allows, for example, for attendance taken in a class to be preset by attendance already taken in a Roll Group. The contexts for attendance include Roll Group, Class, Person, Future and Self Registration.</source>
-        <target>The pre-fill settings below determine which Attendance contexts are preset by data available from other contexts. This allows, for example, for attendance taken in a class to be preset by attendance already taken in a Roll Group. The contexts for attendance include Roll Group, Class, Person, Future and Self Registration.</target>
-      </segment>
-    </unit>
-    <unit id="QDp.mep" name="Student Self Registration">
-      <segment>
-        <source>Student Self Registration</source>
-        <target>Student Self Registration</target>
-      </segment>
-    </unit>
-    <unit id="sPj073J" name="Your current IP address is (%{ip_address}).">
-      <segment>
-        <source>Your current IP address is (%{ip_address}).</source>
-        <target>Your current IP address is (172.16.0.111).</target>
-      </segment>
-    </unit>
-    <unit id="EFz1EvA" name="Attendance CLI">
-      <segment>
-        <source>Attendance CLI</source>
-        <target>Attendance CLI</target>
-      </segment>
-    </unit>
-    <unit id="eIvh72Y" name="reveal.hidden">
-      <segment>
-        <source>reveal.hidden</source>
-        <target>Toggle Hidden Fields</target>
-      </segment>
-    </unit>
-    <unit id="l2JTV22" name="manage_alert_levels">
-      <segment>
-        <source>manage_alert_levels</source>
-        <target>Manage Alert Levels</target>
-      </segment>
-    </unit>
-    <unit id="FugLubS" name="alert_level_header">
-      <segment>
-        <source>alert_level_header</source>
-        <target>Manage Alert Levels</target>
-      </segment>
-    </unit>
-    <unit id="7.sc6xd" name="New Alert Level">
-      <segment>
-        <source>New Alert Level</source>
-        <target>New Alert Level</target>
-      </segment>
-    </unit>
-    <unit id="0NDrCl7" name="alert_level.name.label">
-      <segment>
-        <source>alert_level.name.label</source>
-        <target>Name</target>
-      </segment>
-    </unit>
-    <unit id="3NHVIj9" name="Name">
-      <segment>
-        <source>Name</source>
-        <target>Name</target>
-      </segment>
-    </unit>
-    <unit id="ZNLMoeS" name="alert_level.name_short.label">
-      <segment>
-        <source>alert_level.name_short.label</source>
-        <target>Short Name</target>
-      </segment>
-    </unit>
-    <unit id="tJndgiv" name="alert_level.colour.label">
-      <segment>
-        <source>alert_level.colour.label</source>
-        <target>Font/Border Colour</target>
-      </segment>
-    </unit>
-    <unit id="1DKcPCJ" name="alert_level.colour_bg.label">
-      <segment>
-        <source>alert_level.colour_bg.label</source>
-        <target>Background Colour</target>
-      </segment>
-    </unit>
-    <unit id="3Bcnhu1" name="alert_level.description.label">
-      <segment>
-        <source>alert_level.description.label</source>
-        <target>Description</target>
-      </segment>
-    </unit>
-    <unit id="kMRcRoi" name="The colour type must be one of 'any', 'hex', 'rgb', 'rgba', 'hsl'.">
-      <segment>
-        <source>The colour type must be one of 'any', 'hex', 'rgb', 'rgba', 'hsl'.</source>
-        <target>The colour type must be one of 'any', 'hex', 'rgb', 'rgba', 'hsl'.</target>
-      </segment>
-    </unit>
-    <unit id="hHtEUvi" name="manage_messenger_settings">
-      <segment>
-        <source>manage_messenger_settings</source>
-        <target>Manage Messenger Settings</target>
-      </segment>
-    </unit>
-    <unit id="mRXL2Vb" name="SMS Settings">
-      <segment>
-        <source>SMS Settings</source>
-        <target>SMS Settings</target>
-      </segment>
-    </unit>
-    <unit id=".x1OmDM" name="df7d120">
-      <segment>
-        <source>Gibbon is designed to use the &lt;a href="http://onewaysms.com" target="_blank"&gt;One Way SMS&lt;/a&gt; gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.</source>
-        <target><![CDATA[Gibbon is designed to use the <a href="http://onewaysms.com" target="_blank">One Way SMS</a> gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.]]></target>
-      </segment>
-    </unit>
-    <unit id="dhGeZrD" name="Message Wall Settings">
-      <segment>
-        <source>Message Wall Settings</source>
-        <target>Message Wall Settings</target>
-      </segment>
-    </unit>
-    <unit id="X3NScY7" name="section.header.other">
-      <segment>
-        <source>section.header.other</source>
-        <target>Other</target>
-      </segment>
-    </unit>
-    <unit id="2LgBULd" name="manage_finance_settings">
-      <segment>
-        <source>manage_finance_settings</source>
-        <target>Manage Finance Settings</target>
-      </segment>
-    </unit>
-    <unit id="uANVdQl" name="Invoices">
-      <segment>
-        <source>Invoices</source>
-        <target>Invoices</target>
-      </segment>
-    </unit>
-    <unit id="3jIvh7X" name="General Settings">
-      <segment>
-        <source>General Settings</source>
-        <target>General Settings</target>
-      </segment>
-    </unit>
-    <unit id="YKYn30B" name="Receipts">
-      <segment>
-        <source>Receipts</source>
-        <target>Receipts</target>
-      </segment>
-    </unit>
-    <unit id="eXHddSZ" name="Reminders">
-      <segment>
-        <source>Reminders</source>
-        <target>Reminders</target>
-      </segment>
-    </unit>
-    <unit id="0xFBb6O" name="Expenses">
-      <segment>
-        <source>Expenses</source>
-        <target>Expenses</target>
-      </segment>
-    </unit>
-    <unit id="MSqYnUC" name="Some settings may be hidden with the choices made for your school.">
-      <segment>
-        <source>Some settings may be hidden with the choices made for your school.</source>
-        <target>Some settings may be hidden with the choices made for your school.</target>
-      </segment>
-    </unit>
-    <unit id="9i6SZ9G" name="Alerts">
-      <segment>
-        <source>Alerts</source>
-        <target>Alerts</target>
-      </segment>
-    </unit>
-    <unit id="po1tlIP" name="manage_file_extension">
-      <segment>
-        <source>manage_file_extension</source>
-        <target>Manage File Extensions</target>
-      </segment>
-    </unit>
-    <unit id="DHlSlMV" name="file_extension_header">
-      <segment>
-        <source>file_extension_header</source>
-        <target>Manage File Extensions</target>
-      </segment>
-    </unit>
-    <unit id="KP3jQYz" name="file_extension.extension.label">
-      <segment>
-        <source>file_extension.extension.label</source>
-        <target>Extension</target>
-      </segment>
-    </unit>
-    <unit id="nHm6rAu" name="file_extension.name.label">
-      <segment>
-        <source>file_extension.name.label</source>
-        <target>Name</target>
-      </segment>
-    </unit>
-    <unit id="GH.UJwi" name="fileextension.type.document">
-      <segment>
-        <source>fileextension.type.document</source>
-        <target>Document</target>
-      </segment>
-    </unit>
-    <unit id="_79Mczn" name="fileextension.type.spreadsheet">
-      <segment>
-        <source>fileextension.type.spreadsheet</source>
-        <target>Spreadsheet</target>
-      </segment>
-    </unit>
-    <unit id="jkZNs.V" name="fileextension.type.presentation">
-      <segment>
-        <source>fileextension.type.presentation</source>
-        <target>Presentation</target>
-      </segment>
-    </unit>
-    <unit id="y2WXZ6a" name="fileextension.type.graphics_design">
-      <segment>
-        <source>fileextension.type.graphics_design</source>
-        <target>Graphics Design</target>
-      </segment>
-    </unit>
-    <unit id="rbbPg3g" name="fileextension.type.video">
-      <segment>
-        <source>fileextension.type.video</source>
-        <target>Video</target>
-      </segment>
-    </unit>
-    <unit id="aCjXYCP" name="fileextension.type.audio">
-      <segment>
-        <source>fileextension.type.audio</source>
-        <target>Audio</target>
-      </segment>
-    </unit>
-    <unit id="GnYsn2e" name="fileextension.type.other">
-      <segment>
-        <source>fileextension.type.other</source>
-        <target>Other</target>
-      </segment>
-    </unit>
-    <unit id="50TLXBo" name="file_extension.type.label">
-      <segment>
-        <source>file_extension.type.label</source>
-        <target>Type</target>
-      </segment>
-    </unit>
-    <unit id="AGrKoiD" name="file_extension.not_found">
-      <segment>
-        <source>file_extension.not_found</source>
-        <target>file_extension.not_found</target>
-      </segment>
-    </unit>
-    <unit id="FEgUegS" name="fileextension.type.compression">
-      <segment>
-        <source>fileextension.type.compression</source>
-        <target>Compression</target>
-      </segment>
-    </unit>
-    <unit id="pDToFJA" name="manage_facility_settings">
-      <segment>
-        <source>manage_facility_settings</source>
-        <target>Manage Facility Settings</target>
-      </segment>
-    </unit>
-    <unit id="6EZp5q5" name="Facility Settings">
-      <segment>
-        <source>Facility Settings</source>
-        <target>Facility Settings</target>
-      </segment>
-    </unit>
-    <unit id="QFJP3tU" name="manage_facilities">
-      <segment>
-        <source>manage_facilities</source>
-        <target>Manage Facilities</target>
-      </segment>
-    </unit>
-    <unit id="mKBND33" name="manage_dashboard_settings">
-      <segment>
-        <source>manage_dashboard_settings</source>
-        <target>Manage Dashboard Settings</target>
-      </segment>
-    </unit>
-    <unit id="wbsNObM" name="Dashboard Settings">
-      <segment>
-        <source>Dashboard Settings</source>
-        <target>Dashboard Settings</target>
-      </segment>
-    </unit>
-    <unit id="wms_1M5" name="Interface">
-      <segment>
-        <source>Interface</source>
-        <target>Interface</target>
-      </segment>
-    </unit>
-    <unit id="XXWN5FX" name="manage_markbook_settings">
-      <segment>
-        <source>manage_markbook_settings</source>
-        <target>Manage Markbook Settings</target>
-      </segment>
-    </unit>
-    <unit id="fJwALcE" name="section.header.assessment">
-      <segment>
-        <source>section.header.assessment</source>
-        <target>Assessment</target>
-      </segment>
-    </unit>
-    <unit id="VpfQPa7" name="Features">
-      <segment>
-        <source>Features</source>
-        <target>Features</target>
-      </segment>
-    </unit>
-    <unit id="DgTNEPm" name="Warnings">
-      <segment>
-        <source>Warnings</source>
-        <target>Warnings</target>
-      </segment>
-    </unit>
-    <unit id="M.tqmdJ" name="entity.not_found">
-      <segment>
-        <source>entity.not_found</source>
-        <target>The entity "%{entity}" was not found to delete.</target>
-      </segment>
-    </unit>
-    <unit id="VTvmvux" name="The entity &quot;App\Entity\Department&quot; was not found to delete.">
-      <segment>
-        <source>The entity "App\Entity\Department" was not found to delete.</source>
-        <target>The entity "App\Entity\Department" was not found to delete.</target>
-      </segment>
-    </unit>
-    <unit id="tcEgsxb" name="Saved">
-      <segment>
-        <source>Saved</source>
-        <target>Saved</target>
-      </segment>
-    </unit>
-    <unit id="4QgAPli" name="entity.removed.success">
-      <segment>
-        <source>entity.removed.success</source>
-        <target>The entity "%{entity}" identified as "%{name}" was removed.</target>
-      </segment>
-    </unit>
-    <unit id="YYObEAF" name="entity.remove.locked">
-      <segment>
-        <source>entity.remove.locked</source>
-        <target>The entity "%{entity}" identified as "%{name}" is marked as locked, not to be removed.</target>
-      </segment>
-    </unit>
-    <unit id="g2hA5zM" name="The entity &quot;App\Entity\Department&quot; identified as &quot;Finance&quot; was removed.">
-      <segment>
-        <source>The entity "App\Entity\Department" identified as "Finance" was removed.</source>
-        <target>The entity "App\Entity\Department" identified as "Finance" was removed.</target>
-      </segment>
-    </unit>
-    <unit id="5awsKyS" name="Interfaces">
-      <segment>
-        <source>Interfaces</source>
-        <target>Interfaces</target>
-      </segment>
-    </unit>
-    <unit id="q6Fv495" name="manage_tracking_settings">
-      <segment>
-        <source>manage_tracking_settings</source>
-        <target>Manage Tracking Settings</target>
-      </segment>
-    </unit>
-    <unit id="hxXZS2m" name="manage_formal_assessments">
-      <segment>
-        <source>manage_formal_assessments</source>
-        <target>Formal Assessment Settings</target>
-      </segment>
-    </unit>
-    <unit id="Xsbxl56" name="Data Points - Internal Assessment">
-      <segment>
-        <source>Data Points - Internal Assessment</source>
-        <target>Data Points - Internal Assessment</target>
-      </segment>
-    </unit>
-    <unit id="Fs0DXE7" name="813197e">
-      <segment>
-        <source>Use the options below to select the internal assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</source>
-        <target>Use the options below to select the internal assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</target>
-      </segment>
-    </unit>
-    <unit id="TOHrXXJ" name="Data Points - External Assessment">
-      <segment>
-        <source>Data Points - External Assessment</source>
-        <target>Data Points - External Assessment</target>
-      </segment>
-    </unit>
-    <unit id="WRoc4BG" name="dc36b2a">
-      <segment>
-        <source>Use the options below to select the external assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</source>
-        <target>Use the options below to select the external assessments that you wish to include in your Data Points export. If duplicates of any assessment exist, only the most recent entry will be shown.</target>
-      </segment>
-    </unit>
-    <unit id="YGHedKK" name="eef2041">
-      <segment>
-        <source>The entity "App\Entity\Scale" identified as "Simple Letter Grade (SLG)" was removed.</source>
-        <target>The entity "App\Entity\Scale" identified as "Simple Letter Grade (SLG)" was removed.</target>
-      </segment>
-    </unit>
-    <unit id="SeN.tz1" name="f659f0e">
-      <segment>
-        <source>The entity "App\Entity\Department" identified as "Finance" was marked as locked, not to be removed.</source>
-        <target>The entity "App\Entity\Department" identified as "Finance" was marked as locked, not to be removed.</target>
-      </segment>
-    </unit>
-    <unit id="nLh15vW" name="Primary External Assessment">
-      <segment>
-        <source>Primary External Assessment</source>
-        <target>Primary External Assessment</target>
-      </segment>
-    </unit>
-    <unit id="tg70r_P" name="menu.admin.system">
-      <segment>
-        <source>menu.admin.system</source>
-        <target>System Admin</target>
-      </segment>
-    </unit>
-    <unit id="hgzrrL3" name="section.header.settings">
-      <segment>
-        <source>section.header.settings</source>
-        <target>Settings</target>
-      </segment>
-    </unit>
-    <unit id="zVi4J2T" name="manage_system_settings">
-      <segment>
-        <source>manage_system_settings</source>
-        <target>System Settings</target>
-      </segment>
-    </unit>
-    <unit id="IhqhlSX" name="setting.absoluteURL">
-      <segment>
-        <source>setting.absoluteURL</source>
-        <target>Base URL</target>
-      </segment>
-    </unit>
-    <unit id="ialRiWq" name="setting.absoluteURL.label">
-      <segment>
-        <source>setting.absoluteURL.label</source>
-        <target>Base URL</target>
-      </segment>
-    </unit>
-    <unit id="S9Qg6TV" name="setting.absoluteURL.help">
-      <segment>
-        <source>setting.absoluteURL.help</source>
-        <target>The address at which the whole system resides. This setting is information only.</target>
-      </segment>
-    </unit>
-    <unit id="BQJLWNg" name="setting.absolutePath.label">
-      <segment>
-        <source>setting.absolutePath.label</source>
-        <target>Base Path</target>
-      </segment>
-    </unit>
-    <unit id="BR_NUYS" name="setting.absolutePath.help">
-      <segment>
-        <source>setting.absolutePath.help</source>
-        <target>The local file path for the system. This setting is information only.</target>
-      </segment>
-    </unit>
-    <unit id="H4f4g8x" name="System Settings">
-      <segment>
-        <source>System Settings</source>
-        <target>System Settings</target>
-      </segment>
-    </unit>
-    <unit id="NQMCEvO" name="system.value.warning">
-      <segment>
-        <source>system.value.warning</source>
-        <target>The setting is set by the system, and is not available to edit.</target>
-      </segment>
-    </unit>
-    <unit id="yWYBKlI" name="Install Type">
-      <segment>
-        <source>Install Type</source>
-        <target>Install Type</target>
-      </segment>
-    </unit>
-    <unit id="Lc71UYH" name="The purpose of this installation of Busybee">
-      <segment>
-        <source>The purpose of this installation of Busybee</source>
-        <target>The purpose of this installation of Busybee</target>
-      </segment>
-    </unit>
-    <unit id="DUc6iMq" name="system.install.type.production">
-      <segment>
-        <source>system.install.type.production</source>
-        <target>Production</target>
-      </segment>
-    </unit>
-    <unit id="zOpTNYh" name="system.install.type.testing">
-      <segment>
-        <source>system.install.type.testing</source>
-        <target>Testing</target>
-      </segment>
-    </unit>
-    <unit id="rliKH5R" name="system.install.type.development">
-      <segment>
-        <source>system.install.type.development</source>
-        <target>Development</target>
-      </segment>
-    </unit>
-    <unit id="D5uTjAk" name="Organisation Settings">
-      <segment>
-        <source>Organisation Settings</source>
-        <target>Organisation Settings</target>
-      </segment>
-    </unit>
-    <unit id="SaJXi7G" name="Security Settings - Password Policy">
-      <segment>
-        <source>Security Settings - Password Policy</source>
-        <target>Security Settings - Password Policy</target>
-      </segment>
-    </unit>
-    <unit id="_gTN0VW" name="Changes in password policy will be applied the next time you attempt to sign in.">
-      <segment>
-        <source>Changes in password policy will be applied the next time you attempt to sign in.</source>
-        <target>Changes in password policy will be applied the next time you attempt to sign in.</target>
-      </segment>
-    </unit>
-    <unit id="sdRinPv" name="Security Settings - Miscellaneous">
-      <segment>
-        <source>Security Settings - Miscellaneous</source>
-        <target>Security Settings - Miscellaneous</target>
-      </segment>
-    </unit>
-    <unit id="8x9PyFE" name="Localisation">
-      <segment>
-        <source>Localisation</source>
-        <target>Localisation</target>
-      </segment>
-    </unit>
-    <unit id="yFJVNJs" name="third_party_settings">
-      <segment>
-        <source>third_party_settings</source>
-        <target>Third Party Settings</target>
-      </segment>
-    </unit>
-    <unit id="asmK3IR" name="Google Integration">
-      <segment>
-        <source>Google Integration</source>
-        <target>Google Integration</target>
-      </segment>
-    </unit>
-    <unit id="SKkzpw8" name="5aebce5">
-      <segment>
-        <source>If your school uses Google Apps, you can enable single sign on and calendar integration with Gibbon. This process makes use of Google's APIs, and allows a user to access Gibbon without a username and password, provided that their listed email address is a Google account to which they have access. For configuration instructions, &lt;a href='https://gibbonedu.org/support/administrators/installing-gibbon/authenticating-with-google-oauth/' target='_blank'&gt;click here&lt;/a&gt;.</source>
-        <target><![CDATA[If your school uses Google Apps, you can enable single sign on and calendar integration with Gibbon. This process makes use of Google's APIs, and allows a user to access Gibbon without a username and password, provided that their listed email address is a Google account to which they have access. For configuration instructions, <a href='https://gibbonedu.org/support/administrators/installing-gibbon/authenticating-with-google-oauth/' target='_blank'>click here</a>.]]></target>
-      </segment>
-    </unit>
-    <unit id="s_g989m" name="PayPal Payment Gateway">
-      <segment>
-        <source>PayPal Payment Gateway</source>
-        <target>PayPal Payment Gateway</target>
-      </segment>
-    </unit>
-    <unit id="2itjFA9" name="cad87dd">
-      <segment>
-        <source>Busybee is designed to use the &lt;a href='http://onewaysms.com' target='_blank'&gt;One Way SMS&lt;/a&gt; gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.</source>
-        <target><![CDATA[Busybee is designed to use the <a href='http://onewaysms.com' target='_blank'>One Way SMS</a> gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.]]></target>
-      </segment>
-    </unit>
-    <unit id="1WbHO32" name="EMail Settings">
-      <segment>
-        <source>EMail Settings</source>
-        <target>EMail Settings</target>
-      </segment>
-    </unit>
-    <unit id="DCV3nPj" name="9c38b11">
-      <segment>
-        <source>Email Settings can be found with your email provider. This system does have a number of preset to set default values. Gmail has been implemented by this site. The site uses &lt;a href="https://swiftmailer.symfony.com/docs/introduction.html" target="_blank"&gt;Swiftmailer&lt;/a&gt; as the engine to send email messages.</source>
-        <target><![CDATA[Email Settings can be found with your email provider. This system does have a number of preset to set default values. Gmail has been implemented by this site. The site uses <a href="https://swiftmailer.symfony.com/docs/introduction.html" target="_blank">Swiftmailer</a> as the engine to send email messages.]]></target>
-      </segment>
-    </unit>
-    <unit id="gPfpSmF" name="9b75cce">
-      <segment>
-        <source>Email Settings can be found with your email provider. This system does have a number of preset to set default values. Gmail has been implemented by this site. This site uses &lt;a href="https://swiftmailer.symfony.com/docs/introduction.html" target="_blank"&gt;Swiftmailer&lt;/a&gt; as the engine to send email messages.</source>
-        <target><![CDATA[Email Settings can be found with your email provider. This system does have a number of preset to set default values. Gmail has been implemented by this site. This site uses <a href="https://swiftmailer.symfony.com/docs/introduction.html" target="_blank">Swiftmailer</a> as the engine to send email messages.]]></target>
-      </segment>
-    </unit>
-    <unit id="Ckb3QU5" name="string_replacement">
-      <segment>
-        <source>string_replacement</source>
-        <target>String Replacement</target>
-      </segment>
-    </unit>
-    <unit id="XOvjcxA" name="string.replacement.pagination.title">
-      <segment>
-        <source>string.replacement.pagination.title</source>
-        <target>Manage String Replacement</target>
-      </segment>
-    </unit>
-    <unit id="GhO.PVz" name="string.replacement.pagination.description">
-      <segment>
-        <source>string.replacement.pagination.description</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="tXG4bGu" name="scale.name.label">
-      <segment>
-        <source>scale.name.label</source>
-        <target>scale.name.label</target>
-      </segment>
-    </unit>
-    <unit id=".XEdR1O" name="scale.name_short.label">
-      <segment>
-        <source>scale.name_short.label</source>
-        <target>scale.name_short.label</target>
-      </segment>
-    </unit>
-    <unit id="3I._phW" name="scale.usage.label">
-      <segment>
-        <source>scale.usage.label</source>
-        <target>scale.usage.label</target>
-      </segment>
-    </unit>
-    <unit id="NVb38aA" name="scale.active.label">
-      <segment>
-        <source>scale.active.label</source>
-        <target>scale.active.label</target>
-      </segment>
-    </unit>
-    <unit id="PAJ.VPg" name="scale.numeric.label">
-      <segment>
-        <source>scale.numeric.label</source>
-        <target>scale.numeric.label</target>
-      </segment>
-    </unit>
-    <unit id="JPwcwSv" name="string.original.sort">
-      <segment>
-        <source>string.original.sort</source>
-        <target>Original</target>
-      </segment>
-    </unit>
-    <unit id="xq0.jLd" name="string.replacement.sort">
-      <segment>
-        <source>string.replacement.sort</source>
-        <target>Replacement</target>
-      </segment>
-    </unit>
-    <unit id="bq_HiOy" name="string.priority.sort">
-      <segment>
-        <source>string.priority.sort</source>
-        <target>Priority</target>
-      </segment>
-    </unit>
-    <unit id="5WFAugv" name="string.original.label">
-      <segment>
-        <source>string.original.label</source>
-        <target>Original</target>
-      </segment>
-    </unit>
-    <unit id="D68FL4n" name="string.replacement.label">
-      <segment>
-        <source>string.replacement.label</source>
-        <target>Replacement</target>
-      </segment>
-    </unit>
-    <unit id=".tVXC1y" name="string.mode.pagination.header">
-      <segment>
-        <source>string.mode.pagination.header</source>
-        <target>Mode / Case Sensitive / Priority</target>
-      </segment>
-    </unit>
-    <unit id="Y0kZXZl" name="school.scale.edit.title">
-      <segment>
-        <source>school.scale.edit.title</source>
-        <target>school.scale.edit.title</target>
-      </segment>
-    </unit>
-    <unit id="dd5U.zL" name="school.scale.edit.description">
-      <segment>
-        <source>school.scale.edit.description</source>
-        <target>school.scale.edit.description</target>
-      </segment>
-    </unit>
-    <unit id="WDQE6QB" name="string.replacement.edit.title">
-      <segment>
-        <source>string.replacement.edit.title</source>
-        <target>String Management</target>
-      </segment>
-    </unit>
-    <unit id="t3LH1d2" name="string.replacement.edit.description">
-      <segment>
-        <source>string.replacement.edit.description</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="HpAYRl4" name="stringreplacement.mode.whole">
-      <segment>
-        <source>stringreplacement.mode.whole</source>
-        <target>Whole</target>
-      </segment>
-    </unit>
-    <unit id="r0cFWIJ" name="stringreplacement.mode.partial">
-      <segment>
-        <source>stringreplacement.mode.partial</source>
-        <target>Partial</target>
-      </segment>
-    </unit>
-    <unit id="qV9LXZi" name="string.mode.label">
-      <segment>
-        <source>string.mode.label</source>
-        <target>Mode</target>
-      </segment>
-    </unit>
-    <unit id="PgNZTx7" name="string.case_sensitive.label">
-      <segment>
-        <source>string.case_sensitive.label</source>
-        <target>Case Sensitive</target>
-      </segment>
-    </unit>
-    <unit id="3EPGA2Z" name="string.priority.label">
-      <segment>
-        <source>string.priority.label</source>
-        <target>Priority</target>
-      </segment>
-    </unit>
-    <unit id="0PPUJpg" name="string.priority.help">
-      <segment>
-        <source>string.priority.help</source>
-        <target>Higher priorities are substituted first.</target>
-      </segment>
-    </unit>
-    <unit id="1KV4L.t" name="This value should not be blank.">
-      <segment>
-        <source>This value should not be blank.</source>
-        <target>This value should not be blank.</target>
-      </segment>
-    </unit>
-    <unit id="B5ebaMp" name="This value is already used.">
-      <segment>
-        <source>This value is already used.</source>
-        <target>This value is already used.</target>
-      </segment>
-    </unit>
-    <unit id="T7JAKBm" name="stringreplacement.replacemode.whole">
-      <segment>
-        <source>stringreplacement.replacemode.whole</source>
-        <target>Whole</target>
-      </segment>
-    </unit>
-    <unit id="taQl8Q0" name="stringreplacement.replacemode.partial">
-      <segment>
-        <source>stringreplacement.replacemode.partial</source>
-        <target>Partial</target>
-      </segment>
-    </unit>
-    <unit id="g2hkLd7" name="String replacement">
-      <segment>
-        <source>String replacement</source>
-        <target>String replacement</target>
-      </segment>
-    </unit>
-    <unit id="foWHROz" name="notification_events">
-      <segment>
-        <source>notification_events</source>
-        <target>Notification Events</target>
-      </segment>
-    </unit>
-    <unit id="wUeU15H" name="notification_event_settings">
-      <segment>
-        <source>notification_event_settings</source>
-        <target>Notification Settings</target>
-      </segment>
-    </unit>
-    <unit id="py7z7Vp" name="notification.event.pagination.title">
-      <segment>
-        <source>notification.event.pagination.title</source>
-        <target>Notification Events</target>
-      </segment>
-    </unit>
-    <unit id="Yv9fv4X" name="notification.event.pagination.description">
-      <segment>
-        <source>notification.event.pagination.description</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="idsuz8C" name="notification.event.label">
-      <segment>
-        <source>notification.event.label</source>
-        <target>Name</target>
-      </segment>
-    </unit>
-    <unit id="os8NbSe" name="notification.event.module.label">
-      <segment>
-        <source>notification.event.module.label</source>
-        <target>Module</target>
-      </segment>
-    </unit>
-    <unit id="XGpVIXg" name="notification.event.subscriber.count">
-      <segment>
-        <source>notification.event.subscriber.count</source>
-        <target>Subscribers</target>
-      </segment>
-    </unit>
-    <unit id="HiauhZ_" name="notification.event.active.label">
-      <segment>
-        <source>notification.event.active.label</source>
-        <target>Active</target>
-      </segment>
-    </unit>
-    <unit id="SkTcFTZ" name="10">
-      <segment>
-        <source>10</source>
-        <target>10</target>
-      </segment>
-    </unit>
-    <unit id="t6Voc81" name="25">
-      <segment>
-        <source>25</source>
-        <target>25</target>
-      </segment>
-    </unit>
-    <unit id="GmViWQ7" name="50">
-      <segment>
-        <source>50</source>
-        <target>50</target>
-      </segment>
-    </unit>
-    <unit id="rVc2aGU" name="100">
-      <segment>
-        <source>100</source>
-        <target>100</target>
-      </segment>
-    </unit>
-    <unit id="a4ayc.8" name="1">
-      <segment>
-        <source>1</source>
-        <target>1</target>
-      </segment>
-    </unit>
-    <unit id="eMWsTAO" name="display.true">
-      <segment>
-        <source>display.true</source>
-        <target>Yes</target>
-      </segment>
-    </unit>
-    <unit id="LzBGNOS" name="display.false">
-      <segment>
-        <source>display.false</source>
-        <target>No</target>
-      </segment>
-    </unit>
-    <unit id="7sqpD7s" name="notification_event.details.tab">
-      <segment>
-        <source>notification_event.details.tab</source>
-        <target>Event</target>
-      </segment>
-    </unit>
-    <unit id="MwFRJHV" name="notification.event.edit.description">
-      <segment>
-        <source>notification.event.edit.description</source>
-        <target>Notification Events allow you to connect a person (listener) to be notified when an event occurs in the system.</target>
-      </segment>
-    </unit>
-    <unit id="iNTIvbY" name="notification.event.edit.title">
-      <segment>
-        <source>notification.event.edit.title</source>
-        <target>Manage Notification Event</target>
-      </segment>
-    </unit>
-    <unit id="iT7wBwf" name="notification_event.listener.tab">
-      <segment>
-        <source>notification_event.listener.tab</source>
-        <target>Listeners</target>
-      </segment>
-    </unit>
-    <unit id="p4YvJDw" name="panel.header.empty">
-      <segment>
-        <source>panel.header.empty</source>
-        <target>Set the header variable...</target>
-      </segment>
-    </unit>
-    <unit id="3dfnqBs" name="notification.notification_listeners.label">
-      <segment>
-        <source>notification.notification_listeners.label</source>
-        <target>Event Listeners</target>
-      </segment>
-    </unit>
-    <unit id="gOIg.qH" name="notification.listeners.header">
-      <segment>
-        <source>notification.listeners.header</source>
-        <target>Listeners for %name%</target>
-      </segment>
-    </unit>
-    <unit id="JSqXlNe" name="notification.event.header">
-      <segment>
-        <source>notification.event.header</source>
-        <target>Notification Event: %name%</target>
-      </segment>
-    </unit>
-    <unit id="Nx5eo8m" name="notification.active.label">
-      <segment>
-        <source>notification.active.label</source>
-        <target>Active</target>
-      </segment>
-    </unit>
-    <unit id="le023yQ" name="__name__label__">
-      <segment>
-        <source>__name__label__</source>
-        <target>__name__label__</target>
-      </segment>
-    </unit>
-    <unit id="BOjUFU5" name="notification.action.label">
-      <segment>
-        <source>notification.action.label</source>
-        <target>Permission Required</target>
-      </segment>
-    </unit>
-    <unit id="18CFGAJ" name="notification.module.help">
-      <segment>
-        <source>notification.module.help</source>
-        <target>This value cannot be changed.</target>
-      </segment>
-    </unit>
-    <unit id="cU.gA0d" name="notification.module.label">
-      <segment>
-        <source>notification.module.label</source>
-        <target>Event</target>
-      </segment>
-    </unit>
-    <unit id="Z.ztZH4" name="notification.event.edit">
-      <segment>
-        <source>notification.event.edit</source>
-        <target>Edit Notification Event</target>
-      </segment>
-    </unit>
-    <unit id="8vSA7aF" name="manage_lanuage_setting">
-      <segment>
-        <source>manage_lanuage_setting</source>
-        <target>Language Setting</target>
-      </segment>
-    </unit>
-    <unit id="nMyR47M" name="section.header.extend_and_update">
-      <segment>
-        <source>section.header.extend_and_update</source>
-        <target><![CDATA[Extend & Update]]></target>
-      </segment>
-    </unit>
-    <unit id="Zw3gZ5D" name="system_check_label">
-      <segment>
-        <source>system_check_label</source>
-        <target>System Check</target>
-      </segment>
-    </unit>
-    <unit id="8pK26EN" name="system.check.title">
-      <segment>
-        <source>system.check.title</source>
-        <target>System Check</target>
-      </segment>
-    </unit>
-    <unit id="K7fpvCA" name="system.check.description">
-      <segment>
-        <source>system.check.description</source>
-        <target>This page checks your server for appropriate software versions to run the system at optimum performance.</target>
-      </segment>
-    </unit>
-    <unit id="_I70q5A" name="system.check.system_requirements">
-      <segment>
-        <source>system.check.system_requirements</source>
-        <target>System Requirements</target>
-      </segment>
-    </unit>
-    <unit id="m_zDFHz" name="system.check.php.label">
-      <segment>
-        <source>system.check.php.label</source>
-        <target>PHP Version</target>
-      </segment>
-    </unit>
-    <unit id="hgTF8Ho" name="system.check.php.help">
-      <segment>
-        <source>system.check.php.help</source>
-        <target>Busybee requires PHP version {version} or higher.</target>
-      </segment>
-    </unit>
-    <unit id="UfYEL30" name="system.check.mysql.label">
-      <segment>
-        <source>system.check.mysql.label</source>
-        <target>MySQL Version</target>
-      </segment>
-    </unit>
-    <unit id="dycHgjb" name="system.check.mysql.help">
-      <segment>
-        <source>system.check.mysql.help</source>
-        <target>Busybee requires MySQL version {version} or higher.</target>
-      </segment>
-    </unit>
-    <unit id="TJLrA6T" name="system.check.mariadb.label">
-      <segment>
-        <source>system.check.mariadb.label</source>
-        <target>MariaDB Version</target>
-      </segment>
-    </unit>
-    <unit id="eYjYJUZ" name="system.check.mariadb.help">
-      <segment>
-        <source>system.check.mariadb.help</source>
-        <target>Busybee  requires MariaDB version {version} or higher.</target>
-      </segment>
-    </unit>
-    <unit id="VguFwmj" name="system.check.mysql_collation.label">
-      <segment>
-        <source>system.check.mysql_collation.label</source>
-        <target>Database Collation</target>
-      </segment>
-    </unit>
-    <unit id="9mRk1zV" name="system.check.mysql_collation.help">
-      <segment>
-        <source>system.check.mysql_collation.help</source>
-        <target>Database collation should be set to {version}.</target>
-      </segment>
-    </unit>
-    <unit id="mqRysz9" name="system.check.mysql_pdo.label">
-      <segment>
-        <source>system.check.mysql_pdo.label</source>
-        <target>PDO Support</target>
-      </segment>
-    </unit>
-    <unit id="uAmb0Bs" name="system.check.mysql_pdo.help">
-      <segment>
-        <source>system.check.mysql_pdo.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="TgDgbDo" name="system.check.extension.gd.label">
-      <segment>
-        <source>system.check.extension.gd.label</source>
-        <target>Extension GD</target>
-      </segment>
-    </unit>
-    <unit id="6sg2.AO" name="system.check.extension.xml.help">
-      <segment>
-        <source>system.check.extension.xml.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="rkWoy0s" name="system.check.extension.curl.label">
-      <segment>
-        <source>system.check.extension.curl.label</source>
-        <target>Extension Curl</target>
-      </segment>
-    </unit>
-    <unit id="RY4I14T" name="system.check.extension.xml.label">
-      <segment>
-        <source>system.check.extension.xml.label</source>
-        <target>Extension XML</target>
-      </segment>
-    </unit>
-    <unit id="2kkv4dF" name="system.check.extension.zip.help">
-      <segment>
-        <source>system.check.extension.zip.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="OAgmYkN" name="system.check.extension.mbstring.help">
-      <segment>
-        <source>system.check.extension.mbstring.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="3UdwA4p" name="system.check.extension.zip.label">
-      <segment>
-        <source>system.check.extension.zip.label</source>
-        <target>Extension ZIP</target>
-      </segment>
-    </unit>
-    <unit id="nbcS.D4" name="system.check.extension.mbstring.label">
-      <segment>
-        <source>system.check.extension.mbstring.label</source>
-        <target>Extension Multibyte String (mbstring)</target>
-      </segment>
-    </unit>
-    <unit id="ms0g8wz" name="system.check.extension.curl.help">
-      <segment>
-        <source>system.check.extension.curl.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="y_OwZHn" name="system.check.extension.gettext.help">
-      <segment>
-        <source>system.check.extension.gettext.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="DkZbKKS" name="system.check.extension.gettext.label">
-      <segment>
-        <source>system.check.extension.gettext.label</source>
-        <target>Extension GetText</target>
-      </segment>
-    </unit>
-    <unit id="wU9fViB" name="system.check.extension.gd.help">
-      <segment>
-        <source>system.check.extension.gd.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="_4YJoo2" name="system.check.php_extensions">
-      <segment>
-        <source>system.check.php_extensions</source>
-        <target>PHP Extensions</target>
-      </segment>
-    </unit>
-    <unit id="ehBEqpu" name="system.check.system_requirements.help">
-      <segment>
-        <source>system.check.system_requirements.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="bLOZ.BO" name="system.check.php_extensions.help">
-      <segment>
-        <source>system.check.php_extensions.help</source>
-        <target>Busybee requires you to enable the PHP extensions in the following list. The process to do so depends on your server setup</target>
-      </segment>
-    </unit>
-    <unit id="5CL8.55" name="system.check.php_settings">
-      <segment>
-        <source>system.check.php_settings</source>
-        <target>PHP Settings</target>
-      </segment>
-    </unit>
-    <unit id="f2C_P5j" name="system.check.php_settings.help">
-      <segment>
-        <source>system.check.php_settings.help</source>
-        <target>Configuration values can be set in your system php.ini file. On shared host, use .htaccess to set php settings.</target>
-      </segment>
-    </unit>
-    <unit id="waF6mks" name="system.check.setting.max_input_vars.label">
-      <segment>
-        <source>system.check.setting.max_input_vars.label</source>
-        <target>max_input_vars</target>
-      </segment>
-    </unit>
-    <unit id="0yYFkNC" name="system.check.setting.max_input_vars.help">
-      <segment>
-        <source>system.check.setting.max_input_vars.help</source>
-        <target>{version}</target>
-      </segment>
-    </unit>
-    <unit id="Y7hEAxO" name="system.check.setting.max_file_uploads.label">
-      <segment>
-        <source>system.check.setting.max_file_uploads.label</source>
-        <target>max_file_uploads</target>
-      </segment>
-    </unit>
-    <unit id="NNpPU2c" name="system.check.setting.max_file_uploads.help">
-      <segment>
-        <source>system.check.setting.max_file_uploads.help</source>
-        <target>{version}</target>
-      </segment>
-    </unit>
-    <unit id="0a6GHId" name="system.check.setting.allow_url_fopen.label">
-      <segment>
-        <source>system.check.setting.allow_url_fopen.label</source>
-        <target>allow_url_fopen</target>
-      </segment>
-    </unit>
-    <unit id="mwOl9vU" name="system.check.setting.allow_url_fopen.help">
-      <segment>
-        <source>system.check.setting.allow_url_fopen.help</source>
-        <target>{version}</target>
-      </segment>
-    </unit>
-    <unit id="t2jVizQ" name="system.check.setting.register_globals.label">
-      <segment>
-        <source>system.check.setting.register_globals.label</source>
-        <target>register_globals</target>
-      </segment>
-    </unit>
-    <unit id="1mXct5y" name="system.check.setting.register_globals.help">
-      <segment>
-        <source>system.check.setting.register_globals.help</source>
-        <target>{version}</target>
-      </segment>
-    </unit>
-    <unit id="ft5h7p1" name="system.check.file_permissions">
-      <segment>
-        <source>system.check.file_permissions</source>
-        <target>File Permissions</target>
-      </segment>
-    </unit>
-    <unit id="RfaauKI" name="system.check.file_permissions.help">
-      <segment>
-        <source>system.check.file_permissions.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="CuMWnw." name="system.check.file_not_write.label">
-      <segment>
-        <source>system.check.file_not_write.label</source>
-        <target>System not publicly writable?</target>
-      </segment>
-    </unit>
-    <unit id="gA46Nkn" name="system.check.file_not_write.help">
-      <segment>
-        <source>system.check.file_not_write.help</source>
-        <target>Files Checked(Public Files Writable)</target>
-      </segment>
-    </unit>
-    <unit id="t26O60M" name="system.check.uploads_write.label">
-      <segment>
-        <source>system.check.uploads_write.label</source>
-        <target>Uploads folder server writable?</target>
-      </segment>
-    </unit>
-    <unit id="B.domHp" name="system.check.uploads_write.help">
-      <segment>
-        <source>system.check.uploads_write.help</source>
-        <target>Files Checked(Server Files Writable)</target>
-      </segment>
-    </unit>
-    <unit id="dGaNQjg" name="system.check.config_write.label">
-      <segment>
-        <source>system.check.config_write.label</source>
-        <target>Config folder server writable?</target>
-      </segment>
-    </unit>
-    <unit id="a8IFrAq" name="system.check.config_write.help">
-      <segment>
-        <source>system.check.config_write.help</source>
-        <target>Files Checked(Server Files Writable)</target>
-      </segment>
-    </unit>
-    <unit id="_INYlEi" name="manage_themes_label">
-      <segment>
-        <source>manage_themes_label</source>
-        <target>Manage Themes</target>
-      </segment>
-    </unit>
-    <unit id="HKV.Gff" name="themes.manage.title">
-      <segment>
-        <source>themes.manage.title</source>
-        <target>Manage Themes</target>
-      </segment>
-    </unit>
-    <unit id="TKt_b2A" name="themes.manage.description">
-      <segment>
-        <source>themes.manage.description</source>
-        <target>To install a theme, run 'composer require theme-name'. After installation, refresh this page and the theme should appear in the list below: use the install button in the Actions column to set it up.
-A list of available themes is available at ?????</target>
-      </segment>
-    </unit>
-    <unit id="Dbjl259" name="theme.name.label">
-      <segment>
-        <source>theme.name.label</source>
-        <target>Name</target>
-      </segment>
-    </unit>
-    <unit id="hfRSLJM" name="theme.version.label">
-      <segment>
-        <source>theme.version.label</source>
-        <target>Version</target>
-      </segment>
-    </unit>
-    <unit id="NTL6S7R" name="theme.description.label">
-      <segment>
-        <source>theme.description.label</source>
-        <target>Description</target>
-      </segment>
-    </unit>
-    <unit id="XNeyZRf" name="theme.author.label">
-      <segment>
-        <source>theme.author.label</source>
-        <target>Author</target>
-      </segment>
-    </unit>
-    <unit id="TcSMUBy" name="section.header.alarm">
-      <segment>
-        <source>section.header.alarm</source>
-        <target>Alarm</target>
-      </segment>
-    </unit>
-    <unit id="dPOlv27" name="manage_alarm_label">
-      <segment>
-        <source>manage_alarm_label</source>
-        <target>Sound Alarm</target>
-      </segment>
-    </unit>
-    <unit id="y5k8jYJ" name="alarm.title">
-      <segment>
-        <source>alarm.title</source>
-        <target>Sound Alarm</target>
-      </segment>
-    </unit>
-    <unit id="XyfqClZ" name="alarm.description">
-      <segment>
-        <source>alarm.description</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="ua8PYMj" name="alarm.edit.title">
-      <segment>
-        <source>alarm.edit.title</source>
-        <target>alarm.edit.title</target>
-      </segment>
-    </unit>
-    <unit id="ICP19wR" name="alarm.type.none">
-      <segment>
-        <source>alarm.type.none</source>
-        <target>Select Alarm Type...</target>
-      </segment>
-    </unit>
-    <unit id="bKTi3hv" name="alarm.type.general">
-      <segment>
-        <source>alarm.type.general</source>
-        <target>General</target>
-      </segment>
-    </unit>
-    <unit id="acXUmNj" name="alarm.type.lockdown-inplace">
-      <segment>
-        <source>alarm.type.lockdown-inplace</source>
-        <target>Lock Down (In Place)</target>
-      </segment>
-    </unit>
-    <unit id="khiuA5W" name="alarm.type.lockdown-internal">
-      <segment>
-        <source>alarm.type.lockdown-internal</source>
-        <target>Lock Down (Internal)</target>
-      </segment>
-    </unit>
-    <unit id="CAw00Ls" name="alarm.type.custom">
-      <segment>
-        <source>alarm.type.custom</source>
-        <target>Custom</target>
-      </segment>
-    </unit>
-    <unit id="btXIobO" name="alarm.type.label">
-      <segment>
-        <source>alarm.type.label</source>
-        <target>Alarm Type</target>
-      </segment>
-    </unit>
-    <unit id="bxPm5f8" name="alarm.status.current">
-      <segment>
-        <source>alarm.status.current</source>
-        <target>Current</target>
-      </segment>
-    </unit>
-    <unit id="MCSvIOD" name="alarm.status.past">
-      <segment>
-        <source>alarm.status.past</source>
-        <target>Past</target>
-      </segment>
-    </unit>
-    <unit id="AVyqYdi" name="alarm.status.label">
-      <segment>
-        <source>alarm.status.label</source>
-        <target>Status</target>
-      </segment>
-    </unit>
-    <unit id="Un6m4NR" name="alarm.custom_alarm.label">
-      <segment>
-        <source>alarm.custom_alarm.label</source>
-        <target>Custom Alarm Sound</target>
-      </segment>
-    </unit>
-    <unit id="RaMfI0L" name="alarm.custom_alarm.help">
-      <segment>
-        <source>alarm.custom_alarm.help</source>
-        <target>Loading a custom sound file will overwrite the existing custom sound file.  Selecting a custom alarm without a custom sound file will raise a warning.</target>
-      </segment>
-    </unit>
-    <unit id="c5uZrxd" name="alarm.type.help">
-      <segment>
-        <source>alarm.type.help</source>
-        <target>Sound a system wide alarm to the school.</target>
-      </segment>
-    </unit>
-    <unit id="Y10k1UT" name="message.count">
-      <segment>
-        <source>message.count</source>
-        <target>%{count} Messages</target>
-      </segment>
-    </unit>
-    <unit id="Mgw9_le" name="toggle.sidebar">
-      <segment>
-        <source>toggle.sidebar</source>
-        <target>Open/Close Side Bar</target>
-      </segment>
-    </unit>
-    <unit id="r776l2v" name="alarm.general.title">
-      <segment>
-        <source>alarm.general.title</source>
-        <target>General Alarm!</target>
-      </segment>
-    </unit>
-    <unit id="paZKJ_i" name="alarm.turn.off.title">
-      <segment>
-        <source>alarm.turn.off.title</source>
-        <target>Turn Off Alarm</target>
-      </segment>
-    </unit>
-    <unit id="D3wZtcL" name="alarm.fire.title">
-      <segment>
-        <source>alarm.fire.title</source>
-        <target>Fire Alarm!</target>
-      </segment>
-    </unit>
-    <unit id="Uf26fr_" name="alarm.lockdown-inplace.title">
-      <segment>
-        <source>alarm.lockdown-inplace.title</source>
-        <target>Classroom Lockdown!</target>
-      </segment>
-    </unit>
-    <unit id="HTtKy9f" name="alarm.lockdown-internal.title">
-      <segment>
-        <source>alarm.lockdown-internal.title</source>
-        <target>Lockdown (Internal)</target>
-      </segment>
-    </unit>
-    <unit id="3MAJL48" name="alarm.custom.title">
-      <segment>
-        <source>alarm.custom.title</source>
-        <target>Custom Alarm!</target>
-      </segment>
-    </unit>
-    <unit id="F6OWGA8" name="alarm.type.fire">
-      <segment>
-        <source>alarm.type.fire</source>
-        <target>Fire Alarm!</target>
-      </segment>
-    </unit>
-    <unit id="ukxClJO" name="only_one_can_be.invalid.field">
-      <segment>
-        <source>only_one_can_be.invalid.field</source>
-        <target>The field '%{field}' is not available using a getter (get, is) in the class '%{entity}.'</target>
-      </segment>
-    </unit>
-    <unit id="87Z5VzV" name="Alarm">
-      <segment>
-        <source>Alarm</source>
-        <target>Alarm</target>
-      </segment>
-    </unit>
-    <unit id="65zWh4y" name="only_one_can_be.row.exists">
-      <segment>
-        <source>only_one_can_be.row.exists</source>
-        <target>The table '%{entity}' has a row with the '%{field}' equal to '%{content}.' One one row in "%{entity}' can hold this value.</target>
-      </segment>
-    </unit>
-    <unit id="n30EwG8" name="only_one_can_be.row.missing">
-      <segment>
-        <source>only_one_can_be.row.missing</source>
-        <target>Changing the '%{field}' value will leave the '%{entity}' without a row set as '%{content}.' </target>
-      </segment>
-    </unit>
-    <unit id="BhFrs8C" name="0e0ed94">
-      <segment>
-        <source>Changing the 'status' value will leave the 'App\Entity\Alarm' without a row set as 'current.' </source>
-        <target>Changing the 'status' value will leave the 'App\Entity\Alarm' without a row set as 'current.' </target>
-      </segment>
-    </unit>
-    <unit id="nMOCppV" name="alarm.type.custom.invalid">
-      <segment>
-        <source>alarm.type.custom.invalid</source>
-        <target>The custom alarm was not able to find a custom sound file.</target>
-      </segment>
-    </unit>
-    <unit id="Bwg_eZc" name="84ac92f">
-      <segment>
-        <source>The table 'App\Entity\Alarm' has a row with the 'status' equal to 'current.' One one row in "App\Entity\Alarm' can hold this value.</source>
-        <target>The table 'App\Entity\Alarm' has a row with the 'status' equal to 'current.' One one row in "App\Entity\Alarm' can hold this value.</target>
-      </segment>
-    </unit>
-    <unit id="GR8.ZUg" name="sound.alarm">
-      <segment>
-        <source>sound.alarm</source>
-        <target>Sound Alarm</target>
-      </segment>
-    </unit>
-    <unit id="ds3Bo8o" name="sound.alarm.help">
-      <segment>
-        <source>sound.alarm.help</source>
-        <target>This page will set an alarm and sound it.  Custom alarms can be loaded without sounding an alarm but loading the alarm file without setting the alarm type.</target>
-      </segment>
-    </unit>
-    <unit id="qYNeyV2" name="play.custom.sound.on">
-      <segment>
-        <source>play.custom.sound.on</source>
-        <target>play.custom.sound.on</target>
-      </segment>
-    </unit>
-    <unit id="q9S5I8y" name="play.custom.sound">
-      <segment>
-        <source>play.custom.sound</source>
-        <target>Play Custom Sound</target>
-      </segment>
-    </unit>
-    <unit id="TnDx.SS" name="Reset Password">
-      <segment>
-        <source>Reset Password</source>
-        <target>Reset Password</target>
-      </segment>
-    </unit>
-    <unit id="vG8_TAh" name="menu.user.preferences.manage">
-      <segment>
-        <source>menu.user.preferences.manage</source>
-        <target>Preferences</target>
-      </segment>
-    </unit>
-    <unit id="XzmHfUD" name="menu.admin.people">
-      <segment>
-        <source>menu.admin.people</source>
-        <target>People Admin</target>
-      </segment>
-    </unit>
-    <unit id="H_7b.Z9" name="section.header.people_management">
-      <segment>
-        <source>section.header.people_management</source>
-        <target>People Management</target>
-      </segment>
-    </unit>
-    <unit id="95PeIF6" name="Low">
-      <segment>
-        <source>Low</source>
-        <target>Low</target>
-      </segment>
-    </unit>
-    <unit id="jliM0Yd" name="Medium">
-      <segment>
-        <source>Medium</source>
-        <target>Medium</target>
-      </segment>
-    </unit>
-    <unit id="xOvG1KW" name="High">
-      <segment>
-        <source>High</source>
-        <target>High</target>
-      </segment>
-    </unit>
-    <unit id="E90iW4t" name="system.check.extension.intl.label">
-      <segment>
-        <source>system.check.extension.intl.label</source>
-        <target>Extension International (intl)</target>
-      </segment>
-    </unit>
-    <unit id="9yGJ9Zm" name="system.check.extension.intl.help">
-      <segment>
-        <source>system.check.extension.intl.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="oV.3uiW" name="gibbon.transfer.title">
-      <segment>
-        <source>gibbon.transfer.title</source>
-        <target>Gibbon Transfer to %{header}</target>
-      </segment>
-    </unit>
-    <unit id="japc5cO" name="gibbon.transfer.description">
-      <segment>
-        <source>gibbon.transfer.description</source>
-        <target>Transfer from %{gibbonName}. Check the gibbon logs in var/logs for details.</target>
-      </segment>
-    </unit>
-    <unit id="g_aSS28" name="gibbon.transfer.destination">
-      <segment>
-        <source>gibbon.transfer.destination</source>
-        <target>Data from %{gibbonName} has been loaded into:</target>
-      </segment>
-    </unit>
-    <unit id="BGzsEpP" name="gibbon.transfer.load">
-      <segment>
-        <source>gibbon.transfer.load</source>
-        <target>Continue with %{next}</target>
-      </segment>
-    </unit>
-    <unit id=".SyY6RV" name="manage_personal_settings">
-      <segment>
-        <source>manage_personal_settings</source>
-        <target>Manage Personnel Settings</target>
-      </segment>
-    </unit>
-    <unit id="L6TwBMi" name="Field Values">
-      <segment>
-        <source>Field Values</source>
-        <target>Field Values</target>
-      </segment>
-    </unit>
-    <unit id="ZDppIS_" name="Privacy Options">
-      <segment>
-        <source>Privacy Options</source>
-        <target>Privacy Options</target>
-      </segment>
-    </unit>
-    <unit id="ROuH5IU" name="Interface Options">
-      <segment>
-        <source>Interface Options</source>
-        <target>Interface Options</target>
-      </segment>
-    </unit>
-    <unit id="pVHWKld" name="Day Type Options">
-      <segment>
-        <source>Day Type Options</source>
-        <target>Day Type Options</target>
-      </segment>
-    </unit>
-    <unit id="HeE_cXi" name="section.header.student_management">
-      <segment>
-        <source>section.header.student_management</source>
-        <target>Student Management</target>
-      </segment>
-    </unit>
-    <unit id="_tkRyWl" name="public_registration_settings">
-      <segment>
-        <source>public_registration_settings</source>
-        <target>Public Registration Settings</target>
-      </segment>
-    </unit>
-    <unit id="g8ln991" name="system.install_type.production">
-      <segment>
-        <source>system.install_type.production</source>
-        <target>Production</target>
-      </segment>
-    </unit>
-    <unit id="aJUfjbs" name="system.install_type.testing">
-      <segment>
-        <source>system.install_type.testing</source>
-        <target>Testing</target>
-      </segment>
-    </unit>
-    <unit id="Csfu7to" name="system.install_type.development">
-      <segment>
-        <source>system.install_type.development</source>
-        <target>Development</target>
-      </segment>
-    </unit>
-    <unit id="3lzvQzU" name="student.ethnicity.label">
-      <segment>
-        <source>student.ethnicity.label</source>
-        <target>student.ethnicity.label</target>
-      </segment>
-    </unit>
-    <unit id="gtNhaXp" name="student.religion.label">
-      <segment>
-        <source>student.religion.label</source>
-        <target>student.religion.label</target>
-      </segment>
-    </unit>
-    <unit id="FTm930Z" name="sound.alarm.warning">
-      <segment>
-        <source>sound.alarm.warning</source>
-        <target>Sounding alarms on browsers, tablets and mobile phones requires autoplay over-ride for audio to allow the sound to play without user interaction.  As this becomes more and more diverse, this option may be withdrawn as not being a reliable alarm system.</target>
-      </segment>
-    </unit>
-    <unit id="ET1YqHj" name="2e43667">
-      <segment>
-        <source>The entity "App\Entity\Scale" identified as "IB Diploma (Subject) (IBDS)" was marked as locked, not to be removed.</source>
-        <target>The entity "App\Entity\Scale" identified as "IB Diploma (Subject) (IBDS)" was marked as locked, not to be removed.</target>
-      </segment>
-    </unit>
-    <unit id="OEZsSSO" name="6ff0a6c">
-      <segment>
-        <source>Busybee is designed to use the &lt;a href="http://onewaysms.com" target="_blank"&gt;One Way SMS&lt;/a&gt; gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.</source>
-        <target><![CDATA[Busybee is designed to use the <a href="http://onewaysms.com" target="_blank">One Way SMS</a> gateway to send out SMS messages. This is a paid service, not affiliated with Gibbon, and you must create your own account with them before being able to send out SMSs using the Messenger module. It is possible that completing the fields below with details from other gateways may work.]]></target>
-      </segment>
-    </unit>
-    <unit id="SjQbahj" name="Application Form Settings">
-      <segment>
-        <source>Application Form Settings</source>
-        <target>Application Form Settings</target>
-      </segment>
-    </unit>
-    <unit id="5vyySJZ" name="General Options">
-      <segment>
-        <source>General Options</source>
-        <target>General Options</target>
-      </segment>
-    </unit>
-    <unit id="k0Xe7hE" name="Required Document Options">
-      <segment>
-        <source>Required Document Options</source>
-        <target>Required Document Options</target>
-      </segment>
-    </unit>
-    <unit id="NJxYnNK" name="Language Learning Options">
-      <segment>
-        <source>Language Learning Options</source>
-        <target>Language Learning Options</target>
-      </segment>
-    </unit>
-    <unit id="ptkipsh" name="Set values for applicants to specify which language they wish to learn.">
-      <segment>
-        <source>Set values for applicants to specify which language they wish to learn.</source>
-        <target>Set values for applicants to specify which language they wish to learn.</target>
-      </segment>
-    </unit>
-    <unit id="m66Rit2" name="Sections">
-      <segment>
-        <source>Sections</source>
-        <target>Sections</target>
-      </segment>
-    </unit>
-    <unit id="Uvy81vr" name="Acceptance Options">
-      <segment>
-        <source>Acceptance Options</source>
-        <target>Acceptance Options</target>
-      </segment>
-    </unit>
-    <unit id="OuWQ4Yj" name="Student Sections">
-      <segment>
-        <source>Student Sections</source>
-        <target>Student Sections</target>
-      </segment>
-    </unit>
-    <unit id="3y1FJRC" name="section.header.staff_management">
-      <segment>
-        <source>section.header.staff_management</source>
-        <target>Staff Management</target>
-      </segment>
-    </unit>
-    <unit id="4GcNonw" name="Staff Application Form Settings">
-      <segment>
-        <source>Staff Application Form Settings</source>
-        <target>Staff Application Form Settings</target>
-      </segment>
-    </unit>
-    <unit id="ppRSwwF" name="application_form_settings">
-      <segment>
-        <source>application_form_settings</source>
-        <target>Application Form Settings</target>
-      </segment>
-    </unit>
-    <unit id="GRbW.qu" name="General options">
-      <segment>
-        <source>General options</source>
-        <target>General options</target>
-      </segment>
-    </unit>
-    <unit id="PY6gmqN" name="staff_application_form_settings">
-      <segment>
-        <source>staff_application_form_settings</source>
-        <target>Staff Application Form Settings</target>
-      </segment>
-    </unit>
-    <unit id="dXeX3QV" name="Application Form Referee Documents">
-      <segment>
-        <source>Application Form Referee Documents</source>
-        <target>Application Form Referee Documents</target>
-      </segment>
-    </unit>
-    <unit id="3MWcbWg" name="Add an html link for each role as required.">
-      <segment>
-        <source>Add an html link for each role as required.</source>
-        <target>Add an html link for each role as required.</target>
-      </segment>
-    </unit>
-    <unit id="ME7mgvH" name="Required Documents Options">
-      <segment>
-        <source>Required Documents Options</source>
-        <target>Required Documents Options</target>
-      </segment>
-    </unit>
-    <unit id="hGefzp3" name="Manage Staff Settings">
-      <segment>
-        <source>Manage Staff Settings</source>
-        <target>Manage Staff Settings</target>
-      </segment>
-    </unit>
-    <unit id="0Qw7kYe" name="staff_settings">
-      <segment>
-        <source>staff_settings</source>
-        <target>Staff Settings</target>
-      </segment>
-    </unit>
-    <unit id="Ct6KR6a" name="Name Formats">
-      <segment>
-        <source>Name Formats</source>
-        <target>Name Formats</target>
-      </segment>
-    </unit>
-    <unit id="fXQVtfr" name="61b2624">
-      <segment>
-        <source>How should staff names be formatted? Choose from [title], [preferredName], [surname]. Use a colon to limit the number of letters, for example [preferredName:1] will use the first initial.</source>
-        <target>How should staff names be formatted? Choose from [title], [preferredName], [surname]. Use a colon to limit the number of letters, for example [preferredName:1] will use the first initial.</target>
-      </segment>
-    </unit>
-    <unit id="pec.FfX" name="section.header.data_updater">
-      <segment>
-        <source>section.header.data_updater</source>
-        <target>Data Updater</target>
-      </segment>
-    </unit>
-    <unit id="IlG4x3H" name="Data Updater Settings">
-      <segment>
-        <source>Data Updater Settings</source>
-        <target>Data Updater Settings</target>
-      </segment>
-    </unit>
-    <unit id="BQTewjK" name="data_updater_settings">
-      <segment>
-        <source>data_updater_settings</source>
-        <target>Data Updater Settings</target>
-      </segment>
-    </unit>
-    <unit id="dKiDoDe" name="Settings">
-      <segment>
-        <source>Settings</source>
-        <target>Settings</target>
-      </segment>
-    </unit>
-    <unit id="7y13Wie" name="Required Data Update Types">
-      <segment>
-        <source>Required Data Update Types</source>
-        <target>Required Data Update Types</target>
-      </segment>
-    </unit>
-    <unit id="q5jgIqs" name="Which type of data updates should be required.">
-      <segment>
-        <source>Which type of data updates should be required.</source>
-        <target>Which type of data updates should be required.</target>
-      </segment>
-    </unit>
-    <unit id="X_zrZv." name="0">
-      <segment>
-        <source>0</source>
-        <target>0</target>
-      </segment>
-    </unit>
-    <unit id="1HNeOiZ" name="2">
-      <segment>
-        <source>2</source>
-        <target>2</target>
-      </segment>
-    </unit>
-    <unit id="TgdAhWK" name="3">
-      <segment>
-        <source>3</source>
-        <target>3</target>
-      </segment>
-    </unit>
-    <unit id="lAZgp2." name="Data Updater Redirect">
-      <segment>
-        <source>Data Updater Redirect</source>
-        <target>Data Updater Redirect</target>
-      </segment>
-    </unit>
-    <unit id="n1SxEll" name="3218349">
-      <segment>
-        <source>Which types of users should be redirected to the Data Updater if updates are required.</source>
-        <target>Which types of users should be redirected to the Data Updater if updates are required.</target>
-      </segment>
-    </unit>
-    <unit id="LdMlXxj" name="data_updater.required_updates_by_type.family">
-      <segment>
-        <source>data_updater.required_updates_by_type.family</source>
-        <target>Family</target>
-      </segment>
-    </unit>
-    <unit id="fp5KUFi" name="data_updater.required_updates_by_type.personal">
-      <segment>
-        <source>data_updater.required_updates_by_type.personal</source>
-        <target>Personal</target>
-      </segment>
-    </unit>
-    <unit id="aMCJzci" name="data_updater.required_updates_by_type.medical">
-      <segment>
-        <source>data_updater.required_updates_by_type.medical</source>
-        <target>Medical</target>
-      </segment>
-    </unit>
-    <unit id="U1A9Y8l" name="data_updater.required_updates_by_type.finance">
-      <segment>
-        <source>data_updater.required_updates_by_type.finance</source>
-        <target>Finance</target>
-      </segment>
-    </unit>
-    <unit id="kX575nT" name="data_updater.redirect_by_role_category.staff">
-      <segment>
-        <source>data_updater.redirect_by_role_category.staff</source>
-        <target>Staff</target>
-      </segment>
-    </unit>
-    <unit id="mTRHBRA" name="data_updater.redirect_by_role_category.student">
-      <segment>
-        <source>data_updater.redirect_by_role_category.student</source>
-        <target>Student</target>
-      </segment>
-    </unit>
-    <unit id="bdDUl0W" name="data_updater.redirect_by_role_category.parent">
-      <segment>
-        <source>data_updater.redirect_by_role_category.parent</source>
-        <target>Parent</target>
-      </segment>
-    </unit>
-    <unit id="RbZ_qWr" name="section.header.course_classes">
-      <segment>
-        <source>section.header.course_classes</source>
-        <target><![CDATA[Courses & Classes]]></target>
-      </segment>
-    </unit>
-    <unit id="ddFABum" name="Manage Course &amp; Classes">
-      <segment>
-        <source>Manage Course &amp; Classes</source>
-        <target><![CDATA[Manage Course & Classes]]></target>
-      </segment>
-    </unit>
-    <unit id="6qSRNKz" name="menu.admin.timetable">
-      <segment>
-        <source>menu.admin.timetable</source>
-        <target>Timetable Admin</target>
-      </segment>
-    </unit>
-    <unit id="Ij9AT58" name="278a0af">
-      <segment>
-        <source>{0}no settings were installed.|{1}a setting was added to the database.|]1,inf[%count% settings were installed successfully.</source>
-        <target>{0}no settings were installed.|{1}a setting was added to the database.|]1,inf[%count% settings were installed successfully.</target>
-      </segment>
-    </unit>
-    <unit id="uk8.Ed1" name="8993459">
-      <segment>
-        <source>{0}no settings were altered.|{1}a setting was altered in the database.|]1,inf[%count% settings were altered successfully.</source>
-        <target>{0}no settings were altered.|{1}a setting was altered in the database.|]1,inf[%count% settings were altered successfully.</target>
-      </segment>
-    </unit>
-    <unit id="0sf2vgm" name="Home Page">
-      <segment>
-        <source>Home Page</source>
-        <target>Home Page</target>
-      </segment>
-    </unit>
-    <unit id="_wje9qc" name="Completed Transfer: Goto Home Page">
-      <segment>
-        <source>Completed Transfer: Goto Home Page</source>
-        <target>Completed Transfer: Goto Home Page</target>
-      </segment>
-    </unit>
-    <unit id="wcEAnT8" name="Update">
-      <segment>
-        <source>Update</source>
-        <target>Update</target>
-      </segment>
-    </unit>
-    <unit id=".4BZ3Gd" name="Actions">
-      <segment>
-        <source>Actions</source>
-        <target>Actions</target>
-      </segment>
-    </unit>
-    <unit id="Fccq9qb" name="section.header.timetable">
-      <segment>
-        <source>section.header.timetable</source>
-        <target>Timetable</target>
-      </segment>
-    </unit>
-    <unit id="eQs6MFE" name="Manage Timetables">
-      <segment>
-        <source>Manage Timetables</source>
-        <target>Manage Timetables</target>
-      </segment>
-    </unit>
-    <unit id=".V2Sx.b" name="31c8e84">
-      <segment>
-        <source>{0}No settings were installed.|{1}A setting was added to the database.|]1,Inf[%count% settings were installed successfully.</source>
-        <target>{0}No settings were installed.|{1}A setting was added to the database.|]1,Inf[%count% settings were installed successfully.</target>
-      </segment>
-    </unit>
-    <unit id="1EYK8ZR" name="b0c1254">
-      <segment>
-        <source>{0}No settings were altered.|{1}A setting was altered in the database.|]1,Inf[%count% settings were altered successfully.</source>
-        <target>{0}No settings were altered.|{1}A setting was altered in the database.|]1,Inf[%count% settings were altered successfully.</target>
-      </segment>
-    </unit>
-    <unit id="i0u8_gl" name="Short Name">
-      <segment>
-        <source>Short Name</source>
-        <target>Short Name</target>
-      </segment>
-    </unit>
-    <unit id="QLlZL98" name="Abbrev.">
-      <segment>
-        <source>Abbrev.</source>
-        <target>Abbrev.</target>
-      </segment>
-    </unit>
-    <unit id="78NlatN" name="Collecting data. Please be patient...">
-      <segment>
-        <source>Collecting data. Please be patient...</source>
-        <target>Collecting data. Please be patient...</target>
-      </segment>
-    </unit>
-    <unit id="MT9Q6eA" name="All details were saved successfully.">
-      <segment>
-        <source>All details were saved successfully.</source>
-        <target>All details were saved successfully.</target>
-      </segment>
-    </unit>
-    <unit id="vt.pA7T" name="All errors must be cleared before the form can be saved!">
-      <segment>
-        <source>All errors must be cleared before the form can be saved!</source>
-        <target>All errors must be cleared before the form can be saved!</target>
-      </segment>
-    </unit>
-    <unit id="qX8glFQ" name="Loading Data...">
-      <segment>
-        <source>Loading Data...</source>
-        <target>Loading Data...</target>
-      </segment>
-    </unit>
-    <unit id="NB_FY39" name="section.header.departments">
-      <segment>
-        <source>section.header.departments</source>
-        <target>Departments</target>
       </segment>
     </unit>
   </file>

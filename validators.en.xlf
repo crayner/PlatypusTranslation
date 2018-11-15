@@ -16,7 +16,7 @@
     <unit id="M4WtTW9" name="This field %{name} is always invalid">
       <segment>
         <source>This field %{name} is always invalid</source>
-        <target>This field Craig was Here is always invalid</target>
+        <target>This field %{name} is always invalid</target>
       </segment>
     </unit>
     <unit id="dBLMFF6" name="This value is too short. It should have  characters or more.">

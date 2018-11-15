@@ -187,5 +187,11 @@
         <target>Class Count</target>
       </segment>
     </unit>
+    <unit id="QLlZL98" name="Abbrev.">
+      <segment>
+        <source>Abbrev.</source>
+        <target>Abbrev.</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

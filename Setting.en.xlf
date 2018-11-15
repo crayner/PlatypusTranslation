@@ -15024,5 +15024,29 @@ short: SHT
         <target>Parent</target>
       </segment>
     </unit>
+    <unit id="jOUjDWP" name="Pseudo-Accents">
+      <segment>
+        <source>Pseudo-Accents</source>
+        <target>Pseudo-Accents</target>
+      </segment>
+    </unit>
+    <unit id="2YHdjKs" name="Pseudo-Bidi">
+      <segment>
+        <source>Pseudo-Bidi</source>
+        <target>Pseudo-Bidi</target>
+      </segment>
+    </unit>
+    <unit id="9b2NhPt" name="Uruguayan Nominal Wage Index Unit">
+      <segment>
+        <source>Uruguayan Nominal Wage Index Unit</source>
+        <target>Uruguayan Nominal Wage Index Unit</target>
+      </segment>
+    </unit>
+    <unit id="Kt4NQpu" name="Venezuelan Bolívar (2008–2018)">
+      <segment>
+        <source>Venezuelan Bolívar (2008–2018)</source>
+        <target>Venezuelan Bolívar (2008–2018)</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

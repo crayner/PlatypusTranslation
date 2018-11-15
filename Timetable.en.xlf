@@ -679,5 +679,11 @@
         <target>Phone: </target>
       </segment>
     </unit>
+    <unit id="ddFABum" name="Manage Course &amp; Classes">
+      <segment>
+        <source>Manage Course &amp; Classes</source>
+        <target><![CDATA[Manage Course & Classes]]></target>
+      </segment>
+    </unit>
   </file>
 </xliff>

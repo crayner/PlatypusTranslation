@@ -2428,5 +2428,41 @@
         <target>Department Type</target>
       </segment>
     </unit>
+    <unit id="CqkDDze" name="Manage External Assessments">
+      <segment>
+        <source>Manage External Assessments</source>
+        <target>Manage External Assessments</target>
+      </segment>
+    </unit>
+    <unit id="u24o_Bq" name="Manage Scales">
+      <segment>
+        <source>Manage Scales</source>
+        <target>Manage Scales</target>
+      </segment>
+    </unit>
+    <unit id="W72jvTq" name="Manage Departments">
+      <segment>
+        <source>Manage Departments</source>
+        <target>Manage Departments</target>
+      </segment>
+    </unit>
+    <unit id="5IWiByV" name="Manage Houses">
+      <segment>
+        <source>Manage Houses</source>
+        <target>Manage Houses</target>
+      </segment>
+    </unit>
+    <unit id=".w4v_1X" name="Manage Roll Groups">
+      <segment>
+        <source>Manage Roll Groups</source>
+        <target>Manage Roll Groups</target>
+      </segment>
+    </unit>
+    <unit id="nCvTIla" name="Manage Year Grups">
+      <segment>
+        <source>Manage Year Grups</source>
+        <target>Manage Year Grups</target>
+      </segment>
+    </unit>
   </file>
 </xliff>

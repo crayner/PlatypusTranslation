@@ -1,616 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
   <file id="SchoolYear.en">
-    <unit id="TyM0nt6" name="school_years.title">
-      <segment>
-        <source>school_years.title</source>
-        <target>Manage School Years</target>
-      </segment>
-    </unit>
-    <unit id="WFTD9mf" name="school_years.description">
-      <segment>
-        <source>school_years.description</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="4xIFhgA" name="school_years.list">
-      <segment>
-        <source>school_years.list</source>
-        <target>Manage School Years</target>
-      </segment>
-    </unit>
-    <unit id="Usx.280" name="school_years.empty">
-      <segment>
-        <source>school_years.empty</source>
-        <target>No School Years have been defined.</target>
-      </segment>
-    </unit>
-    <unit id="Eblj4VG" name="school_year.delete.confirm">
-      <segment>
-        <source>school_year.delete.confirm</source>
-        <target>Confirm deletion of the School Year</target>
-      </segment>
-    </unit>
-    <unit id="X6qpqRm" name="school_year.name.header">
-      <segment>
-        <source>school_year.name.header</source>
-        <target>Name</target>
-      </segment>
-    </unit>
-    <unit id="kqcBtgk" name="school_year.firstDay.header">
-      <segment>
-        <source>school_year.firstDay.header</source>
-        <target>First Day</target>
-      </segment>
-    </unit>
-    <unit id="fRGBoGO" name="school_year.lastDay.header">
-      <segment>
-        <source>school_year.lastDay.header</source>
-        <target>Last Day</target>
-      </segment>
-    </unit>
-    <unit id="XHhqdeK" name="school_year.action.header">
-      <segment>
-        <source>school_year.action.header</source>
-        <target>Action</target>
-      </segment>
-    </unit>
-    <unit id="clkDqcP" name="school_year.edit.title">
-      <segment>
-        <source>school_year.edit.title</source>
-        <target>Manage School Year</target>
-      </segment>
-    </unit>
-    <unit id="KlBCoUb" name="school_year.display.button">
-      <segment>
-        <source>school_year.display.button</source>
-        <target>Display School Year</target>
-      </segment>
-    </unit>
-    <unit id="a.0ACjn" name="school_year.title">
-      <segment>
-        <source>school_year.title</source>
-        <target>Define School Year</target>
-      </segment>
-    </unit>
-    <unit id="uRn4SG1" name="school_year.description">
-      <segment>
-        <source>school_year.description</source>
-        <target>Create and modify School Year</target>
-      </segment>
-    </unit>
-    <unit id="Wh0J4Vh" name="school_year.details.tab">
-      <segment>
-        <source>school_year.details.tab</source>
-        <target>School Year</target>
-      </segment>
-    </unit>
-    <unit id="gb7_spf" name="school_year.terms.tab">
-      <segment>
-        <source>school_year.terms.tab</source>
-        <target>Terms</target>
-      </segment>
-    </unit>
-    <unit id="ujj4pzt" name="school_year.specialDays.tab">
-      <segment>
-        <source>school_year.specialDays.tab</source>
-        <target>Special Days</target>
-      </segment>
-    </unit>
-    <unit id="46hcplD" name="school_year.name.label">
-      <segment>
-        <source>school_year.name.label</source>
-        <target>School Year Name</target>
-      </segment>
-    </unit>
-    <unit id="75SmLEw" name="school_year.name.help">
-      <segment>
-        <source>school_year.name.help</source>
-        <target>The name to display for this School Year</target>
-      </segment>
-    </unit>
-    <unit id="s6KHbF7" name="school_year.firstDay.label">
-      <segment>
-        <source>school_year.firstDay.label</source>
-        <target>First Day</target>
-      </segment>
-    </unit>
-    <unit id="7crshdm" name="school_year.firstDay.help">
-      <segment>
-        <source>school_year.firstDay.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="9tMqsKy" name="school_year.lastDay.label">
-      <segment>
-        <source>school_year.lastDay.label</source>
-        <target>Last Day</target>
-      </segment>
-    </unit>
-    <unit id="MCPZTmQ" name="school_year.lastDay.help">
-      <segment>
-        <source>school_year.lastDay.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="SVvuFmO" name="school.year.title">
-      <segment>
-        <source>school.year.title</source>
-        <target>School Year: "%name%"</target>
-      </segment>
-    </unit>
-    <unit id="oNVFPa_" name="school_year.special_day.title">
-      <segment>
-        <source>school_year.special_day.title</source>
-        <target>Manage Special Day in %name%</target>
-      </segment>
-    </unit>
-    <unit id="Bbb.9Em" name="school_year.special_day.help">
-      <segment>
-        <source>school_year.special_day.help</source>
-        <target>The date of Special Day must exist in the year, and each special day must be a unique date.</target>
-      </segment>
-    </unit>
-    <unit id="ifaDJWD" name="Year">
-      <segment>
-        <source>Year</source>
-        <target>Year</target>
-      </segment>
-    </unit>
-    <unit id="MQylA_8" name="Month">
-      <segment>
-        <source>Month</source>
-        <target>Month</target>
-      </segment>
-    </unit>
-    <unit id="jyNk4Ru" name="Day">
-      <segment>
-        <source>Day</source>
-        <target>Day</target>
-      </segment>
-    </unit>
-    <unit id="EhoxTk3" name="school_year.status.placeholder">
-      <segment>
-        <source>school_year.status.placeholder</source>
-        <target>school_year.status.placeholder</target>
-      </segment>
-    </unit>
-    <unit id="yc5eVFK" name="hillrange_enum_choice.past">
-      <segment>
-        <source>hillrange_enum_choice.past</source>
-        <target>hillrange_enum_choice.past</target>
-      </segment>
-    </unit>
-    <unit id="NGi_CK6" name="hillrange_enum_choice.current">
-      <segment>
-        <source>hillrange_enum_choice.current</source>
-        <target>hillrange_enum_choice.current</target>
-      </segment>
-    </unit>
-    <unit id="8Mf.3uv" name="hillrange_enum_choice.upcoming">
-      <segment>
-        <source>hillrange_enum_choice.upcoming</source>
-        <target>hillrange_enum_choice.upcoming</target>
-      </segment>
-    </unit>
-    <unit id="TuddPf0" name="school_year.status.label">
-      <segment>
-        <source>school_year.status.label</source>
-        <target>Status</target>
-      </segment>
-    </unit>
-    <unit id="xNBSP_w" name="school_year.status.help">
-      <segment>
-        <source>school_year.status.help</source>
-        <target>The school year status is controlled by the system and is not changeable here.</target>
-      </segment>
-    </unit>
-    <unit id="vkKu7r7" name="schoolyear.status.past">
-      <segment>
-        <source>schoolyear.status.past</source>
-        <target>Past</target>
-      </segment>
-    </unit>
-    <unit id=".Mx.koL" name="schoolyear.status.current">
-      <segment>
-        <source>schoolyear.status.current</source>
-        <target>Current</target>
-      </segment>
-    </unit>
-    <unit id="dZbBoY8" name="schoolyear.status.upcoming">
-      <segment>
-        <source>schoolyear.status.upcoming</source>
-        <target>Upcoming</target>
-      </segment>
-    </unit>
-    <unit id="UIXu0Zn" name="school_year.term.title">
-      <segment>
-        <source>school_year.term.title</source>
-        <target>Manage Terms in %name%</target>
-      </segment>
-    </unit>
-    <unit id="JI1MhW1" name="school_year.help.terms">
-      <segment>
-        <source>school_year.help.terms</source>
-        <target>school_year.help.terms</target>
-      </segment>
-    </unit>
-    <unit id="76wDrNG" name="school_year.term.help">
-      <segment>
-        <source>school_year.term.help</source>
-        <target>Terms are sorted within the year by the First Day Date. Terms must exist within the year days, and must not overlap days in another term.</target>
-      </segment>
-    </unit>
-    <unit id="zlZC537" name="term.name.label">
-      <segment>
-        <source>term.name.label</source>
-        <target>Term Name</target>
-      </segment>
-    </unit>
-    <unit id="uza4Jdq" name="term.name.help">
-      <segment>
-        <source>term.name.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="Q.87DSU" name="term.code.label">
-      <segment>
-        <source>term.code.label</source>
-        <target>term.code.label</target>
-      </segment>
-    </unit>
-    <unit id="sbdqqgq" name="term.code.help">
-      <segment>
-        <source>term.code.help</source>
-        <target>term.code.help</target>
-      </segment>
-    </unit>
-    <unit id="DJgLlU6" name="calendar.firstDay.label">
-      <segment>
-        <source>calendar.firstDay.label</source>
-        <target>calendar.firstDay.label</target>
-      </segment>
-    </unit>
-    <unit id="CYPa.Mw" name="calendar.firstDay.help">
-      <segment>
-        <source>calendar.firstDay.help</source>
-        <target>calendar.firstDay.help</target>
-      </segment>
-    </unit>
-    <unit id="tq11m7m" name="calendar.lastDay.label">
-      <segment>
-        <source>calendar.lastDay.label</source>
-        <target>calendar.lastDay.label</target>
-      </segment>
-    </unit>
-    <unit id="Rx.CMVh" name="calendar.lastDay.help">
-      <segment>
-        <source>calendar.lastDay.help</source>
-        <target>calendar.lastDay.help</target>
-      </segment>
-    </unit>
-    <unit id="le023yQ" name="__name__label__">
-      <segment>
-        <source>__name__label__</source>
-        <target>__name__label__</target>
-      </segment>
-    </unit>
-    <unit id="KA4VkLB" name="special_day.day.label">
-      <segment>
-        <source>special_day.day.label</source>
-        <target>special_day.day.label</target>
-      </segment>
-    </unit>
-    <unit id="k0b1PKg" name="special_day.day.help">
-      <segment>
-        <source>special_day.day.help</source>
-        <target>special_day.day.help</target>
-      </segment>
-    </unit>
-    <unit id="fFEii2D" name="special_day.type.alter">
-      <segment>
-        <source>special_day.type.alter</source>
-        <target>special_day.type.alter</target>
-      </segment>
-    </unit>
-    <unit id="YIcgRzK" name="special_day.type.closure">
-      <segment>
-        <source>special_day.type.closure</source>
-        <target>special_day.type.closure</target>
-      </segment>
-    </unit>
-    <unit id="AQE5.xH" name="special_day.type.label">
-      <segment>
-        <source>special_day.type.label</source>
-        <target>Special Day Option</target>
-      </segment>
-    </unit>
-    <unit id="jYFS_sH" name="special_day.type.help">
-      <segment>
-        <source>special_day.type.help</source>
-        <target>Closed: No attendance required. Change Timing: Alter opening hours.</target>
-      </segment>
-    </unit>
-    <unit id="LWUP.AF" name="special_day.name.label">
-      <segment>
-        <source>special_day.name.label</source>
-        <target>Name</target>
-      </segment>
-    </unit>
-    <unit id="hC.UC3v" name="special_day.name.help">
-      <segment>
-        <source>special_day.name.help</source>
-        <target>Usually the name of the public holiday.</target>
-      </segment>
-    </unit>
-    <unit id="zwNGr.o" name="special_day.description.label">
-      <segment>
-        <source>special_day.description.label</source>
-        <target>Description</target>
-      </segment>
-    </unit>
-    <unit id="xsGrCEH" name="special_day.description.help">
-      <segment>
-        <source>special_day.description.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="8AY7gIc" name="Hour">
-      <segment>
-        <source>Hour</source>
-        <target>Hour</target>
-      </segment>
-    </unit>
-    <unit id="n9O9zf8" name="special_day.hour">
-      <segment>
-        <source>special_day.hour</source>
-        <target>Hour</target>
-      </segment>
-    </unit>
-    <unit id="S3hmW_x" name="Minute">
-      <segment>
-        <source>Minute</source>
-        <target>Minute</target>
-      </segment>
-    </unit>
-    <unit id="kImz3B0" name="special_day.minute">
-      <segment>
-        <source>special_day.minute</source>
-        <target>Minute</target>
-      </segment>
-    </unit>
-    <unit id="MkojMkT" name="special_day.open.label">
-      <segment>
-        <source>special_day.open.label</source>
-        <target>Open Doors</target>
-      </segment>
-    </unit>
-    <unit id="Z5TLkXy" name="special_day.open.help">
-      <segment>
-        <source>special_day.open.help</source>
-        <target>Campus open time</target>
-      </segment>
-    </unit>
-    <unit id="zI.tVzv" name="special_day.start.label">
-      <segment>
-        <source>special_day.start.label</source>
-        <target>Start Teaching</target>
-      </segment>
-    </unit>
-    <unit id="AXKfPos" name="special_day.start.help">
-      <segment>
-        <source>special_day.start.help</source>
-        <target>Formal teaching starts.</target>
-      </segment>
-    </unit>
-    <unit id="tsm2Gdj" name="special_day.end.label">
-      <segment>
-        <source>special_day.end.label</source>
-        <target>Finish Teaching</target>
-      </segment>
-    </unit>
-    <unit id="9P6QfXf" name="special_day.end.help">
-      <segment>
-        <source>special_day.end.help</source>
-        <target>Formal teaching finishes.</target>
-      </segment>
-    </unit>
-    <unit id="FdsYNBy" name="special_day.close.label">
-      <segment>
-        <source>special_day.close.label</source>
-        <target>Close Doors</target>
-      </segment>
-    </unit>
-    <unit id="6lyMV5C" name="special_day.close.help">
-      <segment>
-        <source>special_day.close.help</source>
-        <target>Campus close time</target>
-      </segment>
-    </unit>
-    <unit id="boeKqnQ" name="school_year.special_day.add">
-      <segment>
-        <source>school_year.special_day.add</source>
-        <target>Add a Special Day</target>
-      </segment>
-    </unit>
-    <unit id="Odop1an" name="term.add.label">
-      <segment>
-        <source>term.add.label</source>
-        <target>Add Term</target>
-      </segment>
-    </unit>
-    <unit id="KdY8SNy" name="term.name_short.label">
-      <segment>
-        <source>term.name_short.label</source>
-        <target>Term Short Name</target>
-      </segment>
-    </unit>
-    <unit id="_iFtgYK" name="term.name_short.help">
-      <segment>
-        <source>term.name_short.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="V.isZJb" name="calendar.first_day.label">
-      <segment>
-        <source>calendar.first_day.label</source>
-        <target>calendar.first_day.label</target>
-      </segment>
-    </unit>
-    <unit id="AQtRw5o" name="calendar.first_day.help">
-      <segment>
-        <source>calendar.first_day.help</source>
-        <target>calendar.first_day.help</target>
-      </segment>
-    </unit>
-    <unit id=".ch.._j" name="calendar.last_day.label">
-      <segment>
-        <source>calendar.last_day.label</source>
-        <target>calendar.last_day.label</target>
-      </segment>
-    </unit>
-    <unit id="RMR3J3h" name="calendar.last_day.help">
-      <segment>
-        <source>calendar.last_day.help</source>
-        <target>calendar.last_day.help</target>
-      </segment>
-    </unit>
-    <unit id="8Uk72b_" name="term.first_day.label">
-      <segment>
-        <source>term.first_day.label</source>
-        <target>First Day</target>
-      </segment>
-    </unit>
-    <unit id="WolMPg7" name="term.first_day.help">
-      <segment>
-        <source>term.first_day.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="fFDqoAp" name="term.last_day.label">
-      <segment>
-        <source>term.last_day.label</source>
-        <target>Last Day</target>
-      </segment>
-    </unit>
-    <unit id="8D6l.wn" name="term.last_day.help">
-      <segment>
-        <source>term.last_day.help</source>
-        <target></target>
-      </segment>
-    </unit>
-    <unit id="_vifqH5" name="special_day.date.label">
-      <segment>
-        <source>special_day.date.label</source>
-        <target>Date of Special Day</target>
-      </segment>
-    </unit>
-    <unit id="cqaE32a" name="special_day.date.help">
-      <segment>
-        <source>special_day.date.help</source>
-        <target>(Must be Unique)</target>
-      </segment>
-    </unit>
-    <unit id="Srd3seE" name="special_day.type.placeholder">
-      <segment>
-        <source>special_day.type.placeholder</source>
-        <target>Select...</target>
-      </segment>
-    </unit>
-    <unit id="mICPPzs" name="schoolyearspecialday.type.school_closure">
-      <segment>
-        <source>schoolyearspecialday.type.school_closure</source>
-        <target>School Closure</target>
-      </segment>
-    </unit>
-    <unit id="4agD2AM" name="schoolyearspecialday.type.timing_change">
-      <segment>
-        <source>schoolyearspecialday.type.timing_change</source>
-        <target>Timing Change</target>
-      </segment>
-    </unit>
-    <unit id="UWAhgsg" name="school_year.success">
-      <segment>
-        <source>school_year.success</source>
-        <target>Saved School Year</target>
-      </segment>
-    </unit>
-    <unit id="QcAKxGG" name="Saved School Year">
-      <segment>
-        <source>Saved School Year</source>
-        <target>Saved School Year</target>
-      </segment>
-    </unit>
-    <unit id="jfqkEQa" name="schoolday.special_day.removed.info">
-      <segment>
-        <source>schoolday.special_day.removed.info</source>
-        <target>The special day %{specialDay} is locked by the system and must not be removed.</target>
-      </segment>
-    </unit>
-    <unit id="PHMddhV" name="special_day.removed.info">
-      <segment>
-        <source>special_day.removed.info</source>
-        <target>The special day "%{specialDay}" is locked to the School Year and must not be removed.</target>
-      </segment>
-    </unit>
-    <unit id="Y3hjYBG" name="term.removed.info">
-      <segment>
-        <source>term.removed.info</source>
-        <target>The term "%{term}" has been locked by the system and must not be removed.</target>
-      </segment>
-    </unit>
-    <unit id="N1UXJO3" name="term.removed.success">
-      <segment>
-        <source>term.removed.success</source>
-        <target>The term "%{term}" has been removed.</target>
-      </segment>
-    </unit>
-    <unit id="pJwcOu2" name="special_day.removed.success">
-      <segment>
-        <source>special_day.removed.success</source>
-        <target>The special day "%{specialDay}" has been removed.</target>
-      </segment>
-    </unit>
-    <unit id="AAolilv" name="school_year.validation.not_one_year">
-      <segment>
-        <source>school_year.validation.not_one_year</source>
-        <target>The school year must not cover more than one calendar year.</target>
-      </segment>
-    </unit>
-    <unit id="cVxpMZT" name="School year">
-      <segment>
-        <source>School year</source>
-        <target>School Year</target>
-      </segment>
-    </unit>
-    <unit id="WpmBhGY" name="menu.school_year.manage">
-      <segment>
-        <source>menu.school_year.manage</source>
-        <target>Manage School Years</target>
-      </segment>
-    </unit>
-    <unit id="Irp6RGa" name="menu.school_year.special_days">
-      <segment>
-        <source>menu.school_year.special_days</source>
-        <target>Manage Special Days</target>
-      </segment>
-    </unit>
-    <unit id="DV4cFUW" name="menu.school_year.terms">
-      <segment>
-        <source>menu.school_year.terms</source>
-        <target>Manage Terms</target>
-      </segment>
-    </unit>
     <unit id="7LCdQWP" name="user.school_year.current">
       <segment>
         <source>user.school_year.current</source>
-        <target>You are working in the current system calendar. Click here to change this setting.</target>
-      </segment>
-    </unit>
-    <unit id="e76rD.Z" name="user.calendar.name">
-      <segment>
-        <source>user.calendar.name</source>
-        <target>user.calendar.name</target>
+        <target>Current School Year</target>
       </segment>
     </unit>
     <unit id="rB.spkK" name="user.school_year.name">
@@ -619,28 +13,106 @@
         <target>%{name}</target>
       </segment>
     </unit>
-    <unit id="J_nUuFw" name="year.term.error.order">
+    <unit id="3xGv2HI" name="Mange School Year">
       <segment>
-        <source>year.term.error.order</source>
-        <target>Terms must not overlap and must be in order.</target>
+        <source>Mange School Year</source>
+        <target>Mange School Year</target>
       </segment>
     </unit>
-    <unit id="hGYSRoC" name="calendar.specialDay.label">
+    <unit id="F8xxLRA" name="Manage Special Days">
       <segment>
-        <source>calendar.specialDay.label</source>
-        <target>calendar.specialDay.label</target>
+        <source>Manage Special Days</source>
+        <target>Manage Special Days</target>
       </segment>
     </unit>
-    <unit id="xb_9Uol" name="user.school_yesr.warning">
+    <unit id="NuYNT1n" name="Manage School Year Terms">
       <segment>
-        <source>user.school_yesr.warning</source>
-        <target>user.school_yesr.warning</target>
+        <source>Manage School Year Terms</source>
+        <target>Manage School Year Terms</target>
       </segment>
     </unit>
-    <unit id="QybaTh9" name="user.school_year.warning">
+    <unit id="TyM0nt6" name="school_years.title">
       <segment>
-        <source>user.school_year.warning</source>
-        <target>Your School Calendar is NOT the current School Calendar.  Some changes made in the database may not be reflected in current changes.</target>
+        <source>school_years.title</source>
+        <target>school_years.title</target>
+      </segment>
+    </unit>
+    <unit id="WFTD9mf" name="school_years.description">
+      <segment>
+        <source>school_years.description</source>
+        <target>school_years.description</target>
+      </segment>
+    </unit>
+    <unit id="4xIFhgA" name="school_years.list">
+      <segment>
+        <source>school_years.list</source>
+        <target>school_years.list</target>
+      </segment>
+    </unit>
+    <unit id="X6qpqRm" name="school_year.name.header">
+      <segment>
+        <source>school_year.name.header</source>
+        <target>school_year.name.header</target>
+      </segment>
+    </unit>
+    <unit id="kqcBtgk" name="school_year.firstDay.header">
+      <segment>
+        <source>school_year.firstDay.header</source>
+        <target>school_year.firstDay.header</target>
+      </segment>
+    </unit>
+    <unit id="fRGBoGO" name="school_year.lastDay.header">
+      <segment>
+        <source>school_year.lastDay.header</source>
+        <target>school_year.lastDay.header</target>
+      </segment>
+    </unit>
+    <unit id="XHhqdeK" name="school_year.action.header">
+      <segment>
+        <source>school_year.action.header</source>
+        <target>school_year.action.header</target>
+      </segment>
+    </unit>
+    <unit id="clkDqcP" name="school_year.edit.title">
+      <segment>
+        <source>school_year.edit.title</source>
+        <target>school_year.edit.title</target>
+      </segment>
+    </unit>
+    <unit id="KlBCoUb" name="school_year.display.button">
+      <segment>
+        <source>school_year.display.button</source>
+        <target>school_year.display.button</target>
+      </segment>
+    </unit>
+    <unit id="Eblj4VG" name="school_year.delete.confirm">
+      <segment>
+        <source>school_year.delete.confirm</source>
+        <target>school_year.delete.confirm</target>
+      </segment>
+    </unit>
+    <unit id="LM.h2l2" name="Manage School Years">
+      <segment>
+        <source>Manage School Years</source>
+        <target>Manage School Years</target>
+      </segment>
+    </unit>
+    <unit id="3NHVIj9" name="Name">
+      <segment>
+        <source>Name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="twsx._7" name="First Day">
+      <segment>
+        <source>First Day</source>
+        <target>First Day</target>
+      </segment>
+    </unit>
+    <unit id="NMrcwXE" name="Last Day">
+      <segment>
+        <source>Last Day</source>
+        <target>Last Day</target>
       </segment>
     </unit>
   </file>
