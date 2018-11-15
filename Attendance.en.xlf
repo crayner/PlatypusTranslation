@@ -85,7 +85,7 @@
         <target>Attendance has not been taken for %{class} yet for the %{date}. The entries below are a best-guess based on defaults and information put into the system in advance, not actual data.</target>
       </segment>
     </unit>
-    <unit id="zpmNLKr" name="class.absent.count">
+    <unit id="qDWLc7J" name="class.absent.count">
       <segment>
         <source>class.absent.count</source>
         <target>{0}No Recorded Absence|{1}1 class absent|[2,Inf[%count% Classes Absent</target>
@@ -113,6 +113,30 @@
       <segment>
         <source>Select the class and date</source>
         <target>Select the class and date</target>
+      </segment>
+    </unit>
+    <unit id="AnYhbet" name="%{name} on %{date}">
+      <segment>
+        <source>%{name} on %{date}</source>
+        <target>%{name} on %{date}</target>
+      </segment>
+    </unit>
+    <unit id="13mglnm" name="Select a class to begin taking attendance.">
+      <segment>
+        <source>Select a class to begin taking attendance.</source>
+        <target>Select a class to begin taking attendance.</target>
+      </segment>
+    </unit>
+    <unit id="3QKIy6n" name="Select Class...">
+      <segment>
+        <source>Select Class...</source>
+        <target>Select Class...</target>
+      </segment>
+    </unit>
+    <unit id="_Pep2um" name="Attendance has been taken on %{date} for %{specifiedDate} by %{taken}">
+      <segment>
+        <source>Attendance has been taken on %{date} for %{specifiedDate} by %{taken}</source>
+        <target>Attendance has been taken on %{date} for %{specifiedDate} by %{taken}</target>
       </segment>
     </unit>
   </file>
