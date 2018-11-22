@@ -115,29 +115,5 @@
         <target>Select the class and date</target>
       </segment>
     </unit>
-    <unit id="AnYhbet" name="%{name} on %{date}">
-      <segment>
-        <source>%{name} on %{date}</source>
-        <target>%{name} on %{date}</target>
-      </segment>
-    </unit>
-    <unit id="13mglnm" name="Select a class to begin taking attendance.">
-      <segment>
-        <source>Select a class to begin taking attendance.</source>
-        <target>Select a class to begin taking attendance.</target>
-      </segment>
-    </unit>
-    <unit id="3QKIy6n" name="Select Class...">
-      <segment>
-        <source>Select Class...</source>
-        <target>Select Class...</target>
-      </segment>
-    </unit>
-    <unit id="_Pep2um" name="Attendance has been taken on %{date} for %{specifiedDate} by %{taken}">
-      <segment>
-        <source>Attendance has been taken on %{date} for %{specifiedDate} by %{taken}</source>
-        <target>Attendance has been taken on %{date} for %{specifiedDate} by %{taken}</target>
-      </segment>
-    </unit>
   </file>
 </xliff>

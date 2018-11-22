@@ -88,7 +88,7 @@
     <unit id="NQMCEvO" name="system.value.warning">
       <segment>
         <source>system.value.warning</source>
-        <target>system.value.warning</target>
+        <target>This value is calculated and set by the system.</target>
       </segment>
     </unit>
     <unit id="D5uTjAk" name="Organisation Settings">
@@ -1037,6 +1037,138 @@
       <segment>
         <source>Sun</source>
         <target>Sun</target>
+      </segment>
+    </unit>
+    <unit id="oX4P2rM" name="user.username.label">
+      <segment>
+        <source>user.username.label</source>
+        <target>User Name</target>
+      </segment>
+    </unit>
+    <unit id="QPNDwTq" name="user.username.help">
+      <segment>
+        <source>user.username.help</source>
+        <target>The user name default to the email if the user name is blank.</target>
+      </segment>
+    </unit>
+    <unit id="6SYx6u8" name="user.password.label">
+      <segment>
+        <source>user.password.label</source>
+        <target>User Password</target>
+      </segment>
+    </unit>
+    <unit id="Mnacxwn" name="user.password.help">
+      <segment>
+        <source>user.password.help</source>
+        <target>The password must met the site requirements.</target>
+      </segment>
+    </unit>
+    <unit id="iKy1L2i" name="user.password.generate">
+      <segment>
+        <source>user.password.generate</source>
+        <target>Generate Password</target>
+      </segment>
+    </unit>
+    <unit id="533.MkN" name="user.password.conditions">
+      <segment>
+        <source>user.password.conditions</source>
+        <target><![CDATA[The password needs to meet these requirements: Minimum Length => "%minLength%", Numbers required: "%numbers%", Mixed Case: "%mixedCase%", Special Characters: "%specials%"]]></target>
+      </segment>
+    </unit>
+    <unit id="tWdmID9" name="system.organisation.settings.title">
+      <segment>
+        <source>system.organisation.settings.title</source>
+        <target>Organisation Details</target>
+      </segment>
+    </unit>
+    <unit id="GOIHF3X" name="system.org_name.label">
+      <segment>
+        <source>system.org_name.label</source>
+        <target>Full Organisation Name</target>
+      </segment>
+    </unit>
+    <unit id="u8zjcZ9" name="system.org_code.label">
+      <segment>
+        <source>system.org_code.label</source>
+        <target>Organisation Name Abbreviation</target>
+      </segment>
+    </unit>
+    <unit id="SFxbxwm" name="system.miscellaneous.settings.title">
+      <segment>
+        <source>system.miscellaneous.settings.title</source>
+        <target>Locale Settings</target>
+      </segment>
+    </unit>
+    <unit id="WmVOdMU" name="system.placeholder">
+      <segment>
+        <source>system.placeholder</source>
+        <target>Select Currency...</target>
+      </segment>
+    </unit>
+    <unit id="PhaiSww" name="system.country.label">
+      <segment>
+        <source>system.country.label</source>
+        <target>Country</target>
+      </segment>
+    </unit>
+    <unit id="RFmUkIB" name="system.country.help">
+      <segment>
+        <source>system.country.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="HXRjkoD" name="system.currency.label">
+      <segment>
+        <source>system.currency.label</source>
+        <target>Currency</target>
+      </segment>
+    </unit>
+    <unit id="LBd8cUC" name="system.currency.help">
+      <segment>
+        <source>system.currency.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="32wVPoN" name="system.timezone.label">
+      <segment>
+        <source>system.timezone.label</source>
+        <target>Timezone</target>
+      </segment>
+    </unit>
+    <unit id="LDmsq7i" name="system.timezone.help">
+      <segment>
+        <source>system.timezone.help</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id=".V2Sx.b" name="31c8e84">
+      <segment>
+        <source>{0}No settings were installed.|{1}A setting was added to the database.|]1,Inf[%count% settings were installed successfully.</source>
+        <target>{0}No settings were installed.|{1}A setting was added to the database.|]1,Inf[%count% settings were installed successfully.</target>
+      </segment>
+    </unit>
+    <unit id="1EYK8ZR" name="b0c1254">
+      <segment>
+        <source>{0}No settings were altered.|{1}A setting was altered in the database.|]1,Inf[%count% settings were altered successfully.</source>
+        <target>{0}No settings were altered.|{1}A setting was altered in the database.|]1,Inf[%count% settings were altered successfully.</target>
+      </segment>
+    </unit>
+    <unit id="zJfW_jN" name="system.setting.file">
+      <segment>
+        <source>system.setting.file</source>
+        <target>system.setting.file</target>
+      </segment>
+    </unit>
+    <unit id="TqFAWIF" name="home">
+      <segment>
+        <source>home</source>
+        <target>home</target>
+      </segment>
+    </unit>
+    <unit id="vZOMaI9" name="action">
+      <segment>
+        <source>action</source>
+        <target>Action</target>
       </segment>
     </unit>
   </file>
